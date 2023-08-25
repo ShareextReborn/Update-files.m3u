@@ -173,14 +173,15 @@ http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=941563&e
 https://af.ayas.ir/hls2/persiana.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",AIO•SPORTS•2
 https://af.ayas.ir/hls2/aiosport2.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar|HD_aanax
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/162138
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar|HD_play
+http://103.166.27.2:800/play/a016
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar|HD_kc
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/162138
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar|HD_iptvmk
-http://www.premiumiptvmk.com:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162138
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar|HD_ott
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar|HD_gamsgo
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/162138
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RCTI_now
 http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2-avc1_2499968=3.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",GTV|line
@@ -189,18 +190,6 @@ http://shareext@line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683
 http://shareext@line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683099&extension=ts&play_token=shareext
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",M|N|C|TV|line
 http://shareext@line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683098&extension=ts&play_token=shareext
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",AstroSports_1_epg
-https://epg.pw/stream/54046d1e9e18a5d6fa94ace83492086f9d305f0dd71836285bfa9a5da1897a73.ctv
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Astro-sports-2_epg
-https://epg.pw/stream/3882e3db8bb5fca1356f4b1d7a9f4fabf2909b3e1a78bf5fa385127f6a4131ce.ctv
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",AstroSports_2
-https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",ESPN_2
-https://qyfb8377447rtirq.fordems.live/live/for-dems2/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",FS_1
-https://qyfb8377447rtirq.fordems.live/live/for-dems3/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",NowSports_1_HK
-http://pro7ip.ddnsking.com:80/live/i7P3XoRRlG/7qEOZbpXZl/246323.ts
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",NOW•SPORTS•1_🇭🇰
 http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1032479&extension=ts&shareext@NowSports1
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",NOW•SPORTS•2_🇭🇰
@@ -233,18 +222,6 @@ http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&strea
 http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1002781&extension=ts&shareext@sscExtra3
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseePrime_dec=auto
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="ShareExt@Relax",SPOTV•🇰🇷
-http://180.69.179.235:9981/stream/channelid/2136767334?ticket=1EF7B2A44EBA80DF1187047B67C862BCBF9D8B49&profile=pass
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="ShareExt@Relax",SPOTV•Golf&Health🇰🇷
-http://180.69.179.235:9981/stream/channelid/1137647664?ticket=134961E70F0636A3DBDCCD15DD63CF89A0F4A63D&profile=pass
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="ShareExt@Relax",SPOTV•2🇰🇷
-http://180.69.179.235:9981/stream/channelid/1020777144?ticket=A674EE899E3098E6137C3894C6A7E922503BE2BA&profile=pass
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="ShareExt@Relax",MBC•SPORTS+🇰🇷
-http://180.69.179.235:9981/stream/channelid/1916452331?ticket=B6263A8C4ACCF865D3996D261FA151E11D6C3F73&profile=pass
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="ShareExt@Relax",SBS•Golf🇰🇷
-http://180.69.179.235:9981/stream/channelid/1824089347?ticket=469C4F3D12FD752DA9F7FAD254A79F94409539E0&profile=pass
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="ShareExt@Relax",SBS•SPORTS🇰🇷
-http://180.69.179.235:9981/stream/channelid/1087323101?ticket=ACDC3BB11F98E9679668B9D299303FDC5081086C&profile=pass
 
 #EXTINF:1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",J°Sports 1		
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -2301,18 +2278,12 @@ http://shareex@195.26.87.217/live?channelId=86148&deviceMac=00:1A:79:33:E9:41|id
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",BBO_CLASSIC_🇮🇳
 http://shareex@195.26.87.217/live?channelId=86150&deviceMac=00:1A:79:33:E9:41|id=bboclassic|shareext.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",BOX Movie
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?bySCTV|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Family Flix
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Movies Hub
-https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",RedBox Spotlight
 https://spotlight-redbox.amagi.tv:443/playlist240p.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",RedBox Comedy
 https://comedy-redbox.amagi.tv:443/playlist1080p.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Gravitas_Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",My time Movies Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",FilmRise Family
