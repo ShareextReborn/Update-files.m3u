@@ -218,36 +218,6 @@ http://shareext@line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683
 http://shareext@line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683099&extension=ts&play_token=shareext
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",M|N|C|TV|line
 http://shareext@line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683098&extension=ts&play_token=shareext
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",NOW•SPORTS•1_🇭🇰
-http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1032479&extension=ts&shareext@NowSports1
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",NOW•SPORTS•2_🇭🇰
-http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1032478&extension=ts&shareext@NowSports2
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",NOW•SPORTS•3_🇭🇰
-http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1032477&extension=ts&shareext@NowSports3
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",NOW•SPORTS•4_🇭🇰
-http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1032476&extension=ts&shareext@NowSports4
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",NOW•SPORTS•5_🇭🇰
-http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1032475&extension=ts&shareext@NowSports5
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",NOW•SPORTS•6_🇭🇰
-http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1032474&extension=ts&shareext@NowSports6
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",NOW•SPORTS•7_🇭🇰
-http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1032473&extension=ts&shareext@NowSports7
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",SSC•SPORTS•1•HD_🇸🇦
-http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1002801&extension=ts&shareext@sscHD1
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",SSC•SPORTS•2•HD_🇸🇦
-http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1002793&extension=ts&shareext@sscHD2
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",SSC•SPORTS•3•HD_🇸🇦
-http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1002785&extension=ts&shareext@sscHD3
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",SSC•SPORTS•4•HD_🇸🇦
-http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1002778&extension=ts&shareext@sscHD4
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",SSC•SPORTS•5•HD_🇸🇦
-http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1002774&extension=ts&shareext@sscHD5
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",SSC•EXTRA•1_🇸🇦
-http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1002797&extension=ts&shareext@sscExtra1
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",SSC•EXTRA•2_🇸🇦
-http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1002789&extension=ts&shareext@sscExtra2
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",SSC•EXTRA•3_🇸🇦
-http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1002781&extension=ts&shareext@sscExtra3
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseePrime_dec=auto
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 #EXTINF:1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",TRUE•EPL_1_TH
@@ -2194,22 +2164,6 @@ http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056
 http://nettvpro.live/hls/lotustv.php
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Sony.pick
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Fox•Movies_arb
-http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1141571&extension=ts&shareext@FoxMovies
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Fox•Action•Movies_arb
-http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1141570&extension=ts&shareext@FoxActionMovies
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Star•Movies_arb
-http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1141569&extension=ts&shareext@StarMovies
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Star•World_arb
-http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1141568&extension=ts&shareext@StarWorld
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Bein•Movies•Premier•1_arb
-http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1141583&extension=ts&shareext@BeinMoviesPremier1
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Bein•Movies•Action•2_arb
-http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1141582&extension=ts&shareext@BeinMoviesAction2
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Bein•Movies•Drama•3_arb
-http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1141581&extension=ts&shareext@BeinMoviesDrama3
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Bein•Movies•Family•4_arb
-http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1141580&extension=ts&shareext@BeinMoviesFamily4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",HBO_xtream
 http://208.115.225.174:14165 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",HBO 2
