@@ -224,7 +224,7 @@ https://yip.su/RCTI_shareext_ts|User-Agent=Dalvik/2.1.0
 https://yip.su/MNCTV_shareext_ts|User-Agent=Dalvik/2.1.0
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",gtv=dec=auto
 https://yip.su/GTV_shareext_ts|User-Agent=Dalvik/2.1.0
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax"inews_dec=auto
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",inews_dec=auto
 https://yip.su/INEWS_shareext_ts|User-Agent=Dalvik/2.1.0
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseePrime_dec=auto
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
