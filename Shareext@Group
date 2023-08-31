@@ -903,6 +903,23 @@ https://e.siar.us/live/surabayatv.m3u8
 https://v2.siar.us:443/tatv/live.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Moji_HD
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
+#EXTINF:-1 group-title="Shareext@LOKAL_ID棣冨殸棣冨殯" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png",Madu•TV
+https://v6.siar.us/madutv/hd720/chunks.m3u8?nimblesessionid=36081342
+#EXTINF:-1 group-title="Shareext@LOKAL_ID棣冨殸棣冨殯" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/d8af0adc-3611-4fcb-abd0-5aea9666bf26-profile_image-300x300.png",Dayak•TV
+https://v5.siar.us/dayaktv/live/chunks.m3u8?nimblesessionid=47350185
+#EXTINF:-1 group-title="Shareext@LOKAL_ID棣冨殸棣冨殯" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logo_Jurnal_TV_%282012%29.svg/2560px-Logo_Jurnal_TV_%282012%29.svg.png",Jurnal•TV
+https://5bf7b725107e5.streamlock.net/jurnaltv/jurnaltv/chunklist_w619472049.m3u8
+#EXTINF:-1 group-title="Shareext@LOKAL_ID棣冨殸棣冨殯" tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV Jogja
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/300px-Logo_Jawapos_TV.png" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Jawapos TV
+https://v2.siar.us/jawapostv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Kawanua_TV.png" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Kawanua TV
+http://63b2dc7196c38.streamlock.net:1935/ch18/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tatv.co.id/wp-content/uploads/2018/01/logotatv2017.png" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",TATV Solo
+https://v2.siar.us/tatv/live.sdp/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",TV Tabalong
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Moji_ott
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",ANtv_ott
