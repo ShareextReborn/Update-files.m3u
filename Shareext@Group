@@ -1381,6 +1381,39 @@ http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=10324
 http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032466&extension=ts&play_Optus_6
 
 
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",EVENT_1
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",EVENT_2
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD2_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",EVENT_3
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",EVENT_4
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD5_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",EVENT_5
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD6_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",EVENT_6
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD9_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",EVENT_7
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD10_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",EVENT_8
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD12_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",EVENT_9
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD13_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",EVENT_10
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD14_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",EVENT_11
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",EVENT_12
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD11_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",EVENT_13
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD8_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",EVENT_14
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",EVENT_15
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD7_DIG_MOB/Fallback/index.m3u8
+
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Astro•Cricket_🇲🇾
 http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=571244&extension=ts&play_assp_Cricket
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",ASSP_1_🇲🇾
@@ -2191,6 +2224,180 @@ http://rr3.dens.tv/s/s94/index2.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Zee Bioskop
 http://rr2.dens.tv/s/s32/index.m3u8
 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="QA: AMC" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/d2295d933a496e03f54e50027080ab7f.png" group-title="SHAREEXT@Qatar ➾ Movie",AMC_dec=native
+http://xtv.ooo:8080/1367/1367/352990
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Box Office 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a1785416ae7e6dbb932232bb1ad4e6cd.jpg" group-title="SHAREEXT@Qatar ➾ Movie",beIN Box Office 1_dec=native
+http://xtv.ooo:8080/1367/1367/352991
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Drama 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/752642b37938786f6aa7c4a541a4d88a.jpg" group-title="SHAREEXT@Qatar ➾ Movie",beIN Drama 1_dec=native
+http://xtv.ooo:8080/1367/1367/352992
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Movies Action 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f53fed0173cd3832fe7cda3ff10e106e.png" group-title="SHAREEXT@Qatar ➾ Movie",beIN Movies Action 2_dec=native
+http://xtv.ooo:8080/1367/1367/352993
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Movies Drama 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/14fdcdb04d6dedc02d4c5da6b8799ac9.png" group-title="SHAREEXT@Qatar ➾ Movie",beIN Movies Drama 3_dec=native
+http://xtv.ooo:8080/1367/1367/352994
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Movies Family 4" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/3ea0e8888e4246635f275548efadf3fa.png" group-title="SHAREEXT@Qatar ➾ Movie",beIN Movies Family 4_dec=native
+http://xtv.ooo:8080/1367/1367/352995
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Movies Premiere 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/5e38160e63541c3247432ad7cd12e674.jpg" group-title="SHAREEXT@Qatar ➾ Movie",beIN Movies Premiere 1_dec=native
+http://xtv.ooo:8080/1367/1367/352996
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Movies Premiere 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/efa31acf39edca3d0c8894e774c4b0ef.png" group-title="SHAREEXT@Qatar ➾ Movie",beIN Movies Premiere 2_dec=native
+http://xtv.ooo:8080/1367/1367/352997
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Series 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/6306dcf5a1a9da5240d1a3952f822936.png" group-title="SHAREEXT@Qatar ➾ Movie",beIN Series 1_dec=native
+http://xtv.ooo:8080/1367/1367/352998
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Series 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/a1b0e8b1557f00883b0f6709d6d54e33.png" group-title="SHAREEXT@Qatar ➾ Movie",beIN Series 2_dec=native
+http://xtv.ooo:8080/1367/1367/352999
+#EXTINF:-1 tvg-id="" tvg-name="QA: FOX" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/3f636369b6ab931f06a2e0ed14516d4b.svg" group-title="SHAREEXT@Qatar ➾ Movie",FOX_dec=native
+http://xtv.ooo:8080/1367/1367/353000
+#EXTINF:-1 tvg-id="" tvg-name="QA: Fox Action Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/11f5f7b68e68200fd365dd9c511ea78c.png" group-title="SHAREEXT@Qatar ➾ Movie",Fox Action Movies_dec=native
+http://xtv.ooo:8080/1367/1367/353001
+#EXTINF:-1 tvg-id="" tvg-name="QA: Star Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/dc1fb227765a0350b50aae24acfb0fc6.png" group-title="SHAREEXT@Qatar ➾ Movie",Star Movies_dec=native
+http://xtv.ooo:8080/1367/1367/353002
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩HBO Hits_dec=native
+http://xtv.ooo:8080/1367/1367/350957
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩HBO Signature_dec=native
+http://xtv.ooo:8080/1367/1367/350958
+#EXTINF:-1 tvg-id="" tvg-name="ID: Cinemax" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩Cinemax_dec=native
+http://xtv.ooo:8080/1367/1367/350922
+#EXTINF:-1 tvg-id="" tvg-name="ID: Citra Bioskop" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/582b49165511b164bcca3bc14a8c5b6d.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩Citra Bioskop_dec=native
+http://xtv.ooo:8080/1367/1367/350923
+#EXTINF:-1 tvg-id="" tvg-name="ID: Citra Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩Citra Drama_dec=native
+http://xtv.ooo:8080/1367/1367/350925
+#EXTINF:-1 tvg-id="" tvg-name="ID: Citra Entertainment" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9b24e6afb5920e1696c0a0fceda060cf.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩Citra Entertainment_dec=native
+http://xtv.ooo:8080/1367/1367/350926
+#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩Etv Bioskop_dec=native
+http://xtv.ooo:8080/1367/1367/350941
+#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 02" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩Etv Bioskop 02_dec=native
+http://xtv.ooo:8080/1367/1367/350942
+#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 03" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩Etv Bioskop 03_dec=native
+http://xtv.ooo:8080/1367/1367/350943
+#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 04" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩Etv Bioskop 04_dec=native
+http://xtv.ooo:8080/1367/1367/350944
+#EXTINF:-1 tvg-id="" tvg-name="ID: FLIK" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩FLIK_dec=native
+http://xtv.ooo:8080/1367/1367/350947
+#EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/dddbae34f8fafd015e5221a02075ad19.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩Galaxy_dec=native
+http://xtv.ooo:8080/1367/1367/350950
+#EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy Premium" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩Galaxy Premium_dec=native
+http://xtv.ooo:8080/1367/1367/350951
+#EXTINF:-1 tvg-id="" tvg-name="ID: GEM" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/5662c41e221b11f3cff14f60ac5b862e.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩GEM_dec=native
+http://xtv.ooo:8080/1367/1367/350952
+#EXTINF:-1 tvg-id="" tvg-name="ID: KIX" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/16d25160960bdf82fb24de6143ae7ae9.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩KIX_dec=native
+http://xtv.ooo:8080/1367/1367/350983
+#EXTINF:-1 tvg-id="" tvg-name="ID: My Cinema" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a33da8890f49577c3a90507a07c8815d.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩My Cinema_dec=native
+http://xtv.ooo:8080/1367/1367/351003
+#EXTINF:-1 tvg-id="" tvg-name="ID: My Cinema Asia" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩My Cinema Asia_dec=native
+http://xtv.ooo:8080/1367/1367/351004
+#EXTINF:-1 tvg-id="" tvg-name="ID: My Family" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/21e2e3ff0f19266e11d9456e6bf19494.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩My Family_dec=native
+http://xtv.ooo:8080/1367/1367/351005
+#EXTINF:-1 tvg-id="" tvg-name="ID: My Kidz" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9dcac0452d126b9596563d6aec5aa7a3.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩My Kidz_dec=native
+http://xtv.ooo:8080/1367/1367/351006
+#EXTINF:-1 tvg-id="" tvg-name="ID: Rock Action" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩Rock Action_dec=native
+http://xtv.ooo:8080/1367/1367/351025
+#EXTINF:-1 tvg-id="" tvg-name="ID: Rock Entertaiment" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a6cf4f6391f4d39f34c0a04a208e4c1.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩Rock Entertaiment_dec=native
+http://xtv.ooo:8080/1367/1367/351026
+#EXTINF:-1 tvg-id="" tvg-name="ID: Rock Extreme" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩Rock Extreme_dec=native
+http://xtv.ooo:8080/1367/1367/351027
+#EXTINF:-1 tvg-id="" tvg-name="ID: Sony One" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/c8bcdc3a1efe05b9889c9d515ec7fdbe.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩Sony One_dec=native
+http://xtv.ooo:8080/1367/1367/351033
+#EXTINF:-1 tvg-id="" tvg-name="ID: Thrill" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩Thrill_dec=native
+http://xtv.ooo:8080/1367/1367/351038
+#EXTINF:-1 tvg-id="" tvg-name="ID: TVN" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩TVN_dec=native
+http://xtv.ooo:8080/1367/1367/351045
+#EXTINF:-1 tvg-id="" tvg-name="ID: TVN Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩TVN Movies_dec=native
+http://xtv.ooo:8080/1367/1367/351046
+#EXTINF:-1 tvg-id="" tvg-name="ID: Vision Prime" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/aace6b866a640045edacb67fe95b4435.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩Vision Prime_dec=native
+http://xtv.ooo:8080/1367/1367/351058
+#EXTINF:-1 tvg-id="" tvg-name="ID: Warner TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg" group-title="SHAREEXT@MOVIE ASIA",🇮🇩Warner TV_dec=native
+http://xtv.ooo:8080/1367/1367/351059
+#EXTINF:-1 tvg-id="" tvg-name="ID: Zee Bioskop" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩Zee Bioskop_dec=native
+http://xtv.ooo:8080/1367/1367/351060
+#EXTINF:-1 tvg-id="" tvg-name="ID: Bioskop Indonesia" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩Bioskop Indonesia_dec=native
+http://xtv.ooo:8080/1367/1367/350906
+#EXTINF:-1 tvg-id="" tvg-name="ID: CCM" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e781645d9f686de47e29b212df4791a1.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩CCM_dec=native
+http://xtv.ooo:8080/1367/1367/350912
+#EXTINF:-1 tvg-id="" tvg-name="ID: Celestial Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/03722835968ebf5a812fcb4ad2d041dc.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩Celestial Movies_dec=native
+http://xtv.ooo:8080/1367/1367/350913
+#EXTINF:-1 tvg-id="" tvg-name="ID: Chinese Drama" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩Chinese Drama_dec=native
+http://xtv.ooo:8080/1367/1367/350920
+#EXTINF:-1 tvg-id="" tvg-name="ID: CinemaWorld" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="SHAREEXT@MOVIE ASIA",🇮🇩CinemaWorld_dec=native
+http://xtv.ooo:8080/1367/1367/350921
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png" group-title="SHAREEXT@MOVIE ASIA",OASIS
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=571238&extension=ts&play_shareext@OASIS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Vaanavil_%28s20%29.png" group-title="SHAREEXT@MOVIE ASIA",Vaanavil
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=571233&extension=ts&play_shareext@VAANAVIL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj5y2XD4ZQj7-jajjAxYklVwAIFiO3xZS0BA&usqp=CAU" group-title="SHAREEXT@MOVIE ASIA",IQIYI
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=571198&extension=ts&play_shareext@IQIYI
+#EXTINF:-1 tvg-logo="https://adeasy.co/storage/images/media_profile/picture/1613710204_522_small.jpg" group-title="SHAREEXT@MOVIE ASIA",XIAO TAI YANG
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=571230&extension=ts&play_shareext@XIAOTAIYANG
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="SHAREEXT@MOVIE ASIA",AOD 351
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=571226&extension=ts&play_shareext@AOD351
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="SHAREEXT@MOVIE ASIA",AOD 352
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=571225&extension=ts&play_shareext@AOD352
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="SHAREEXT@MOVIE ASIA",AOD 353
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=571229&extension=ts&play_shareext@AOD353
+#EXTINF:-1 tvg-logo="https://onetvasia.com/sites/onetvasia.com/files/ct_custom_page_f_primary_image/one-default-thumb-20200318.jpg" group-title="SHAREEXT@MOVIE ASIA",ONE
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=571193&extension=ts&play_shareext@ONE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="SHAREEXT@MOVIE ASIA",AWANI
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=571243&extension=ts&play_shareext@AWANI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png" group-title="SHAREEXT@MOVIE ASIA",RANIA
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=571256&extension=ts&play_shareext@RANIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png" group-title="SHAREEXT@MOVIE ASIA",AURA
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=571257&extension=ts&play_shareext@AURA
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2016/09/Star-vijay-channel-logo.jpg" group-title="SHAREEXT@MOVIE ASIA",Star_Vijay
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=571235&extension=ts&play_shareext@STARVIJAY
+#EXTINF:-1 tvg-logo="https://adeasy.co/storage/images/media_profile/picture/1613710124_516_small.jpg" group-title="SHAREEXT@MOVIE ASIA",Vinmeen
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=571232&extension=ts&play_shareext@VINMEEN
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1648809294-.png" group-title="SHAREEXT@MOVIE ASIA",CELESTIAL MOVIE
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=683142&extension=ts&play_shareext@CELESTIAL
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/uPT6bJivLIE/maxresdefault.jpg" group-title="SHAREEXT@MOVIE ASIA",CELESTIAL CLASIC MOVIE
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=683110&extension=ts&play_shareext@CCM
+#EXTINF:-1 tvg-logo="https://orangemagazine.ph/wp-content/uploads/2015/09/AXN-ASIA-New-Logo-e1442906648156.png" group-title="SHAREEXT@MOVIE ASIA", AXN
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=683144&extension=ts&play_shareext@AXN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="SHAREEXT@MOVIE ASIA", CINEMAX
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=571214&extension=ts&play_shareext@CINEMAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="SHAREEXT@MOVIE ASIA", MOVIE NOW
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=1116477&extension=ts&play_shareext@MOVIENOW
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgmuTfsVZJx912ZZ2aSySqIV2LQCQPuxIDLVJV2pkJIM0IDLsOBQzKG29ErsRw_dany4&usqp=CAU" group-title="SHAREEXT@MOVIE ASIA", &Flix
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=282632&extension=ts&play_shareext@&FLIX
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_856,h_482,c_scale,f_webp,q_auto:eco/resources/0-9-priv%C3%A9hd/list/1170x658withlogo375086496.jpg" group-title="SHAREEXT@MOVIE ASIA", &Prive
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=155746&extension=ts&play_shareext@&PRIVE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="SHAREEXT@MOVIE ASIA", STAR MOVIE
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=282639&extension=ts&play_shareext@STARMOVIE
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-select-hd-logo-300x300.jpg" group-title="SHAREEXT@MOVIE ASIA", STAR MOVIE SELECT
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=155729&extension=ts&play_shareext@STARMOVIESELECT
+#EXTINF:-1 tvg-logo="https://nationalviews.com/wp-content/uploads/2015/06/mn-times-network-new-channel.jpg" group-title="SHAREEXT@MOVIE ASIA", MNX+
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=1110624&extension=ts&play_shareext@MNX+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/1200px-Paramount_Global.svg.png" group-title="SHAREEXT@MOVIE ASIA", PARAMOUNT
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=926158&extension=ts&play_shareext@PARAMOUNT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="SHAREEXT@MOVIE ASIA", SONY PIX
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=282631&extension=ts&play_shareext@SONYPIX
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/HITS_TV_ASIA.png/revision/latest?cb=20210828003810" group-title="SHAREEXT@MOVIE ASIA", HITS
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=683145&extension=ts&play_shareext@HITS
+#EXTINF:-1 tvg-logo="https://serpongupdate.com/wp-content/uploads/2019/04/HITS-Movies.jpg" group-title="SHAREEXT@MOVIE ASIA", HITS MOVIE
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=683163&extension=ts&play_shareext@HITSMOVIE
+#EXTINF:-1 tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png" group-title="SHAREEXT@MOVIE ASIA", CINEMA WORLD
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=683146&extension=ts&play_shareext@CINEMAWORLD
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_158.png" group-title="SHAREEXT@MOVIE ASIA", TVN
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=683148&extension=ts&play_shareext@TVN
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="SHAREEXT@MOVIE ASIA",TVN MOVIE
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=683149&extension=ts&play_shareext@TVNMOVIE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Thrilllogo.webp/390px-Thrilllogo.webp.png" group-title="SHAREEXT@MOVIE ASIA",THRILL
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=683154&extension=ts&play_shareext@THRILL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png" group-title="SHAREEXT@MOVIE ASIA", SONY ONE
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=683130&extension=ts&play_shareext@SONYONE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="SHAREEXT@MOVIE ASIA", KIX
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=683134&extension=ts&play_shareext@KIX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/800px-KBS_World_%282009%29.svg.png" group-title="SHAREEXT@MOVIE ASIA", KBS WORLD
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=941631&extension=ts&play_shareext@KBSWORLD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/FMN_%28Forget_Me_Not%29_Channel.png/800px-FMN_%28Forget_Me_Not%29_Channel.png" group-title="SHAREEXT@MOVIE ASIA", FMN TELENOVELA
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=683143&extension=ts&play_shareext@TELENOVELA
+#EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_bioskop.png" group-title="SHAREEXT@MOVIE ASIA", ZEE BIOSKOP
+http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=683155&extension=ts&play_shareext@ZEEBIOSKOP
 
 
 
