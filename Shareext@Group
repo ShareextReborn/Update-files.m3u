@@ -1334,6 +1334,38 @@ http://aflaxtv.xyz:8080/3f6d5b2f/4b60123137/295542
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_AUS_NZ",Sky_Sport•Austria 6
 http://aflaxtv.xyz:8080/3f6d5b2f/4b60123137/295543
 
+#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/ce00f228299f7a77ffe57ac7ae2879d5.png" group-title="SHAREEXT@SUKAN_AUS_NZ",AU: beINSports_dec=native
+http://xtv.ooo:8080/1367/1367/348201
+#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d53d914cf33a693725a0d427c0cbba1d.png" group-title="SHAREEXT@SUKAN_AUS_NZ",AU: beINSports 1_dec=native
+http://xtv.ooo:8080/1367/1367/348202
+#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9795eb5b80ed3b3cde621f2a5c15275b.png" group-title="SHAREEXT@SUKAN_AUS_NZ ",AU: beINSports 2_dec=native
+http://xtv.ooo:8080/1367/1367/348203
+#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/088d0d06f0b43fe9529668eac174c903.png" group-title="SHAREEXT@SUKAN_AUS_NZ ",AU: beINSports 3_dec=native
+http://xtv.ooo:8080/1367/1367/348204
+#EXTINF:-1 tvg-id="" tvg-name="AU: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/dd9092b9b5cd89506da4d6ba6ab8939d.svg" group-title="SHAREEXT@SUKAN_AUS_NZ",AU: ESPN_dec=native
+http://xtv.ooo:8080/1367/1367/348207
+#EXTINF:-1 tvg-id="" tvg-name="AU: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/fb92789b21c6126b4225207c332bd82a.svg" group-title="SHAREEXT@SUKAN_AUS_NZ",AU: ESPN 2_dec=native
+http://xtv.ooo:8080/1367/1367/348208
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 501" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a920154df6aa27d0a0988f8415c658dd.jpg" group-title="SHAREEXT@SUKAN_AUS_NZ",AU: FoxSports 501_dec=native
+http://xtv.ooo:8080/1367/1367/348210
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 502" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3a660bbb5217b20183e9135bf2aaf562.png" group-title="SHAREEXT@SUKAN_AUS_NZ",AU: FoxSports 502_dec=native
+http://xtv.ooo:8080/1367/1367/348211
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 503" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/26e07d10c07649ee3f6a4b2623a7d187.jpg" group-title="SHAREEXT@SUKAN_AUS_NZ",AU: FoxSports 503_dec=native
+http://xtv.ooo:8080/1367/1367/348212
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 504" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c2b1618bc941a9579f6da4ad1f4fe90e.png" group-title="SHAREEXT@SUKAN_AUS_NZ",AU: FoxSports 504_dec=native
+http://xtv.ooo:8080/1367/1367/348213
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 505" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/326c83b2d11a63ae35efe2906029d3b0.png" group-title="SHAREEXT@SUKAN_AUS_NZ",AU: FoxSports 505_dec=native
+http://xtv.ooo:8080/1367/1367/348214
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 506" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0fbe039aa7f3af002897a33f07ca891e.jpg" group-title="SHAREEXT@SUKAN_AUS_NZ",AU: FoxSports 506_dec=native
+http://xtv.ooo:8080/1367/1367/348215
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 507" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/8967fe172d45a59f3ec20039bcf2ae47.png" group-title="SHAREEXT@SUKAN_AUS_NZ",AU: FoxSports 507_dec=native
+http://xtv.ooo:8080/1367/1367/348216
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports News" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/127e99eb92bbeac313c1270133b1334d.png" group-title="SHAREEXT@SUKAN_AUS_NZ",AlFoxSports News_dec=native
+http://xtv.ooo:8080/1367/1367/348217
+#EXTINF:-1 tvg-id="" tvg-name="AU: Racing" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/32a7f96ee728a01325c94298cac1cd77.png" group-title="SHAREEXT@SUKAN_AUS_NZ",Racing_decoder=native 
+http://xtv.ooo:8080/1367/1367/348223
+
+
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OPTUS_Live_Event",🇭🇲OPTUS_1_(Live•Event)
 http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032471&extension=ts&play_Optus_1
@@ -2419,6 +2451,28 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Angry Birds Toons" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@24X7",ID:Angry•Bird•Toons_dec=native
+http://xtv.ooo:8080/1367/1367/350879
+#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 BabyBus Indonesia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@24X7",ID:BabyBus•Indonesia_dec=native
+http://xtv.ooo:8080/1367/1367/350880
+#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Donald Ducks" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@24X7",ID:Donald•Ducks_dec=native
+http://xtv.ooo:8080/1367/1367/350881
+#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Doraemon" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@24X7",ID:Doraemon_dec=native
+http://xtv.ooo:8080/1367/1367/350882
+#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Just For Laughs" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@24X7",ID:Just•For•Laughs_dec=native
+http://xtv.ooo:8080/1367/1367/350883
+#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Mr Bean Cartoon" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@24X7",ID:Mr•Bean•Cartoon_dec=native
+http://xtv.ooo:8080/1367/1367/350884
+#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Mr. Bean Classic" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@24X7",ID:Mr.Bean•Classic_dec=native
+http://xtv.ooo:8080/1367/1367/350885
+#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Tom And Jerry" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@24X7",ID:Tom•And•Jerry_dec=native
+http://xtv.ooo:8080/1367/1367/350886
+#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Upin Ipin" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@24X7",ID:Upin•Ipin_dec=native
+http://xtv.ooo:8080/1367/1367/350887
+#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Warkop DKI" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@24X7",ID:Warkop•DKI_dec=native
+http://xtv.ooo:8080/1367/1367/350888
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",JOHN_WICK_movie
 http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=99483&extension=ts&play_shareext@johnwick_movie
