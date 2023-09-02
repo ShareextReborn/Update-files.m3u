@@ -1687,43 +1687,43 @@ http://xtv.ooo:8080/1367/1367/353019
 #EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="QA: beIN Sports 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f823bec52bbeb99de40933222aed1f4f.png" group-title="SHAREEXT@Qatar ➾ Sports",beINSports 7_dec=native
 http://xtv.ooo:8080/1367/1367/353020
 
-#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="Af | DSTV: Super Sports Cricket" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",SuperSports Cricket_dec=native
+#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="Af | DSTV: Super Sports Cricket" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",SS_Cricket_dec=native
 http://xtv.ooo:8080/1367/1367/238475
-#EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-name="Af | DSTV: Super Sports Grand Stand" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",SuperSports Grand Stand_dec=native
+#EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-name="Af | DSTV: Super Sports Grand Stand" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",SS_Grand Stand_dec=native
 http://xtv.ooo:8080/1367/1367/238476
-#EXTINF:-1 tvg-id="supersportpsl.za" tvg-name="DSTV: Super Sports PSL*" tvg-logo="http://vod-logo.net/photos/ff8d998db66bc29690a5dcc2cb0e1641.png" group-title="SHAREEXT@DSTV | SUPER SPORTS",SuperSports PSL*_dec=native
+#EXTINF:-1 tvg-id="supersportpsl.za" tvg-name="DSTV: Super Sports PSL*" tvg-logo="http://vod-logo.net/photos/ff8d998db66bc29690a5dcc2cb0e1641.png" group-title="SHAREEXT@DSTV | SUPER SPORTS",SS_PSL*_dec=native
 http://xtv.ooo:8080/1367/1367/238477
-#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="Af | DSTV: Super Sports Premier League*" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title='SHAREEXT@DSTV | SUPER SPORTS",SuperSports Premier League*_dec=native
+#EXTINF:-1 tvg-id="supersportpsl.za" tvg-name="DSTV: Super Sports PSL*" tvg-logo="http://vod-logo.net/photos/ff8d998db66bc29690a5dcc2cb0e1641.png" group-title="SHAREEXT@DSTV | SUPER SPORTS",SS_Premier_Liga*_dec=native
 http://xtv.ooo:8080/1367/1367/238478
-#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="Af | DSTV: Super Sports La Liga*" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",SuperSports La Liga*_dec=native
+#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="Af | DSTV: Super Sports La Liga*" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",SS_LaLiga*_dec=native
 http://xtv.ooo:8080/1367/1367/238479
-#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="Af | DSTV: Super Sports Football*" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",SuperSports Football*_dec=native
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="Af | DSTV: Super Sports Football*" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",SS_Football*_dec=native
 http://xtv.ooo:8080/1367/1367/238480
-#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-name="Af | DSTV: Super Sports Variety 1*" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",SuperSports Variety 1*_dec=native
+#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-name="Af | DSTV: Super Sports Variety 1*" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",SS_Variety 1*_dec=native
 http://xtv.ooo:8080/1367/1367/238481
-#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-name="Af | DSTV: Super Sports Variety 2*" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",SuperSports Variety 2*_dec=native
+#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-name="Af | DSTV: Super Sports Variety 2*" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",SS_Variety 2*_dec=native
 http://xtv.ooo:8080/1367/1367/238482
-#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name="Af | DSTV: Super Sports Variety 3*" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",SuperSports Variety 3*_dec=native
+#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name="Af | DSTV: Super Sports Variety 3*" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",SS_Variety 3*_dec=native
 http://xtv.ooo:8080/1367/1367/238483
-#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-name="Af | DSTV: Super Sports Variety 4*" tvg-logo="http://vod-logo.net/photos/ba7b6c2a20cad542fcd0e712cbe9fc08.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",SuperSports Variety 4*_dec=native
+#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-name="Af | DSTV: Super Sports Variety 4*" tvg-logo="http://vod-logo.net/photos/ba7b6c2a20cad542fcd0e712cbe9fc08.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",SS_Variety 4*_dec=native
 http://xtv.ooo:8080/1367/1367/238484
-#EXTINF:-1 tvg-id="supersportaction.za" tvg-name="Af | DSTV: Super Sports Action*" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",SuperSports Action*_dec=native
+#EXTINF:-1 tvg-id="supersportaction.za" tvg-name="Af | DSTV: Super Sports Action*" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",SS_Action*_dec=native
 http://xtv.ooo:8080/1367/1367/238485
-#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="Af | DSTV: Super Sports Rugby*" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",SuperSports Rugby*_dec=native
+#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="Af | DSTV: Super Sports Rugby*" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",SS_Rugby*_dec=native
 http://xtv.ooo:8080/1367/1367/238486
-#EXTINF:-1 tvg-id="supersportblitz.za" tvg-name="Af | DSTV: Super Sports Blitz*" tvg-logo="http://vod-logo.net/photos/332926d9c2a786cca9108445aed110d5.png" group-title="SHAREEXT@DSTV | SUPER SPORTS",SuperSports Blitz*_dec=native
+#EXTINF:-1 tvg-id="supersportblitz.za" tvg-name="Af | DSTV: Super Sports Blitz*" tvg-logo="http://vod-logo.net/photos/332926d9c2a786cca9108445aed110d5.png" group-title="SHAREEXT@DSTV | SUPER SPORTS",SS_Blitz*_dec=native
 http://xtv.ooo:8080/1367/1367/238487
-#EXTINF:-1 tvg-id="supersportgolf.za" tvg-name="Af | DSTV: Super Sports Golf*" tvg-logo="http://vod-logo.net/photos/d183f08eef1f25d1eb37323912362ba0.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",SuperSports Golf*_dec=native
+#EXTINF:-1 tvg-id="supersportgolf.za" tvg-name="Af | DSTV: Super Sports Golf*" tvg-logo="http://vod-logo.net/photos/d183f08eef1f25d1eb37323912362ba0.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",SS_Golf*_dec=native
 http://xtv.ooo:8080/1367/1367/238488
-#EXTINF:-1 tvg-id="supersporttennis.za" tvg-name="Af | DSTV: Super Sports Tennis*" tvg-logo="http://vod-logo.net/photos/581f4c3bf17495aed6fe7df81e478a86.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",SuperSports Tennis*_dec=native
+#EXTINF:-1 tvg-id="supersporttennis.za" tvg-name="Af | DSTV: Super Sports Tennis*" tvg-logo="http://vod-logo.net/photos/581f4c3bf17495aed6fe7df81e478a86.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",SS_Tennis*_dec=native
 http://xtv.ooo:8080/1367/1367/238489
-#EXTINF:-1 tvg-id="supersportmotorsport.za" tvg-name="Af | DSTV: Super Sports MotorSports*" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",SuperSports MotorSports*_dec=native
+#EXTINF:-1 tvg-id="supersportmotorsport.za" tvg-name="Af | DSTV: Super Sports MotorSports*" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",SS_MotorSports*_dec=native
 http://xtv.ooo:8080/1367/1367/238490
-#EXTINF:-1 tvg-id="espn.za" tvg-name="Af | DSTV: ESPN 1" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",ESPN 1_dec=native
+#EXTINF:-1 tvg-id="espn.za" tvg-name="Af | DSTV: ESPN 1" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",ESPN_1_dec=native
 http://xtv.ooo:8080/1367/1367/238491
-#EXTINF:-1 tvg-id="espn2.za" tvg-name="Af | DSTV: ESPN 2*" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",ESPN 2*_dec=native
+#EXTINF:-1 tvg-id="espn2.za" tvg-name="Af | DSTV: ESPN 2*" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",ESPN_2*_dec=native
 http://xtv.ooo:8080/1367/1367/238492
-#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-name="Af | DSTV: SuperSport Maximo 1*" tvg-logo="http://vod-logo.net/photos/0156bdbd85cb9e551f0afb40a246a8c0.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",SuperSport Maximo 1*_dec=native
+#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-name="Af | DSTV: SuperSport Maximo 1*" tvg-logo="http://vod-logo.net/photos/0156bdbd85cb9e551f0afb40a246a8c0.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",SS_Maximo 1*_dec=native
 http://xtv.ooo:8080/1367/1367/238493
 #EXTINF:-1 tvg-id="tellytrack.za" tvg-name="Af | DSTV: TellyTrack" tvg-logo="http://vod-logo.net/photos/627fa165965b7b27adb1360502494026.jpg" group-title="SHAREEXT@DSTV | SUPER SPORTS",TellyTrack_dec=native
 http://xtv.ooo:8080/1367/1367/238496
