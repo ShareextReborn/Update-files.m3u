@@ -3109,6 +3109,22 @@ http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream
 http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=534117&extension=ts&shareext@ArnoldMovie
 
 
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg" group-title="SHAREEXT@CINESKY",CINESKY 1 HD
+http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/87291
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg" group-title="SHAREEXT@CINESKY",CINESKY 2 HD
+http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/87292
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg" group-title="SHAREEXT@CINESKY",CINESKY 3 HD
+http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/87293
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg" group-title="SHAREEXT@CINESKY",CINESKY 5 HD
+http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/87294
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg" group-title="SHAREEXT@CINESKY",CINESKY 6 HD
+http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/87295
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg" group-title="SHAREEXT@CINESKY",CINESKY 7 HD
+http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/87296
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg" group-title="SHAREEXT@CINESKY",CINESKY 8 HD
+http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/87297
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg" group-title="SHAREEXT@CINESKY",CINESKY 10 HD
+http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/87298
 
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@HOME|CINEMA ",HOME_CINEMA 01
