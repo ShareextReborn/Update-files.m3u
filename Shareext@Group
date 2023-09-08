@@ -2068,6 +2068,60 @@ http://xtv.ooo:8080/1367/1367/223068
 #EXTINF:-1 tvg-id="" tvg-name="CA: DAZN 8 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/dazn.png" group-title="SHAREEXT@DAZN SPORTS (VIP)",DAZN 8 HD_dec=native
 http://xtv.ooo:8080/1367/1367/223069
 
+
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS NEWS HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png" group-title="SHAREEXT@BEIN SPORTS MENA",BEINSPORTS NEWS HD
+http://x.v-iptv.com:25443/live/4998548523/7467896546/9152.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS GLOBAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg" group-title="SHAREEXT@BEIN SPORTS MENA",BEINSPORTS GLOBAL HD
+http://x.v-iptv.com:25443/live/4998548523/7467896546/30750.ts
+#EXTINF:-1 tvg-id="BeinSportsPremium1.qa" tvg-name="|.AR.| BEIN SPORTS PREMIUM 1 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" group-title="SHAREEXT@BEIN SPORTS MENA",BEINSPORTS PREMIUM 1 HD
+http://x.v-iptv.com:25443/live/4998548523/7467896546/9146.ts
+#EXTINF:-1 tvg-id="BeinSportsPremium2.qa" tvg-name="|.AR.| BEIN SPORTS PREMIUM 2 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png" group-title="SHAREEXT@BEIN SPORTS MENA",BEINSPORTS PREMIUM 2 HD
+http://x.v-iptv.com:25443/live/4998548523/7467896546/9148.ts
+#EXTINF:-1 tvg-id="BeinSportsPremium3.qa" tvg-name="|.AR.| BEIN SPORTS PREMIUM 3 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="SHAREEXT@BEIN SPORTS MENA",BEINSPORTS PREMIUM 3 HD
+http://x.v-iptv.com:25443/live/4998548523/7467896546/9150.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 1 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports.us.png" group-title="SHAREEXT@BEIN SPORTS MENA",BEINSPORTS 1 HD
+http://x.v-iptv.com:25443/live/4998548523/7467896546/9131.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 2 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports2.tr.png" group-title="SHAREEXT@BEIN SPORTS MENA",BEINSPORTS 2 HD
+http://x.v-iptv.com:25443/live/4998548523/7467896546/9134.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 3 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports3.tr.png" group-title="SHAREEXT@BEIN SPORTS MENA",BEINSPORTS 3 HD
+http://x.v-iptv.com:25443/live/4998548523/7467896546/9136.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 4 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="SHAREEXT@BEIN SPORTS MENA",BEINSPORTS 4 HD
+http://x.v-iptv.com:25443/live/4998548523/7467896546/9138.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 5 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="SHAREEXT@BEIN SPORTS MENA",BEINSPORTS 5 HD
+http://x.v-iptv.com:25443/live/4998548523/7467896546/9140.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 6 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png" group-title="SHAREEXT@BEIN SPORTS MENA",BEINSPORTS 6 HD
+http://x.v-iptv.com:25443/live/4998548523/7467896546/9142.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 7 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="SHAREEXT@BEIN SPORTS MENA",BEINSPORTS 7 HD
+http://x.v-iptv.com:25443/live/4998548523/7467896546/9144.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS ENGLISH 1 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F213%2Fbein-sports-english-1.png" group-title="SHAREEXT@BEIN SPORTS MENA",BEINSPORTS ENGLISH 1 HD
+http://x.v-iptv.com:25443/live/4998548523/7467896546/9153.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS ENGLISH 2 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png" group-title="SHAREEXT@BEIN SPORTS MENA",BEINSPORTS ENGLISH 2 HD
+http://x.v-iptv.com:25443/live/4998548523/7467896546/9154.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS ENGLISH 3 HD" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F215%2Fbein-sports-english-1.png" group-title="SHAREEXT@BEIN SPORTS MENA",BEINSPORTS ENGLISH 3 HD
+http://x.v-iptv.com:25443/live/4998548523/7467896546/9155.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS XTRA 1 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F895%2Fbein-sports-xtra-1.png" group-title="SHAREEXT@BEIN SPORTS MENA",BEINSPORTS XTRA 1 HD
+http://x.v-iptv.com:25443/live/4998548523/7467896546/119957.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS XTRA 2 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F896%2Fbein-sports-xtra-1.png" group-title="SHAREEXT@BEIN SPORTS MENA",BEINSPORTS XTRA 2 HD
+http://x.v-iptv.com:25443/live/4998548523/7467896546/119958.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS FRENCH 1 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F216%2Fbein-sports-french-1.png" group-title="SHAREEXT@BEIN SPORTS MENA",BEINSPORTS FRENCH 1 HD
+http://x.v-iptv.com:25443/live/4998548523/7467896546/124099.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS FRENCH 2 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F211%2Fbein-sports-french-1.png" group-title="SHAREEXT@BEIN SPORTS MENA",BEINSPORTS FRENCH 2 HD
+http://x.v-iptv.com:25443/live/4998548523/7467896546/124097.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS FRENCH 3 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F362%2Fbein-sports-french-1.png" group-title="SHAREEXT@BEIN SPORTS MENA",BEINSPORTS FRENCH 3 HD
+http://x.v-iptv.com:25443/live/4998548523/7467896546/124098.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 1 MAX HD (WC QATAR 2022)" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F654%2Fbein-sports-max-1.png" group-title="SHAREEXT@BEIN SPORTS MENA",BEINSPORTS 1 MAX HD (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/4998548523/7467896546/124071.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 2 MAX HD (WC QATAR2022)" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="SHAREEXT@BEIN SPORTS MENA",BEINSPORTS 2 MAX HD (WC QATAR2022)
+http://x.v-iptv.com:25443/live/4998548523/7467896546/124076.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 3 MAX HD (WC QATAR 2022)" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F652%2Fbein-sports-max-1.png" group-title="SHAREEXT@BEIN SPORTS MENA",BEINSPORTS 3 MAX HD (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/4998548523/7467896546/124081.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 4 MAX HD (WC QATAR 2022)" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="SHAREEXT@BEIN SPORTS MENA",BEINSPORTS 4 MAX HD (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/4998548523/7467896546/124086.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 5 MAX HD (WC QATAR 2022)" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png" group-title="SHAREEXT@BEIN SPORTS MENA",BEINSPORTS 5 MAX HD (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/4998548523/7467896546/124091.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 6 MAX HD (WC QATAR 2022)" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png" group-title="SHAREEXT@BEIN SPORTS MENA",BEINSPORTS 6 MAX HD (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/4998548523/7467896546/124096.ts
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Astro•Cricket_🇲🇾
 http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=571244&extension=ts&play_assp_Cricket
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",ASSP_1_🇲🇾
