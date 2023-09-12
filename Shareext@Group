@@ -1664,6 +1664,29 @@ http://xtv.ooo:8080/1367/1367/348217
 http://xtv.ooo:8080/1367/1367/348223
 
 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kMFxW3xK/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",Hub_Premier_1
+http://starshare.live:8080/live/639572614395/639572614395/148158.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kMFxW3xK/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",Hub_Premier_2
+http://starshare.live:8080/live/639572614395/639572614395/148159.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kMFxW3xK/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",Hub_Premier_3
+http://starshare.live:8080/live/639572614395/639572614395/148160.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kMFxW3xK/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",Hub_Premier_4
+http://starshare.live:8080/live/639572614395/639572614395/148161.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kMFxW3xK/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",Hub_Premier_5
+http://starshare.live:8080/live/639572614395/639572614395/148162.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kMFxW3xK/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",Hub_Premier_6
+http://starshare.live:8080/live/639572614395/639572614395/148163.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kMFxW3xK/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",Hub_Premier_7
+http://starshare.live:8080/live/639572614395/639572614395/148164.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kMFxW3xK/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",Hub_Premier_8
+http://starshare.live:8080/live/639572614395/639572614395/148165.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kMFxW3xK/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",Hub_Premier_9
+http://starshare.live:8080/live/639572614395/639572614395/148166.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kMFxW3xK/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",Hub_Premier_10
+http://starshare.live:8080/live/639572614395/639572614395/148167.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kMFxW3xK/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",Hub_Premier_11
+http://starshare.live:8080/live/639572614395/639572614395/148168.ts
+
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OPTUS_Live_Event",🇭🇲OPTUS_1_(Live•Event)
 http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032471&extension=ts&play_Optus_1
