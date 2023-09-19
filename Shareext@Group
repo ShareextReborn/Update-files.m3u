@@ -1664,29 +1664,6 @@ http://xtv.ooo:8080/1367/1367/348217
 http://xtv.ooo:8080/1367/1367/348223
 
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kMFxW3xK/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",Hub_Premier_1
-http://starshare.live:8080/live/639572614395/639572614395/148158.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kMFxW3xK/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",Hub_Premier_2
-http://starshare.live:8080/live/639572614395/639572614395/148159.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kMFxW3xK/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",Hub_Premier_3
-http://starshare.live:8080/live/639572614395/639572614395/148160.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kMFxW3xK/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",Hub_Premier_4
-http://starshare.live:8080/live/639572614395/639572614395/148161.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kMFxW3xK/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",Hub_Premier_5
-http://starshare.live:8080/live/639572614395/639572614395/148162.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kMFxW3xK/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",Hub_Premier_6
-http://starshare.live:8080/live/639572614395/639572614395/148163.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kMFxW3xK/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",Hub_Premier_7
-http://starshare.live:8080/live/639572614395/639572614395/148164.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kMFxW3xK/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",Hub_Premier_8
-http://starshare.live:8080/live/639572614395/639572614395/148165.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kMFxW3xK/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",Hub_Premier_9
-http://starshare.live:8080/live/639572614395/639572614395/148166.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kMFxW3xK/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",Hub_Premier_10
-http://starshare.live:8080/live/639572614395/639572614395/148167.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kMFxW3xK/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",Hub_Premier_11
-http://starshare.live:8080/live/639572614395/639572614395/148168.ts
-
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OPTUS_Live_Event",🇭🇲OPTUS_1_(Live•Event)
 http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032471&extension=ts&play_Optus_1
@@ -1779,6 +1756,82 @@ http://flkmzyq9.megogo.xyz/iptv/YSWL6KZU93STS7/2479/index.m3u8
 http://flkmzyq9.megogo.xyz/iptv/YSWL6KZU93STS7/2480/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/zvYJZCrN/Skysport-shareext.png" group-title="SHAREEXT@SKYSPORTS",SkySport Austria 1 HD DE
 http://flkmzyq9.megogo.xyz/iptv/YSWL6KZU93STS7/2492/index.m3u8
+
+
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR GOLF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png" group-title="SHAREEXT@¡Deportes España ⚽!",MOVISTAR GOLF HD
+http://00322.xyz:8000/coachprato/40437757/4334
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="ESP-4: MOVISTAR DEPORTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png" group-title="SHAREEXT@¡Deportes España ⚽!",MOVISTAR DEPORTE HD
+http://00322.xyz:8000/coachprato/40437757/4336
+#EXTINF:-1 tvg-id="Gol.es" tvg-name="ESP-4: GOL TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1200px-GolTV_logo.svg.png" group-title="SHAREEXT@¡Deportes España ⚽!",GOL TV FHD
+http://00322.xyz:8000/coachprato/40437757/4338
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="ESP-4: EUROSPORT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Eurosport_Logo_2015.png/1200px-Eurosport_Logo_2015.png" group-title="SHAREEXT@¡Deportes España ⚽!",EUROSPORT HD
+http://00322.xyz:8000/coachprato/40437757/4349
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="ESP-4: Eurosport  2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Eurosport_Logo_2015.png/1200px-Eurosport_Logo_2015.png" group-title="SHAREEXT@¡Deportes España ⚽!",Eurosport  2
+http://00322.xyz:8000/coachprato/40437757/4351
+#EXTINF:-1 tvg-id="Esport3.es" tvg-name="ESP-4: ESPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Eurosport_Logo_2015.png/1200px-Eurosport_Logo_2015.png" group-title="SHAREEXT@¡Deportes España ⚽!",EUROSPORT 3
+http://00322.xyz:8000/coachprato/40437757/4352
+#EXTINF:-1 tvg-id="DAZNF1.es" tvg-name="ESP-4: DAZN Formula 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/1921px-Movistar_Formula_1.svg.png" group-title="SHAREEXT@¡Deportes España ⚽!",DAZN Formula 1 HD
+http://00322.xyz:8000/coachprato/40437757/4354
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ESP-4: TELEDEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="SHAREEXT@¡Deportes España ⚽!",TELEDEPORTE
+http://00322.xyz:8000/coachprato/40437757/4357
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MUNDOTORO FULL HD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="SHAREEXT@¡Deportes España ⚽!",MENDOTORO FULL HD
+http://00322.xyz:8000/coachprato/40437757/4362
+#EXTINF:-1 tvg-id="MovistarLigadeCampeones.es" tvg-name="ESP-4: MOVISTAR LIGA DE CAMPEONES HD" tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="SHAREEXT@¡Deportes España ⚽!",MOVISTAR LIGA DE CAMPEONES HD
+http://00322.xyz:8000/coachprato/40437757/4321
+#EXTINF:-1 tvg-id="MovistarLigadeCampeones1.es" tvg-name="ESP-4: MOVISTAR LIGA CAMPEONES 1 (Solo Eventos)" tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="SHAREEXT@¡Deportes España ⚽!",MOVISTAR LIGA CAMPEONES 1 (Solo Eventos)
+http://00322.xyz:8000/coachprato/40437757/4323
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR LIGA DE CAMPEONES 2" tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="SHAREEXT@¡Deportes España ⚽!",MOVISTAR LIGA DE CAMPEONES 2
+http://00322.xyz:8000/coachprato/40437757/4325
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR LIGA CAMPEONES 3  (Solo Eventos)" tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="SHAREEXT@¡Deportes España ⚽!",MOVISTAR LIGA CAMPEONES 3  (Solo Eventos)
+http://00322.xyz:8000/coachprato/40437757/4327
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR LIGA DE CAMPEONES 4 (Solo Eventos)" tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="SHAREEXT@¡Deportes España ⚽!",MOVISTAR LIGA DE CAMPEONES 4 (Solo Eventos)
+http://00322.xyz:8000/coachprato/40437757/4328
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR LIGA CAMPEONES 5 (Solo Eventos)" tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="SHAREEXT@¡Deportes España ⚽!",MOVISTAR LIGA CAMPEONES 5 (Solo Eventos)
+http://00322.xyz:8000/coachprato/40437757/4329
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR LIGA CAMPEONES 6 (Solo Eventos)" tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="SHAREEXT@¡Deportes España ⚽!",MOVISTAR LIGA CAMPEONES 6 (Solo Eventos)
+http://00322.xyz:8000/coachprato/40437757/4330
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR LIGA CAMPEONES 7 (Solo Eventos)" tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="SHAREEXT@¡Deportes España ⚽!",MOVISTAR LIGA CAMPEONES 7 (Solo Eventos)
+http://00322.xyz:8000/coachprato/40437757/4331
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR LIGA CAMPEONES 8 (Solo Eventos)" tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="SHAREEXT@¡Deportes España ⚽!",MOVISTAR LIGA CAMPEONES 8 (Solo Eventos)
+http://00322.xyz:8000/coachprato/40437757/4332
+
+
+#EXTINF:-1 tvg-id="7877" tvg-name="BRA: BAND SPORTS ʙʀᴀsɪʟ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1280px-BandSports_logo.svg.png" group-title="SHAREEXT@⭐️Brasil: Canais Premium⭐️",BAND SPORTS ʙʀᴀsɪʟ ᴴᴰ
+http://00322.xyz:8000/coachprato/40437757/5099
+#EXTINF:-1 tvg-id="7877" tvg-name="BRA: COMBATE ʙʀᴀsɪʟ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/1200px-Canal-combate-logo.png" group-title="SHAREEXT@⭐️Brasil: Canais Premium⭐️",COMBATE ʙʀᴀsɪʟ ᴴᴰ
+http://00322.xyz:8000/coachprato/40437757/5106
+#EXTINF:-1 tvg-id="" tvg-name="BRA: ESPN BRASIL ʙʀᴀsɪʟ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="SHAREEXT@⭐️Brasil: Canais Premium⭐️",ESPN BRASIL ʙʀᴀsɪʟ ᴴᴰ
+http://00322.xyz:8000/coachprato/40437757/5122
+#EXTINF:-1 tvg-id="" tvg-name="BRA: ESPN EXTRA ʙʀᴀsɪʟ ᴴᴰ" tvg-logo="https://1.bp.blogspot.com/-1vS2Hz_HuVM/VvbpQvS6kkI/AAAAAAAApsQ/0mCdM2gNjOQi1rQjkHZpZyFcbW_iJS2YgCKgB/w1200-h630-p-k-no-nu/espn-extra.png" group-title="SHAREEXT@⭐️Brasil: Canais Premium⭐️",ESPN EXTRA ʙʀᴀsɪʟ ᴴᴰ
+http://00322.xyz:8000/coachprato/40437757/5123
+#EXTINF:-1 tvg-id="" tvg-name="BRA: ESPN ʙʀᴀsɪʟ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png" group-title="SHAREEXT@⭐️Brasil: Canais Premium⭐️",ESPN ʙʀᴀsɪʟ ᴴᴰ
+http://00322.xyz:8000/coachprato/40437757/5124
+#EXTINF:-1 tvg-id="" tvg-name="BRA: FISH TV ʙʀᴀsɪʟ ᴴᴰ" tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="SHAREEXT@⭐️Brasil: Canais Premium⭐️",FISH TV ʙʀᴀsɪʟ ᴴᴰ
+http://00322.xyz:8000/coachprato/40437757/5125
+#EXTINF:-1 tvg-id="7877" tvg-name="BRA: FOX SPORTS 2 ʙʀᴀsɪʟ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="SHAREEXT@⭐️Brasil: Canais Premium⭐️",FOXSPORTS 2 ʙʀᴀsɪʟ ᴴᴰ
+http://00322.xyz:8000/coachprato/40437757/5130
+#EXTINF:-1 tvg-id="" tvg-name="BRA: PREMIERE 1 ʙʀᴀsɪʟ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Premiere_logo_2013.png" group-title="SHAREEXT@⭐️Brasil: Canais Premium⭐️",PREMIERE 1 ʙʀᴀsɪʟ ᴴᴰ
+http://00322.xyz:8000/coachprato/40437757/5161
+#EXTINF:-1 tvg-id="" tvg-name="BRA: PREMIERE 2 ʙʀᴀsɪʟ ᴴᴰ" tvg-logo="https://i.pinimg.com/originals/2a/93/7c/2a937cae65feb5411184785f0f6079f6.png" group-title="SHAREEXT@⭐️Brasil: Canais Premium⭐️",PREMIERE 2 ʙʀᴀsɪʟ ᴴᴰ
+http://00322.xyz:8000/coachprato/40437757/5162
+#EXTINF:-1 tvg-id="" tvg-name="BRA: PREMIERE 3 ʙʀᴀsɪʟ ᴴᴰ" tvg-logo="https://iconape.com/wp-content/png_logo_vector/premiere-3-2008-logo.png" group-title="SHAREEXT@⭐️Brasil: Canais Premium⭐️",PREMIERE 3 ʙʀᴀsɪʟ ᴴᴰ
+http://00322.xyz:8000/coachprato/40437757/5163
+#EXTINF:-1 tvg-id="" tvg-name="BRA: PREMIERE 4 ʙʀᴀsɪʟ ᴴᴰ" tvg-logo="https://iconape.com/wp-content/files/qe/279774/png/279774.png" group-title="SHAREEXT@⭐️Brasil: Canais Premium⭐️",PREMIERE 4 ʙʀᴀsɪʟ ᴴᴰ
+http://00322.xyz:8000/coachprato/40437757/5164
+#EXTINF:-1 tvg-id="" tvg-name="BRA: PREMIERE 5 ʙʀᴀsɪʟ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Premiere_logo_2013.png" group-title="SHAREEXT@⭐️Brasil: Canais Premium⭐️",PREMIERE 5 ʙʀᴀsɪʟ ᴴᴰ
+http://00322.xyz:8000/coachprato/40437757/5165
+#EXTINF:-1 tvg-id="" tvg-name="BRA: PREMIERE 6 ʙʀᴀsɪʟ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Premiere_logo_2013.png" group-title="SHAREEXT@⭐️Brasil: Canais Premium⭐️",PREMIERE 6 ʙʀᴀsɪʟ ᴴᴰ
+http://00322.xyz:8000/coachprato/40437757/5166
+#EXTINF:-1 tvg-id="" tvg-name="BRA: PREMIERE 7 ʙʀᴀsɪʟ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Premiere_logo_2013.png" group-title="SHAREEXT@⭐️Brasil: Canais Premium⭐️",PREMIERE 7 ʙʀᴀsɪʟ ᴴᴰ
+http://00322.xyz:8000/coachprato/40437757/5167
+#EXTINF:-1 tvg-id="" tvg-name="BRA: PREMIERE 8 ʙʀᴀsɪʟ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Premiere_logo_2013.png" group-title="SHAREEXT@⭐️Brasil: Canais Premium⭐️",PREMIERE 8 ʙʀᴀsɪʟ ᴴᴰ
+http://00322.xyz:8000/coachprato/40437757/5168
+#EXTINF:-1 tvg-id="" tvg-name="BRA: PREMIERE CLUBE ʙʀᴀsɪʟ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="SHAREEXT@⭐️Brasil: Canais Premium⭐️",PREMIERE CLUBE ʙʀᴀsɪʟ ᴴᴰ
+http://00322.xyz:8000/coachprato/40437757/5169
+#EXTINF:-1 tvg-id="7877" tvg-name="BRA: SPORTV 2 ʙʀᴀsɪʟ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/1280px-SporTV_2_2017_logo.svg.png" group-title="SHAREEXT@⭐️Brasil: Canais Premium⭐️",SPORTV 2 ʙʀᴀsɪʟ ᴴᴰ
+http://00322.xyz:8000/coachprato/40437757/5179
+#EXTINF:-1 tvg-id="7877" tvg-name="BRA: SPORTV 3 ʙʀᴀsɪʟ ᴴᴰ" tvg-logo="https://freepikpsd.com/wp-content/uploads/2019/10/sportv-logo-png-6.png" group-title="SHAREEXT@⭐️Brasil: Canais Premium⭐️",SPORTV 3 ʙʀᴀsɪʟ ᴴᴰ
+http://00322.xyz:8000/coachprato/40437757/5180
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",EVENT_1
