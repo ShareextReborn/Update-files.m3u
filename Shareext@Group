@@ -2382,85 +2382,6 @@ http://rr3.dens.tv/s/s94/index2.m3u8
 http://rr2.dens.tv/s/s32/index.m3u8
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png" group-title="SHAREEXT@MOVIE ASIA",OASIS
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=571238&extension=ts&play_shareext@OASIS
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Vaanavil_%28s20%29.png" group-title="SHAREEXT@MOVIE ASIA",Vaanavil
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=571233&extension=ts&play_shareext@VAANAVIL
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj5y2XD4ZQj7-jajjAxYklVwAIFiO3xZS0BA&usqp=CAU" group-title="SHAREEXT@MOVIE ASIA",IQIYI
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=571198&extension=ts&play_shareext@IQIYI
-#EXTINF:-1 tvg-logo="https://adeasy.co/storage/images/media_profile/picture/1613710204_522_small.jpg" group-title="SHAREEXT@MOVIE ASIA",XIAO TAI YANG
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=571230&extension=ts&play_shareext@XIAOTAIYANG
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="SHAREEXT@MOVIE ASIA",AOD 351
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=571226&extension=ts&play_shareext@AOD351
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="SHAREEXT@MOVIE ASIA",AOD 352
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=571225&extension=ts&play_shareext@AOD352
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="SHAREEXT@MOVIE ASIA",AOD 353
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=571229&extension=ts&play_shareext@AOD353
-#EXTINF:-1 tvg-logo="https://onetvasia.com/sites/onetvasia.com/files/ct_custom_page_f_primary_image/one-default-thumb-20200318.jpg" group-title="SHAREEXT@MOVIE ASIA",ONE
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=571193&extension=ts&play_shareext@ONE
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="SHAREEXT@MOVIE ASIA",AWANI
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=571243&extension=ts&play_shareext@AWANI
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png" group-title="SHAREEXT@MOVIE ASIA",RANIA
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=571256&extension=ts&play_shareext@RANIA
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png" group-title="SHAREEXT@MOVIE ASIA",AURA
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=571257&extension=ts&play_shareext@AURA
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2016/09/Star-vijay-channel-logo.jpg" group-title="SHAREEXT@MOVIE ASIA",Star_Vijay
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=571235&extension=ts&play_shareext@STARVIJAY
-#EXTINF:-1 tvg-logo="https://adeasy.co/storage/images/media_profile/picture/1613710124_516_small.jpg" group-title="SHAREEXT@MOVIE ASIA",Vinmeen
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=571232&extension=ts&play_shareext@VINMEEN
-#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1648809294-.png" group-title="SHAREEXT@MOVIE ASIA",CELESTIAL MOVIE
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=683142&extension=ts&play_shareext@CELESTIAL
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/uPT6bJivLIE/maxresdefault.jpg" group-title="SHAREEXT@MOVIE ASIA",CELESTIAL CLASIC MOVIE
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=683110&extension=ts&play_shareext@CCM
-#EXTINF:-1 tvg-logo="https://orangemagazine.ph/wp-content/uploads/2015/09/AXN-ASIA-New-Logo-e1442906648156.png" group-title="SHAREEXT@MOVIE ASIA", AXN
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=683144&extension=ts&play_shareext@AXN
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="SHAREEXT@MOVIE ASIA", CINEMAX
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=571214&extension=ts&play_shareext@CINEMAX
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="SHAREEXT@MOVIE ASIA", MOVIE NOW
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=1116477&extension=ts&play_shareext@MOVIENOW
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgmuTfsVZJx912ZZ2aSySqIV2LQCQPuxIDLVJV2pkJIM0IDLsOBQzKG29ErsRw_dany4&usqp=CAU" group-title="SHAREEXT@MOVIE ASIA", &Flix
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=282632&extension=ts&play_shareext@&FLIX
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_856,h_482,c_scale,f_webp,q_auto:eco/resources/0-9-priv%C3%A9hd/list/1170x658withlogo375086496.jpg" group-title="SHAREEXT@MOVIE ASIA", &Prive
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=155746&extension=ts&play_shareext@&PRIVE
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="SHAREEXT@MOVIE ASIA", STAR MOVIE
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=282639&extension=ts&play_shareext@STARMOVIE
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-select-hd-logo-300x300.jpg" group-title="SHAREEXT@MOVIE ASIA", STAR MOVIE SELECT
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=155729&extension=ts&play_shareext@STARMOVIESELECT
-#EXTINF:-1 tvg-logo="https://nationalviews.com/wp-content/uploads/2015/06/mn-times-network-new-channel.jpg" group-title="SHAREEXT@MOVIE ASIA", MNX+
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=1110624&extension=ts&play_shareext@MNX+
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/1200px-Paramount_Global.svg.png" group-title="SHAREEXT@MOVIE ASIA", PARAMOUNT
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=926158&extension=ts&play_shareext@PARAMOUNT
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="SHAREEXT@MOVIE ASIA", SONY PIX
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=282631&extension=ts&play_shareext@SONYPIX
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/HITS_TV_ASIA.png/revision/latest?cb=20210828003810" group-title="SHAREEXT@MOVIE ASIA", HITS
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=683145&extension=ts&play_shareext@HITS
-#EXTINF:-1 tvg-logo="https://serpongupdate.com/wp-content/uploads/2019/04/HITS-Movies.jpg" group-title="SHAREEXT@MOVIE ASIA", HITS MOVIE
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=683163&extension=ts&play_shareext@HITSMOVIE
-#EXTINF:-1 tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png" group-title="SHAREEXT@MOVIE ASIA", CINEMA WORLD
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=683146&extension=ts&play_shareext@CINEMAWORLD
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_158.png" group-title="SHAREEXT@MOVIE ASIA", TVN
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=683148&extension=ts&play_shareext@TVN
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="SHAREEXT@MOVIE ASIA",TVN MOVIE
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=683149&extension=ts&play_shareext@TVNMOVIE
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Thrilllogo.webp/390px-Thrilllogo.webp.png" group-title="SHAREEXT@MOVIE ASIA",THRILL
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=683154&extension=ts&play_shareext@THRILL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png" group-title="SHAREEXT@MOVIE ASIA", SONY ONE
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=683130&extension=ts&play_shareext@SONYONE
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="SHAREEXT@MOVIE ASIA", KIX
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=683134&extension=ts&play_shareext@KIX
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/800px-KBS_World_%282009%29.svg.png" group-title="SHAREEXT@MOVIE ASIA", KBS WORLD
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=941631&extension=ts&play_shareext@KBSWORLD
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/FMN_%28Forget_Me_Not%29_Channel.png/800px-FMN_%28Forget_Me_Not%29_Channel.png" group-title="SHAREEXT@MOVIE ASIA", FMN TELENOVELA
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=683143&extension=ts&play_shareext@TELENOVELA
-#EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_bioskop.png" group-title="SHAREEXT@MOVIE ASIA", ZEE BIOSKOP
-http://shareext@protv.fun/play/live.php?mac=00:1A:79:73:BF:36&stream=683155&extension=ts&play_shareext@ZEEBIOSKOP
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",BOO_🇲🇾_maper
 https://maper.info/BOO_shareext
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",CINEMAX_🇲🇾_maper
@@ -2716,28 +2637,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Angry Birds Toons" tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",ID:Angry•Bird•Toons_dec=native
-http://xtv.ooo:8080/1367/1367/350879
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 BabyBus Indonesia" tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",ID:BabyBus•Indonesia_dec=native
-http://xtv.ooo:8080/1367/1367/350880
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Donald Ducks" tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",ID:Donald•Ducks_dec=native
-http://xtv.ooo:8080/1367/1367/350881
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Doraemon" tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",ID:Doraemon_dec=native
-http://xtv.ooo:8080/1367/1367/350882
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Just For Laughs" tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",ID:Just•For•Laughs_dec=native
-http://xtv.ooo:8080/1367/1367/350883
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Mr Bean Cartoon" tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",ID:Mr•Bean•Cartoon_dec=native
-http://xtv.ooo:8080/1367/1367/350884
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Mr. Bean Classic" tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",ID:Mr.Bean•Classic_dec=native
-http://xtv.ooo:8080/1367/1367/350885
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Tom And Jerry" tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",ID:Tom•And•Jerry_dec=native
-http://xtv.ooo:8080/1367/1367/350886
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Upin Ipin" tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",ID:Upin•Ipin_dec=native
-http://xtv.ooo:8080/1367/1367/350887
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Warkop DKI" tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",ID:Warkop•DKI_dec=native
-http://xtv.ooo:8080/1367/1367/350888
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",JOHN_WICK_movie
 http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=99483&extension=ts&play_shareext@johnwick_movie
