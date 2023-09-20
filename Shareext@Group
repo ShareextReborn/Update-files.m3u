@@ -381,6 +381,8 @@ http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/162138
 http://103.166.27.2:800/play/a016
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar|HD_kc
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/162138
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar|HD_pro
+http://gamsgo.cyou:8080/protoniumtv2020/BEsFfJ53gJrRXqde/162138
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar|HD_ott
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar_HD_dec=native
@@ -1398,12 +1400,6 @@ https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/i
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165105
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",🇮🇩beINSports_3
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298506
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",🇮🇩ChampionTv_1
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298512
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",🇮🇩ChampionTv_2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298513
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",🇮🇩ChampionTv_3
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298514
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",🇮🇩TVRI_Sport
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/166686
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",🇮🇩Usee_Prime
