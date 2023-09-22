@@ -1778,6 +1778,18 @@ http://sibfungold.info:8080/live/kuloviceldin1/4imy1RgmDA/54170.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@SUKAN_ANTARABANGSA",ASTRO_CRICKET
 http://sibfungold.info:8080/live/kuloviceldin1/4imy1RgmDA/54242.ts
 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Open TV 1(sports)
+https://opentvlive1.siliconweb.com/opentvliveabr/openlatin/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Open tv 2 (sports)
+https://opentvlive1.siliconweb.com/opentvliveabr/openlatin2/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Open tv 3(sports)
+https://opentvlive1.siliconweb.com/opentvliveabr/openlatin3/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Ert_sports 1
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports3/ert_sports3_main/mainabr/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Ert_sports 2
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports3/ert_sports2_main/mainabr/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Ert_sports 3
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports3/ert_sports3_main/mainabr/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Astro•Cricket_🇲🇾
 http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=571244&extension=ts&play_assp_Cricket
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",ASSP_1_🇲🇾
