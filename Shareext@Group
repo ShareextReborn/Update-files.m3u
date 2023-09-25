@@ -467,6 +467,15 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/162138
 http://gamsgo.cyou:8080/protoniumtv2020/BEsFfJ53gJrRXqde/162138
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar|HD_ott
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RCTII
+https://still2-art-a4d1brcnkworkersdev.brcnk.workers.dev/brotoali/apalagi1008/play.m3u8?id=rcti&key=rctiplus&type=hls|User-Agent=Dalvik/2.1.0
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",rctii
+https://yip.su/b12otoali#https://liveaneviadev.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8|User-Agent=Dalvik/2.1.0
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MNCTV✓
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2-avc1_149952=1.m3u8|User-Agent=Dalvik/2.1.0
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",INEWS✓
+https://liveaneviadev.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8|User-Agent=Dalvik/2.1.0
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RCTI_now
 http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2-avc1_2499968=3.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",GTV|line
@@ -475,14 +484,6 @@ http://shareext@line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683
 http://shareext@line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683099&extension=ts&play_token=shareext
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",M|N|C|TV|line
 http://shareext@line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683098&extension=ts&play_token=shareext
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",rcti=dec=auto
-https://yip.su/RCTI_shareext_ts|User-Agent=Dalvik/2.1.0
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",mnctv=dec=auto
-https://yip.su/MNCTV_shareext_ts|User-Agent=Dalvik/2.1.0
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",gtv=dec=auto
-https://yip.su/GTV_shareext_ts|User-Agent=Dalvik/2.1.0
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",inews_dec=auto
-https://yip.su/INEWS_shareext_ts|User-Agent=Dalvik/2.1.0
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseePrime_dec=auto
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 #EXTINF:1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",TRUE•EPL_1_TH
@@ -889,12 +890,14 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3888)/index.m3
 
 
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",RCTI_ezt_dec=auto
-https://ezstat.ru/RCTI_shareext_ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",MNCTV_ezt_dec=auto
-https://ezstat.ru/MNCTV_shareext_ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",INEWS_ezt_dec=auto
-https://ezstat.ru/INEWS_shareext_ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",INEWS°®
+https://still2-art-a4d1brcnkworkersdev.brcnk.workers.dev/brotoali/apalagi1008/play.m3u8?id=inews&key=rctiplus&type=hls|User-Agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",MNCTV°®
+https://still2-art-a4d1brcnkworkersdev.brcnk.workers.dev/brotoali/apalagi1008/play.m3u8?id=mnctv&key=rctiplus&type=hls|User-Agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",GTV°®
+https://still2-art-a4d1brcnkworkersdev.brcnk.workers.dev/brotoali/apalagi1008/play.m3u8?id=gtv&key=rctiplus&type=hls|User-Agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",RCTI°®
+https://still2-art-a4d1brcnkworkersdev.brcnk.workers.dev/brotoali/apalagi1008/play.m3u8?id=rcti&key=rctiplus&type=hls|User-Agent=Dalvik/2.1.0
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",HBO✓
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/197972
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",HBO✓Family
