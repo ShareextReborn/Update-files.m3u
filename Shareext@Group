@@ -516,6 +516,34 @@ https://lh3.googleusercontent.com/nKlDG1P-4y8L-1GOwSs7cqO6Mjq68l4qv-5xIzOYJ07Jj5
 http://edge.linknetott.swiftserve.com/channelgroup2/cg234production/ch329/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",SPOTV_2_asia
 http://edge.linknetott.swiftserve.com/channelgroup2/cg235production/ch3300/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="ShareExt@Relax",beINSports 1_kc
+http://kuchini.site:8080/0613bffd/d7f0406c7a/165105
+#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="ShareExt@Relax",beINSports 3_kc
+http://kuchini.site:8080/0613bffd/d7f0406c7a/298506
+#EXTINF:-1 tvg-id="" tvg-name="ID: Usee Prime" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b3c7f04ad2b1bdc88af962a4b2402136.png" group-title="ShareExt@Relax",Usee Prime_kc
+http://kuchini.site:8080/0613bffd/d7f0406c7a/162524
+#EXTINF:-1 tvg-id="" tvg-name="ID: Usee Sport 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ShareExt@Relax",UseeSport 1_kc
+http://kuchini.site:8080/0613bffd/d7f0406c7a/298577
+#EXTINF:-1 tvg-id="" tvg-name="ID: Usee Sport 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ShareExt@Relax",UseeSport 2_kc
+http://kuchini.site:8080/0613bffd/d7f0406c7a/298578
+#EXTINF:-1 tvg-id="" tvg-name="ID: MNC Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png" group-title="ShareExt@Relax",Sportstar
+http://kuchini.site:8080/0613bffd/d7f0406c7a/157589
+#EXTINF:-1 tvg-id="" tvg-name="ID: MNC Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a69bff38e05e469908d7e8190e1184eb.png" group-title="ShareExt@Relax",Sportstar 2
+http://kuchini.site:8080/0613bffd/d7f0406c7a/298548
+#EXTINF:-1 tvg-id="" tvg-name="ID: MNC Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e5b6a41ba121fd867a41a6e8ccf30b20.png" group-title="ShareExt@Relax",Sportstar 3
+http://kuchini.site:8080/0613bffd/d7f0406c7a/298549
+#EXTINF:-1 tvg-id="" tvg-name="ID: SpoTV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="ShareExt@Relax",ID:SpoTV
+http://kuchini.site:8080/0613bffd/d7f0406c7a/298570
+#EXTINF:-1 tvg-id="" tvg-name="ID: SpoTV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="ShareExt@Relax",ID:SpoTV 2
+http://kuchini.site:8080/0613bffd/d7f0406c7a/298571
+#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/05fa2b7d8fef39455387f2566b52701b.png" group-title="ShareExt@Relax",TVRI Sport
+http://kuchini.site:8080/0613bffd/d7f0406c7a/166686
+#EXTINF:-1 tvg-id="" tvg-name="ID: NBA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="ShareExt@Relax",ID:NBA TV
+http://kuchini.site:8080/0613bffd/d7f0406c7a/298558
+#EXTINF:-1 tvg-id="" tvg-name="ID: 01. ETV Live Event" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ShareExt@Relax",Live Event(champ5_true1)
+http://kuchini.site:8080/0613bffd/d7f0406c7a/298491
+#EXTINF:-1 tvg-id="" tvg-name="ID: 02. ETV Live Event 02" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ShareExt@Relax",Live Event 02(champ6_true2)
+http://kuchini.site:8080/0613bffd/d7f0406c7a/298492
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Okey🇲🇾_maper
 https://maper.info/OKEY_shareext
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Rtm_Sukan🇲🇾_maper
