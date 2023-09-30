@@ -4091,25 +4091,6 @@ https://stream.ads.ottera.tv/cl/29fmbD4wgol0FelXaMeAw/854x480_550000_3_f.m3u8
 
 
 
-
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",Spotv_kvision🇮🇩
-http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/371699.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",Spotv_2_kvision🇮🇩
-http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/371700.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",SportStars_1🇮🇩
-http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/371696.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",SportStars_2🇮🇩
-http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/371697.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",SportStars_3🇮🇩
-http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/371698.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",Soccer_channels🇮🇩
-http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/371701.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",Astro_ARENA🇲🇾
-http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/379989.ts
-
-
-
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@EPL",ASSP•1_dec=auto
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186387&extension=ts&play_token=oNnNMlQM3k
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@EPL",ASSP•2_dec=auto
