@@ -2027,6 +2027,49 @@ http://sibfungold.info:8080/live/kuloviceldin1/4imy1RgmDA/54170.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@SUKAN_ANTARABANGSA",ASTRO_CRICKET
 http://sibfungold.info:8080/live/kuloviceldin1/4imy1RgmDA/54242.ts
 
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="TNT Sports 1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/TNT_Sports_Logo_(2017)_II.png" group-title="SHAREEXT@SUKAN_ANTARABANGSA",TNT Sports 1 HD
+http://163.172.55.74:8080/Baldock1/Football123/1859
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="TNT Sports 2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/TNT_Sports_Logo_(2017)_II.png" group-title="SHAREEXT@SUKAN_ANTARABANGSA",TNT Sports 2 HD
+http://163.172.55.74:8080/Baldock1/Football123/1857
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="TNT Sports 3 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/TNT_Sports_Logo_(2017)_II.png" group-title="SHAREEXT@SUKAN_ANTARABANGSA",TNT Sports 3 HD
+http://163.172.55.74:8080/Baldock1/Football123/1855
+#EXTINF:-1 tvg-id="btsport4.uk" tvg-name="TNT Sports 4 FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/TNT_Sports_Logo_(2017)_II.png" group-title="SHAREEXT@SUKAN_ANTARABANGSA",TNT Sports 4 FHD
+http://163.172.55.74:8080/Baldock1/Football123/134949
+#EXTINF:-1 tvg-id="btsportultimate.uk" tvg-name="TNT Sports Ultimate 4K" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/TNT_Sports_Logo_(2017)_II.png" group-title="SHAREEXT@SUKAN_ANTARABANGSA",TNT Sports Ultimate 4K
+http://163.172.55.74:8080/Baldock1/Football123/132831
+#EXTINF:-1 tvg-id="espn.us" tvg-name="TNT Sports ESPN HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/TNT_Sports_Logo_(2017)_II.png" group-title="SHAREEXT@SUKAN_ANTARABANGSA",TNT Sports ESPN HD
+http://163.172.55.74:8080/Baldock1/Football123/1854
+#EXTINF:-1 tvg-id="btsport5.uk" tvg-name="TNT Sports Extra 1 HD " tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/TNT_Sports_Logo_(2017)_II.png" group-title="SHAREEXT@SUKAN_ANTARABANGSA",TNT Sports Extra 1 HD
+http://163.172.55.74:8080/Baldock1/Football123/1861
+#EXTINF:-1 tvg-id="btsport6.uk" tvg-name="TNT Sports Extra 2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/TNT_Sports_Logo_(2017)_II.png" group-title="SHAREEXT@SUKAN_ANTARABANGSA",TNT Sports Extra 2 HD
+http://163.172.55.74:8080/Baldock1/Football123/1862
+#EXTINF:-1 tvg-id="btsport7.uk" tvg-name="TNT Sports Extra 3 HD " tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/TNT_Sports_Logo_(2017)_II.png" group-title="SHAREEXT@SUKAN_ANTARABANGSA",TNT Sports Extra 3 HD
+http://163.172.55.74:8080/Baldock1/Football123/1863
+#EXTINF:-1 tvg-id="btsport4.uk" tvg-name="TNT Sports Extra 4 HD " tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/TNT_Sports_Logo_(2017)_II.png" group-title="SHAREEXT@SUKAN_ANTARABANGSA",TNT Sports Extra 4 HD
+http://163.172.55.74:8080/Baldock1/Football123/1864
+#EXTINF:-1 tvg-id="btsport5.uk" tvg-name="TNT Sports Extra 5 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/TNT_Sports_Logo_(2017)_II.png" group-title="SHAREEXT@SUKAN_ANTARABANGSA",TNT Sports Extra 5 HD
+http://163.172.55.74:8080/Baldock1/Football123/1865
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="Sky Sports Main Event HD" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-ME-2020-logo-250.png" group-title="SHAREEXT@SUKAN_ANTARABANGSA",SkySports Main Event HD
+http://163.172.55.74:8080/Baldock1/Football123/1878
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="Sky Sports Football HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="SHAREEXT@SUKAN_ANTARABANGSA",SkySports Football HD
+http://163.172.55.74:8080/Baldock1/Football123/1874
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="Sky Sports Premier League HD" tvg-logo="https://www.nicepng.com/png/full/213-2133982_sky-sports-logo-png.png" group-title="SHAREEXT@SUKAN_ANTARABANGSA",SkySports Premier League HD
+http://163.172.55.74:8080/Baldock1/Football123/1885
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="Sky Sports Arena HD" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fskymedia.it%2Fwp-content%2Fuploads%2F2020%2F09%2FSky_Sport_Arena_PRIMARY_RGB.png&f=1&nofb=1&ipt=dc65589fe08e51ad26323b946d6006dfa49259a6478611c470eb9e5bc261aa0a&ipo=images" group-title="SHAREEXT@SUKAN_ANTARABANGSA",SkySports Arena HD
+http://163.172.55.74:8080/Baldock1/Football123/1867
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Hundred HD" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SHAREEXT@SUKAN_ANTARABANGSA",SkySports Hundred HD
+http://163.172.55.74:8080/Baldock1/Football123/1869
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="Sky Sports F1 HD" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-h7PBQjXvkiQ%2FVAW76BncsgI%2FAAAAAAAAFVo%2FJeav8TwaKO4%2Fs1600%2Fsky%252Bsports%252Bf1%252Blive%252Bmykora.png&f=1&nofb=1&ipt=3868e7c7edda1855e732d8b4fe87893253608b9140ce86d357f8b3b58bd8c21a&ipo=images" group-title="SHAREEXT@SUKAN_ANTARABANGSA",SkySports F1 HD
+http://163.172.55.74:8080/Baldock1/Football123/1871
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="Sky Sports Golf HD" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.frimleygreenclub.co.uk%2Fwp-content%2Fuploads%2F2020%2F06%2Fsky-golf-1.png-BIG.png&f=1&nofb=1&ipt=f308a8685464f29c9faeb6157261552b6db75a29d63fb1517127041f982ba8dd&ipo=images" group-title="SHAREEXT@SUKAN_ANTARABANGSA",SkySports Golf HD
+http://163.172.55.74:8080/Baldock1/Football123/1876
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="Sky Sports Mix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/2560px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="SHAREEXT@SUKAN_ANTARABANGSA",SkySports Mix
+http://163.172.55.74:8080/Baldock1/Football123/1879
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="Sky Sports News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" group-title="SHAREEXT@SUKAN_ANTARABANGSA",SkySports News HD
+http://163.172.55.74:8080/Baldock1/Football123/1881
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="Sky Sports Action HD" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fskymedia.it%2Fwp-content%2Fuploads%2F2021%2F06%2FSky_Sport_Action.png&f=1&nofb=1&ipt=2abb573d98c40887b2bf65bbb1081e5c10d048c4893e6ddc4b359e37127f8d51&ipo=images" group-title="SHAREEXT@SUKAN_ANTARABANGSA",SkySports Action HD
+http://163.172.55.74:8080/Baldock1/Football123/1884
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Open TV 1(sports)
 https://opentvlive1.siliconweb.com/opentvliveabr/openlatin/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Open tv 2 (sports)
