@@ -539,34 +539,6 @@ https://maper.info/RCTI_shareext_ts
 https://maper.info/INEWS_shareext
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",GTV_🇮🇩
 https://maper.info/GTV_shareext_ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="ShareExt@Relax",beINSports 1_kc
-http://kuchini.site:8080/0613bffd/d7f0406c7a/165105
-#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="ShareExt@Relax",beINSports 3_kc
-http://kuchini.site:8080/0613bffd/d7f0406c7a/298506
-#EXTINF:-1 tvg-id="" tvg-name="ID: Usee Prime" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b3c7f04ad2b1bdc88af962a4b2402136.png" group-title="ShareExt@Relax",Usee Prime_kc
-http://kuchini.site:8080/0613bffd/d7f0406c7a/162524
-#EXTINF:-1 tvg-id="" tvg-name="ID: Usee Sport 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ShareExt@Relax",UseeSport 1_kc
-http://kuchini.site:8080/0613bffd/d7f0406c7a/298577
-#EXTINF:-1 tvg-id="" tvg-name="ID: Usee Sport 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ShareExt@Relax",UseeSport 2_kc
-http://kuchini.site:8080/0613bffd/d7f0406c7a/298578
-#EXTINF:-1 tvg-id="" tvg-name="ID: MNC Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png" group-title="ShareExt@Relax",Sportstar
-http://kuchini.site:8080/0613bffd/d7f0406c7a/157589
-#EXTINF:-1 tvg-id="" tvg-name="ID: MNC Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a69bff38e05e469908d7e8190e1184eb.png" group-title="ShareExt@Relax",Sportstar 2
-http://kuchini.site:8080/0613bffd/d7f0406c7a/298548
-#EXTINF:-1 tvg-id="" tvg-name="ID: MNC Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e5b6a41ba121fd867a41a6e8ccf30b20.png" group-title="ShareExt@Relax",Sportstar 3
-http://kuchini.site:8080/0613bffd/d7f0406c7a/298549
-#EXTINF:-1 tvg-id="" tvg-name="ID: SpoTV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="ShareExt@Relax",ID:SpoTV
-http://kuchini.site:8080/0613bffd/d7f0406c7a/298570
-#EXTINF:-1 tvg-id="" tvg-name="ID: SpoTV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="ShareExt@Relax",ID:SpoTV 2
-http://kuchini.site:8080/0613bffd/d7f0406c7a/298571
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/05fa2b7d8fef39455387f2566b52701b.png" group-title="ShareExt@Relax",TVRI Sport
-http://kuchini.site:8080/0613bffd/d7f0406c7a/166686
-#EXTINF:-1 tvg-id="" tvg-name="ID: NBA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="ShareExt@Relax",ID:NBA TV
-http://kuchini.site:8080/0613bffd/d7f0406c7a/298558
-#EXTINF:-1 tvg-id="" tvg-name="ID: 01. ETV Live Event" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ShareExt@Relax",Live Event(champ5_true1)
-http://kuchini.site:8080/0613bffd/d7f0406c7a/298491
-#EXTINF:-1 tvg-id="" tvg-name="ID: 02. ETV Live Event 02" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ShareExt@Relax",Live Event 02(champ6_true2)
-http://kuchini.site:8080/0613bffd/d7f0406c7a/298492
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Okey🇲🇾_maper
 https://maper.info/OKEY_shareext
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Rtm_Sukan🇲🇾_maper
@@ -638,8 +610,6 @@ https://af.ayas.ir/hls2/persiana.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",AIO•SPORTS•2
 https://af.ayas.ir/hls2/aiosport2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar_HD
-http://kuchini.site:8080/0613bffd/d7f0406c7a/162138
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar|HD_kc
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/162138
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar|HD_ott
@@ -655,16 +625,6 @@ https://ezstat.ru/RCTI_shareext_ts|User-Agent=Dalvik/2.1.0
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8|User-Agent=Dalvik/2.1.0
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseePrime_dec=auto
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
-#EXTINF:1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",TRUE•EPL_1_TH
-http://ip2121.com:8081/live/eng1/playlist.m3u8
-#EXTINF:1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",TRUE•EPL_2_TH
-http://ip2121.com:8081/live/eng2/playlist.m3u8
-#EXTINF:1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",TRUE•EPL_3_TH
-http://ip2121.com:8081/live/eng3/playlist.m3u8
-#EXTINF:1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",TRUE•EPL_4_TH
-http://ip2121.com:8081/live/eng4/playlist.m3u8
-#EXTINF:1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",TRUE•EPL_5_TH
-http://ip2121.com:8081/live/eng5/playlist.m3u8
 #EXTINF:1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",J°Sports 1		
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",J°Sports 2		
@@ -1057,17 +1017,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3400)/index.m3
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3888)/index.m3u8
 
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ID: RCTI" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",RCTI_HD
-http://kuchini.site:8080/0613bffd/d7f0406c7a/157591
-#EXTINF:-1 tvg-id="" tvg-name="ID: MNC TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",MNCTV_HD
-http://kuchini.site:8080/0613bffd/d7f0406c7a/165054
-#EXTINF:-1 tvg-id="" tvg-name="ID: GTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",GTV_JD
-http://kuchini.site:8080/0613bffd/d7f0406c7a/157578
-#EXTINF:-1 tvg-id="" tvg-name="ID: INews" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",INews_HD
-http://kuchini.site:8080/0613bffd/d7f0406c7a/157579
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",iNews_TV_play
 http://198.16.100.90:8278/Inewstv/playlist.m3u8?tid=ME1E8983653189836531&ct=19249&tsum=94c9e0a29f266dea3d3ed307954ed91a
