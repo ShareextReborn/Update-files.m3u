@@ -906,18 +906,33 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",ASEAN•GAMES•HANGZOU_01
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",ASEAN•GAMES•HANGZOU_01_maper
 https://maper.info/ASEAN_GAMES_HZ-shareext-ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",ASEAN•GAMES•HANGZOU_02
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",ASEAN•GAMES•HANGZOU_02_maper
 https://maper.info/ASEAN_GAMES_HZ2-shareext-ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",ASEAN•GAMES•HANGZOU_03
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",ASEAN•GAMES•HANGZOU_03_maper
 https://maper.info/ASEAN_GAMES_HZ3-shareext-ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",ASEAN•GAMES•HANGZOU_04
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",ASEAN•GAMES•HANGZOU_04_maper
 https://maper.info/ASEAN_GAMES_HZ4-shareext-ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",ASEAN•GAMES•HANGZOU_05
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",ASEAN•GAMES•HANGZOU_05_maper
 https://maper.info/ASEAN_GAMES_HZ5-shareext-ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",ASEAN•GAMES•HANGZOU_06
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",ASEAN•GAMES•HANGZOU_06_maper
 https://maper.info/ASEAN_GAMES_HZ6-shareext-ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",ASEAN•GAMES•RTM_1
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",ASEAN•GAMES•RTM_2
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",ASEAN•GAMES•RTM_3
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",ASEAN•GAMES•RTM_4
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",ASEAN•GAMES•RTM_5
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",ASEAN•GAMES•RTM_6
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag6/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",ASEAN•GAMES•CHINA_1
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation51/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3a327c3769e750894bb30b35ffb63a63
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/262vjnDt/shareext-firsmedia.jpg" group-title="SHAREEXT@FIRSTMEDIA", MOJI_HD
