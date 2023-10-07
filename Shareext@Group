@@ -906,7 +906,18 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
-
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",ASEAN•GAMES•HANGZOU_01
+https://maper.info/ASEAN_GAMES_HZ-shareext-ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",ASEAN•GAMES•HANGZOU_02
+https://maper.info/ASEAN_GAMES_HZ2-shareext-ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",ASEAN•GAMES•HANGZOU_03
+https://maper.info/ASEAN_GAMES_HZ3-shareext-ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",ASEAN•GAMES•HANGZOU_04
+https://maper.info/ASEAN_GAMES_HZ4-shareext-ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",ASEAN•GAMES•HANGZOU_05
+https://maper.info/ASEAN_GAMES_HZ5-shareext-ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",ASEAN•GAMES•HANGZOU_06
+https://maper.info/ASEAN_GAMES_HZ6-shareext-ts
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/262vjnDt/shareext-firsmedia.jpg" group-title="SHAREEXT@FIRSTMEDIA", MOJI_HD
