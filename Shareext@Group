@@ -636,6 +636,8 @@ http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=941563&e
 https://af.ayas.ir/hls2/persiana.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",AIO•SPORTS•2
 https://af.ayas.ir/hls2/aiosport2.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_pre
+https://ktpremium.com:443/cc1219/54897855/73617
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_maper
 https://maper.info/Indosiar-VD-shareext-ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_xtv_dec=auto
