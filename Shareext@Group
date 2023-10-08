@@ -4496,6 +4496,31 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-4
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass" tvg-logo="http://myserveriptv.com:2082/images/0f1e6af3ded265ef957875152c35f14b.png" group-title="ShareExt@FIGHT_Sports",UFC Fight Pass
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/33788
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network" tvg-logo="http://myserveriptv.com:2082/images/9b916c9a9c08d84b6e146a09a6916cdd.png" group-title="ShareExt@FIGHT_Sports",Fight Network
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/205838
+#EXTINF:-1 tvg-id="" tvg-name="Fight Box" tvg-logo="http://myserveriptv.com:2082/images/c704848d4a3d3928cc23076075737c30.png" group-title="ShareExt@FIGHT_Sports",Fight Box
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/138356
+#EXTINF:-1 tvg-id="" tvg-name="WWE Shahid Tv" tvg-logo="http://myserveriptv.com:2082/images/4621344548e00177074b01631c46dbb9.png" group-title="ShareExt@FIGHT_Sports",WWE Shahid Tv
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/228012
+#EXTINF:-1 tvg-id="" tvg-name="WWE Shahid 4K" tvg-logo="http://myserveriptv.com:2082/images/4621344548e00177074b01631c46dbb9.png" group-title="ShareExt@FIGHT_Sports",WWE Shahid 4K
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/237289
+#EXTINF:-1 tvg-id="" tvg-name="WWE Netflix+" tvg-logo="http://myserveriptv.com:2082/images/4621344548e00177074b01631c46dbb9.png" group-title="ShareExt@FIGHT_Sports",WWE Netflix+
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/237366
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="http://myserveriptv.com:2082/images/4621344548e00177074b01631c46dbb9.png" group-title="ShareExt@FIGHT_Sports",WWE Network
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242273
+#EXTINF:-1 tvg-id="" tvg-name="WWE FRIDAY NIGHT SMACKDOWN" tvg-logo="http://myserveriptv.com:2082/images/4621344548e00177074b01631c46dbb9.png" group-title="ShareExt@FIGHT_Sports",WWE FRIDAY NIGHT SMACKDOWN
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/237479
+#EXTINF:-1 tvg-id="" tvg-name="WWE SmackDown 1" tvg-logo="http://myserveriptv.com:2082/images/4621344548e00177074b01631c46dbb9.png" group-title="ShareExt@FIGHT_Sports",WWE SmackDown 1
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/237480
+#EXTINF:-1 tvg-id="" tvg-name="WWE NEXT" tvg-logo="http://myserveriptv.com:2082/images/4621344548e00177074b01631c46dbb9.png" group-title="ShareExt@FIGHT_Sports",WWE NEXT
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/237481
+#EXTINF:-1 tvg-id="" tvg-name="WWE RAW" tvg-logo="http://myserveriptv.com:2082/images/4621344548e00177074b01631c46dbb9.png" group-title="ShareExt@FIGHT_Sports",WWE RAW
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/237482
+#EXTINF:-1 tvg-id="" tvg-name="WWE GLOBAL" tvg-logo="http://myserveriptv.com:2082/images/4621344548e00177074b01631c46dbb9.png" group-title="ShareExt@FIGHT_Sports",WWE GLOBAL
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/237483
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",UFC_24/7
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/146291.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",UFC_network
