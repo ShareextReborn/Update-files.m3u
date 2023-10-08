@@ -906,6 +906,19 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",Asian✓Games✓Hangzhou 2023_1
+https://ktpremium.com:443/cc1219/54897855/932288
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",Asian✓Games✓Hangzhou 2023_2
+https://ktpremium.com:443/cc1219/54897855/932289
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",Asian✓Games✓Hangzhou 2023_3
+https://ktpremium.com:443/cc1219/54897855/932290
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",Asian✓Games✓Hangzhou 2023_4
+https://ktpremium.com:443/cc1219/54897855/932471
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",Asian✓Games✓Hangzhou 2023_5
+https://ktpremium.com:443/cc1219/54897855/932472
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",Asian✓Games✓Hangzhou 2023_6
+https://ktpremium.com:443/cc1219/54897855/932473
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",ASEAN•GAMES•HANGZOU_01_maper
 https://maper.info/ASEAN_GAMES_HZ-shareext-ts
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",ASEAN•GAMES•HANGZOU_02_maper
