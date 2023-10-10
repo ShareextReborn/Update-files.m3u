@@ -2018,6 +2018,475 @@ http://45.166.92.22:58001/play/a04d/index.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="StarzPlay Sports" tvg-logo="http://myserveriptv.com:2082/images/9d41b450a2c2cf29a76c8790e837d569.png" group-title="SHAREEXT@World Sports",StarzPlay Sports
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/229226
+#EXTINF:-1 tvg-id="" tvg-name="StarzPlay Crlife 1 HD" tvg-logo="http://myserveriptv.com:2082/images/9d41b450a2c2cf29a76c8790e837d569.png" group-title="SHAREEXT@World Sports",StarzPlay Crlife 1 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/232441
+#EXTINF:-1 tvg-id="" tvg-name="StarzPlay Crlife 2 HD" tvg-logo="http://myserveriptv.com:2082/images/9d41b450a2c2cf29a76c8790e837d569.png" group-title="SHAREEXT@World Sports",StarzPlay Crlife 2 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/232442
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="http://myserveriptv.com:2082/images/6a2d87037cb50511ea5cdb8e44adb643.png" group-title="SHAREEXT@World Sports",NBA TV
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/476
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="http://myserveriptv.com:2082/images/508d0f4b5ac271c047cc2ea8f3466719.png" group-title="SHAREEXT@World Sports",Tennis Channel
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/28408
+#EXTINF:-1 tvg-id="" tvg-name="Willow Cricket" tvg-logo="http://myserveriptv.com:2082/images/b4c4bc1ed13c4ee1437b4c64b0f62a1d.png" group-title="SHAREEXT@World Sports",Willow Cricket
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/65109
+#EXTINF:-1 tvg-id="" tvg-name="World Fishing Network" tvg-logo="http://myserveriptv.com:2082/images/c771860880ea9e7ca95f3dd81155b326.png" group-title="SHAREEXT@World Sports",World Fishing Network
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/16154
+#EXTINF:-1 tvg-id="" tvg-name="Yes Network" tvg-logo="http://iptvch.com:2082/images/a6105c0a611b41b08f1209506350279e.png" group-title="SHAREEXT@World Sports",Yes Network
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/205816
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network HD" tvg-logo="http://myserveriptv.com:2082/images/ecf0d5b7e6a9b287a2c85cd569d55756.png" group-title="SHAREEXT@World Sports",MLB Network HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/239805
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="http://myserveriptv.com:2082/images/4621344548e00177074b01631c46dbb9.png" group-title="SHAREEXT@World Sports",WWE Network
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242273
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass" tvg-logo="http://myserveriptv.com:2082/images/0f1e6af3ded265ef957875152c35f14b.png" group-title="SHAREEXT@World Sports",UFC Fight Pass
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/33788
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network" tvg-logo="http://myserveriptv.com:2082/images/9b916c9a9c08d84b6e146a09a6916cdd.png" group-title="SHAREEXT@World Sports",Fight Network
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/205838
+#EXTINF:-1 tvg-id="" tvg-name="Fight Box" tvg-logo="http://myserveriptv.com:2082/images/c704848d4a3d3928cc23076075737c30.png" group-title="SHAREEXT@World Sports",Fight Box
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/138356
+#EXTINF:-1 tvg-id="" tvg-name="UK: Viaplay Sports 1 HD" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",UK: Viaplay Sports 1 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242280
+#EXTINF:-1 tvg-id="" tvg-name="UK: Viaplay Sports 2 HD" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",UK: Viaplay Sports 2 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242281
+#EXTINF:-1 tvg-id="" tvg-name="UK: Viaplay Xtra HD" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",UK: Viaplay Xtra HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242282
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Bar 1 4K" tvg-logo="http://myserveriptv.com:2082/images/5537b687abc3cd0d50ea9d6205903f40.png" group-title="SHAREEXT@World Sports",DAZN Bar 1 4K
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/249947
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Bar 2 4K" tvg-logo="http://myserveriptv.com:2082/images/5537b687abc3cd0d50ea9d6205903f40.png" group-title="SHAREEXT@World Sports",DAZN Bar 2 4K
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/249948
+#EXTINF:-1 tvg-id="" tvg-name="DE: FC Bayern HD" tvg-logo="http://myserveriptv.com:2082/images/6ce61213cccbb053f151790bbb605bb9.png" group-title="SHAREEXT@World Sports",DE: FC Bayern HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/16509
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport Digital" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",DE: Sport Digital
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242081
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport 1" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",DE: Sport 1
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242082
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport 1+" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",DE: Sport 1+
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242083
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport News" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",DE: Sport News
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242364
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport Top Event" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",DE: Sport Top Event
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242365
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport MIX" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",DE: Sport MIX
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242367
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport Golf" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",DE: Sport Golf
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242368
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport F1" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",DE: Sport F1
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242369
+#EXTINF:-1 tvg-id="" tvg-name="DE: Motorvision" tvg-logo="http://myserveriptv.com:2082/images/9b06e1603cfedf6bb77462e41e9e5e37.png" group-title="SHAREEXT@World Sports",DE: Motorvision
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/13977
+#EXTINF:-1 tvg-id="" tvg-name="AT: ORF Sport" tvg-logo="http://myserveriptv.com:2082/images/4cc23160ca0e0a03261fd90d166c9c8a.png" group-title="SHAREEXT@World Sports",AT: ORF Sport
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/121223
+#EXTINF:-1 tvg-id="" tvg-name="AT: ORF Sport+ HD" tvg-logo="http://myserveriptv.com:2082/images/4cc23160ca0e0a03261fd90d166c9c8a.png" group-title="SHAREEXT@World Sports",AT: ORF Sport+ HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/16517
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Voetbal" tvg-logo="http://myserveriptv.com:2082/images/a67ebab7829454bb119bbd46b225d922.png" group-title="SHAREEXT@World Sports",NL: Ziggo Voetbal
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/229637
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Select" tvg-logo="http://myserveriptv.com:2082/images/a67ebab7829454bb119bbd46b225d922.png" group-title="SHAREEXT@World Sports",NL: Ziggo Select
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/229636
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Docu HD" tvg-logo="http://myserveriptv.com:2082/images/a67ebab7829454bb119bbd46b225d922.png" group-title="SHAREEXT@World Sports",NL: Ziggo Sport Docu HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/76355
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Golf HD" tvg-logo="http://myserveriptv.com:2082/images/a67ebab7829454bb119bbd46b225d922.png" group-title="SHAREEXT@World Sports",NL: Ziggo Sport Golf HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/76352
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport HD" tvg-logo="http://myserveriptv.com:2082/images/a67ebab7829454bb119bbd46b225d922.png" group-title="SHAREEXT@World Sports",NL: Ziggo Sport HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/66852
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Racing HD" tvg-logo="http://myserveriptv.com:2082/images/a67ebab7829454bb119bbd46b225d922.png" group-title="SHAREEXT@World Sports",NL: Ziggo Sport Racing HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/76353
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Select HD" tvg-logo="http://myserveriptv.com:2082/images/a67ebab7829454bb119bbd46b225d922.png" group-title="SHAREEXT@World Sports",NL: Ziggo Sport Select HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/76350
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Tennis HD" tvg-logo="http://myserveriptv.com:2082/images/a67ebab7829454bb119bbd46b225d922.png" group-title="SHAREEXT@World Sports",NL: Ziggo Sport Tennis HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/76354
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Voetbal HD" tvg-logo="http://myserveriptv.com:2082/images/a67ebab7829454bb119bbd46b225d922.png" group-title="SHAREEXT@World Sports",NL: Ziggo Sport Voetbal HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/76351
+#EXTINF:-1 tvg-id="" tvg-name="NL: Formula F1" tvg-logo="http://myserveriptv.com:2082/images/bd3f2322a29a3c21ed2dc4b4330999f6.png" group-title="SHAREEXT@World Sports",NL: Formula F1
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/236419
+#EXTINF:-1 tvg-id="" tvg-name="NL: Eurosport 1 HD" tvg-logo="http://myserveriptv.com:2082/images/a56b375decdf31dd9bdb340f4bbba879.png" group-title="SHAREEXT@World Sports",NL: Eurosport 1 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/76363
+#EXTINF:-1 tvg-id="" tvg-name="NL: Eurosport 2 HD" tvg-logo="http://myserveriptv.com:2082/images/cef51f2de50295b33af5bc872ed9ead6.png" group-title="SHAREEXT@World Sports",NL: Eurosport 2 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/76364
+#EXTINF:-1 tvg-id="" tvg-name="NL: Extreme Sports HD" tvg-logo="http://myserveriptv.com:2082/images/fe91a9236747e61a5b83e2e95792cdb9.png" group-title="SHAREEXT@World Sports",NL: Extreme Sports HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/66801
+#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN HD" tvg-logo="http://myserveriptv.com:2082/images/7025e20916eff9f0dcb6fb42cb053639.png" group-title="SHAREEXT@World Sports",NL: ESPN HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/76357
+#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN 2 HD" tvg-logo="http://myserveriptv.com:2082/images/b0dd6923e295d0bf2c61149f2d8f5b04.png" group-title="SHAREEXT@World Sports",NL: ESPN 2 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/76358
+#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN 3 HD" tvg-logo="http://myserveriptv.com:2082/images/072e821010c59936992557e9552b26f0.png" group-title="SHAREEXT@World Sports",NL: ESPN 3 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/76359
+#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN 4 HD" tvg-logo="http://myserveriptv.com:2082/images/68887ec88877c0f9cfd7c2295179b01a.png" group-title="SHAREEXT@World Sports",NL: ESPN 4 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/76360
+#EXTINF:-1 tvg-id="" tvg-name="NL: Via Play Sport" tvg-logo="http://myserveriptv.com:2082/images/f8b20371cb665422d15d65bfab0d59ad.png" group-title="SHAREEXT@World Sports",NL: Via Play Sport
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/238828
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 1" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="SHAREEXT@World Sports",TR: beIN SPORTS 1
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/235467
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 2" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="SHAREEXT@World Sports",TR: beIN SPORTS 2
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/235468
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 3" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="SHAREEXT@World Sports",TR: beIN SPORTS 3
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/235469
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 4" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="SHAREEXT@World Sports",TR: beIN SPORTS 4
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/235470
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 5" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="SHAREEXT@World Sports",TR: beIN SPORTS 5
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/241036
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS Haber" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="SHAREEXT@World Sports",TR: beIN SPORTS Haber
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/77252
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS Max 1" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="SHAREEXT@World Sports",TR: beIN SPORTS Max 1
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/237784
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS Max 2" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="SHAREEXT@World Sports",TR: beIN SPORTS Max 2
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/237783
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR YILDIZ" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",TR: TRT SPOR YILDIZ
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/241045
+#EXTINF:-1 tvg-id="" tvg-name="TR: TAY TV" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",TR: TAY TV
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/241048
+#EXTINF:-1 tvg-id="" tvg-name="TR: TJK" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",TR: TJK
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/241049
+#EXTINF:-1 tvg-id="" tvg-name="TR: A Spor" tvg-logo="http://myserveriptv.com:2082/images/c074eeb1e19363198f9b644c92a89260.png" group-title="SHAREEXT@World Sports",TR: A Spor
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/77421
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sports TV" tvg-logo="http://myserveriptv.com:2082/images/0b65e662e40a68723215fcf13b55b252.png" group-title="SHAREEXT@World Sports",TR: Sports TV
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/77269
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Spor" tvg-logo="http://myserveriptv.com:2082/images/546f23ee37f8862a1d99fc33076b3fca.png" group-title="SHAREEXT@World Sports",TR: TRT Spor
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/77274
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Spor 2" tvg-logo="http://myserveriptv.com:2082/images/6127a41e8ee30716c817fc7b479cbb48.png" group-title="SHAREEXT@World Sports",TR: TRT Spor 2
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/77275
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport 1 HD" tvg-logo="http://myserveriptv.com:2082/images/65c0f060ab4b694311df4b1e4098f282.png" group-title="SHAREEXT@World Sports",TR: S Sport 1 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/229667
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport 2 HD" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",TR: S Sport 2 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/237785
+#EXTINF:-1 tvg-id="" tvg-name="TR: SporSmart HD" tvg-logo="http://myserveriptv.com:2082/images/0c8904c64e3a265a15874b82636e9316.png" group-title="SHAREEXT@World Sports",TR: SporSmart HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/77268
+#EXTINF:-1 tvg-id="" tvg-name="TR: SporSmart 2" tvg-logo="http://myserveriptv.com:2082/images/a44d668deacbea6b0e33ed875ffe6361.png" group-title="SHAREEXT@World Sports",TR: SporSmart 2
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/77255
+#EXTINF:-1 tvg-id="" tvg-name="TR: NBA TV" tvg-logo="http://myserveriptv.com:2082/images/6a2d87037cb50511ea5cdb8e44adb643.png" group-title="SHAREEXT@World Sports",TR: NBA TV
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/77273
+#EXTINF:-1 tvg-id="" tvg-name="TR: Eurosport 1" tvg-logo="http://myserveriptv.com:2082/images/a56b375decdf31dd9bdb340f4bbba879.png" group-title="SHAREEXT@World Sports",TR: Eurosport 1
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/77270
+#EXTINF:-1 tvg-id="" tvg-name="TR: Eurosport 2" tvg-logo="http://myserveriptv.com:2082/images/cef51f2de50295b33af5bc872ed9ead6.png" group-title="SHAREEXT@World Sports",TR: Eurosport 2
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/77271
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 1" tvg-logo="http://myserveriptv.com:2082/images/f93f0027ad46cea702e081df35aa8038.png" group-title="SHAREEXT@World Sports",TR: Tivibu Spor 1
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/77258
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 2" tvg-logo="http://myserveriptv.com:2082/images/f93f0027ad46cea702e081df35aa8038.png" group-title="SHAREEXT@World Sports",TR: Tivibu Spor 2
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/77260
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 3" tvg-logo="http://myserveriptv.com:2082/images/f93f0027ad46cea702e081df35aa8038.png" group-title="SHAREEXT@World Sports",TR: Tivibu Spor 3
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/77262
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 4" tvg-logo="http://myserveriptv.com:2082/images/f93f0027ad46cea702e081df35aa8038.png" group-title="SHAREEXT@World Sports",TR: Tivibu Spor 4
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/241035
+#EXTINF:-1 tvg-id="" tvg-name="TR: FB TV" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",TR: FB TV
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/237799
+#EXTINF:-1 tvg-id="" tvg-name="TR: GS TV" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",TR: GS TV
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/237805
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN SPORTS 1" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="SHAREEXT@World Sports",FR: beIN SPORTS 1
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/20831
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN SPORTS 2" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="SHAREEXT@World Sports",FR: beIN SPORTS 2
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/20832
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN SPORTS 3" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="SHAREEXT@World Sports",FR: beIN SPORTS 3
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/20833
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="FR: Canal+ Sport" tvg-logo="http://myserveriptv.com:2082/images/da6a1af733118fb2cc43871533f71498.png" group-title="SHAREEXT@World Sports",FR: Canal+ Sport
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/20886
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 1" tvg-logo="http://myserveriptv.com:2082/images/a1aef86b90954c39048d73caea35fe55.png" group-title="SHAREEXT@World Sports",FR: RMC Sport 1
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/20851
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 2" tvg-logo="http://myserveriptv.com:2082/images/ab3e9f2b0af458aa3db9ad6aa8278266.png" group-title="SHAREEXT@World Sports",FR: RMC Sport 2
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/20852
+#EXTINF:-1 tvg-id="GolfPlus.fr" tvg-name="FR: Golf+ HD" tvg-logo="http://myserveriptv.com:2082/images/179798d007f66a2e9971855a5a6d3ade.png" group-title="SHAREEXT@World Sports",FR: Golf+ HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/20955
+#EXTINF:-1 tvg-id="" tvg-name="FR: Eurosport 1" tvg-logo="http://myserveriptv.com:2082/images/a56b375decdf31dd9bdb340f4bbba879.png" group-title="SHAREEXT@World Sports",FR: Eurosport 1
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/43954
+#EXTINF:-1 tvg-id="" tvg-name="FR: Eurosport 2" tvg-logo="http://myserveriptv.com:2082/images/cef51f2de50295b33af5bc872ed9ead6.png" group-title="SHAREEXT@World Sports",FR: Eurosport 2
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/43956
+#EXTINF:-1 tvg-id="" tvg-name="FR: Info Sport" tvg-logo="http://myserveriptv.com:2082/images/c08570ffcc111c982374d631f317ed20.png" group-title="SHAREEXT@World Sports",FR: Info Sport
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/20959
+#EXTINF:-1 tvg-id="" tvg-name="FR: Foot 24" tvg-logo="http://myserveriptv.com:2082/images/4ff6e2ce04e6e58187e0fce0e4f9f990.png" group-title="SHAREEXT@World Sports",FR: Foot 24
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/20951
+#EXTINF:-1 tvg-id="" tvg-name="FR: Automoto HD" tvg-logo="http://myserveriptv.com:2082/images/5583ca2b913ffa4f94851234d79b6723.png" group-title="SHAREEXT@World Sports",FR: Automoto HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/20897
+#EXTINF:-1 tvg-id="" tvg-name="BE: Eleven Sports 1" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",BE: Eleven Sports 1
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/229673
+#EXTINF:-1 tvg-id="" tvg-name="BE: Eleven Sports 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",BE: Eleven Sports 2
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242760
+#EXTINF:-1 tvg-id="" tvg-name="BE: Eleven Sports 3" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",BE: Eleven Sports 3
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242761
+#EXTINF:-1 tvg-id="" tvg-name="SE: Viasat Sport 1" tvg-logo="http://myserveriptv.com:2082/images/e23a06f8d702c1989e01d32d1adf156d.png" group-title="SHAREEXT@World Sports",SE: Viasat Sport 1
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242813
+#EXTINF:-1 tvg-id="" tvg-name="SE: Viasat Sport Premium" tvg-logo="http://myserveriptv.com:2082/images/e23a06f8d702c1989e01d32d1adf156d.png" group-title="SHAREEXT@World Sports",SE: Viasat Sport Premium
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/16073
+#EXTINF:-1 tvg-id="" tvg-name="SE: Viasat Fotboll" tvg-logo="http://myserveriptv.com:2082/images/e23a06f8d702c1989e01d32d1adf156d.png" group-title="SHAREEXT@World Sports",SE: Viasat Fotboll
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/16074
+#EXTINF:-1 tvg-id="" tvg-name="SE: C More Fotboll" tvg-logo="http://myserveriptv.com:2082/images/050ec7677a49085f5aa3100b335baceb.png" group-title="SHAREEXT@World Sports",SE: C More Fotboll
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/16098
+#EXTINF:-1 tvg-id="" tvg-name="SE: C More Hockey" tvg-logo="http://myserveriptv.com:2082/images/26783b3ec89384ed8ae2a524575f95eb.png" group-title="SHAREEXT@World Sports",SE: C More Hockey
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/16099
+#EXTINF:-1 tvg-id="" tvg-name="SE: Viasat Sport Golf" tvg-logo="http://myserveriptv.com:2082/images/e23a06f8d702c1989e01d32d1adf156d.png" group-title="SHAREEXT@World Sports",SE: Viasat Sport Golf
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/228534
+#EXTINF:-1 tvg-id="" tvg-name="SE: Viasat Sport Vinter" tvg-logo="http://myserveriptv.com:2082/images/e23a06f8d702c1989e01d32d1adf156d.png" group-title="SHAREEXT@World Sports",SE: Viasat Sport Vinter
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242817
+#EXTINF:-1 tvg-id="" tvg-name="SE: Viasat Motor" tvg-logo="http://myserveriptv.com:2082/images/e23a06f8d702c1989e01d32d1adf156d.png" group-title="SHAREEXT@World Sports",SE: Viasat Motor
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242816
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV4 Sportkanalen" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",SE: TV4 Sportkanalen
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242811
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV4 Fotboll" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",SE: TV4 Fotboll
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242818
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV4 Sport Live" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",SE: TV4 Sport Live
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242819
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV4 Hockey" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",SE: TV4 Hockey
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242820
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV4 Motor" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",SE: TV4 Motor
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242854
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV4 Live 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",SE: TV4 Live 2
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242855
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV4 Live 3" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",SE: TV4 Live 3
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242856
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV4 Live 4" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",SE: TV4 Live 4
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242857
+#EXTINF:-1 tvg-id="" tvg-name="SE: Eurosport 2" tvg-logo="http://myserveriptv.com:2082/images/cef51f2de50295b33af5bc872ed9ead6.png" group-title="SHAREEXT@World Sports",SE: Eurosport 2
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/16095
+#EXTINF:-1 tvg-id="" tvg-name="DK: TV2 Sport X" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",DK: TV2 Sport X
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/229817
+#EXTINF:-1 tvg-id="" tvg-name="DK: TV3 Sport" tvg-logo="http://myserveriptv.com:2082/images/c1d80a149860ecc6f22d438b880c3e47.png" group-title="SHAREEXT@World Sports",DK: TV3 Sport
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/16024
+#EXTINF:-1 tvg-id="" tvg-name="DK: TV3 Sport 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",DK: TV3 Sport 2
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/238868
+#EXTINF:-1 tvg-id="" tvg-name="DK: V Sport HD" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",DK: V Sport HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242362
+#EXTINF:-1 tvg-id="" tvg-name="DK: V Sport Ultra HD" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",DK: V Sport Ultra HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242363
+#EXTINF:-1 tvg-id="" tvg-name="DK: Viaplay 01 HD" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",DK: Viaplay 01 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/247367
+#EXTINF:-1 tvg-id="" tvg-name="DK: Viaplay 02 HD" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",DK: Viaplay 02 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/247368
+#EXTINF:-1 tvg-id="" tvg-name="DK: Viaplay 03 HD" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",DK: Viaplay 03 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/247369
+#EXTINF:-1 tvg-id="" tvg-name="DK: Viaplay 04 HD" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",DK: Viaplay 04 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/247370
+#EXTINF:-1 tvg-id="" tvg-name="SW: Blue Sport 1" tvg-logo="http://myserveriptv.com:2082/images/4dc5952508ef3411fb71a49fab0ead42.png" group-title="SHAREEXT@World Sports",SW: Blue Sport 1
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/39459
+#EXTINF:-1 tvg-id="" tvg-name="SW: Blue Sport 2" tvg-logo="http://myserveriptv.com:2082/images/39bc59ad02d856b690ffe56e95c33dc5.png" group-title="SHAREEXT@World Sports",SW: Blue Sport 2
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/39461
+#EXTINF:-1 tvg-id="" tvg-name="SW: MySports FHD" tvg-logo="http://myserveriptv.com:2082/images/28114991294e45f6f60aa7e087e92e42.png" group-title="SHAREEXT@World Sports",SW: MySports FHD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/39440
+#EXTINF:-1 tvg-id="" tvg-name="PL: UEFA Champions League 1 HD" tvg-logo="http://myserveriptv.com:2082/images/04e1f7540522a993a158e266c6060395.png" group-title="SHAREEXT@World Sports",PL: UEFA Champions League 1 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/229591
+#EXTINF:-1 tvg-id="" tvg-name="PL: UEFA Champions League 2 HD" tvg-logo="http://myserveriptv.com:2082/images/04e1f7540522a993a158e266c6060395.png" group-title="SHAREEXT@World Sports",PL: UEFA Champions League 2 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/229592
+#EXTINF:-1 tvg-id="" tvg-name="PL: UEFA Champions League 3 HD" tvg-logo="http://myserveriptv.com:2082/images/04e1f7540522a993a158e266c6060395.png" group-title="SHAREEXT@World Sports",PL: UEFA Champions League 3 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/229593
+#EXTINF:-1 tvg-id="" tvg-name="PL: UEFA Champions League 4 HD" tvg-logo="http://myserveriptv.com:2082/images/04e1f7540522a993a158e266c6060395.png" group-title="SHAREEXT@World Sports",PL: UEFA Champions League 4 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/229594
+#EXTINF:-1 tvg-id="" tvg-name="PL: UEFA Champions League 5 HD" tvg-logo="http://myserveriptv.com:2082/images/04e1f7540522a993a158e266c6060395.png" group-title="SHAREEXT@World Sports",PL: UEFA Champions League 5 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/229595
+#EXTINF:-1 tvg-id="" tvg-name="PL: UEFA Champions League 6 HD" tvg-logo="http://myserveriptv.com:2082/images/04e1f7540522a993a158e266c6060395.png" group-title="SHAREEXT@World Sports",PL: UEFA Champions League 6 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/229596
+#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT NEWS" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",PL: POLSAT SPORT NEWS
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/250389
+#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",PL: POLSAT SPORT
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/250397
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ SPORT" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",PL: CANAL+ SPORT
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/250398
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ SPORT 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",PL: CANAL+ SPORT 2
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/250399
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ SPORT 3" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",PL: CANAL+ SPORT 3
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/250400
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ SPORT 4" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",PL: CANAL+ SPORT 4
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/250401
+#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN SPORTS 1" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",PL: ELEVEN SPORTS 1
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/250403
+#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN SPORTS 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",PL: ELEVEN SPORTS 2
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/250404
+#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN SPORTS 3" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",PL: ELEVEN SPORTS 3
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/250405
+#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN SPORTS 4" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",PL: ELEVEN SPORTS 4
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/250406
+#EXTINF:-1 tvg-id="" tvg-name="PL: SPORTKLUB" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",PL: SPORTKLUB
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/250408
+#EXTINF:-1 tvg-id="" tvg-name="PL: EUROSPORT 1" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",PL: EUROSPORT 1
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/250409
+#EXTINF:-1 tvg-id="" tvg-name="PL: EUROSPORT 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",PL: EUROSPORT 2
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/250410
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP SPORT" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",PL: TVP SPORT
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/250411
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 4" tvg-logo="http://myserveriptv.com:2082/images/5acf144c3939d71c8d81ef26c5ca8e41.png" group-title="SHAREEXT@World Sports",RO: Digi Sport 4
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/126083
+#EXTINF:-1 tvg-id="" tvg-name="RO: Eurosport 1" tvg-logo="http://myserveriptv.com:2082/images/a56b375decdf31dd9bdb340f4bbba879.png" group-title="SHAREEXT@World Sports",RO: Eurosport 1
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/112221
+#EXTINF:-1 tvg-id="" tvg-name="RO: Extreme Sport" tvg-logo="http://myserveriptv.com:2082/images/fe91a9236747e61a5b83e2e95792cdb9.png" group-title="SHAREEXT@World Sports",RO: Extreme Sport
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/112223
+#EXTINF:-1 tvg-id="" tvg-name="RO: Telekom Sport 1" tvg-logo="http://myserveriptv.com:2082/images/0bf4723116ef78e6a97bc8c9bfb376fa.png" group-title="SHAREEXT@World Sports",RO: Telekom Sport 1
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/31184
+#EXTINF:-1 tvg-id="" tvg-name="RO: Telekom Sport 2" tvg-logo="http://myserveriptv.com:2082/images/0bf4723116ef78e6a97bc8c9bfb376fa.png" group-title="SHAREEXT@World Sports",RO: Telekom Sport 2
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/31185
+#EXTINF:-1 tvg-id="" tvg-name="RO: Telekom Sport 3" tvg-logo="http://myserveriptv.com:2082/images/0bf4723116ef78e6a97bc8c9bfb376fa.png" group-title="SHAREEXT@World Sports",RO: Telekom Sport 3
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/31186
+#EXTINF:-1 tvg-id="" tvg-name="RO: Telekom Sport 4" tvg-logo="http://myserveriptv.com:2082/images/0bf4723116ef78e6a97bc8c9bfb376fa.png" group-title="SHAREEXT@World Sports",RO: Telekom Sport 4
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/31187
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 1" tvg-logo="http://myserveriptv.com:2082/images/2ccfb0925903b34d1fbd9f6011947ce7.png" group-title="SHAREEXT@World Sports",RO: Digi Sport 1
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/126059
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 2" tvg-logo="http://myserveriptv.com:2082/images/f4b405bb782b9c646719d6725e37402d.png" group-title="SHAREEXT@World Sports",RO: Digi Sport 2
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/126060
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 3" tvg-logo="http://myserveriptv.com:2082/images/db64626b59dda130e571097f93f4f136.png" group-title="SHAREEXT@World Sports",RO: Digi Sport 3
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/126082
+#EXTINF:-1 tvg-id="" tvg-name="RO: Eurosport 2" tvg-logo="http://myserveriptv.com:2082/images/a56b375decdf31dd9bdb340f4bbba879.png" group-title="SHAREEXT@World Sports",RO: Eurosport 2
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/248377
+#EXTINF:-1 tvg-id="" tvg-name="RO: Prima Sport 1 " tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",RO: Prima Sport 1 
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/248378
+#EXTINF:-1 tvg-id="" tvg-name="IT: Dazn Zona" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",IT: Dazn Zona
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/248444
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Sport HD" tvg-logo="http://myserveriptv.com:2082/images/7a77a5e9817ff537c3b301f8acb67e60.png" group-title="SHAREEXT@World Sports",IT: Rai Sport HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/43942
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sport Italia" tvg-logo="http://myserveriptv.com:2082/images/8bff1aa72bf2a9636b21dae14bcc4bbe.png" group-title="SHAREEXT@World Sports",IT: Sport Italia
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/14751
+#EXTINF:-1 tvg-id="" tvg-name="IT: Super Tennis" tvg-logo="http://myserveriptv.com:2082/images/6fe4ff3a5df48be85bbbf95bde34035a.png" group-title="SHAREEXT@World Sports",IT: Super Tennis
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/14757
+#EXTINF:-1 tvg-id="" tvg-name="IT: Eurosport 1" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",IT: Eurosport 1
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242248
+#EXTINF:-1 tvg-id="" tvg-name="IT: Eurosport 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",IT: Eurosport 2
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242249
+#EXTINF:-1 tvg-id="beINSportsLaLiga.us" tvg-name="beIN SPORTS LaLiga" tvg-logo="http://myserveriptv.com:2082/images/886b13d53c3ffe929aa06192381d82f6.png" group-title="SHAREEXT@World Sports",beIN SPORTS LaLiga
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/40702
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Espana" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="SHAREEXT@World Sports",beIN SPORTS Espana
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/235539
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Plus" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="SHAREEXT@World Sports",ES: Movistar Plus
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/136051
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga Tv Bar" tvg-logo="http://myserveriptv.com:2082/images/cf19734aa10a23bbf0739cfcf05d8666.png" group-title="SHAREEXT@World Sports",ES: LaLiga Tv Bar
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/135958
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LaLiga" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="SHAREEXT@World Sports",ES: Movistar LaLiga
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/135959
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar DAZN 1" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="SHAREEXT@World Sports",ES: Movistar DAZN 1
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/135989
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar DAZN 2" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="SHAREEXT@World Sports",ES: Movistar DAZN 2
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/135990
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar DAZN 3" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="SHAREEXT@World Sports",ES: Movistar DAZN 3
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/207568
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar DAZN 4" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="SHAREEXT@World Sports",ES: Movistar DAZN 4
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/207566
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Liga" tvg-logo="http://myserveriptv.com:2082/images/5537b687abc3cd0d50ea9d6205903f40.png" group-title="SHAREEXT@World Sports",ES: DAZN Liga
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/241940
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Formula 1" tvg-logo="http://myserveriptv.com:2082/images/5537b687abc3cd0d50ea9d6205903f40.png" group-title="SHAREEXT@World Sports",ES: DAZN Formula 1
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/241945
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Deportes" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="SHAREEXT@World Sports",ES: Movistar Deportes
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/135980
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Deportes 2" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="SHAREEXT@World Sports",ES: Movistar Deportes 2
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/135982
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Deportes 3" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="SHAREEXT@World Sports",ES: Movistar Deportes 3
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/135983
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Deportes 4" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="SHAREEXT@World Sports",ES: Movistar Deportes 4
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/135984
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Formula 1" tvg-logo="http://myserveriptv.com:2082/images/bd3f2322a29a3c21ed2dc4b4330999f6.png" group-title="SHAREEXT@World Sports",ES: Movistar Formula 1
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/135991
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LaLiga Multi 1" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="SHAREEXT@World Sports",ES: Movistar LaLiga Multi 1
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/135960
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LaLiga Multi 2" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="SHAREEXT@World Sports",ES: Movistar LaLiga Multi 2
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/135962
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LaLiga Multi 3" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="SHAREEXT@World Sports",ES: Movistar LaLiga Multi 3
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/207550
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Golf" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="SHAREEXT@World Sports",ES: Movistar Golf
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/135992
+#EXTINF:-1 tvg-id="" tvg-name="ES: Liga Campeones" tvg-logo="http://myserveriptv.com:2082/images/9900e4f0f336730dd1660cd3ee2c6c6a.png" group-title="SHAREEXT@World Sports",ES: Liga Campeones
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/135970
+#EXTINF:-1 tvg-id="" tvg-name="ES: Liga De Campeones 1" tvg-logo="http://myserveriptv.com:2082/images/9900e4f0f336730dd1660cd3ee2c6c6a.png" group-title="SHAREEXT@World Sports",ES: Liga De Campeones 1
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/135971
+#EXTINF:-1 tvg-id="" tvg-name="ES: Liga De Campeones 2" tvg-logo="http://myserveriptv.com:2082/images/9900e4f0f336730dd1660cd3ee2c6c6a.png" group-title="SHAREEXT@World Sports",ES: Liga De Campeones 2
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/135972
+#EXTINF:-1 tvg-id="" tvg-name="ES: Liga De Campeones 3" tvg-logo="http://myserveriptv.com:2082/images/9900e4f0f336730dd1660cd3ee2c6c6a.png" group-title="SHAREEXT@World Sports",ES: Liga De Campeones 3
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/135973
+#EXTINF:-1 tvg-id="" tvg-name="ES: Liga De Campeones 4" tvg-logo="http://myserveriptv.com:2082/images/9900e4f0f336730dd1660cd3ee2c6c6a.png" group-title="SHAREEXT@World Sports",ES: Liga De Campeones 4
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/135974
+#EXTINF:-1 tvg-id="" tvg-name="ES: Liga Sports Tv" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",ES: Liga Sports Tv
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/241918
+#EXTINF:-1 tvg-id="" tvg-name="ES: Real Madrid TV" tvg-logo="http://myserveriptv.com:2082/images/22c2b5f86e5edb9cb57179d3f3567b00.png" group-title="SHAREEXT@World Sports",ES: Real Madrid TV
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/136010
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Barca TV" tvg-logo="http://myserveriptv.com:2082/images/1f9cb5817ed464188ef8fc910526d707.png" group-title="SHAREEXT@World Sports",ES: Canal Barca TV
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/136011
+#EXTINF:-1 tvg-id="" tvg-name="ES: Eurosport 1" tvg-logo="http://myserveriptv.com:2082/images/a56b375decdf31dd9bdb340f4bbba879.png" group-title="SHAREEXT@World Sports",ES: Eurosport 1
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/136008
+#EXTINF:-1 tvg-id="" tvg-name="ES: Eurosport 2" tvg-logo="http://myserveriptv.com:2082/images/cef51f2de50295b33af5bc872ed9ead6.png" group-title="SHAREEXT@World Sports",ES: Eurosport 2
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/136009
+#EXTINF:-1 tvg-id="" tvg-name="ES: Torole" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",ES: Torole
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/241957
+#EXTINF:-1 tvg-id="" tvg-name="ES: U-Beat" tvg-logo="http://myserveriptv.com:2082/images/b26b34e66ede0a898d6dc9ff7f7ba747.png" group-title="SHAREEXT@World Sports",ES: U-Beat
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/207560
+#EXTINF:-1 tvg-id="" tvg-name="ES: Espn Deportes" tvg-logo="http://myserveriptv.com:2082/images/7025e20916eff9f0dcb6fb42cb053639.png" group-title="SHAREEXT@World Sports",ES: Espn Deportes
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/239753
+#EXTINF:-1 tvg-id="" tvg-name="ES: Espn Deportes 2" tvg-logo="http://myserveriptv.com:2082/images/7025e20916eff9f0dcb6fb42cb053639.png" group-title="SHAREEXT@World Sports",ES: Espn Deportes 2
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/241967
+#EXTINF:-1 tvg-id="" tvg-name="ES: Espn Deportes 3" tvg-logo="http://myserveriptv.com:2082/images/7025e20916eff9f0dcb6fb42cb053639.png" group-title="SHAREEXT@World Sports",ES: Espn Deportes 3
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/241968
+#EXTINF:-1 tvg-id="" tvg-name="PT: NBA Tv" tvg-logo="http://myserveriptv.com:2082/images/83225fc3979631186c44c003b7128e73.png" group-title="SHAREEXT@World Sports",PT: NBA Tv
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/242671
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sporting TV HD" tvg-logo="http://myserveriptv.com:2082/images/4d00e7da2180f61f45e2cf1ffb8f97d8.png" group-title="SHAREEXT@World Sports",PT: Sporting TV HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/224105
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV + HD" tvg-logo="http://myserveriptv.com:2082/images/99170287fc89aa2ce5c6c6d79ddb246f.png" group-title="SHAREEXT@World Sports",PT: Sport TV + HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/224078
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 1 HD" tvg-logo="http://myserveriptv.com:2082/images/99170287fc89aa2ce5c6c6d79ddb246f.png" group-title="SHAREEXT@World Sports",PT: Sport TV 1 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/224080
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 2 HD" tvg-logo="http://myserveriptv.com:2082/images/99170287fc89aa2ce5c6c6d79ddb246f.png" group-title="SHAREEXT@World Sports",PT: Sport TV 2 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/224082
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 3 HD" tvg-logo="http://myserveriptv.com:2082/images/99170287fc89aa2ce5c6c6d79ddb246f.png" group-title="SHAREEXT@World Sports",PT: Sport TV 3 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/224084
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 4 HD" tvg-logo="http://myserveriptv.com:2082/images/99170287fc89aa2ce5c6c6d79ddb246f.png" group-title="SHAREEXT@World Sports",PT: Sport TV 4 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/224086
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 5 HD" tvg-logo="http://myserveriptv.com:2082/images/99170287fc89aa2ce5c6c6d79ddb246f.png" group-title="SHAREEXT@World Sports",PT: Sport TV 5 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/224088
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 6 HD" tvg-logo="http://myserveriptv.com:2082/images/99170287fc89aa2ce5c6c6d79ddb246f.png" group-title="SHAREEXT@World Sports",PT: Sport TV 6 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/224090
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 1" tvg-logo="http://myserveriptv.com:2082/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="SHAREEXT@World Sports",PT: Eleven Sports 1
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/224093
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 2" tvg-logo="http://myserveriptv.com:2082/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="SHAREEXT@World Sports",PT: Eleven Sports 2
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/224095
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 3" tvg-logo="http://myserveriptv.com:2082/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="SHAREEXT@World Sports",PT: Eleven Sports 3
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/224097
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 4" tvg-logo="http://myserveriptv.com:2082/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="SHAREEXT@World Sports",PT: Eleven Sports 4
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/224099
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 5" tvg-logo="http://myserveriptv.com:2082/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="SHAREEXT@World Sports",PT: Eleven Sports 5
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/224101
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 6" tvg-logo="http://myserveriptv.com:2082/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="SHAREEXT@World Sports",PT: Eleven Sports 6
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/224103
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eurosport 1" tvg-logo="http://myserveriptv.com:2082/images/a56b375decdf31dd9bdb340f4bbba879.png" group-title="SHAREEXT@World Sports",PT: Eurosport 1
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/130966
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eurosport 2" tvg-logo="http://myserveriptv.com:2082/images/cef51f2de50295b33af5bc872ed9ead6.png" group-title="SHAREEXT@World Sports",PT: Eurosport 2
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/130967
+#EXTINF:-1 tvg-id="" tvg-name="CA: BeIN Sports" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="SHAREEXT@World Sports",CA: BeIN Sports
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/211456
+#EXTINF:-1 tvg-id="" tvg-name="CA: beIN SPORTS Canada" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="SHAREEXT@World Sports",CA: beIN SPORTS Canada
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/235541
+#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 1" tvg-logo="http://myserveriptv.com:2082/images/8e763ad6349f78c7114886aebab3f5aa.png" group-title="SHAREEXT@World Sports",CA: TSN 1
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/32046
+#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 2" tvg-logo="http://myserveriptv.com:2082/images/de8c42c6f9c807ab4426953383f7e7c6.png" group-title="SHAREEXT@World Sports",CA: TSN 2
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/32047
+#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 3" tvg-logo="http://myserveriptv.com:2082/images/06bec5d2f6674c22afc8b8214f1f1bf1.png" group-title="SHAREEXT@World Sports",CA: TSN 3
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/32048
+#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 4" tvg-logo="http://myserveriptv.com:2082/images/1b132bd5f3f084f4cc05289880acdeb1.png" group-title="SHAREEXT@World Sports",CA: TSN 4
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/32049
+#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 5" tvg-logo="http://myserveriptv.com:2082/images/fcefceb7193fc995f79c6bc0fc2fe438.png" group-title="SHAREEXT@World Sports",CA: TSN 5
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/32480
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS XTRA" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="SHAREEXT@World Sports",beIN SPORTS XTRA
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/235540
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX SPORTS 1 HD" tvg-logo="http://myserveriptv.com:2082/images/32f3121bc314ba06628573737f575b3e.png" group-title="SHAREEXT@World Sports",US: FOX SPORTS 1 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/235547
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX SPORTS 2 HD" tvg-logo="http://myserveriptv.com:2082/images/32f3121bc314ba06628573737f575b3e.png" group-title="SHAREEXT@World Sports",US: FOX SPORTS 2 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/235548
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Network" tvg-logo="http://myserveriptv.com:2082/images/8a35c127c339ab7f08c0311f05f24ec0.png" group-title="SHAREEXT@World Sports",US: NFL Network
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/239477
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Red Zone" tvg-logo="http://myserveriptv.com:2082/images/8a35c127c339ab7f08c0311f05f24ec0.png" group-title="SHAREEXT@World Sports",US: NFL Red Zone
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/239478
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX Soccer Plus HD" tvg-logo="http://myserveriptv.com:2082/images/32f3121bc314ba06628573737f575b3e.png" group-title="SHAREEXT@World Sports",US: FOX Soccer Plus HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/239692
+#EXTINF:-1 tvg-id="" tvg-name="US: Bein Sports HD" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="SHAREEXT@World Sports",US: Bein Sports HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/239730
+#EXTINF:-1 tvg-id="" tvg-name="US: Espn 1 HD" tvg-logo="http://myserveriptv.com:2082/images/7025e20916eff9f0dcb6fb42cb053639.png" group-title="SHAREEXT@World Sports",US: Espn 1 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/239749
+#EXTINF:-1 tvg-id="" tvg-name="US: Espn 2 HD" tvg-logo="http://myserveriptv.com:2082/images/7025e20916eff9f0dcb6fb42cb053639.png" group-title="SHAREEXT@World Sports",US: Espn 2 HD
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/239750
+#EXTINF:-1 tvg-id="" tvg-name="US: Golf Channel" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",US: Golf Channel
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/239766
+#EXTINF:-1 tvg-id="" tvg-name="US: NHL Network" tvg-logo="http://myserveriptv.com:2082/images/98f65c89dc9afce501dcb930c94f494a.png" group-title="SHAREEXT@World Sports",US: NHL Network
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/239804
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS Sports Network" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",US: CBS Sports Network
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/239811
+#EXTINF:-1 tvg-id="" tvg-name="US: MotorTrend" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",US: MotorTrend
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/239814
+#EXTINF:-1 tvg-id="" tvg-name="US: STADIUM" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",US: STADIUM
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/239817
+#EXTINF:-1 tvg-id="" tvg-name="US: Billiard TV" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@World Sports",US: Billiard TV
+http://iptvch.com:2082/bestregards/9aDj23nCG84L5/239829
+
+
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/zvYJZCrN/Skysport-shareext.png" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM",SkySports|Action
 http://cord-cutter.net:8080/q3VZJc/758042/53705
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/zvYJZCrN/Skysport-shareext.png" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM",SkySports|Arena
