@@ -941,6 +941,26 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/262vjnDt/shareext-firsmedia.jpg" group-title="SHAREEXT@FIRSTMEDIA", BTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/262vjnDt/shareext-firsmedia.jpg" group-title="SHAREEXT@FIRSTMEDIA", INDOSIAR_VD
+http://tvnid.x10.mx/vidio/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/262vjnDt/shareext-firsmedia.jpg" group-title="SHAREEXT@FIRSTMEDIA", SCTV_VD
+http://tvnid.x10.mx/vidio/master-1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/262vjnDt/shareext-firsmedia.jpg" group-title="SHAREEXT@FIRSTMEDIA", MOJI_VD
+http://tvnid.x10.mx/vidio/master-2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/262vjnDt/shareext-firsmedia.jpg" group-title="SHAREEXT@FIRSTMEDIA", MENTARI_VD
+http://tvnid.x10.mx/vidio/master-3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/262vjnDt/shareext-firsmedia.jpg" group-title="SHAREEXT@FIRSTMEDIA", TV_ONE_VD
+https://ythls.onrender.com/video/yNKvkPJl-tg.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/262vjnDt/shareext-firsmedia.jpg" group-title="SHAREEXT@FIRSTMEDIA", Antv_fm
+https://raw.githubusercontent.com/warningfm/streams/master/live/m3u8/id/b630a001384603f.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/262vjnDt/shareext-firsmedia.jpg" group-title="SHAREEXT@FIRSTMEDIA", ERCETE-i
+https://yip.su/RCTI_shareext_ts|User-Agent=Dalvik/5.0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/262vjnDt/shareext-firsmedia.jpg" group-title="SHAREEXT@FIRSTMEDIA", ai_News
+https://yip.su/INEWS_shareext_ts|User-Agent=Dalvik/5.0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/262vjnDt/shareext-firsmedia.jpg" group-title="SHAREEXT@FIRSTMEDIA", EM.EN.CE.TEVE
+https://yip.su/MNCTV_shareext_ts|User-Agent=Dalvik/5.0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/262vjnDt/shareext-firsmedia.jpg" group-title="SHAREEXT@FIRSTMEDIA", G.TEVE
+https://yip.su/GTV_shareext_ts|User-Agent=Dalvik/5.0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/262vjnDt/shareext-firsmedia.jpg" group-title="SHAREEXT@FIRSTMEDIA", BERITASATU WORLD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch19)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/262vjnDt/shareext-firsmedia.jpg" group-title="SHAREEXT@FIRSTMEDIA", JAKARTA GLOBE
@@ -2859,6 +2879,25 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/inde
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",EVENT_15
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD7_DIG_MOB/Fallback/index.m3u8
 
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE_Equidia_Horse_Racing",Equidia_racing_1
+https://equidia-racing1-b32-cdn.hexaglobe.net/48bbaf939e8f1beb577e67a2a5749876/6525f41c/equidia/equidia-mobileapp-ios-1/eqdracing1pri_fre.smil/eqdracing1_fre_0.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE_Equidia_Horse_Racing",Equidia_racing_2
+https://equidia-racing2-b29-cdn.hexaglobe.net/c999d4b10f57fee7c099144cf0deb8e4/6525f41c/equidia/equidia-mobileapp-ios-1/eqdracing2pri_fre.smil/eqdracing2_fre_0.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE_Equidia_Horse_Racing",Equidia_racing_3
+https://equidia-racing3-b29-cdn.hexaglobe.net/c47d409e18aeb05a632eae121e0b9925/6525f41d/equidia/equidia-mobileapp-ios-1/eqdracing3pri_fre.smil/eqdracing3_fre_0.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE_Equidia_Horse_Racing",Equidia_racing_4
+https://equidia-racing4-b30-cdn.hexaglobe.net/b90fbb1d6df6b243854db8b48491fcb4/6525f41e/equidia/equidia-mobileapp-ios-1/eqdracing4pri_fre.smil/eqdracing4_fre_0.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE_Equidia_Horse_Racing",Equidia_racing_5
+https://equidia-racing5-b29-cdn.hexaglobe.net/518917ec910cc2adb5c6e0cd5eeb7418/6525f41e/equidia/equidia-mobileapp-ios-1/eqdracing5pri_fre.smil/eqdracing5_fre_0.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE_Equidia_Horse_Racing",Equidia_racing_LIVE
+https://equidia-live2-p32-cdn.hexaglobe.net/529b38fd0404730488412973da933021/6525f40d/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil/eqdlive2_fre_0.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE_Equidia_Horse_Racing",Equidia_racing_GALOP
+https://equidia-racinggalop-p32-cdn.hexaglobe.net/6b4e3bce8089359b5993516363aeffae/6525f41a/equidia/equidia-mobileapp-ios-1/eqdracinggalop_fre.smil/eqdracinggalop_fre_0.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE_Equidia_Horse_Racing",Equidia_racing_MAG
+https://equidia-racingmag-p32-cdn.hexaglobe.net/5ff7d8fd4c4f3ba7e72f95abbd401a90/6525f41b/equidia/equidia-mobileapp-ios-1/eqdracingmagbkp_fre.smil/eqdracingmag_fre_0.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE_Equidia_Horse_Racing",Equidia_racing_TROT
+https://equidia-racingtrot-b31-cdn.hexaglobe.net/e155d27678fbd22226e12115b4856bc8/6525f41a/equidia/equidia-mobileapp-ios-1/eqdracingtrot_fre.smil/eqdracingtrot_fre_0.m3u8
 
 
 
