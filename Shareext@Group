@@ -3201,6 +3201,42 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",JOHN_WICK
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=99483&extension=ts&play_shareext@johnwick.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",HOME_ALONE
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=99436&extension=ts&play_shareext@homeAlone.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",HARRY_POTTER
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=100029&extension=ts&play_shareext@harryPotter.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",THE_HOBBIT
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=100138&extension=ts&play_shareext@theHobbit.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",T_ROLL_OF.T.RING
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=100028&extension=ts&play_shareext@TheLordOfTheRing.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",BRUCE_WILLIS
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=111149&extension=ts&play_shareext@bruveWillis.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",ARNOLD_SCwarzegger
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=111148&extension=ts&play_shareext@arnold.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",JACKY_CHAN
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=444451&extension=ts&play_shareext@jackyChan.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",JASON_STAHAM
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=111152&extension=ts&play_shareext@jasonStaham.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",JOHN_TRAVOLLTA
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=111155&extension=ts&play_shareext@johnTravolta.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",JOHNY_DEEP
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=111154&extension=ts&play_shareext@johnyDeep.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",MEL_GIBSON
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=111156&extension=ts&play_shareext@melGibson
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",MILA_JOVOVICH
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=111157&extension=ts&play_shareext@milaJovovich
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",ROBERT_DENIRO
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=111159&extension=ts&play_shareext@roBErtDeniro.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",SILVESTER_STALLONE
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=111143&extension=ts&play_shareext@silvEsterStallone.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",TOM_CRUISE
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=111160&extension=ts&play_shareext@tomCruise.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",VAN_DAMME
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=111161&extension=ts&play_shareext@vanDAmmme.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",VIN_DIESEL
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=111162&extension=ts&play_shareext@vinDiesel.ts
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",BRUCE•LEE•_MOVIE
 http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558763&extension=ts&shareext@BruceleeMovie
