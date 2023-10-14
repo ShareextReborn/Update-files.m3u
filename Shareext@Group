@@ -362,28 +362,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",Asian✓Games✓Hangzhou 2023_1
-https://ktpremium.com:443/cc1219/54897855/932288
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",Asian✓Games✓Hangzhou 2023_2
-https://ktpremium.com:443/cc1219/54897855/932289
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",Asian✓Games✓Hangzhou 2023_3
-https://ktpremium.com:443/cc1219/54897855/932290
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",Asian✓Games✓Hangzhou 2023_4
-https://ktpremium.com:443/cc1219/54897855/932471
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",Asian✓Games✓Hangzhou 2023_5
-https://ktpremium.com:443/cc1219/54897855/932472
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",Asian✓Games✓Hangzhou 2023_6
-https://ktpremium.com:443/cc1219/54897855/932473
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",ASEAN•GAMES•HANGZOU_01_maper
-https://maper.info/ASEAN_GAMES_HZ-shareext-ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",ASEAN•GAMES•HANGZOU_02_maper
-https://maper.info/ASEAN_GAMES_HZ2-shareext-ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/QC5Vm4Yy/IMG-20231007-172814.jpg" group-title="SHAREEXT@ASEAN_GAMES_HANGZOU",ASEAN•GAMES•HANGZOU_03_maper
-https://maper.info/ASEAN_GAMES_HZ3-shareext-ts
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/262vjnDt/shareext-firsmedia.jpg" group-title="SHAREEXT@FIRSTMEDIA", MOJI_HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
@@ -3978,49 +3956,49 @@ http://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_星爷
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_星爷_dec=auto
 http://mmitv.top/pltv/huya.php?id=11342412
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_英叔
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_英叔_dec=auto
 http://mmitv.top/pltv/huya.php?id=11342421
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_发哥
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_发哥_dec=auto
 http://mmitv.top/pltv/huya.php?id=11342387
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_成龙
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_成龙_dec=auto
 http://mmitv.top/pltv/huya.php?id=11342386
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_王晶
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_王晶_dec=auto
 http://mmitv.top/pltv/huya.php?id=11602058
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_沈腾
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_沈腾_dec=auto
 http://mmitv.top/pltv/huya.php?id=11601968
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_黄渤
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_黄渤_dec=auto
 http://mmitv.top/pltv/huya.php?id=11352876
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_强森
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_强森_dec=auto
 http://mmitv.top/pltv/huya.php?id=21059581
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_漫威
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_漫威_dec=auto
 http://mmitv.top/pltv/huya.php?id=11602034
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_宇宙
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_宇宙_dec=auto
 http://mmitv.top/pltv/huya.php?id=11342428
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_怪兽
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_怪兽_dec=auto
 http://mmitv.top/pltv/huya.php?id=21059577
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_武侠
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_武侠_dec=auto
 http://mmitv.top/pltv/huya.php?id=11342427
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_警匪
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_警匪_dec=auto
 http://mmitv.top/pltv/huya.php?id=11352886
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_罪犯
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_罪犯_dec=auto
 http://mmitv.top/pltv/huya.php?id=11352962
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_枪战
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_枪战_dec=auto
 http://mmitv.top/pltv/huya.php?id=21059579
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_海盗
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_海盗_dec=auto
 http://mmitv.top/pltv/huya.php?id=21059595
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_赛车
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_赛车_dec=auto
 http://mmitv.top/pltv/huya.php?id=11279247
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_推荐
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_推荐_dec=auto
 http://mmitv.top/pltv/huya.php?id=11602041
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_救援
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_救援_dec=auto
 http://mmitv.top/pltv/huya.php?id=21059594
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_热血
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_热血_dec=auto
 http://mmitv.top/pltv/huya.php?id=11352934
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_盗墓
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_盗墓_dec=auto
 http://mmitv.top/pltv/huya.php?id=21059552
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_贺岁,
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",电影_贺岁,_dec=auto
 http://mmitv.top/pltv/huya.php?id=11601971
 
 
