@@ -983,6 +983,92 @@ https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/i
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SPOTVHD TH
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115304&extension=ts&play_shareext@spotvTH.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD TH  [ENG]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SPOTV[ENG]
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115427&extension=ts&play_shareext@spotvEng.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SPOTV_2(TH)
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115305&extension=ts&play_shareext@spotv2TH.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SPOTV_2(ENG)
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115433&extension=ts&play_shareext@spotv2Eng.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football 1 TH [Thai]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball•1[Thai]
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115757&extension=ts&play_shareext@premier1TH.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 1  [ENG]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball HD•1[ENG]
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115758&extension=ts&play_shareext@premier1Eng.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 2  [ENG]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball•2HD TH
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115762&extension=ts&play_shareext@premier2TH.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 2  [ENG]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball HD•2•[ENG]
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115508&extension=ts&play_shareext@premier2Eng.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 3" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball•3HD TH
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115510&extension=ts&play_shareext@premier3TH.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 3 [ENG]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball HD•3[ENG]
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115511&extension=ts&play_shareext@premier3Eng.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 4" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball•4•HD TH
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115513&extension=ts&play_shareext@premier4TH.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 4-X" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball•4•HD[ENG]
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115768&extension=ts&play_shareext@premier4Eng.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 5" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball•5•HD
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115515&extension=ts&play_shareext@premier5HD.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TH 1 [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•1[THAI]
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115532&extension=ts&play_shareext@truesport1TH.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport HD TH 1[THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•1HD TH
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115531&extension=ts&play_shareext@truesport1HD.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport HD TH 2 [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•2•HD2[THAI]
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115533&extension=ts&play_shareext@truesport2TH.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TH 2 [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•2
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115535&extension=ts&play_shareext@truesport2.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport HD TH 3 [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•3HD[THAI]
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115537&extension=ts&play_shareext@truesport3TH.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TH 3 [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•3
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115538&extension=ts&play_shareext@truesport3.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport 5 TH [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•5•[THAI]
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115541&extension=ts&play_shareext@truesport5TH.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport 6 TH [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•6•[THAI]
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115542&extension=ts&play_shareext@truesport6TH.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport 7 TH [ENG]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•7•[ENG]
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115798&extension=ts&play_shareext@truesport7Eng.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport 7 TH [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•7•[THAI]
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115799&extension=ts&play_shareext@truesport7TH.ts
+#EXTINF:-1 tvg-id="" tvg-name="Thai BeIN Sports 1 HD TH [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",BeINSports•1 HD[THAI]
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115807&extension=ts&play_shareext@beinsport1TH.ts
+#EXTINF:-1 tvg-id="" tvg-name="Thai BeIN Sports 2 HD TH [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",BeINSports•2 HD[THAI]
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115809&extension=ts&play_shareext@beinsport2TH.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",ASTRO•SUPERSPORTS 1 HD
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115615&extension=ts&play_shareext@assp1.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",ASTRO•SUPERSPORTS 2 HD 
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115616&extension=ts&play_shareext@assp2.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 3 HD TH MY" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",ASTRO•SUPERSPORTS 3 HD
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115617&extension=ts&play_shareext@assp3.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 4 HD TH MY" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",ASTRO•SUPERSPORTS 4 HD 
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115618&extension=ts&play_shareext@assp4.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket HD TH " tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Astro•Cricket HD 
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115614&extension=ts&play_shareext@astrocricket.ts
+#EXTINF:-1 tvg-id="" tvg-name="Super Bunteung/FightBox" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SuperBunteunG/FightBox
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115500&extension=ts&play_shareext@fightbox.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tennis HD TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Tennis HD
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115805&extension=ts&play_shareext@tennis.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLF HD TH  [ENG]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",GOLF•HD[ENG]
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115702&extension=ts&play_shareext@golf1.ts
+#EXTINF:-1 tvg-id="" tvg-name="Golf 2 HD TH [Thai]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Golf•2 HD[Thai]
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115698&extension=ts&play_shareext@golf2.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hi Sport TH [Thai]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Hi•Sport [Thai]
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115709&extension=ts&play_shareext@hisport.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA HD TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",NBA HD
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115738&extension=ts&play_shareext@nba.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL HD TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",NFL HD
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115742&extension=ts&play_shareext@nfl.ts
+#EXTINF:-1 tvg-id="" tvg-name="One Golf TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",One Golf
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115325&extension=ts&play_shareext@onegolf.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPTV HD TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PPTV HD
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115501&extension=ts&play_shareext@pptv.ts
+#EXTINF:-1 tvg-id="" tvg-name="Thairath HD TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Thairath HD
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115328&extension=ts&play_shareext@thairath.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fight Night TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Fight Night
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115320&extension=ts&play_shareext@fightnight.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fightclub (Sling) TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Fightclub (Sling)
+http://shareext@nplay.is/play/live.php?mac=10:27:be:15:df:31&stream=115303&extension=ts&play_shareext@fightclub.ts
+
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",🇮🇩beINSports_1
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165105
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",🇮🇩beINSports_3
