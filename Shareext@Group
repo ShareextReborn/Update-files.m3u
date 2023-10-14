@@ -2920,6 +2920,10 @@ https://maper.info/Celestial_shareext
 https://maper.info/AEC_shareext
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Lotus•Macau_🇭🇰
 http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Lotus•Macau_amlh
+http://shareext@107.151.203.111:2209/135/hk.php?id=amlh|shareext@lotusmacau
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Lotus•Macau_php
+http://shareext@www.238311.cn:555/lotustv.php
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Etv•Bioskop|🇮🇩
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298526
