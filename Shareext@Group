@@ -1153,6 +1153,53 @@ http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream
 
 
 
+
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",J_Sports_1
+http://14.102.154.164:5021/live/415.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",J_Sports_2
+http://14.102.154.164:5021/live/416.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",J_Sports_3
+http://14.102.154.164:5021/live/410.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",J_Sports_4
+http://14.102.154.164:5021/live/411.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",Gaora_Sports_jpn
+http://14.102.154.164:5021/live/413.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",Racing_horse_jpn
+http://14.102.154.164:5021/live/412.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",SamuraiTv_Wrestling_Japan
+http://14.102.154.164:5021/live/408.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",GOLF_jpn
+http://14.102.154.164:5021/live/409.ts
+
+#EXTINF:-1 xui-id="754587" tvg-id="English - Now Sports Premier League 1" tvg-name="Now HK Premier Sports 1" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",Now_HK_PremierSports_1
+http://servi-teevee.net:80/play/MfZubMFytf_671kj-GQtsd3AcBQ0kzcFKMTUBieQimc
+#EXTINF:-1 xui-id="754595" tvg-id="English - Now Sports 4K" tvg-name="Now HK Now Sports 4K 616" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",Now HK Now Sports 4K 616
+http://servi-teevee.net:80/play/MfZubMFytf_671kj-GQtsaert7KVH9xEIbaluJsXTB4
+#EXTINF:-1 xui-id="754596" tvg-id="" tvg-name="Now HK Now Sports 4K 617" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",Now HK Now Sports 4K 617
+http://servi-teevee.net:80/play/MfZubMFytf_671kj-GQtsXFbTqp4mbshjMUvW7PhAdc
+
+#EXTINF:-1 xui-id="754616" tvg-id="" tvg-name="NZ SKY Sport 1" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",NZ_SKYSport 1
+http://servi-teevee.net:80/play/MfZubMFytf_671kj-GQtsb3y8crNVjfrJ40tmJG3gzA
+#EXTINF:-1 xui-id="754617" tvg-id="" tvg-name="NZ SKY Sport 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",NZ_SKYSport 2
+http://servi-teevee.net:80/play/MfZubMFytf_671kj-GQtseC8MRz932chsEKqYdAqZWc
+#EXTINF:-1 xui-id="754618" tvg-id="" tvg-name="NZ SKY Sport 3" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",NZ_SKYSport 3
+http://servi-teevee.net:80/play/MfZubMFytf_671kj-GQtsQEHIR3EkeVrHlT1ICKB1j8
+#EXTINF:-1 xui-id="754619" tvg-id="" tvg-name="NZ SKY Sport 4" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",NZ_SKYSport 4
+http://servi-teevee.net:80/play/MfZubMFytf_671kj-GQtsZBKvqlyJCExeu7MpUuyBZQ
+#EXTINF:-1 xui-id="754620" tvg-id="" tvg-name="NZ SKY Sport 5" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",NZ_SKYSport 5
+http://servi-teevee.net:80/play/MfZubMFytf_671kj-GQtsaJJVG8lyy_GmWbVKrPQT9Q
+#EXTINF:-1 xui-id="754621" tvg-id="" tvg-name="NZ SKY Sport 6" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",NZ_SKYSport 6
+http://servi-teevee.net:80/play/MfZubMFytf_671kj-GQtsSK_ZJkwCGJr8Xm759iCki0
+#EXTINF:-1 xui-id="754622" tvg-id="" tvg-name="NZ SKY Sport 7" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",NZ_SKYSport 7
+http://servi-teevee.net:80/play/MfZubMFytf_671kj-GQtsRZmCYG5GI8cZZbwVq0EBs4
+#EXTINF:-1 xui-id="754623" tvg-id="" tvg-name="NZ SKY Sport 8" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",NZ_SKYSport 8
+http://servi-teevee.net:80/play/MfZubMFytf_671kj-GQtsWwJBDZqetZYZxrVLDoDMJY
+#EXTINF:-1 xui-id="754624" tvg-id="" tvg-name="NZ SKY Sport 9" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",NZ_SKYSport 9
+http://servi-teevee.net:80/play/MfZubMFytf_671kj-GQtsYb6Z6RVf18BE1yUTELCy_E
+#EXTINF:-1 xui-id="754625" tvg-id="" tvg-name="NZ SKY Sport SELECT" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",NZ_SKYSport SELECT
+http://servi-teevee.net:80/play/MfZubMFytf_671kj-GQtsY78CL5SUeVQ2Uq6c7Q6E0Y
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",ASTROSPORTS_1
 http://shareext@195.26.87.217:80/live.ts?channelId=125429&uid=12374&deviceMac=00:1A:79:2E:F0:59&shareext@assp1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",ASTROSPORTS_2
