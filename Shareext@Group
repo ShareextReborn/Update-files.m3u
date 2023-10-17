@@ -1200,48 +1200,6 @@ http://servi-teevee.net:80/play/MfZubMFytf_671kj-GQtsYb6Z6RVf18BE1yUTELCy_E
 #EXTINF:-1 xui-id="754625" tvg-id="" tvg-name="NZ SKY Sport SELECT" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",NZ_SKYSport SELECT
 http://servi-teevee.net:80/play/MfZubMFytf_671kj-GQtsY78CL5SUeVQ2Uq6c7Q6E0Y
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",ASTROSPORTS_1
-http://shareext@195.26.87.217:80/live.ts?channelId=125429&uid=12374&deviceMac=00:1A:79:2E:F0:59&shareext@assp1
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",ASTROSPORTS_2
-http://shareext@195.26.87.217:80/live.ts?channelId=125430&uid=12374&deviceMac=00:1A:79:2E:F0:59&shareext@assp2
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",ASTROSPORTS_3
-http://shareext@195.26.87.217:80/live.ts?channelId=125431&uid=12374&deviceMac=00:1A:79:2E:F0:59&shareext@assp3
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",ASTROSPORTS_4
-http://shareext@195.26.87.217:80/live.ts?channelId=125432&uid=12374&deviceMac=00:1A:79:2E:F0:59&shareext@assp4
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",MU•TV
-http://shareext@195.26.87.217:80/live.ts?channelId=125434&uid=12374&deviceMac=00:1A:79:2E:F0:59&shareext@MUtv
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",VIAPLAY•EXTRA
-http://shareext@195.26.87.217:80/live.ts?channelId=125434&uid=12374&deviceMac=00:1A:79:2E:F0:59&shareext@Viaplayxtra
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",18•SPORTS
-http://shareext@195.26.87.217:80/live.ts?channelId=102479&uid=12374&deviceMac=00:1A:79:2E:F0:59&shareext@sport18
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",SONY•SPORTS•1
-http://shareext@195.26.87.217:80/live.ts?channelId=289&uid=12374&deviceMac=00:1A:79:2E:F0:59&shareext@sonysport1
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",SONY•SPORTS•2
-http://shareext@195.26.87.217:80/live.ts?channelId=290&uid=12374&deviceMac=00:1A:79:2E:F0:59&shareext@sonysport2
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",SONY•SPORTS•3
-http://shareext@195.26.87.217:80/live.ts?channelId=291&uid=12374&deviceMac=00:1A:79:2E:F0:59&shareext@sonysport3
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",STARSPORTS•1_HD
-http://shareext@195.26.87.217:80/live.ts?channelId=293&uid=12374&deviceMac=00:1A:79:2E:F0:59&shareext@starsport1HD
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",STARSPORTS•2_HD
-http://shareext@195.26.87.217:80/live.ts?channelId=298&uid=12374&deviceMac=00:1A:79:2E:F0:59&shareext@starsport2HD
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",STARSPORTS_TAMIL
-http://shareext@195.26.87.217:80/live.ts?channelId=295&uid=12374&deviceMac=00:1A:79:2E:F0:59&shareext@starsport1Tamil
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",STARSPORTS_SELECT_1_HD
-http://shareext@195.26.87.217:80/live.ts?channelId=299&uid=12374&deviceMac=00:1A:79:2E:F0:59&shareext@starsportSelect1HD
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",STARSPORTS_SELECT_2_HD
-http://shareext@195.26.87.217:80/live.ts?channelId=300&uid=12374&deviceMac=00:1A:79:2E:F0:59&shareext@starsportSelect2HD
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",WILLOW_HD
-http://shareext@195.26.87.217:80/live.ts?channelId=302&uid=12374&deviceMac=00:1A:79:2E:F0:59&shareext@willowHD
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",SPORTS_tamil
-http://shareext@195.26.87.217:80/live.ts?channelId=74567&uid=12374&deviceMac=00:1A:79:2E:F0:59&shareext@sportTamil
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",DD_SPORTS
-http://shareext@195.26.87.217:80/live.ts?channelId=88853&uid=12374&deviceMac=00:1A:79:2E:F0:59&shareext@DDsports
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",JIO_CRICKET_ENGLISH_HD
-http://shareext@195.26.87.217:80/live.ts?channelId=294&uid=12374&deviceMac=00:1A:79:2E:F0:59&shareext@jiocricketEnglish
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",a_SPORTS_INDIE
-http://shareext@195.26.87.217:80/live.ts?channelId=12217&uid=12374&deviceMac=00:1A:79:2E:F0:59&shareext@aSports
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",TENNIS_CHANNEL
-http://shareext@195.26.87.217:80/live.ts?channelId=296&uid=12374&deviceMac=00:1A:79:2E:F0:59&shareext@tennisChannel
 
 
 
