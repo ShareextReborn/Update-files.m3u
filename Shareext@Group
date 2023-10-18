@@ -1155,9 +1155,9 @@ http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",SKYNET_SPORTS_1_test_dec=auto
-http://103.180.112.66:8087/skynetsp1/index.fmp4.m3u8?token=1a3f0c781a94ae211c0b41cb2b416cebf5bea131-0da9ab2ba8851bbd805c44368537dba0-1697607466-1697596666
+http://103.180.112.66:8087/skynetsp1/index.fmp4.m3u8?token=07696d4a8a643e8adcb76d4d447b762fef3b873a-3c437e89319f5de4017c31d091be85ff-1697633568-1697622768
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",SKYNET_SPORTS_2_test_dec=auto
-http://103.180.112.66:8087/skynetsp6/index.fmp4.m3u8?token=5525185964a7c2f1afa176468e6f7ac4709438d5-228aefbc1ce428cd28dc36d7e9993154-1697607703-1697596903
+http://103.180.112.66:8087/skynetsp6/index.fmp4.m3u8?token=3504245ba08585ba36c848412ad2857b9d05feb9-a68a35af9d1c2ff22dfd43e64833ef4b-1697633581-1697622781
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",T_SPORTS_test_dec=auto
 http://103.180.112.66:8087/tsports/index.fmp4.m3u8?token=327feb3bfeb0dd149c7716b793aaa8961ec4c294-fa359fb01944908a658c5bc6c348ebca-1697631017-1697620217
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",SONYSPORT_1_test_dec=auto
