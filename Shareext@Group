@@ -1153,7 +1153,36 @@ http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream
 
 
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",ASSP_4_tesst
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",SKYNET_SPORTS_1_test_dec=auto
+http://103.180.112.66:8087/skynetsp1/index.fmp4.m3u8?token=1a3f0c781a94ae211c0b41cb2b416cebf5bea131-0da9ab2ba8851bbd805c44368537dba0-1697607466-1697596666
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",SKYNET_SPORTS_2_test_dec=auto
+http://103.180.112.66:8087/skynetsp6/index.fmp4.m3u8?token=5525185964a7c2f1afa176468e6f7ac4709438d5-228aefbc1ce428cd28dc36d7e9993154-1697607703-1697596903
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",T_SPORTS_test_dec=auto
+http://103.180.112.66:8087/tsports/index.fmp4.m3u8?token=327feb3bfeb0dd149c7716b793aaa8961ec4c294-fa359fb01944908a658c5bc6c348ebca-1697631017-1697620217
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",SONYSPORT_1_test_dec=auto
+http://103.180.112.66:8087/sonysp1/index.fmp4.m3u8?token=8523bac37c7ee377e228bb3be99a0997d34cf191-a6f9363f811eddb3c46696f5cd0b0feb-1697631043-1697620243
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",SONYSPORT_2_test_dec=auto
+http://103.180.112.66:8087/sonysp2/index.fmp4.m3u8?token=55588a2d2f1f9f321ea3e0ae5af0363d07ebf2b4-60432554a8c3d7c9c8514490363028c8-1697631148-1697620348
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",SONYSPORT_5_test_dec=auto
+http://103.180.112.66:8087/sonysp5-2/index.fmp4.m3u8?token=50e2508043e603bc3a9be36fc997ebea2ea267f7-e58982d4e2000816abe7deee1ccc0849-1697631196-1697620396
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",PTV_SPORT_test_dec=auto
+http://103.180.112.66:8087/ptvsports/index.fmp4.m3u8?token=cc30d4c4093a51c24d65069d461cee3d5c035865-61e2fa0debe13fe29c890c0ac6352604-1697631321-1697620521
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",STARSPORT_1_test_dec=auto
+http://103.180.112.66:8087/Starsports1/index.fmp4.m3u8?token=2d67411d7dea024ce1e21717eba95aab57ec70e1-97314026e6f69be07bb2d012818a8fa9-1697631343-1697620543
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",STARSPORT_2_test_dec=auto
+http://103.180.112.66:8087/starsp2/index.fmp4.m3u8?token=9cb17a5e7c01edb21771a6fef284024b0fdc7f99-eff5706902bfc59430a3d30240431bda-1697631430-1697620630
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",STARSPORT_3_test_dec=auto
+http://103.180.112.66:8087/starsp3/index.fmp4.m3u8?token=41df7405acfa57f40f48c21400317a746fc5c26e-4f2d627bbb961a1bf0a775496734d1b8-1697631487-1697620687
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",STARSPORT_SELECT_1_test_dec=auto
+http://103.180.112.66:8087/startspselect1/index.fmp4.m3u8?token=7e7d1ab4278a43a37b181559ae39e5408a22530c-a664deb279785cfd2a53182806470e9c-1697631500-1697620700
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",STARSPORT_SELECT_2_test_dec=auto
+http://103.180.112.66:8087/starspselect2/index.fmp4.m3u8?token=f914fd5723ff12fffcaa614aba6700676e1e6648-cf336742afc3b8388cc8d644ac034b51-1697631506-1697620706
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",ESPN_INDIE_test_dec=auto
+http://103.180.112.66:8087/Espn/index.fmp4.m3u8?token=8636f4749c4cd87b57a22a22dcfbb5bbde7355e4-c621dc7c08ede6db11c47b88956b2423-1697631515-1697620715
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",GTV_test_dec=auto
+http://103.180.112.66:8087/gtv/index.fmp4.m3u8?token=dfb33b8311196e3e73acc0e7b1193216a8a44a15-294a4eca35296b404fc121c86495e808-1697631520-1697620720
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",ASSP_4_tesst_dec=auto
 http://103.180.112.66:8087/astrasp4/index.fmp4.m3u8?token=b2da20aec3e9a12747c14e3421d4ad24d8b88ccc-bc11181e650f3709380ea4dff6671e7e-1697626550-1697615750
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",HUBSPORT_1_Sgp
 http://shareext@ss123.pro/play/live.php?mac=00:1A:79:00:19:E7&stream=941573&extension=ts&play_shareext@hubsport1_sg
