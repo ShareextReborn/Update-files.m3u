@@ -1153,7 +1153,8 @@ http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream
 
 
 
-
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",ASSP_4_tesst
+http://103.180.112.66:8087/astrasp4/index.fmp4.m3u8?token=b2da20aec3e9a12747c14e3421d4ad24d8b88ccc-bc11181e650f3709380ea4dff6671e7e-1697626550-1697615750
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",HUBSPORT_1_Sgp
 http://shareext@ss123.pro/play/live.php?mac=00:1A:79:00:19:E7&stream=941573&extension=ts&play_shareext@hubsport1_sg
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",HUBSPORT_2_Sgp
@@ -1210,11 +1211,6 @@ http://14.102.154.164:5021/live/409.ts
 
 #EXTINF:-1 xui-id="754587" tvg-id="English - Now Sports Premier League 1" tvg-name="Now HK Premier Sports 1" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",Now_HK_PremierSports_1
 http://servi-teevee.net:80/play/MfZubMFytf_671kj-GQtsd3AcBQ0kzcFKMTUBieQimc
-#EXTINF:-1 xui-id="754595" tvg-id="English - Now Sports 4K" tvg-name="Now HK Now Sports 4K 616" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",Now HK Now Sports 4K 616
-http://servi-teevee.net:80/play/MfZubMFytf_671kj-GQtsaert7KVH9xEIbaluJsXTB4
-#EXTINF:-1 xui-id="754596" tvg-id="" tvg-name="Now HK Now Sports 4K 617" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",Now HK Now Sports 4K 617
-http://servi-teevee.net:80/play/MfZubMFytf_671kj-GQtsXFbTqp4mbshjMUvW7PhAdc
-
 #EXTINF:-1 xui-id="754616" tvg-id="" tvg-name="NZ SKY Sport 1" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",NZ_SKYSport 1
 http://servi-teevee.net:80/play/MfZubMFytf_671kj-GQtsb3y8crNVjfrJ40tmJG3gzA
 #EXTINF:-1 xui-id="754617" tvg-id="" tvg-name="NZ SKY Sport 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",NZ_SKYSport 2
