@@ -4866,6 +4866,21 @@ http://203.81.84.130/hls/mwd_family/index.m3u8
 http://203.81.84.130/hls/mwd_shopping/index.m3u8
 
 
+
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Starvijay 
+http://195.181.169.78:8899/star_vijay/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Star_maa 
+http://195.181.169.78:8899/star_maa/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",SONY_set 
+http://195.181.169.78:8899/sony_tv/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Starplus
+http://195.181.169.78:8899/star_plus/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",SONY_sab
+http://195.181.169.78:8899/sony_sab/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Star_Bharat 
+http://195.181.169.78:8899/star_bharat/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",& pictures
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16958
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",& prive
