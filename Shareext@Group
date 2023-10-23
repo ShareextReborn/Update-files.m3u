@@ -2489,7 +2489,7 @@ http://rr1.dens.tv/h/h14/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Cinema Europe
 http://rr.dens.tv/h/h18/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Cinema World
-http://rr1.dens.tv/h/h04/index.m3u8
+http://rr.dens.tv/h/h04/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",CNA
 http://rr.dens.tv/h/h29/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",DAAI TV
@@ -2525,7 +2525,7 @@ http://rr.dens.tv/s/s46/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",JTV
 http://rr.dens.tv/s/s91/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",KIX
-http://rr.dens.tv/h/h07/index.m3u8
+http://rr1.dens.tv/h/h07/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Kompas TV
 http://rr.dens.tv/s/s104/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Kplus
@@ -2571,13 +2571,13 @@ http://rr1.dens.tv/h/h16/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Rock Extreme
 http://rr1.dens.tv/h/h15/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Rodja TV
-http://rr2.dens.tv/s/s14/index.m3u8
+http://rr3.dens.tv/s/s14/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",RT English
 http://rr.dens.tv/s/s23/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",RTP
 http://rr.dens.tv/s/s38/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",RTV
-http://rr.dens.tv/s/s12/index.m3u8
+http://rr3.dens.tv/s/s12/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",SCTV
 http://rr.dens.tv/s/s03/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Shanghai Dragon
@@ -2763,31 +2763,35 @@ http://208.115.225.174:14148
 http://208.115.225.174:14160
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",myTimeMovies
 https://mytime-tcl.amagi.tv/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩CelestialClassicMovies
-http://rr2.dens.tv/s/s31/index.m3u8
+http://rr3.dens.tv/s/s31/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩CelestialMovies Indonesia
-http://210.210.155.35/session/5bf247f6-7a97-11ec-8b65-b82a72d63267/dr9445/h/h14/index.m3u8
-http://rr.dens.tv/h/h14/index.m3u8
+http://rr1.dens.tv/h/h14/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩Cinema Europe
 http://rr.dens.tv/h/h18/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩Cinema World
-http://rr1.dens.tv/h/h04/index.m3u8
+http://rr.dens.tv/h/h04/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩KIX
 http://rr1.dens.tv/h/h07/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩Kplus
 http://rr.dens.tv/h/h08/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩My Cinema
+http://rr3.dens.tv/h/h192/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩My Cinema Asia
+http://rr3.dens.tv/h/h193/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩My Family Channel
+http://rr3.dens.tv/h/h194/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩My Kidz
-http://rr.dens.tv/h/h191/index.m3u8
+http://rr3.dens.tv/h/h191/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩Rock Entertainment
-http://210.210.155.37/dr9445/h/h16/01.m3u8
-http://rr1.dens.tv/h/h16/index.m3u8
+http://rr.dens.tv/h/h16/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩Rock Action
-http://210.210.155.37/dr9445/h/h15/01.m3u8
-http://rr1.dens.tv/h/h15/index.m3u8
+http://rr.dens.tv/h/h15/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩Thrill
-http://rr2.dens.tv/s/s34/index.m3u8
+http://rr3.dens.tv/s/s34/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩ToonMax
-http://rr2.dens.tv/s/s50/index.m3u8
+http://rr3.dens.tv/s/s50/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩TVN Movies Indonesia
 http://rr1.dens.tv/h/h21/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩TVN Premium Indonesia
@@ -2796,6 +2800,7 @@ http://rr1.dens.tv/h/h20/index.m3u8
 http://rr3.dens.tv/s/s94/index2.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩Zee Bioskop
 http://rr2.dens.tv/s/s32/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",STARBRARRAT_🇮🇳
 http://shareex@195.26.87.217/live?channelId=12364&deviceMac=00:1A:79:33:E9:41|id=starbrarrat|shareext.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",&PRIVE_🇮🇳
