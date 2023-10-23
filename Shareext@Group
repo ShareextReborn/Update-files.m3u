@@ -2464,6 +2464,14 @@ https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",cctv鈥orld鈥eography馃嚚馃嚦
 https://node1.olelive.com:6443/live/SJDL/hls.m3u8
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CGTN俄语
+https://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CGTN法语
+https://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CGTN西语
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CGTN阿语
+https://livear.cgtn.com/1000a/prog_index.m3u8
 
 
 
