@@ -2469,13 +2469,13 @@ https://node1.olelive.com:6443/live/SJDL/hls.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Aljazeera Arabic
-http://rr2.dens.tv/s/s16/index.m3u8
+http://rr.dens.tv/s/s16/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Aljazeera English
-http://rr2.dens.tv/s/s17/index.m3u8
+http://rr.dens.tv/s/s17/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",AniPlus
 http://rr1.dens.tv/h/h02/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",ANTV
-http://rr2.dens.tv/s/s07/index.m3u8
+http://rr.dens.tv/s/s07/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Bali TV
 http://rr.dens.tv/h/h159/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Bloomberg TV Asia
@@ -2485,7 +2485,6 @@ http://rr2.dens.tv/s/s19/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",CelestialClassicMovies
 http://rr3.dens.tv/s/s31/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",CelestialMovies Indonesia
-http://210.210.155.35/session/5bf247f6-7a97-11ec-8b65-b82a72d63267/dr9445/h/h14/index.m3u8
 http://rr.dens.tv/h/h14/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Cinema Europe
 http://rr.dens.tv/h/h18/index.m3u8
@@ -2520,15 +2519,15 @@ http://rr.dens.tv/h/h19/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",HITS
 http://rr1.dens.tv/h/h37/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Indosiar
-http://rr2.dens.tv/s/s04/index.m3u8
+http://rr.dens.tv/s/s04/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Jak TV
-http://rr3.dens.tv/s/s46/index.m3u8
+http://rr.dens.tv/s/s46/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",JTV
-http://rr3.dens.tv/s/s91/index.m3u8
+http://rr.dens.tv/s/s91/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",KIX
-http://rr1.dens.tv/h/h07/index.m3u8
+http://rr.dens.tv/h/h07/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Kompas TV
-http://rr2.dens.tv/s/s104/index.m3u8
+http://rr.dens.tv/s/s104/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Kplus
 http://rr.dens.tv/h/h08/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",KSA
@@ -2542,14 +2541,13 @@ http://rr.dens.tv/h/h12/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Motorvision
 http://rr.dens.tv/h/h09/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",My Cinema
-http://210.210.155.37/uq2663/h/h192/index.m3u8
-http://rr.dens.tv/h/h192/index.m3u8
+http://rr3.dens.tv/h/h192/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",My Cinema Asia
-http://rr.dens.tv/h/h193/index.m3u8
+http://rr3.dens.tv/h/h193/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",My Family Channel
-http://rr.dens.tv/h/h194/index.m3u8
+http://rr3.dens.tv/h/h194/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",My Kidz
-http://rr.dens.tv/h/h191/index.m3u8
+http://rr3.dens.tv/h/h191/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",My TV
 http://rr2.dens.tv/s/s46/index2.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",My_TV
@@ -2569,21 +2567,19 @@ http://rr2.dens.tv/s/s28/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",RAI Italia
 http://rr3.dens.tv/s/s63/index2.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Rock Entertainment
-http://210.210.155.37/dr9445/h/h16/01.m3u8
-http://rr1.dens.tv/h/h16/index.m3u8
+http://rr.dens.tv/h/h16/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Rock Extreme
-http://210.210.155.37/dr9445/h/h15/01.m3u8
-http://rr1.dens.tv/h/h15/index.m3u8
+http://rr.dens.tv/h/h15/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Rodja TV
 http://rr2.dens.tv/s/s14/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",RT English
-http://rr3.dens.tv/s/s23/index.m3u8
+http://rr.dens.tv/s/s23/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",RTP
-http://rr2.dens.tv/s/s38/index.m3u8
+http://rr.dens.tv/s/s38/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",RTV
-http://rr2.dens.tv/s/s12/index.m3u8
+http://rr.dens.tv/s/s12/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",SCTV
-http://rr2.dens.tv/s/s03/index.m3u8
+http://rr.dens.tv/s/s03/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Shanghai Dragon
 http://rr3.dens.tv/s/s29/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Sinema Indonesia
@@ -2597,9 +2593,9 @@ http://rr2.dens.tv/s/s39/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Telenovela
 http://rr.dens.tv/h/h153/index2.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Thrill
-http://rr2.dens.tv/s/s34/index.m3u8
+http://rr3.dens.tv/s/s34/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",ToonMax
-http://rr2.dens.tv/s/s50/index.m3u8
+http://rr3.dens.tv/s/s50/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Trans 7
 http://rr.dens.tv/h/h11/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Trans TV
@@ -2615,15 +2611,15 @@ http://rr1.dens.tv/h/h21/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",TVN Premium Indonesia
 http://rr1.dens.tv/h/h20/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",tvOne
-http://rr2.dens.tv/s/s105/index.m3u8
+http://rr.dens.tv/s/s105/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",TVRI Nasional
-http://rr2.dens.tv/s/s11/index.m3u8
+http://rr3.dens.tv/s/s11/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",TVRI Sport
-http://rr2.dens.tv/s/s107/index.m3u8
+http://rr3.dens.tv/s/s107/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",UA
 http://rr.dens.tv/h/h101/index2.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",UChannel
-http://rr2.dens.tv/s/s41/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",MOJI
+http://rr3.dens.tv/s/s41/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",WION
 http://rr.dens.tv/h/h91/index2.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Xing Kong TV
