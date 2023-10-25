@@ -3919,14 +3919,55 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-4
 
 
 
+#EXTINF:-1 tvg-id="FITE247.us" tvg-name="PPV: Fite TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/1024px-FITE_TV.svg.png" group-title="ShareExt@FIGHT_Sports",Fite TV_ppv
+http://abc123.digital:8080/ericmoseley20@gmail.com/WETMW4WyZW/433503
+#EXTINF:-1 tvg-id="WWENetwork.peacocktv" tvg-name="PPV: WWE Network" tvg-logo="https://orig01.deviantart.net/3e6c/f/2015/257/9/b/wwe_logo_2015_by_wwematchcard-d99jk1z.png" group-title="ShareExt@FIGHT_Sports",WWE Network_ppv
+http://abc123.digital:8080/ericmoseley20@gmail.com/WETMW4WyZW/433504
+#EXTINF:-1 tvg-id="DLEO 02:" tvg-name="PPV: UFC Channel" tvg-logo="http://fighttalkscotland.com/wp-content/uploads/2016/02/UFC_Logo.png" group-title="ShareExt@FIGHT_Sports",UFC Channel_ppv
+http://abc123.digital:8080/ericmoseley20@gmail.com/WETMW4WyZW/433505
+#EXTINF:-1 tvg-id="BellatorMMA.pluto" tvg-name="US: Bellator MMA" tvg-logo="https://logodix.com/logo/1959466.png" group-title="ShareExt@FIGHT_Sports",US: Bellator MMA
+http://abc123.digital:8080/ericmoseley20@gmail.com/WETMW4WyZW/404858
+#EXTINF:-1 tvg-id="Fight.pluto" tvg-name="US: Fight" tvg-logo="http://www.pngmart.com/files/4/Fight-PNG-HD.png" group-title="ShareExt@FIGHT_Sports",US: Fight
+http://abc123.digital:8080/ericmoseley20@gmail.com/WETMW4WyZW/404909
+#EXTINF:-1 tvg-id="fightnetwork.ca" tvg-name="US: Fight Network" tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_fight_sports.png" group-title="ShareExt@FIGHT_Sports",US: Fight Network
+http://abc123.digital:8080/ericmoseley20@gmail.com/WETMW4WyZW/424688
+#EXTINF:-1 tvg-id="DLEO 02:" tvg-name="US: UFC 24/7" tvg-logo="https://cdn.vox-cdn.com/thumbor/nPK5qMh-7QFW8HgvXO-bqquAy6o=/0x53:1000x720/2420x1613/filters:focal(0x53:1000x720)/cdn.vox-cdn.com/uploads/chorus_image/image/29638231/ufc_fightpass_logo_f_png.0.png" group-title="ShareExt@FIGHT_Sports",US: UFC 24/7
+http://abc123.digital:8080/ericmoseley20@gmail.com/WETMW4WyZW/392618
+#EXTINF:-1 tvg-id="" tvg-name="US: FIGHT SPORTS" tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_fight_sports.png" group-title="ShareExt@FIGHT_Sports",US: FIGHT SPORTS
+http://abc123.digital:8080/ericmoseley20@gmail.com/WETMW4WyZW/508840
+#EXTINF:-1 tvg-id="WWENetwork.peacocktv" tvg-name="US WWE Network (PC)" tvg-logo="https://i.postimg.cc/9QzrVKdy/peacock.png" group-title="ShareExt@FIGHT_Sports",WWE Network(Peacock)
+http://abc123.digital:8080/ericmoseley20@gmail.com/WETMW4WyZW/405955
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="CA: WWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/150px-WWE_Logo.svg.png" group-title="ShareExt@FIGHT_Sports",CA: WWE
+http://abc123.digital:8080/ericmoseley20@gmail.com/WETMW4WyZW/418527
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="US: WWE NETWORK" tvg-logo="https://orig01.deviantart.net/3e6c/f/2015/257/9/b/wwe_logo_2015_by_wwematchcard-d99jk1z.png" group-title="ShareExt@FIGHT_Sports",WWE NETWORK(pro)
+http://abc123.digital:8080/ericmoseley20@gmail.com/WETMW4WyZW/392617
+#EXTINF:-1 tvg-id="WWENetwork.my" tvg-name="MY WWE_NETWORK" tvg-logo="http://img4.wikia.nocookie.net/__cb20140415210202/logopedia/images/c/ca/WWE_2014_logo.png" group-title="ShareExt@FIGHT_Sports",MY_WWE_NETWORK
+http://abc123.digital:8080/ericmoseley20@gmail.com/WETMW4WyZW/512243
+#EXTINF:-1 tvg-id="WWE.za" tvg-name="SS: WWE" tvg-logo="http://img4.wikia.nocookie.net/__cb20140415210202/logopedia/images/c/ca/WWE_2014_logo.png" group-title="ShareExt@FIGHT_Sports",SS: WWE
+http://abc123.digital:8080/ericmoseley20@gmail.com/WETMW4WyZW/425901
+#EXTINF:-1 tvg-id="" tvg-name="24/7: WWE WRESTLEMANIA" tvg-logo="https://1.bp.blogspot.com/-yF5XbxbuxPE/WnaQYcKDobI/AAAAAAAABUE/fNu4JjfyBNMPF6T13HPZ_s_tlz65ZlmtQCLcBGAs/s1600/Wrestlemania_33_Logo_cut_by_Danger_Liam.png" group-title="ShareExt@FIGHT_Sports",WWE WRESTLEMANIA_24/7
+http://abc123.digital:8080/ericmoseley20@gmail.com/WETMW4WyZW/438662
+#EXTINF:-1 tvg-id="tvg-id-channel980" tvg-name="24/7: WWE Money in the Bank" tvg-logo="https://2.bp.blogspot.com/-QM8BGnxE58k/XK7RZfah9EI/AAAAAAAABxc/pFqir1ik7XI0EGKvESPfnUGmqk1OSSm-gCLcBGAs/s1600/WWE-Money-in-the-Bank-Logo.png" group-title="ShareExt@FIGHT_Sports",WWE Money in the Bank_24/7
+http://abc123.digital:8080/ericmoseley20@gmail.com/WETMW4WyZW/489190
+#EXTINF:-1 tvg-id="tvg-id-channel981" tvg-name="24/7: WWE Royal Rumble" tvg-logo="https://www.firstcomicsnews.com/wp-content/uploads/2018/04/Royal-Rumble-logo-600x257.png" group-title="ShareExt@FIGHT_Sports",WWE Royal Rumble_24/7
+http://abc123.digital:8080/ericmoseley20@gmail.com/WETMW4WyZW/489191
+#EXTINF:-1 tvg-id="tvg-id-channel982" tvg-name="24/7: WWE SummerSlam" tvg-logo="https://www.wrestlingnewsworld.com/.image/t_share/MTU3NDA1OTk5MjcwOTk1MTQ2/20160625120811summerslam_2015_-_logo.png" group-title="ShareExt@FIGHT_Sports",WWE SummerSlam_24/7
+http://abc123.digital:8080/ericmoseley20@gmail.com/WETMW4WyZW/489192
+#EXTINF:-1 tvg-id="IMPACTWrestling.pluto" tvg-name="US: IMPACT PRO WRESTLING" tvg-logo="https://impactwrestling.com/wp-content/uploads/logo-impact-red-flat.png" group-title="ShareExt@FIGHT_Sports",US:=IMPACT PRO WRESTLING
+http://abc123.digital:8080/ericmoseley20@gmail.com/WETMW4WyZW/428570
+#EXTINF:-1 tvg-id="LuchaLibreAAA.pluto" tvg-name="US: Lucha Libre AAA" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/3485898_dek_1.png" group-title="ShareExt@FIGHT_Sports",US:=Lucha Libre AAA
+http://abc123.digital:8080/ericmoseley20@gmail.com/WETMW4WyZW/404945
+#EXTINF:-1 tvg-id="" tvg-name="AF:(UG) WWE Channel" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Africa-Map-PNG-Transparent-HD-Photo.png" group-title="ShareExt@FIGHT_Sports",AF=WWE Channel
+http://abc123.digital:8080/ericmoseley20@gmail.com/WETMW4WyZW/524174
+#EXTINF:-1 tvg-id="" tvg-name="AR OSN: OSN WWE NETWORK HD" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="ShareExt@FIGHT_Sports",OSN=WWE NETWORK HD
+http://abc123.digital:8080/ericmoseley20@gmail.com/WETMW4WyZW/525350
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",UFC_24/7
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/146291.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",UFC_network
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/146293.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@FIGHT_Sports",WWE•_usa
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/11645.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",FIGHT||SPORTS
-https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 #EXTINF:-1 tvg-id="FightNetwork.ca" tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="ShareExt@FIGHT_Sports",Fight•Network(1080p)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="ShareExt@FIGHT_Sports",FIGHT•SPORTS(1080p)
@@ -3946,12 +3987,8 @@ https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
 #EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-logo="https://i.imgur.com/XO8u1V7.png" group-title="ShareExt@FIGHT_Sports",IMPACT•Wrestling(1080p)
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="KOKFightsTV.lt" tvg-logo="https://kokfights.com/wp-content/uploads/2018/05/kok_logo.jpg" group-title="ShareExt@FIGHT_Sports",KOK•Fights•TV(1080p) [Not 24/7]
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MAVTVSelect.us" tvg-logo="https://i.imgur.com/O4bSCt1.png" group-title="ShareExt@FIGHT_Sports",MavTV•Select(720p)
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MMAJunkie.us" tvg-logo="https://i.imgur.com/nSUiODh.jpg" group-title="ShareExt@FIGHT_Sports",MMA•Junkie(720p)
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
 #EXTINF:-1 tvg-id="NewJapanProWrestlingWorld.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/512px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="ShareExt@FIGHT_Sports",New•Japan•Pro•Wrestling•World(540p)
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
 #EXTINF:-1 tvg-id="BellatorMMA.us" tvg-logo="https://i.imgur.com/VBKoLHk.png" group-title="ShareExt@FIGHT_Sports",PlutoTV•Bellator•MMA(720p)
@@ -3966,26 +4003,14 @@ https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@FIGHT_Sports",Japan.all.wrestling.pro
 http://14.102.154.164:5021/live/408.ts
-#EXTINF:-1 tvg-id="" tvg-name="VIP | UFC Fight Pass PPV" tvg-logo="https://www.pngplay.com/wp-content/uploads/2/UFC-Logo-PNG-HD-Quality.png" group-title="ShareExt@FIGHT_Sports",UFC•Fight•Pass•PPV
-http://memotv.xyz:8080/leylaser/muChEdcQ7d/319844
-#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: UFC Network" tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",UFC•Network
-http://memotv.xyz:8080/leylaser/muChEdcQ7d/319845
-#EXTINF:-1 tvg-id="" tvg-name="SP | Arena Fight" tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",Arena•Fight
-http://memotv.xyz:8080/leylaser/muChEdcQ7d/319846
-#EXTINF:-1 tvg-id="" tvg-name="RU: Fightbox HD" tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",RU:Fightbox•HD
-http://memotv.xyz:8080/leylaser/muChEdcQ7d/319851
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",FIGHT•SPORTS.🇮🇩
 http://rr1.dens.tv/h/h05/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",WWE•NETWORK
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",MMA_TV
-https://alchimie-mmatv-samsung.amagi.tv/playlist360_p.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",Boxing_Tv
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/8d205a30-d00f-457d-978b-265b290eb7e0/0.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",Hard_knock
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/52e53bec-21f1-4caf-86ce-a502b6cc8520.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",Fite_Tv
-https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",Impack Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports", UFC
