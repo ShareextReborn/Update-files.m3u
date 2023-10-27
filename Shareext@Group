@@ -768,6 +768,91 @@ https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMALUKUAM
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SPOTVHD TH
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115304.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD TH  [ENG]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SPOTV[ENG]
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115427.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SPOTV_2(TH)
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115305.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SPOTV_2(ENG)
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115433.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football 1 TH [Thai]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball•1[Thai]
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115757.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 1  [ENG]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball HD•1[ENG]
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115758.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 2  [ENG]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball•2HD TH
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115762.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 2  [ENG]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball HD•2•[ENG]
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115508.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 3" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball•3HD TH
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115510.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 3 [ENG]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball HD•3[ENG]
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115511.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 4" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball•4•HD TH
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115513.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 4-X" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball•4•HD[ENG]
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115768.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 5" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball•5•HD
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115515.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TH 1 [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•1[THAI]
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115532.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport HD TH 1[THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•1HD TH
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115531.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport HD TH 2 [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•2•HD2[THAI]
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115533.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TH 2 [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•2
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115535.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport HD TH 3 [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•3HD[THAI]
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115537.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TH 3 [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•3
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115538.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport 5 TH [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•5•[THAI]
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115541.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport 6 TH [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•6•[THAI]
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115542.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport 7 TH [ENG]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•7•[ENG]
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115798.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport 7 TH [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•7•[THAI]
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115799.ts
+#EXTINF:-1 tvg-id="" tvg-name="Thai BeIN Sports 1 HD TH [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",BeINSports•1 HD[THAI]
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115807.ts
+#EXTINF:-1 tvg-id="" tvg-name="Thai BeIN Sports 2 HD TH [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",BeINSports•2 HD[THAI]
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115809.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",ASTRO•SUPERSPORTS 1 HD
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115615.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",ASTRO•SUPERSPORTS 2 HD 
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115616.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 3 HD TH MY" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",ASTRO•SUPERSPORTS 3 HD
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115617.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 4 HD TH MY" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",ASTRO•SUPERSPORTS 4 HD 
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115618.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket HD TH " tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Astro•Cricket HD 
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115614.ts
+#EXTINF:-1 tvg-id="" tvg-name="Super Bunteung/FightBox" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SuperBunteunG/FightBox
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115500.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tennis HD TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Tennis HD
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115805.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLF HD TH  [ENG]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",GOLF•HD[ENG]
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115702.ts
+#EXTINF:-1 tvg-id="" tvg-name="Golf 2 HD TH [Thai]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Golf•2 HD[Thai]
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115698.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hi Sport TH [Thai]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Hi•Sport [Thai]
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115709.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA HD TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",NBA HD
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115738.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL HD TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",NFL HD
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115742.ts
+#EXTINF:-1 tvg-id="" tvg-name="One Golf TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",One Golf
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115325.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPTV HD TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PPTV HD
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115501.ts
+#EXTINF:-1 tvg-id="" tvg-name="Thairath HD TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Thairath HD
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115328.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fight Night TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Fight Night
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115320.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fightclub (Sling) TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Fightclub (Sling)
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115303.ts
+
 
 
 
@@ -2491,6 +2576,43 @@ http://kuchini.site:8080/devtv/5af3eeb538/298500
 http://kuchini.site:8080/devtv/5af3eeb538/298501
 #EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Warkop DKI" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@24X7",ID:Warkop.DKI
 http://kuchini.site:8080/devtv/5af3eeb538/298502
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",JOHN_WICK
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/99483.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",HOME_ALONE
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/99436.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",HARRY_POTTER
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/100029.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",THE_HOBBIT
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/100138.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",T_ROLL_OF.T.RING
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/100028.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",BRUCE_WILLIS
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/111149.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",ARNOLD_SCwarzegger
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/111148.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",JACKY_CHAN
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/444451.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",JASON_STAHAM
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/111152.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",JOHN_TRAVOLLTA
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/111155.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",JOHNY_DEEP
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/111154.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",MEL_GIBSON
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/111156.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",MILA_JOVOVICH
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/111157.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",ROBERT_DENIRO
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/111159.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",SILVESTER_STALLONE
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/111143.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",TOM_CRUISE
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/111160.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",VAN_DAMME
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/111161.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",VIN_DIESEL
+http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/111162.ts
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",BRUCE•LEE•_MOVIE
 http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558763&extension=ts&shareext@BruceleeMovie
