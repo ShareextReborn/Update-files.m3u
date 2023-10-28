@@ -47,8 +47,9 @@ http://xtv.ooo:8080/493121299/992121394/350972
 http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:0E:19:18&stream=994885&extension=ts&shareext@indosiar
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar|pro
 http://shareext@ss123.pro/play/live.php?mac=00:1A:79:00:19:E7&stream=994885&extension=ts&shareext@indosiar
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar|HD_ott
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar|HD
+http://kuchini.site:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/162138
+
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseePrime_dec=auto
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
@@ -692,18 +693,6 @@ http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream
 
 
 
-#EXTINF:-1 tvg-id="AstroSuperSport.my" group-title="SHAREEXT@OLAHRAGA•ASIAN" ch-number="811" tvg-logo="https://i.ibb.co/1bYD50N/assp.png",ASTROSUPERSPORTS 1_HD
-http://sibfungold.info:8080/live/tverdnic2006/5KdVRcHHrH/52859.ts
-#EXTINF:-1 tvg-id="AstroSuperSport2" tvg-logo="https://ia800804.us.archive.org/25/items/AstroSupersport2/astro%20supersport%202.png" group-title="SHAREEXT@OLAHRAGA•ASIAN",AstroSuperSport 2_HD
-http://sibfungold.info:8080/live/tverdnic2006/5KdVRcHHrH/52860.ts
-#EXTINF:-1 tvg-id="AstroSuperSport3" tvg-logo="https://sport-tv-guide.live/images/stations/a255.png" group-title="SHAREEXT@OLAHRAGA•ASIAN",AstroSupersport 3_HD
-http://sibfungold.info:8080/live/tverdnic2006/5KdVRcHHrH/52861.ts
-#EXTINF:-1 tvg-id="AstroSuperSport4" tvg-logo="https://img.sport-tv-guide.live/images/stations/a256.png" group-title="SHAREEXT@OLAHRAGA•ASIAN",AstroSupersport 4_HD
-http://sibfungold.info:8080/live/tverdnic2006/5KdVRcHHrH/52862.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",AstroArena
-http://sibfungold.info:8080/live/tverdnic2006/5KdVRcHHrH/54189.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",W_Sports
-http://sibfungold.info:8080/live/tverdnic2006/5KdVRcHHrH/54215.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",Astro_Cricket_dec_auto
 http://xtv.ooo:8080/493121299/992121394/352083
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",Astro_Sports_dec_auto
