@@ -1637,6 +1637,65 @@ http://cord-cutter.net:8080/q3VZJc/758042/20944
 
 
 
+
+
+#EXTINF: -1 tvg-id="Vesportiva.br" tvg-chno="105" tvg-logo="https://yt3.googleusercontent.com/btu6HWDl-raFdsF0Qi4S-TBze48fsIWOJX1tvVSqLJo3sgJ0kNor1E3NlGuhetoCdC6lFiT_bA=s900-c-k-c0x00ffffff-no-rj" group-title="SHAREEXT@Canais de Esportes", Vitrine Esportiva
+https://cdn.jmvstream.com/w/AVJ-12930/playlist/playlist.m3u8
+#EXTINF: -1 tvg-id="EsporteBrasilia.br" tvg-name="Esportes Brasília" tvg-chno="023" tvg-logo="https://pbs.twimg.com/profile_images/1631301541452718080/Zx60yrrT_400x400.jpg" group-title="SHAREEXT@Canais de Esportes", Esportes Brasília HD
+https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
+#EXTINF: -1 tvg-id="RSNewsSports.br" tvg-chno="024" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0c883a2ffd8edb16d09ccef5db73ccbb.webp" group-title="SHAREEXT@Canais de Esportes", RS News Sports
+https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/playlist.m3u8
+#EXTINF: -1 tvg-id="RSNewsSports.br" tvg-chno="105" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4a9158128f33e2a329ae8296ec8e3574.webp" group-title="SHAREEXT@Canais de Esportes", RS News Sports 2
+https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/playlist.m3u8
+#EXTINF: -1 tvg-id="RSNewsSports.br" tvg-chno="106" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c0be4bef041b92bda1e3232291c3c9e1.webp" group-title="SHAREEXT@Canais de Esportes", RS News Sports 3
+https://59f1cbe63db89.streamlock.net:1443/rsnews03/_definst_/rsnews03/playlist.m3u8
+#EXTINF: -1 tvg-id="RSNewsSports.br" tvg-chno="107" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a19ac1ef09ac9cea39a5fcfe6c3900be.webp" group-title="SHAREEXT@Canais de Esportes", RS News Sports 4
+https://59f1cbe63db89.streamlock.net:1443/rsnews04/_definst_/rsnews04/playlist.m3u8
+#EXTINF: -1 tvg-id="RSNewsSports.br" tvg-chno="108" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/141ef6c06e0bc402f5f5f7685deef943.webp" group-title="SHAREEXT@Canais de Esportes", RS News Sports 5
+https://59f1cbe63db89.streamlock.net:1443/danielteste/_definst_/danielteste/playlist.m3u8
+#EXTINF: -1 tvg-id="RedBullTV.de" tvg-chno="109" tvg-logo="https://m.media-amazon.com/images/I/51OvgIyfLDL.png" group-title="SHAREEXT@Canais de Esportes", Red Bull TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF: -1 tvg-id="AllSports.br" tvg-name="All Sport HD" tvg-chno="036" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIQe7E06tBaYe2slh3l96cM2nVGqE2HpqslA&usqp=CAU" group-title="SHAREEXT@Canais de Esportes", All Sport HD
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF: -1 tvg-id="UrbantvSports.br" tvg-name="Urban Sports HD" tvg-chno="037" tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/channel/13/thumb_sports-1662477364.png" group-title="SHAREEXT@Canais de Esportes", Urban Sports HD
+https://stream.urbantv.com.br/urbantvsports/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 HD" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPYzEHk9HT5m8p4DyDcOywz0KHg9_zBpfRsQUOJ7f3sI_.png" group-title="SHAREEXT@Canais de Esportes",DAZN F1 HD
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/593921
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD." tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPYzEHk9HT5m8p4DyDcOywz0KHg9_zBpfRsQUOJ7f3sI_.png" group-title="SHAREEXT@Canais de Esportes",DAZN 2 HD.
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/593925
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPYzEHk9HT5m8p4DyDcOywz0KHg9_zBpfRsQUOJ7f3sI_.png" group-title="SHAREEXT@Canais de Esportes",DAZN 3 HD
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/593928
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPYzEHk9HT5m8p4DyDcOywz0KHg9_zBpfRsQUOJ7f3sI_.png" group-title="SHAREEXT@Canais de Esportes",DAZN 4 HD
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/593931
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPYzEHk9HT5m8p4DyDcOywz0KHg9_zBpfRsQUOJ7f3sI_.png" group-title="SHAREEXT@Canais de Esportes",DAZN LA LIGA HD
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/593934
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 2 HD" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPYzEHk9HT5m8p4DyDcOywz0KHg9_zBpfRsQUOJ7f3sI_.png" group-title="SHAREEXT@Canais de Esportes",DAZN LA LIGA 2 HD
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/593938
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Uruguay HD" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPaRFXiD-LoCypoWJswM3RwgC8kFZcsWG-PnoGu3HcYrL.png" group-title="SHAREEXT@Canais de Esportes",Directv Sports Uruguay HD
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/589330
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Ecuador HD" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPaRFXiD-LoCypoWJswM3RwgC8kFZcsWG-PnoGu3HcYrL.png" group-title="SHAREEXT@Canais de Esportes",Directv Sports Ecuador HD
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/589327
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Colombia HD" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPaRFXiD-LoCypoWJswM3RwgC8kFZcsWG-PnoGu3HcYrL.png" group-title="SHAREEXT@Canais de Esportes",Directv Sports Colombia HD
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/589324
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Argentina HD" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPaRFXiD-LoCypoWJswM3RwgC8kFZcsWG-PnoGu3HcYrL.png" group-title="SHAREEXT@Canais de Esportes",Directv Sports Argentina HD
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/589318
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 2 HD" tvg-logo="https://1.bp.blogspot.com/-01KlDKxKIUw/YJg4FfcFg1I/AAAAAAAAFiE/sDjy6gQBuywYBYjC-9sung9lziT0xAB8QCLcBGAsYHQ/s1920/directv%2Bsports%2B2%252C%2Bdirectv%2Bsports%2B1%252C%2Bdirectv%2Bsports%252B%2Bargentina%252C%2Bver%2Btv%2Bargentina%2Ben%2Bvivo%2Bonline.jpg" group-title="SHAREEXT@Canais de Esportes",Directv Sports 2 HD
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/589321
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Plus HD" tvg-logo="http://dnslivetv.online:80/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqJWpXOCmQ-pXPJ75v1LkwpuInBHnoIT_Smu-0bz-rCKQ.png" group-title="SHAREEXT@Canais de Esportes",Directv Sports Plus HD
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/589315
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Eventos 2" tvg-logo="http://dnslivetv.online:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohLdw4WWWJjZfvux3qZiZNI3lZYSaBMyheZSyvjZIoCGm5eNwgSZ_tgcrTabr6tEkqgFRatJ9h2fT1HMMOOeNaDgMI7XrbP93iSK4vLmO5_bmhjPeINdu57xBdygY4KWVWKYFVfCRrMvlXKVpQjSR-j.png" group-title="SHAREEXT@Canais de Esportes",Directv Sports Eventos 2
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/589342
+#EXTINF:-1 tvg-id="" tvg-name="USA: NHL NETWORK" tvg-logo="http://dnslivetv.online:80/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyBeFHw1C0qBjKNc--vFKGqsdVvI0arZFb15XFthutt9OQ.png" group-title="SHAREEXT@Canais de Esportes",USA:NHL NETWORK
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/590085
+#EXTINF:-1 tvg-id="" tvg-name="Peacock Live | Premier League" tvg-logo="http://dnslivetv.online:80/images/I1pSR7XU015S8m9TzZOhJoCWQWrjrh6kUliiT0FRc5ad6BkEkfQoRuCwWKSS-dx4KlesggdBfCAmeywas4JRFeZfzrr-NlHPbE8gyh3pkp4.png" group-title="SHAREEXT@Canais de Esportes",Peacock_Live|Premier_League
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/590221
+#EXTINF:-1 tvg-id="" tvg-name="FloRacing 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYORRdBKM0zFDFl6ZOKmamlH46ctgG-HNM1SLNswWxnxEDZmHraIWMy0cp6mmT-jgXPm0&usqp=CAU" group-title="SHAREEXT@Canais de Esportes",FloRacing 24/7
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/590417
+
+
+
 #EXTINF:-1 tvg-id="LA 1" tvg-name="ES: DAZN FORMULA 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="SHAREEXT@ESPANA_DEPORTES",DAZN FORMULA 1 SD
 http://51845888263165257.of0828.xyz:80/play/ja0209687/uBGN7gTpKwMq/165257.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="SHAREEXT@ESPANA_DEPORTES",LIGA DE CAMPEONES HD
