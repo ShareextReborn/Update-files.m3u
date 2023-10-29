@@ -29,15 +29,11 @@ https://maper.info/OKEY_shareext
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Rtm_Sukan🇲🇾_maper
 https://maper.info/Rtm_Sukan_shareext
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",JuaraTv_1
-https://maper.info/Juara1_shareext
+https://iptvme.xyz/vid/hls.m3u8?id=6685
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",JuaraTv_2
-
+https://iptvme.xyz/vid/hls.m3u8?id=6686
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV🇲🇾
 http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=683117&extension=ts&play_token=shareext.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV🇮🇩
-http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=941564&extension=ts&play_token=shareext.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV•2🇮🇩
-http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=941563&extension=ts&play_token=shareext.ts
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",PERSIANA•SPORTS
 https://af.ayas.ir/hls2/persiana.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",AIO•SPORTS•2
