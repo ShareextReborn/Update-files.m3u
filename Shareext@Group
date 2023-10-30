@@ -3616,6 +3616,14 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-4
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="BR: COMBATE SD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/combate.jpg" group-title="ShareExt@FIGHT_Sports",BR:COMBATE SD
+http://175437699588333118.of231025.xyz:80/play/Mario908D/MarioM32/333118.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC FIGHT PASS 24/7 HD" tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_fight_sports.png" group-title="ShareExt@FIGHT_Sports",US:UFC•FIGHT•PASS 24/7 HD
+http://175437699588658674.of231025.xyz:80/play/Mario908D/MarioM32/658674.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC FIGHT PASS FHD" tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_fight_sports.png" group-title="ShareExt@FIGHT_Sports",US:UFC•FIGHT•PASS FHD
+http://175437699588673199.of231025.xyz:80/play/Mario908D/MarioM32/673199.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: UFC FIGHT PASS FHD" tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_fight_sports.png" group-title="ShareExt@FIGHT_Sports",UK:UFC•FIGHT•PASS FHD
+http://175437699588656254.of231025.xyz:80/play/Mario908D/MarioM32/656254.ts
 
 #EXTINF:-1 tvg-id="FITE247.us" tvg-name="PPV: Fite TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/1024px-FITE_TV.svg.png" group-title="ShareExt@FIGHT_Sports",Fite TV_ppv
 http://abc123.digital:8080/ericmoseley20@gmail.com/WETMW4WyZW/433503
