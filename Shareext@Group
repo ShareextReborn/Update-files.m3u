@@ -4588,6 +4588,87 @@ http://203.81.84.130/hls/mwd_family/index.m3u8
 http://203.81.84.130/hls/mwd_shopping/index.m3u8
 
 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Dubai International
+http://183.89.246.119:8881/play/a07c/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",EDU
+http://183.89.246.119:8881/play/a07s/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Esan_HD           
+http://183.89.246.119:8881/play/a0a0/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Fortune TV
+http://183.89.246.119:8881/play/a082/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",France 24 (en Francais)
+http://183.89.246.119:8881/play/a07f/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",France 24 (in English)
+http://183.89.246.119:8881/play/a07e/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",MITV
+http://183.89.246.119:8881/play/a07r/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",MNTV
+http://183.89.246.119:8881/play/a07x/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",MRTV Entertainment
+http://183.89.246.119:8881/play/a07t/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",MRTV Farmer
+http://183.89.246.119:8881/play/a07p/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",MRTV HD 
+http://183.89.246.119:8881/play/a07l/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",MRTV Hluttaw
+http://183.89.246.119:8881/play/a07n/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",MRTV NEWS HD
+http://183.89.246.119:8881/play/a07m/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",MRTV NRC
+http://183.89.246.119:8881/play/a07o/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",MRTV Sport
+http://183.89.246.119:8881/play/a07q/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",MRTV-4
+http://183.89.246.119:8881/play/a07u/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",MWD
+http://183.89.246.119:8881/play/a07z/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Mangorn
+http://183.89.246.119:8881/play/a0a6/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Maya_HD           
+http://183.89.246.119:8881/play/a0ad/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Media TV 
+http://183.89.246.119:8881/play/a0af/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Mizzima +
+http://183.89.246.119:8881/play/a0ap/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Mizzima TV
+http://183.89.246.119:8881/play/a0ao/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Muslim TV
+http://183.89.246.119:8881/play/a0an/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",NHK WORLD-JPN
+http://183.89.246.119:8881/play/a08i/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",O SHOPPING_HD
+http://183.89.246.119:8881/play/a0a5/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Phx Chinese Channel
+http://183.89.246.119:8881/play/a08v/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Phx Infonews Channel
+http://183.89.246.119:8881/play/a08u/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",SHOP NOW
+http://183.89.246.119:8881/play/a0aa/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",StarTV_HD         
+http://183.89.246.119:8881/play/a0a7/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",TDM Macau Satellite
+http://183.89.246.119:8881/play/a0ba/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",THAICHAIYO_HD
+http://183.89.246.119:8881/play/a0a4/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",TRT World HD
+http://183.89.246.119:8881/play/a08j/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",TV5
+http://183.89.246.119:8881/play/a08r/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",TVD 1_HD_39
+http://183.89.246.119:8881/play/a0ab/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",TVD 7_HD
+http://183.89.246.119:8881/play/a0ah/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",TVD3_HD           
+http://183.89.246.119:8881/play/a09z/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",TVE INT ASIA
+http://183.89.246.119:8881/play/a0am/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Unity
+http://183.89.246.119:8881/play/a0a8/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",YTV
+http://183.89.246.119:8881/play/a081/index.m3u8
+
+
+
 
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Starvijay 
@@ -4602,6 +4683,52 @@ http://195.181.169.78:8899/star_plus/index.m3u8
 http://195.181.169.78:8899/sony_sab/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Star_Bharat 
 http://195.181.169.78:8899/star_bharat/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",5 Plus
+http://183.89.246.119:8881/play/a07w/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Ahlebait TV
+http://183.89.246.119:8881/play/a08s/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Al Jazeera English HD
+http://183.89.246.119:8881/play/a08h/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",B4U Hitz
+http://183.89.246.119:8881/play/a0au/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",B4U Plus
+http://183.89.246.119:8881/play/a08m/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",B4U_MOVIES_INDIA
+http://183.89.246.119:8881/play/a08n/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",B4U_MUSIC_INDIA
+http://183.89.246.119:8881/play/a08o/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Channel K
+http://183.89.246.119:8881/play/a080/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Channel- 9
+http://183.89.246.119:8881/play/a07y/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Channel-7
+http://183.89.246.119:8881/play/a07v/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",DHAMAKA MOVIES
+http://183.89.246.119:8881/play/a0av/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",DW English HD
+http://183.89.246.119:8881/play/a08d/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Dubai International
+http://183.89.246.119:8881/play/a0ai/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Muslim TV
+http://183.89.246.119:8881/play/a08q/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",ZABB_HD     
+http://183.89.246.119:8881/play/a0ac/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",ZEE MP CHATTISGARH
+http://183.89.246.119:8881/play/a09m/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",ZEE NEWS
+http://183.89.246.119:8881/play/a09b/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",ZEE PUNJAB HARYANA HIMACHAL
+http://183.89.246.119:8881/play/a09c/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",ZING NEW
+http://183.89.246.119:8881/play/a0ax/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",ZING NEW
+http://183.89.246.119:8881/play/a09a/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",kaset      
+http://183.89.246.119:8881/play/a0ae/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",topline  
+http://183.89.246.119:8881/play/a0ag/index.m3u8
+
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",Vasantham TV tamil 
