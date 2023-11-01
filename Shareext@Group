@@ -50,6 +50,8 @@ http://shareext@ss123.pro/play/live.php?mac=00:1A:79:00:19:E7&stream=994885&exte
 http://kuchini.site:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/162138
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_play
 http://103.166.27.2:8112/play/a016/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RCTI**
+https://m3u-editor.com/live/serve/5f89bda0-19b7-11ee-81cd-73200254a4c8/876535483.m3u8|User-Agent=Dalvik/2.1.0
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Antv_play
 http://103.166.27.2:8112/play/a01g/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Jtv_play
