@@ -1174,20 +1174,6 @@ http://flkmzyq9.megogo.xyz/iptv/YSWL6KZU93STS7/2480/index.m3u8
 http://flkmzyq9.megogo.xyz/iptv/YSWL6KZU93STS7/2492/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@GLOBAL_SPORTS",BEINsports 1 HD 
-http://212.224.84.200:2200/Plus/beIN_Sports1_HD-ar/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@GLOBAL_SPORTS",BEINsports 2 HD
-http://212.224.84.200:2200/Plus/beIN_Sports2_HD-ar/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@GLOBAL_SPORTS",BEINsports 3 HD
-http://212.224.84.200:2200/Plus/beIN_Sports3_HD-ar/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@GLOBAL_SPORTS",BEINsports 4 HD
-http://212.224.84.200:2200/Plus/beIN_Sports4_HD-ar/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@GLOBAL_SPORTS",BEINsports 5 HD
-http://212.224.84.200:2200/Plus/beIN_Sports5_HD-ar/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@GLOBAL_SPORTS",BEINsports 6 HD
-http://212.224.84.200:2200/Plus/beIN_Sports6_HD-ar/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@GLOBAL_SPORTS",BEINsports 7 HD
-http://212.224.84.200:2200/Plus/beIN_Sports7_HD-ar/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@GLOBAL_SPORTS",CA:Ginx esports TV
 http://1tv41.icu:8080/4qUDXt/560526/57431
