@@ -5037,8 +5037,112 @@ http://195.181.169.78:8899/star_plus/index.m3u8
 http://195.181.169.78:8899/sony_sab/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Star_Bharat 
 http://195.181.169.78:8899/star_bharat/index.m3u8
-
-
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="Colors TV HD 1" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="SHAREEXT@TEVE•INDIA",Colors TV HD 
+http://watchindia.net:8880/live/60427/00546/801.ts
+#EXTINF:-1 tvg-id="colors.in" tvg-name="Colors TV HD UK" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="SHAREEXT@TEVE•INDIA",Colors TV HD UK
+http://watchindia.net:8880/live/60427/00546/2187.ts
+#EXTINF:-1 tvg-id="colorsrishtey.in" tvg-name="Colors Rishtey HD" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_Rishtey_Asia.png" group-title="SHAREEXT@TEVE•INDIA",Colors Rishtey HD
+http://watchindia.net:8880/live/60427/00546/830.ts
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="Sony TV HD 1" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_TV_HD.png" group-title="SHAREEXT@TEVE•INDIA",Sony TV HD 
+http://watchindia.net:8880/live/60427/00546/1969.ts
+#EXTINF:-1 tvg-id="sonymax2.in" tvg-name="Sony Max 2" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_2.png" group-title="SHAREEXT@TEVE•INDIA",Sony Max 2
+http://watchindia.net:8880/live/60427/00546/2024.ts
+#EXTINF:-1 tvg-id="sonymax.in" tvg-name="Sony Max HD" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_HD.png" group-title="SHAREEXT@TEVE•INDIA",Sony Max HD
+http://watchindia.net:8880/live/60427/00546/788.ts
+#EXTINF:-1 tvg-id="sonysab.in" tvg-name="Sony Sab HD" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Sab_HD.png" group-title="SHAREEXT@TEVE•INDIA",Sony Sab HD
+http://watchindia.net:8880/live/60427/00546/2323.ts
+#EXTINF:-1 tvg-id="1sports.in" tvg-name="Sony Pal" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Pal.png" group-title="SHAREEXT@TEVE•INDIA",Sony Pal
+http://watchindia.net:8880/live/60427/00546/812.ts
+#EXTINF:-1 tvg-id="sonywah.in" tvg-name="Sony Wah" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Wah.png" group-title="SHAREEXT@TEVE•INDIA",Sony Wah
+http://watchindia.net:8880/live/60427/00546/814.ts
+#EXTINF:-1 tvg-id="sonyyay.in" tvg-name="Sony Yay" tvg-logo="https://watchindia.net/images/channels/kids/Sony_Yay.png" group-title="SHAREEXT@TEVE•INDIA",Sony Yay
+http://watchindia.net:8880/live/60427/00546/2104.ts
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="Star Bharat HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Bharat_HD.png" group-title="SHAREEXT@TEVE•INDIA",Star Bharat HD
+http://watchindia.net:8880/live/60427/00546/780.ts
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold India HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_HD.png" group-title="SHAREEXT@TEVE•INDIA",Star Gold India HD
+http://watchindia.net:8880/live/60427/00546/785.ts
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="Star Gold Select HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_Select_HD.png" group-title="SHAREEXT@TEVE•INDIA",Star Gold Select HD
+http://watchindia.net:8880/live/60427/00546/784.ts
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD 1" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Plus_HD.png" group-title="SHAREEXT@TEVE•INDIA",Star Plus HD 
+http://watchindia.net:8880/live/60427/00546/1924.ts
+#EXTINF:-1 tvg-id="starutsav.in" tvg-name="Star Utsav" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Utsav.png" group-title="SHAREEXT@TEVE•INDIA",Star Utsav
+http://watchindia.net:8880/live/60427/00546/2493.ts
+#EXTINF:-1 tvg-id="&pictures.in" tvg-name="& Pictures HD" tvg-logo="https://watchindia.net/images/channels/hindi/AndPictures_HD.png" group-title="SHAREEXT@TEVE•INDIA",& Pictures HD
+http://watchindia.net:8880/live/60427/00546/783.ts
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="& TV HD" tvg-logo="https://watchindia.net/images/channels/hindi/And_TV_HD.png" group-title="SHAREEXT@TEVE•INDIA",& TV HD
+http://watchindia.net:8880/live/60427/00546/782.ts
+#EXTINF:-1 tvg-id="9xjalwa.in" tvg-name="9X Jalwa" tvg-logo="https://watchindia.net/images/channels/hindi/9X_Jalwa.png" group-title="SHAREEXT@TEVE•INDIA",9X Jalwa
+http://watchindia.net:8880/live/60427/00546/828.ts
+#EXTINF:-1 tvg-id="music.in" tvg-name="9XM Music" tvg-logo="https://watchindia.net/images/channels/hindi/9XM_Music.png" group-title="SHAREEXT@TEVE•INDIA",9XM Music
+http://watchindia.net:8880/live/60427/00546/827.ts
+#EXTINF:-1 tvg-id="aajtak.in" tvg-name="Aaj Tak HD" tvg-logo="https://watchindia.net/images/channels/hindi/Aaj_Tak_HD.png" group-title="SHAREEXT@TEVE•INDIA",Aaj Tak HD
+http://watchindia.net:8880/live/60427/00546/807.ts
+#EXTINF:-1 tvg-id="abpnews.in" tvg-name="ABP News" tvg-logo="https://watchindia.net/images/channels/hindi/ABP_News.png" group-title="SHAREEXT@TEVE•INDIA",ABP News
+http://watchindia.net:8880/live/60427/00546/833.ts
+#EXTINF:-1 tvg-id="b4umusic.in" tvg-name="B4U Music" tvg-logo="https://watchindia.net/images/channels/hindi/B4U_Music.png" group-title="SHAREEXT@TEVE•INDIA",B4U Music
+http://watchindia.net:8880/live/60427/00546/2113.ts
+#EXTINF:-1 tvg-id="b4uplus.in" tvg-name="B4U Plus" tvg-logo="https://watchindia.net/images/channels/hindi/B4U_Plus.png" group-title="SHAREEXT@TEVE•INDIA",B4U Plus
+http://watchindia.net:8880/live/60427/00546/823.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bollywood Box Office HD" tvg-logo="https://watchindia.net/images/channels/hindi/Bollywood_BoxOffice_HD.png" group-title="SHAREEXT@TEVE•INDIA",Bollywood Box Office HD
+http://watchindia.net:8880/live/60427/00546/819.ts
+#EXTINF:-1 tvg-id="colorscineplex.in" tvg-name="Colors Cineplex HD" tvg-logo="https://watchindia.net/images/channels/hindi/Cineplex_HD.png" group-title="SHAREEXT@TEVE•INDIA",Colors Cineplex HD
+http://watchindia.net:8880/live/60427/00546/803.ts
+#EXTINF:-1 tvg-id="aaj.tak.in" tvg-name="Dilli Aaj Tak" tvg-logo="https://watchindia.net/images/channels/hindi/Aaj_Tak.png" group-title="SHAREEXT@TEVE•INDIA",Dilli Aaj Tak
+http://watchindia.net:8880/live/60427/00546/836.ts
+#EXTINF:-1 tvg-id="discoverychannel.in" tvg-name="Discovery Channel Hindi" tvg-logo="https://watchindia.net/images/channels/hindi/Discovery_HD.png" group-title="SHAREEXT@TEVE•INDIA",Discovery Channel Hindi
+http://watchindia.net:8880/live/60427/00546/841.ts
+#EXTINF:-1 tvg-id="e24.in" tvg-name="E24" tvg-logo="https://watchindia.net/images/channels/hindi/E24.png" group-title="SHAREEXT@TEVE•INDIA",E24
+http://watchindia.net:8880/live/60427/00546/829.ts
+#EXTINF:-1 tvg-id="epic.in" tvg-name="Epic TV" tvg-logo="https://watchindia.net/images/channels/hindi/Epic_HD.png" group-title="SHAREEXT@TEVE•INDIA",Epic TV
+http://watchindia.net:8880/live/60427/00546/794.ts
+#EXTINF:-1 tvg-id="historytv18.in" tvg-name="History TV18 HD" tvg-logo="https://watchindia.net/images/channels/hindi/History_TV_HD.png" group-title="SHAREEXT@TEVE•INDIA",History TV18 HD
+http://watchindia.net:8880/live/60427/00546/791.ts
+#EXTINF:-1 tvg-id="today.in" tvg-name="India Today" tvg-logo="https://watchindia.net/images/channels/hindi/India_Today_TV.png" group-title="SHAREEXT@TEVE•INDIA",India Today
+http://watchindia.net:8880/live/60427/00546/835.ts
+#EXTINF:-1 tvg-id="1sports.in" tvg-name="Kadak Hits HD" tvg-logo="https://watchindia.net/images/channels/hindi/Kadak_Hits_HD.png" group-title="SHAREEXT@TEVE•INDIA",Kadak Hits HD
+http://watchindia.net:8880/live/60427/00546/798.ts
+#EXTINF:-1 tvg-id="manoranjanmovies.in" tvg-name="Manoranjan Movies" tvg-logo="https://watchindia.net/images/channels/hindi/Manoranjan_Movies.png" group-title="SHAREEXT@TEVE•INDIA",Manoranjan Movies
+http://watchindia.net:8880/live/60427/00546/804.ts
+#EXTINF:-1 tvg-id="mastiii.in" tvg-name="Mastiii" tvg-logo="https://watchindia.net/images/channels/hindi/Mastiii.png" group-title="SHAREEXT@TEVE•INDIA",Mastiii
+http://watchindia.net:8880/live/60427/00546/826.ts
+#EXTINF:-1 tvg-id="mtvbeats.in" tvg-name="MTV Beats HD" tvg-logo="https://watchindia.net/images/channels/hindi/MTV_Beats_HD.png" group-title="SHAREEXT@TEVE•INDIA",MTV Beats HD
+http://watchindia.net:8880/live/60427/00546/786.ts
+#EXTINF:-1 tvg-id="mtv.in" tvg-name="MTV Hindi" tvg-logo="https://watchindia.net/images/channels/hindi/MTV.png" group-title="SHAREEXT@TEVE•INDIA",MTV Hindi
+http://watchindia.net:8880/live/60427/00546/825.ts
+#EXTINF:-1 tvg-id="music.in" tvg-name="Music India" tvg-logo="https://watchindia.net/images/channels/hindi/Music_India.png" group-title="SHAREEXT@TEVE•INDIA",Music India
+http://watchindia.net:8880/live/60427/00546/2293.ts
+#EXTINF:-1 tvg-id="nick.in" tvg-name="Nick Hindi" tvg-logo="https://watchindia.net/images/channels/Nick.png" group-title="SHAREEXT@TEVE•INDIA",Nick Hindi
+http://watchindia.net:8880/live/60427/00546/2182.ts
+#EXTINF:-1 tvg-id="sanskartv.in" tvg-name="Sanskar TV" tvg-logo="https://watchindia.net/images/channels/hindi/Sanskar_TV.png" group-title="SHAREEXT@TEVE•INDIA",Sanskar TV
+http://watchindia.net:8880/live/60427/00546/2151.ts
+#EXTINF:-1 tvg-id="timesnow.in" tvg-name="Times Now" tvg-logo="https://watchindia.net/images/channels/hindi/Times_Now.png" group-title="SHAREEXT@TEVE•INDIA",Times Now
+http://watchindia.net:8880/live/60427/00546/839.ts
+#EXTINF:-1 tvg-id="tlc.in" tvg-name="TLC Hindi" tvg-logo="https://watchindia.net/images/channels/hindi/TLC.png" group-title="SHAREEXT@TEVE•INDIA",TLC Hindi
+http://watchindia.net:8880/live/60427/00546/840.ts
+#EXTINF:-1 tvg-id="travelxp.in" tvg-name="TravelXP HD" tvg-logo="https://watchindia.net/images/channels/hindi/TravelXP_HD.png" group-title="SHAREEXT@TEVE•INDIA",TravelXP HD
+http://watchindia.net:8880/live/60427/00546/792.ts
+#EXTINF:-1 tvg-id="wion.in" tvg-name="WION News" tvg-logo="https://watchindia.net/images/channels/hindi/Wion_News.png" group-title="SHAREEXT@TEVE•INDIA",WION News
+http://watchindia.net:8880/live/60427/00546/816.ts
+#EXTINF:-1 tvg-id="zeeaction.in" tvg-name="Zee Action" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Action.png" group-title="SHAREEXT@TEVE•INDIA",Zee Action
+http://watchindia.net:8880/live/60427/00546/821.ts
+#EXTINF:-1 tvg-id="zeeanmol.in" tvg-name="Zee Anmol" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Anmol.png" group-title="SHAREEXT@TEVE•INDIA",Zee Anmol
+http://watchindia.net:8880/live/60427/00546/813.ts
+#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="Zee Anmol Cinema" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Anmol_Cinema.png" group-title="SHAREEXT@TEVE•INDIA",Zee Anmol Cinema
+http://watchindia.net:8880/live/60427/00546/820.ts
+#EXTINF:-1 tvg-id="zeebollywood.in" tvg-name="Zee Bollywood" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Bollywood.png" group-title="SHAREEXT@TEVE•INDIA",Zee Bollywood
+http://watchindia.net:8880/live/60427/00546/822.ts
+#EXTINF:-1 tvg-id="zeecinema.in" tvg-name="Zee Cinema HD" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Cinema_HD.png" group-title="SHAREEXT@TEVE•INDIA",Zee Cinema HD
+http://watchindia.net:8880/live/60427/00546/787.ts
+#EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="Zee Classic" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Classic.png" group-title="SHAREEXT@TEVE•INDIA",Zee Classic
+http://watchindia.net:8880/live/60427/00546/802.ts
+#EXTINF:-1 tvg-id="zeenews.in" tvg-name="Zee News" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_News.png" group-title="SHAREEXT@TEVE•INDIA",Zee News
+http://watchindia.net:8880/live/60427/00546/832.ts
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV HD" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_TV.png" group-title="SHAREEXT@TEVE•INDIA",Zee TV HD
+http://watchindia.net:8880/live/60427/00546/1970.ts
+#EXTINF:-1 tvg-id="zeezest.in" tvg-name="Zee Zest HD" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Zest_HD.png" group-title="SHAREEXT@TEVE•INDIA",Zee Zest HD
+http://watchindia.net:8880/live/60427/00546/2359.ts
+#EXTINF:-1 tvg-id="zoom.in" tvg-name="Zoom" tvg-logo="https://watchindia.net/images/channels/hindi/Zoom.png" group-title="SHAREEXT@TEVE•INDIA",Zoom
+http://watchindia.net:8880/live/60427/00546/842.ts
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",5 Plus
 http://183.89.246.119:8881/play/a07w/index.m3u8
@@ -5083,7 +5187,96 @@ http://183.89.246.119:8881/play/a09a/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="suntvhd.in" tvg-name="Sun TV HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_TV_HD.png" group-title="ShareExt@TAMIL_television",Sun TV HD
+http://watchindia.net:8880/live/60427/00546/843.ts
+#EXTINF:-1 tvg-id="sunlife.in" tvg-name="Sun Life" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_Life.png" group-title="ShareExt@TAMIL_television",Sun Life
+http://watchindia.net:8880/live/60427/00546/847.ts
+#EXTINF:-1 tvg-id="sunmusichd.in" tvg-name="Sun Music HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_Music_HD.png" group-title="ShareExt@TAMIL_television",Sun Music HD
+http://watchindia.net:8880/live/60427/00546/844.ts
+#EXTINF:-1 tvg-id="sunnews.in" tvg-name="Sun News" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_News.png" group-title="ShareExt@TAMIL_television",Sun News
+http://watchindia.net:8880/live/60427/00546/869.ts
+#EXTINF:-1 tvg-id="starvijay.in" tvg-name="Star Vijay HD 1" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_HD.png" group-title="ShareExt@TAMIL_television",Star Vijay HD 1
+http://watchindia.net:8880/live/60427/00546/846.ts
+#EXTINF:-1 tvg-id="vijaysuper.in" tvg-name="Star Vijay Super" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_Super.png" group-title="ShareExt@TAMIL_television",Star Vijay Super
+http://watchindia.net:8880/live/60427/00546/2190.ts
+#EXTINF:-1 tvg-id="starvijay.in" tvg-name="Adithya TV" tvg-logo="https://watchindia.net/images/channels/tamil/Adithya_TV.png" group-title="ShareExt@TAMIL_television",Adithya TV
+http://watchindia.net:8880/live/60427/00546/855.ts
+#EXTINF:-1 tvg-id="angeltv.in" tvg-name="Angel TV HD" tvg-logo="https://watchindia.net/images/channels/tamil/Angel_TV.png" group-title="ShareExt@TAMIL_television",Angel TV HD
+http://watchindia.net:8880/live/60427/00546/862.ts
+#EXTINF:-1 tvg-id="1sports.in" tvg-name="Captain News" tvg-logo="https://watchindia.net/images/channels/tamil/Captain_News.png" group-title="ShareExt@TAMIL_television",Captain News
+http://watchindia.net:8880/live/60427/00546/878.ts
+#EXTINF:-1 tvg-id="captain.in" tvg-name="Captain TV" tvg-logo="https://watchindia.net/images/channels/tamil/Captain_TV.png" group-title="ShareExt@TAMIL_television",Captain TV
+http://watchindia.net:8880/live/60427/00546/876.ts
+#EXTINF:-1 tvg-id="chuttitv.in" tvg-name="Chutti TV" tvg-logo="https://watchindia.net/images/channels/tamil/Chutti_TV.png" group-title="ShareExt@TAMIL_television",Chutti TV
+http://watchindia.net:8880/live/60427/00546/882.ts
+#EXTINF:-1 tvg-id="colorstamilhd.in" tvg-name="Colors Tamil HD" tvg-logo="https://watchindia.net/images/channels/tamil/Colors_HD.png" group-title="ShareExt@TAMIL_television",Colors Tamil HD
+http://watchindia.net:8880/live/60427/00546/2083.ts
+#EXTINF:-1 tvg-id="discoverytamil.in" tvg-name="Discovery Tamil" tvg-logo="https://watchindia.net/images/channels/tamil/Discovery.png" group-title="ShareExt@TAMIL_television",Discovery Tamil
+http://watchindia.net:8880/live/60427/00546/2085.ts
+#EXTINF:-1 tvg-id="isaiaruvi.in" tvg-name="Isaiaruvi TV" tvg-logo="https://watchindia.net/images/channels/tamil/Isaiaruvi_TV.png" group-title="ShareExt@TAMIL_television",Isaiaruvi TV
+http://watchindia.net:8880/live/60427/00546/2149.ts
+#EXTINF:-1 tvg-id="jayamax.in" tvg-name="Jaya Max" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_Max.png" group-title="ShareExt@TAMIL_television",Jaya Max
+http://watchindia.net:8880/live/60427/00546/852.ts
+#EXTINF:-1 tvg-id="jayamovies.in" tvg-name="Jaya Movie" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_Movie.png" group-title="ShareExt@TAMIL_television",Jaya Movie
+http://watchindia.net:8880/live/60427/00546/849.ts
+#EXTINF:-1 tvg-id="jayaplus.in" tvg-name="Jaya Plus" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_Plus.png" group-title="ShareExt@TAMIL_television",Jaya Plus
+http://watchindia.net:8880/live/60427/00546/850.ts
+#EXTINF:-1 tvg-id="jaya.in" tvg-name="Jaya TV HD" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_TV_HD.png" group-title="ShareExt@TAMIL_television",Jaya TV HD
+http://watchindia.net:8880/live/60427/00546/851.ts
+#EXTINF:-1 tvg-id="kalaignartv.in" tvg-name="Kalaignar TV" tvg-logo="https://watchindia.net/images/channels/tamil/Kalaignar_TV.png" group-title="ShareExt@TAMIL_television",Kalaignar TV
+http://watchindia.net:8880/live/60427/00546/2148.ts
+#EXTINF:-1 tvg-id="ktvhd.in" tvg-name="KTV HD" tvg-logo="https://watchindia.net/images/channels/tamil/KTV_HD.png" group-title="ShareExt@TAMIL_television",KTV HD
+http://watchindia.net:8880/live/60427/00546/845.ts
+#EXTINF:-1 tvg-id="madhatv.in" tvg-name="Madha TV" tvg-logo="https://watchindia.net/images/channels/tamil/Madha_TV.png" group-title="ShareExt@TAMIL_television",Madha TV
+http://watchindia.net:8880/live/60427/00546/875.ts
+#EXTINF:-1 tvg-id="makkaltv.in" tvg-name="Makkal TV" tvg-logo="https://watchindia.net/images/channels/tamil/Makkal_TV.png" group-title="ShareExt@TAMIL_television",Makkal TV
+http://watchindia.net:8880/live/60427/00546/871.ts
+#EXTINF:-1 tvg-id="murasutv.in" tvg-name="Murasu TV" tvg-logo="https://watchindia.net/images/channels/tamil/Murasu_TV.png" group-title="ShareExt@TAMIL_television",Murasu TV
+http://watchindia.net:8880/live/60427/00546/880.ts
+#EXTINF:-1 tvg-id="nambikkaitv.in" tvg-name="Nambikkai TV" tvg-logo="https://watchindia.net/images/channels/tamil/Nambikkai_TV.png" group-title="ShareExt@TAMIL_television",Nambikkai TV
+http://watchindia.net:8880/live/60427/00546/856.ts
+#EXTINF:-1 tvg-id="news18.in" tvg-name="News 18" tvg-logo="https://watchindia.net/images/channels/tamil/News_18.png" group-title="ShareExt@TAMIL_television",News 18
+http://watchindia.net:8880/live/60427/00546/873.ts
+#EXTINF:-1 tvg-id="news7.in" tvg-name="News 7" tvg-logo="https://watchindia.net/images/channels/tamil/News_7.png" group-title="ShareExt@TAMIL_television",News 7
+http://watchindia.net:8880/live/60427/00546/867.ts
+#EXTINF:-1 tvg-id="nick.in" tvg-name="Nick Tamil" tvg-logo="https://watchindia.net/images/channels/Nick.png" group-title="ShareExt@TAMIL_television",Nick Tamil
+http://watchindia.net:8880/live/60427/00546/2181.ts
+#EXTINF:-1 tvg-id="pepperstv.in" tvg-name="Peppers" tvg-logo="https://watchindia.net/images/channels/tamil/Peppers.png" group-title="ShareExt@TAMIL_television",Peppers
+http://watchindia.net:8880/live/60427/00546/870.ts
+#EXTINF:-1 tvg-id="polimernews.in" tvg-name="Polimer News" tvg-logo="https://watchindia.net/images/channels/tamil/Polimer_News.png" group-title="ShareExt@TAMIL_television",Polimer News
+http://watchindia.net:8880/live/60427/00546/877.ts
+#EXTINF:-1 tvg-id="polimertv.in" tvg-name="Polimer TV" tvg-logo="https://watchindia.net/images/channels/tamil/Polimer_TV.png" group-title="ShareExt@TAMIL_television",Polimer TV
+http://watchindia.net:8880/live/60427/00546/2147.ts
+#EXTINF:-1 tvg-id="puthiyathalaimurai.in" tvg-name="Puthiya Thalaimurai" tvg-logo="https://watchindia.net/images/channels/tamil/Puthiya_Thalaimurai.png" group-title="ShareExt@TAMIL_television",Puthiya Thalaimurai
+http://watchindia.net:8880/live/60427/00546/879.ts
+#EXTINF:-1 tvg-id="puthu.yugam.in" tvg-name="Puthuyugam TV" tvg-logo="https://watchindia.net/images/channels/tamil/Puthu_Yugam.png" group-title="ShareExt@TAMIL_television",Puthuyugam TV
+http://watchindia.net:8880/live/60427/00546/865.ts
+#EXTINF:-1 tvg-id="rajdigitalplus.in" tvg-name="Raj Digital Plus" tvg-logo="https://watchindia.net/images/channels/tamil/Raj_Digital_Plus.png" group-title="ShareExt@TAMIL_television",Raj Digital Plus
+http://watchindia.net:8880/live/60427/00546/857.ts
+#EXTINF:-1 tvg-id="news24x7.in" tvg-name="Raj News Tamil" tvg-logo="https://watchindia.net/images/channels/tamil/Raj_News_Tamil.png" group-title="ShareExt@TAMIL_television",Raj News Tamil
+http://watchindia.net:8880/live/60427/00546/853.ts
+#EXTINF:-1 tvg-id="rajtv.in" tvg-name="Raj TV" tvg-logo="https://watchindia.net/images/channels/tamil/Raj_TV_Tamil.png" group-title="ShareExt@TAMIL_television",Raj TV
+http://watchindia.net:8880/live/60427/00546/854.ts
+#EXTINF:-1 tvg-id="sirippoli.in" tvg-name="Sirippoli TV" tvg-logo="https://watchindia.net/images/channels/tamil/Sirippoli_TV.png" group-title="ShareExt@TAMIL_television",Sirippoli TV
+http://watchindia.net:8880/live/60427/00546/2084.ts
+#EXTINF:-1 tvg-id="10tv.in" tvg-name="Sony Yay Tamil" tvg-logo="https://watchindia.net/images/channels/kids/Sony_Yay.png" group-title="ShareExt@TAMIL_television",Sony Yay Tamil
+http://watchindia.net:8880/live/60427/00546/2125.ts
+#EXTINF:-1 tvg-id="srisankaratv.in" tvg-name="Sri Sankara TV" tvg-logo="https://watchindia.net/images/channels/tamil/Sri_Sankara_TV.png" group-title="ShareExt@TAMIL_television",Sri Sankara TV
+http://watchindia.net:8880/live/60427/00546/2164.ts
+#EXTINF:-1 tvg-id="1sports.in" tvg-name="Tamil Vision International" tvg-logo="https://watchindia.net/images/channels/tamil/Tamil_Vision_TV.png" group-title="ShareExt@TAMIL_television",Tamil Vision International
+http://watchindia.net:8880/live/60427/00546/863.ts
+#EXTINF:-1 tvg-id="thanthitv.in" tvg-name="Thanthi TV" tvg-logo="https://watchindia.net/images/channels/tamil/Thanthi_News.png" group-title="ShareExt@TAMIL_television",Thanthi TV
+http://watchindia.net:8880/live/60427/00546/860.ts
+#EXTINF:-1 tvg-id="travelxptamil.in" tvg-name="Travel XP Tamil" tvg-logo="https://watchindia.net/images/channels/tamil/Travel_XP.png" group-title="ShareExt@TAMIL_television",Travel XP Tamil
+http://watchindia.net:8880/live/60427/00546/872.ts
+#EXTINF:-1 tvg-id="vasanthtv.in" tvg-name="Vasanth TV" tvg-logo="https://watchindia.net/images/channels/tamil/Vasanth_TV.png" group-title="ShareExt@TAMIL_television",Vasanth TV
+http://watchindia.net:8880/live/60427/00546/858.ts
+#EXTINF:-1 tvg-id="vendhartv.in" tvg-name="Vendhar TV" tvg-logo="https://watchindia.net/images/channels/tamil/Vendhar_TV.png" group-title="ShareExt@TAMIL_television",Vendhar TV
+http://watchindia.net:8880/live/60427/00546/2146.ts
+#EXTINF:-1 tvg-id="zeetamil.in" tvg-name="Zee Tamil" tvg-logo="https://watchindia.net/images/channels/tamil/Zee.png" group-title="ShareExt@TAMIL_television",Zee Tamil
+http://watchindia.net:8880/live/60427/00546/887.ts
+#EXTINF:-1 tvg-id="zeethirai.in" tvg-name="Zee Thirai" tvg-logo="https://watchindia.net/images/channels/tamil/Zee_Thirai.png" group-title="ShareExt@TAMIL_television",Zee Thirai
+http://watchindia.net:8880/live/60427/00546/2142.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",Vasantham TV tamil 
 https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",IBC pakidi (Tamil Comedy channel)
