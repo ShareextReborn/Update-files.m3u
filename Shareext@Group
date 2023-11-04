@@ -3367,6 +3367,42 @@ http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186480&extens
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186481&extension=ts&play_token=ZgqRTef08z
 
 
+
+
+
+#EXTINF:-1 tvg-ID="espnhd-ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="SHAREEXT@LIVE||SPORTS",ESPN HD 🇦🇷
+http://190.61.43.117:45000/play/a01l
+#EXTINF:-1 tvg-ID="espnhd2-ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="SHAREEXT@LIVE||SPORTS",ESPN 2 HD 🇦🇷
+http://190.61.43.117:45000/play/a053
+#EXTINF:-1 tvg-ID="espn3hd-ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="SHAREEXT@LIVE||SPORTS",ESPN 3 HD 🇦🇷
+http://190.61.43.117:45000/play/a051
+#EXTINF:-1 tvg-ID="espn4-ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="SHAREEXT@LIVE||SPORTS",ESPN 4 🇦🇷
+http://38.43.140.97:8000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-ID="espn-extra" tvg-logo="https://th.bing.com/th/id/OIP.7GUT9_yRXyQlb8q88vT5cAHaFw?pid=ImgDet&rs=1" group-title="SHAREEXT@LIVE||SPORTS",ESPN Extra HD 
+http://38.43.140.97:8000/play/a016/index.m3u8
+#EXTINF:-1 tvg-ID="fox-sports" tvg-logo="https://th.bing.com/th/id/OIP.IWzN4UZLMlbvv__YxaTJegHaEb?pid=ImgDet&rs=1" group-title="SHAREEXT@LIVE||SPORTS",FOX Sports HD 🇦🇷
+http://190.108.85.20:9999/play/a011
+#EXTINF:-1 tvg-ID="fox-sports-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="SHAREEXT@LIVE||SPORTS",Fox Sports 2 HD 🇦🇷
+http://190.61.43.117:45000/play/a01g
+#EXTINF:-1 tvg-ID="fox-sports-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="SHAREEXT@LIVE||SPORTS",FOX SPORTS 3 HD
+http://45.166.92.22:58001/play/a01j/index.m3u8
+#EXTINF:-1 tvg-ID="tyc" tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="SHAREEXT@LIVE||SPORTS",TyCSports HD
+http://209.45.81.84:8000/play/a009
+#EXTINF:-1 tvg-ID="rmtv" tvg-logo="https://comunidad.movistar.es/t5/image/serverpage/image-id/116745iC79D86FD3EB914B8?v=v2" group-title="SHAREEXT@LIVE||SPORTS",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-id="62d816fcf24d280008762ee9" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="SHAREEXT@LIVE||SPORTS" ,La Liga Premier | Paramount+
+https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
+#EXTINF:-1 tvg-id="gol-peru" tvg-logo="https://3.bp.blogspot.com/-mReXjLmsakc/WPLPLrxkbUI/AAAAAAAAAfE/bDtiGW4HomYjxYtR8LBoTsdOMqU99PBxACEw/s1600/golperu.png" group-title="SHAREEXT@LIVE||SPORTS",GOL PERU (HD)
+http://38.43.140.97:8000/play/a00y/index.m3u8
+#EXTINF:-1 tvg-id="movistar-deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/200px-Movistar_Deportes.svg.png" group-title="SHAREEXT@LIVE||SPORTS",Movistar Deportes
+http://38.43.140.97:8000/play/a00l/index.m3u8
+#EXTINF:-1 tvg-id="liga1-max" tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75" group-title="SHAREEXT@LIVE||SPORTS",Liga 1 Max
+http://190.102.139.242:8900/play/a12f/index.m3u8
+#EXTINF:-1 tvg-ID="caracol" tvg-logo="https://i.imgur.com/dpmmFbA.png" group-title="SHAREEXT@LIVE||SPORTS",Caracol
+http://190.61.43.117:45000/play/a02v
+#EXTINF:-1 tvg-id="tvp" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="SHAREEXT@LIVE||SPORTS",TV Publica
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",T_sports
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Eurosports_p_dec=auto
