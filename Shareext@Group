@@ -4551,6 +4551,12 @@ http://195.181.169.78:8899/star_plus/index.m3u8
 http://195.181.169.78:8899/sony_sab/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Star_Bharat 
 http://195.181.169.78:8899/star_bharat/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Colors•tv
+http://170.254.18.107/COLORS/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Sony•max 
+http://170.254.18.107/SONYMAX/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Zee•cinema 
+http://170.254.18.107/ZEECINEMA/index.m3u8
 #EXTINF:-1 tvg-id="colorshd.in" tvg-name="Colors TV HD 1" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="SHAREEXT@TEVE•INDIA",Colors TV HD 
 http://watchindia.net:8880/live/60427/00546/801.ts
 #EXTINF:-1 tvg-id="colors.in" tvg-name="Colors TV HD UK" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="SHAREEXT@TEVE•INDIA",Colors TV HD UK
@@ -4757,7 +4763,7 @@ http://watchindia.net:8880/live/60427/00546/867.ts
 http://watchindia.net:8880/live/60427/00546/2181.ts
 #EXTINF:-1 tvg-id="pepperstv.in" tvg-name="Peppers" tvg-logo="https://watchindia.net/images/channels/tamil/Peppers.png" group-title="ShareExt@TAMIL_television",Peppers
 http://watchindia.net:8880/live/60427/00546/870.ts
-#EXTINF:-1 tvg-id="polimernews.in" tvg-name="Polimer News" tvg-logo="https://watchindia.net/images/channels/tamil/Polimer_News.png" group-title="ShareExt@TAMIL_television",Polimer News
+#EXTINF:-1 tvg-id="http://170.254.18.107/ZEECINEMA/index.m3u8" tvg-name="Polimer News" tvg-logo="https://watchindia.net/images/channels/tamil/Polimer_News.png" group-title="ShareExt@TAMIL_television",Polimer News
 http://watchindia.net:8880/live/60427/00546/877.ts
 #EXTINF:-1 tvg-id="polimertv.in" tvg-name="Polimer TV" tvg-logo="https://watchindia.net/images/channels/tamil/Polimer_TV.png" group-title="ShareExt@TAMIL_television",Polimer TV
 http://watchindia.net:8880/live/60427/00546/2147.ts
