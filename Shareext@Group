@@ -1239,6 +1239,67 @@ http://justwi.top:8080/661696923787118/71696923787979/49567
 http://justwi.top:8080/661696923787118/71696923787979/49568
 
 
+#EXTINF:-1 group-title="SHAREEXT@GLOBAL_SPORTS" tvg-id="eurosport-hd" tvg-name="Eurosport 1 HD" tvg-logo="https://static.g-cdn.app/streams/eurosport-hd.png",Eurosport 1 HD
+https://ucdn.beetv.kz/btv/live/hls/000002478.m3u8
+#EXTINF:-1 group-title="SHAREEXT@GLOBAL_SPORTS" tvg-id="eurosport2-hd" tvg-name="Eurosport 2 HD" tvg-logo="https://static.g-cdn.app/streams/eurosport2-hd.png",Eurosport 2 HD
+https://ucdn.beetv.kz/btv/live/hls/000002479.m3u8
+#EXTINF:-1 group-title="SHAREEXT@GLOBAL_SPORTS" tvg-id="setanta-qazaqstan-hd" tvg-name="Setanta Qazaqstan HD" tvg-logo="https://static.g-cdn.app/streams/setanta-qazaqstan-hd.png",Setanta Qazaqstan HD
+https://ucdn.beetv.kz/btv/live/hls/000002649.m3u8
+#EXTINF:-1 group-title="SHAREEXT@GLOBAL_SPORTS" tvg-id="setanta-eurasia" tvg-name="Setanta Sports 1 HD" tvg-logo="https://static.g-cdn.app/streams/setanta-eurasia.png",Setanta Sports 1 HD
+https://tv.movielab.pro/942/video.m3u8
+#EXTINF:-1 group-title="SHAREEXT@GLOBAL_SPORTS" tvg-id="setanta-eurasia-plus" tvg-name="Setanta Sports 2 HD" tvg-logo="https://static.g-cdn.app/streams/setanta-eurasia-plus.png",Setanta Sports 2 HD
+https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
+#EXTINF:-1 group-title="SHAREEXT@GLOBAL_SPORTS" tvg-id="xsport" tvg-name="XSport" tvg-logo="https://static.g-cdn.app/streams/xsport.png",XSport
+http://iptv.prosto.tv:7000/ch110/video.m3u8
+#EXTINF:-1 group-title="SHAREEXT@GLOBAL_SPORTS" tvg-id="match-futbol1-hd" tvg-name="МАТЧ! Футбол 1 HD" tvg-logo="https://static.g-cdn.app/streams/match-futbol1-hd.png",Матч! ФУТБОЛ 1 HD
+http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="SHAREEXT@GLOBAL_SPORTS" tvg-id="match-futbol2-hd" tvg-name="МАТЧ! Футбол 2 HD" tvg-logo="https://static.g-cdn.app/streams/match-futbol2-hd.png",Матч! ФУТБОЛ 2 HD
+http://31.148.48.15:80/Match_Futbol_2_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="SHAREEXT@GLOBAL_SPORTS" tvg-id="match-futbol3-hd" tvg-name="МАТЧ! Футбол 3 HD" tvg-logo="https://static.g-cdn.app/streams/match-futbol3-hd.png",Матч! ФУТБОЛ 3 HD
+http://31.148.48.15:80/Match_Futbol_3_HD/index.m3u8?token=test
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg"  group-title="SHAREEXT@GLOBAL_SPORTS",Dubai_Sports_HD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg"  group-title="SHAREEXT@GLOBAL_SPORTS",ABU DHABI SPORT 1
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg"  group-title="SHAREEXT@GLOBAL_SPORTS",ABU DHABI SPORT 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg"  group-title="SHAREEXT@GLOBAL_SPORTS",ALL SPORTS TV
+http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg"  group-title="SHAREEXT@GLOBAL_SPORTS",beINSPORTS XTRA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg"  group-title="SHAREEXT@GLOBAL_SPORTS",Dubai_Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg"  group-title="SHAREEXT@GLOBAL_SPORTS",Dubai_Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="SHAREEXT@GLOBAL_SPORTS" tvg-id="eleven-sports-1-4k" tvg-name="Eleven Sports 1 4K" tvg-logo="https://static.g-cdn.app/streams/eleven-sports-1-4k.png",Eleven Sports 1 4k
+http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:-1 group-title="SHAREEXT@GLOBAL_SPORTS" tvg-logo="http://epg.it999.ru/img/2915.png",Eleven Sports 1 HD
+http://cdn.spmr.tv:8080/s2bqur/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:-1 group-title="SHAREEXT@GLOBAL_SPORTS" tvg-logo="https://picon.pp.ua/eleven-sports-2.png",Eleven Sports 2 HD
+http://cdn.spmr.tv:8080/rtjs8r/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:-1 group-title="SHAREEXT@GLOBAL_SPORTS" tvg-logo="https://picon.pp.ua/eleven-sports-3.png",Eleven Sports 3 HD
+http://cdn.spmr.tv:8080/54elmn/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:-1 group-title="SHAREEXT@GLOBAL_SPORTS" tvg-logo="http://epg.it999.ru/img/2918.png",Eleven Sports 4 HD
+http://cdn.spmr.tv:8080/iu7xd5/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg"  group-title="SHAREEXT@GLOBAL_SPORTS",Futbol TVHorizon Sports
+https://dai.google.com/linear/hls/event/onG023gQQ22Tjm14B5yg1w/master.m3u8
+#EXTINF:-1 group-title="SHAREEXT@GLOBAL_SPORTS" tvg-logo="http://i120.fastpic.org/big/2022/0920/96/d6aa6a40d1ebf95eaa1498b3e7afb696.png",MMA TV
+http://tv.tuva.ru/m1global/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg"  group-title="SHAREEXT@GLOBAL_SPORTS",Motor Racing
+https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
+#EXTINF:-1 group-title="SHAREEXT@GLOBAL_SPORTS" tvg-logo="http://i115.fastpic.org/big/2021/0925/bd/6c2bbadfff0703f99bf470a6637297bd.png",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@GLOBAL_SPORTS",Turkmen Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg"  group-title="SHAREEXT@GLOBAL_SPORTS",Turkmen Sport HD
+http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg"  group-title="SHAREEXT@GLOBAL_SPORTS",TNT_SPORTS_2.Лучшие моменты ЛЧ 2 HD
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg"  group-title="SHAREEXT@GLOBAL_SPORTS",TNT_SPORTS_1.Лучшие моменты ЛЧ HD
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 group-title="SHAREEXT@GLOBAL_SPORTS" tvg-id="match-futbol1-hd" tvg-name="МАТЧ! Футбол 1 HD" tvg-logo="https://static.g-cdn.app/streams/match-futbol1-hd.png",Матч! Футбол 1 HD
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD 1" tvg-logo="https://watchindia.net/images/channels/Star_Sports_1_HD.png" group-title="SHAREEXT@GLOBAL_SPORTS",StarSports 1 HD 🇮🇳
 http://watchindia.net:8880/live/60427/00546/2186.ts
 #EXTINF:-1 tvg-id="starsports2.in" tvg-name="Star Sports 2 HD 1" tvg-logo="https://watchindia.net/images/channels/Star_Sports_2_HD.png" group-title="SHAREEXT@GLOBAL_SPORTS",StarSports 2 HD🇮🇳 
