@@ -1018,6 +1018,31 @@ http://14.102.154.164:5021/live/408.ts
 http://14.102.154.164:5021/live/409.ts
 
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D59X1mX/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",HUB_PREMIER_1
+http://shareext@89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1350557&extension=ts&shareext@hubpremier1
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D59X1mX/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",HUB_PREMIER_2
+http://shareext@89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1350558&extension=ts&shareext@hubpremier2
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D59X1mX/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",HUB_PREMIER_2_UHD
+http://shareext@89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1350568&extension=ts&shareext@hubpremier2UHD
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D59X1mX/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",HUB_PREMIER_3
+http://shareext@89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1350559&extension=ts&shareext@hubpremier3
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D59X1mX/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",HUB_PREMIER_4
+http://shareext@89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1350560&extension=ts&shareext@hubpremier4
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D59X1mX/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",HUB_PREMIER_5
+http://shareext@89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1350561&extension=ts&shareext@hubpremier5
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D59X1mX/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",HUB_PREMIER_6
+http://shareext@89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1350562&extension=ts&shareext@hubpremier6
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D59X1mX/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",HUB_PREMIER_7
+http://shareext@89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1350563&extension=ts&shareext@hubpremier7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D59X1mX/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",HUB_PREMIER_8
+http://shareext@89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1350564&extension=ts&shareext@hubpremier8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D59X1mX/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",HUB_PREMIER_9
+http://shareext@89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1350565&extension=ts&shareext@hubpremier9
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D59X1mX/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",HUB_PREMIER_10
+http://shareext@89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1350566&extension=ts&shareext@hubpremier10
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D59X1mX/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",HUB_PREMIER_11
+http://shareext@89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1350567&extension=ts&shareext@hubpremier11
+
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OPTUS_Live_Event",🇭🇲OPTUS_1_(Live•Event)
 http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032471&extension=ts&play_Optus_1
