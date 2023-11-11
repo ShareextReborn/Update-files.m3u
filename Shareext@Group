@@ -3413,6 +3413,147 @@ http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MOVIES HD1" tvg-logo="http://11121314.tn:8000/images/81aacda38386f39e51e3ee6dbd9d97b3.png" group-title="SHAREEXT@BEIN Movies ",BEIN MOVIES HD1
+http://197.26.19.139:8000/Matrix80/Matrix80/23786
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MOVIES HD2" tvg-logo="http://11121314.fr:8000/images/81aacda38386f39e51e3ee6dbd9d97b3.png" group-title="SHAREEXT@BEIN Movies ",BEIN MOVIES HD2
+http://197.26.19.139:8000/Matrix80/Matrix80/23789
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MOVIES HD3" tvg-logo="http://11121314.fr:8000/images/22836547befd9a819f72869a71a95165.png" group-title="SHAREEXT@BEIN Movies ",BEIN MOVIES HD3
+http://197.26.19.139:8000/Matrix80/Matrix80/23784
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MOVIES HD4" tvg-logo="http://bs-share.com:8000/images/22836547befd9a819f72869a71a95165.png" group-title="SHAREEXT@BEIN Movies ",BEIN MOVIES HD4
+http://197.26.19.139:8000/Matrix80/Matrix80/23788
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SERIES HD1" tvg-logo="http://11121314.fr:8000/images/8cce30dd345d22af0722d14ff91090f8.png" group-title="SHAREEXT@BEIN Movies ",BEIN SERIES HD1
+http://197.26.19.139:8000/Matrix80/Matrix80/23781
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SERIES HD2" tvg-logo="http://197.26.19.139:8000/images/8cce30dd345d22af0722d14ff91090f8.png" group-title="SHAREEXT@BEIN Movies ",BEIN SERIES HD2
+http://197.26.19.139:8000/Matrix80/Matrix80/23790
+#EXTINF:-1 tvg-id="" tvg-name=" beIN BOX OFFICE 1 HD" tvg-logo="http://197.26.19.139:8000/images/c5f9d0cdc360b2d70320f04451243c50.png" group-title="SHAREEXT@BEIN Movies ", beIN BOX OFFICE 1 HD
+http://197.26.19.139:8000/Matrix80/Matrix80/393808
+#EXTINF:-1 tvg-id="" tvg-name="beIN BOX OFFICE 2 HD" tvg-logo="http://197.26.19.139:8000/images/7b96536cf02d20d268afe47c3d852737.png" group-title="SHAREEXT@BEIN Movies ",beIN BOX OFFICE 2 HD
+http://197.26.19.139:8000/Matrix80/Matrix80/393809
+#EXTINF:-1 tvg-id="" tvg-name="BEIN JEEM HD" tvg-logo="http://197.26.19.139:8000/images/8abd5f9c1d0b90b1232d6a018f73ea79.png" group-title="SHAREEXT@BEIN Movies ",BEIN JEEM HD
+http://197.26.19.139:8000/Matrix80/Matrix80/23797
+#EXTINF:-1 tvg-id="" tvg-name="BEIN baby tv" tvg-logo="http://197.26.19.139:8000/images/45914664eafc286fb139a5036f142106.png" group-title="SHAREEXT@BEIN Movies ",BEIN baby tv
+http://197.26.19.139:8000/Matrix80/Matrix80/23798
+#EXTINF:-1 tvg-id="" tvg-name="BEIN  Boomerang HD" tvg-logo="http://bs-share.com:8000/images/f91022004ce9aab1397c498ec1ee684b.png" group-title="SHAREEXT@BEIN Movies ",BEIN  Boomerang HD
+http://197.26.19.139:8000/Matrix80/Matrix80/23800
+#EXTINF:-1 tvg-id="" tvg-name="BEIN BARAEM" tvg-logo="http://bs-share.com:8000/images/7e18cf850f469a762e8aabbe25d3f713.png" group-title="SHAREEXT@BEIN Movies ",BEIN BARAEM
+http://197.26.19.139:8000/Matrix80/Matrix80/23796
+#EXTINF:-1 tvg-id="" tvg-name="BEIN be Junior HD" tvg-logo="http://197.26.19.139:8000/images/04741d746f814cd84033220360582f3b.png" group-title="SHAREEXT@BEIN Movies ",BEIN be Junior HD
+http://197.26.19.139:8000/Matrix80/Matrix80/23799
+#EXTINF:-1 tvg-id="" tvg-name="AR bein JUNIOR" tvg-logo="http://197.26.19.139:8000/images/04741d746f814cd84033220360582f3b.png" group-title="SHAREEXT@BEIN Movies ",AR bein JUNIOR
+http://197.26.19.139:8000/Matrix80/Matrix80/2887
+#EXTINF:-1 tvg-id="" tvg-name="BEIN FOX HD" tvg-logo="http://11121314.tn:8000/images/381cdb40ca926cdc79870c43795131a1.png" group-title="SHAREEXT@BEIN Movies ",BEIN FOX HD
+http://197.26.19.139:8000/Matrix80/Matrix80/23805
+#EXTINF:-1 tvg-id="" tvg-name="FATAFEAT HD" tvg-logo="http://11121314.tn:8000/images/5d1c455f71132cfa0c9e31b78cfc1cb0.png" group-title="SHAREEXT@BEIN Movies ",FATAFEAT HD
+http://197.26.19.139:8000/Matrix80/Matrix80/415823
+#EXTINF:-1 tvg-id="" tvg-name="AR beIN SERIES2" tvg-logo="http://197.26.19.139:8000/images/bc8b8497100ea318bb34814ee88d658d.png" group-title="SHAREEXT@BEIN Movies ",AR beIN SERIES2
+http://197.26.19.139:8000/Matrix80/Matrix80/5281
+#EXTINF:-1 tvg-id="" tvg-name="BEIN Nat Geo Wild" tvg-logo="http://197.26.19.139:8000/images/2e99aaecbd56167ee447cb9bd309ba64.png" group-title="SHAREEXT@BEIN Movies ",BEIN Nat Geo Wild
+http://197.26.19.139:8000/Matrix80/Matrix80/23794
+#EXTINF:-1 tvg-id="" tvg-name="AR BEIN FOXMOVIES" tvg-logo="http://11121314.fr:8000/images/381cdb40ca926cdc79870c43795131a1.png" group-title="SHAREEXT@BEIN Movies ",AR BEIN FOXMOVIES
+http://197.26.19.139:8000/Matrix80/Matrix80/2878
+#EXTINF:-1 tvg-id="" tvg-name="BEIN DRAMA HD" tvg-logo="http://197.26.19.139:8000/images/3d5073e1e28bdffdd189ea037199ffd6.png" group-title="SHAREEXT@BEIN Movies ",BEIN DRAMA HD
+http://197.26.19.139:8000/Matrix80/Matrix80/23782
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 1 " tvg-logo="http://197.26.19.139:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="SHAREEXT@NETFLIX HD",NETFLIX ACTION 1
+http://197.26.19.139:8000/Matrix80/Matrix80/108157
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA" tvg-logo="http://197.26.19.139:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="SHAREEXT@NETFLIX HD",NETFLIX DRAMA
+http://197.26.19.139:8000/Matrix80/Matrix80/108161
+#EXTINF:-1 tvg-id="" tvg-name="MAX غوار" tvg-logo="https://www8.0zz0.com/2023/10/30/00/284900386.png" group-title="SHAREEXT@NETFLIX HD",MAX غوار
+http://197.26.19.139:8000/Matrix80/Matrix80/438586
+#EXTINF:-1 tvg-id="" tvg-name="FILMAX ACTION" tvg-logo="http://197.26.19.139:8000/images/654bb47de2b5b5acf326e078b61c0654.jpg" group-title="SHAREEXT@NETFLIX HD",FILMAX ACTION
+http://197.26.19.139:8000/Matrix80/Matrix80/438637
+#EXTINF:-1 tvg-id="" tvg-name="FILMAX MOVIES  HD" tvg-logo="http://197.26.19.139:8000/images/654bb47de2b5b5acf326e078b61c0654.jpg" group-title="SHAREEXT@NETFLIX HD",FILMAX MOVIES  HD
+http://197.26.19.139:8000/Matrix80/Matrix80/438638
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DISNEY 1" tvg-logo="http://197.26.19.139:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="SHAREEXT@NETFLIX HD",NETFLIX DISNEY 1
+http://197.26.19.139:8000/Matrix80/Matrix80/452246
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID Action HD" tvg-logo="https://www9.0zz0.com/2023/08/10/00/286565845.jpeg" group-title="SHAREEXT@NETFLIX HD",SHAHID Action HD
+http://197.26.19.139:8000/Matrix80/Matrix80/394283
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID  SCI-FI 1" tvg-logo="https://www9.0zz0.com/2023/08/10/00/286565845.jpeg" group-title="SHAREEXT@NETFLIX HD",SHAHID  SCI-FI 1
+http://197.26.19.139:8000/Matrix80/Matrix80/394284
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Comedy 1" tvg-logo="https://www9.0zz0.com/2023/08/10/00/286565845.jpeg" group-title="SHAREEXT@NETFLIX HD",Shahid Comedy 1
+http://197.26.19.139:8000/Matrix80/Matrix80/394285
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID DRAMA " tvg-logo="https://www9.0zz0.com/2023/08/10/00/286565845.jpeg" group-title="SHAREEXT@NETFLIX HD",SHAHID DRAMA 
+http://197.26.19.139:8000/Matrix80/Matrix80/394287
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID FAMILY 1" tvg-logo="https://www9.0zz0.com/2023/08/10/00/286565845.jpeg" group-title="SHAREEXT@NETFLIX HD",SHAHID FAMILY 1
+http://197.26.19.139:8000/Matrix80/Matrix80/394288
+#EXTINF:-1 tvg-id="" tvg-name="Majestic Hollywood BoxOffice 1" tvg-logo="https://www3.0zz0.com/2023/08/09/12/942230727.png" group-title="SHAREEXT@NETFLIX HD",Majestic Hollywood BoxOffice 1
+http://197.26.19.139:8000/Matrix80/Matrix80/394294
+#EXTINF:-1 tvg-id="" tvg-name="Majestic Hollywood BoxOffice 2" tvg-logo="https://www3.0zz0.com/2023/08/09/12/942230727.png" group-title="SHAREEXT@NETFLIX HD",Majestic Hollywood BoxOffice 2
+http://197.26.19.139:8000/Matrix80/Matrix80/394295
+#EXTINF:-1 tvg-id="" tvg-name="Majestic Action 1" tvg-logo="https://www3.0zz0.com/2023/08/09/12/942230727.png" group-title="SHAREEXT@NETFLIX HD",Majestic Action 1
+http://197.26.19.139:8000/Matrix80/Matrix80/394296
+#EXTINF:-1 tvg-id="" tvg-name="Majestic Cinema 1" tvg-logo="https://www3.0zz0.com/2023/08/09/12/942230727.png" group-title="SHAREEXT@NETFLIX HD",Majestic Cinema 1
+http://197.26.19.139:8000/Matrix80/Matrix80/394297
+#EXTINF:-1 tvg-id="" tvg-name="Majestic Cinema 2" tvg-logo="https://www3.0zz0.com/2023/08/09/12/942230727.png" group-title="SHAREEXT@NETFLIX HD",Majestic Cinema 2
+http://197.26.19.139:8000/Matrix80/Matrix80/394298
+#EXTINF:-1 tvg-id="" tvg-name="BEOUT ACTION" tvg-logo="http://197.26.19.139:8000/images/4ade9959bfc9a27d26112333451458c3.jpg" group-title="SHAREEXT@NETFLIX HD",BEOUT ACTION
+http://197.26.19.139:8000/Matrix80/Matrix80/394307
+#EXTINF:-1 tvg-id="" tvg-name="Vod action " tvg-logo="https://www5.0zz0.com/2023/08/10/22/450217885.png" group-title="SHAREEXT@NETFLIX HD",Vod action 
+http://197.26.19.139:8000/Matrix80/Matrix80/394308
+#EXTINF:-1 tvg-id="" tvg-name="BEOUT ACTION 1" tvg-logo="http://197.26.19.139:8000/images/4ade9959bfc9a27d26112333451458c3.jpg" group-title="SHAREEXT@NETFLIX HD",BEOUT ACTION 1
+http://197.26.19.139:8000/Matrix80/Matrix80/421201
+#EXTINF:-1 tvg-id="" tvg-name="BEOUT ACTION 2" tvg-logo="http://197.26.19.139:8000/images/4ade9959bfc9a27d26112333451458c3.jpg" group-title="SHAREEXT@NETFLIX HD",BEOUT ACTION 2
+http://197.26.19.139:8000/Matrix80/Matrix80/421202
+#EXTINF:-1 tvg-id="" tvg-name="BEOUT MOVIES 1" tvg-logo="http://197.26.19.139:8000/images/4ade9959bfc9a27d26112333451458c3.jpg" group-title="SHAREEXT@NETFLIX HD",BEOUT MOVIES 1
+http://197.26.19.139:8000/Matrix80/Matrix80/421203
+#EXTINF:-1 tvg-id="" tvg-name="BEOUT MOVIES 2" tvg-logo="http://197.26.19.139:8000/images/4ade9959bfc9a27d26112333451458c3.jpg" group-title="SHAREEXT@NETFLIX HD",BEOUT MOVIES 2
+http://197.26.19.139:8000/Matrix80/Matrix80/421204
+#EXTINF:-1 tvg-id="" tvg-name="MILANO ACTION" tvg-logo="https://www10.0zz0.com/2023/10/30/00/817547782.jpg" group-title="SHAREEXT@NETFLIX HD",MILANO ACTION
+http://197.26.19.139:8000/Matrix80/Matrix80/429950
+#EXTINF:-1 tvg-id="" tvg-name="MILANO HORROR " tvg-logo="https://www10.0zz0.com/2023/10/30/00/817547782.jpg" group-title="SHAREEXT@NETFLIX HD",MILANO HORROR 
+http://197.26.19.139:8000/Matrix80/Matrix80/429951
+#EXTINF:-1 tvg-id="" tvg-name="MILANO INDIAN" tvg-logo="https://www10.0zz0.com/2023/10/30/00/817547782.jpg" group-title="SHAREEXT@NETFLIX HD",MILANO INDIAN
+http://197.26.19.139:8000/Matrix80/Matrix80/429952
+#EXTINF:-1 tvg-id="" tvg-name="MILANO ENGLISH NEW" tvg-logo="https://www10.0zz0.com/2023/10/30/00/817547782.jpg" group-title="SHAREEXT@NETFLIX HD",MILANO ENGLISH NEW
+http://197.26.19.139:8000/Matrix80/Matrix80/429953
+#EXTINF:-1 tvg-id="" tvg-name="MILANO ARABIC" tvg-logo="https://www10.0zz0.com/2023/10/30/00/817547782.jpg" group-title="SHAREEXT@NETFLIX HD",MILANO ARABIC
+http://197.26.19.139:8000/Matrix80/Matrix80/429954
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 1 HD" tvg-logo="http://197.26.19.139:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="SHAREEXT@NETFLIX HD",NETFLIX ACTION 1 HD
+http://197.26.19.139:8000/Matrix80/Matrix80/450603
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 2 HD" tvg-logo="http://197.26.19.139:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="SHAREEXT@NETFLIX HD",NETFLIX ACTION 2 HD
+http://197.26.19.139:8000/Matrix80/Matrix80/450604
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY  2 HD" tvg-logo="http://197.26.19.139:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="SHAREEXT@NETFLIX HD",NETFLIX COMEDY  2 HD
+http://197.26.19.139:8000/Matrix80/Matrix80/453686
+#EXTINF:-1 tvg-id="" tvg-name="Netflix COMEDY" tvg-logo="http://197.26.19.139:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="SHAREEXT@NETFLIX HD",Netflix COMEDY
+http://197.26.19.139:8000/Matrix80/Matrix80/453687
+#EXTINF:-1 tvg-id="" tvg-name="TOD INDIA" tvg-logo="http://11121314.tn:8000/images/d8473da39876d78d4a1c4e044e49c382.jpg" group-title="SHAREEXT@NETFLIX HD",TOD INDIA
+http://197.26.19.139:8000/Matrix80/Matrix80/454514
+#EXTINF:-1 tvg-id="" tvg-name="HOME_CINEMA_1 HD " tvg-logo="http://11121314.tn:8000/images/f4dd5e1a4e75a90ca339d722e2309e54.png" group-title="SHAREEXT@NETFLIX HD",HOME_CINEMA_1 HD 
+http://197.26.19.139:8000/Matrix80/Matrix80/441926
+#EXTINF:-1 tvg-id="" tvg-name="HOME_CINEMA_2 HD" tvg-logo="http://11121314.tn:8000/images/f4dd5e1a4e75a90ca339d722e2309e54.png" group-title="SHAREEXT@NETFLIX HD",HOME_CINEMA_2 HD
+http://197.26.19.139:8000/Matrix80/Matrix80/441927
+#EXTINF:-1 tvg-id="" tvg-name="HOME_CINEMA_3" tvg-logo="http://11121314.tn:8000/images/f4dd5e1a4e75a90ca339d722e2309e54.png" group-title="SHAREEXT@NETFLIX HD",HOME_CINEMA_3
+http://197.26.19.139:8000/Matrix80/Matrix80/441928
+#EXTINF:-1 tvg-id="" tvg-name="HOME_CINEMA_4" tvg-logo="http://bs-share.com:8000/images/f4dd5e1a4e75a90ca339d722e2309e54.png" group-title="SHAREEXT@NETFLIX HD",HOME_CINEMA_4
+http://197.26.19.139:8000/Matrix80/Matrix80/441929
+#EXTINF:-1 tvg-id="" tvg-name="HOME_CINEMA_5" tvg-logo="http://bs-share.com:8000/images/f4dd5e1a4e75a90ca339d722e2309e54.png" group-title="SHAREEXT@NETFLIX HD",HOME_CINEMA_5
+http://197.26.19.139:8000/Matrix80/Matrix80/441930
+#EXTINF:-1 tvg-id="" tvg-name="HOME_CINEMA_6" tvg-logo="http://bs-share.com:8000/images/f4dd5e1a4e75a90ca339d722e2309e54.png" group-title="SHAREEXT@NETFLIX HD",HOME_CINEMA_6
+http://197.26.19.139:8000/Matrix80/Matrix80/441931
+#EXTINF:-1 tvg-id="" tvg-name="HOME_CINEMA_7" tvg-logo="http://bs-share.com:8000/images/f4dd5e1a4e75a90ca339d722e2309e54.png" group-title="SHAREEXT@NETFLIX HD",HOME_CINEMA_7
+http://197.26.19.139:8000/Matrix80/Matrix80/441932
+#EXTINF:-1 tvg-id="" tvg-name="HOME_CINEMA_8" tvg-logo="http://bs-share.com:8000/images/f4dd5e1a4e75a90ca339d722e2309e54.png" group-title="SHAREEXT@NETFLIX HD",HOME_CINEMA_8
+http://197.26.19.139:8000/Matrix80/Matrix80/441933
+#EXTINF:-1 tvg-id="" tvg-name="HOME_CINEMA_9" tvg-logo="http://bs-share.com:8000/images/f4dd5e1a4e75a90ca339d722e2309e54.png" group-title="SHAREEXT@NETFLIX HD",HOME_CINEMA_9
+http://197.26.19.139:8000/Matrix80/Matrix80/441934
+#EXTINF:-1 tvg-id="" tvg-name="HOME_CINEMA_10" tvg-logo="http://bs-share.com:8000/images/f4dd5e1a4e75a90ca339d722e2309e54.png" group-title="SHAREEXT@NETFLIX HD",HOME_CINEMA_10
+http://197.26.19.139:8000/Matrix80/Matrix80/441935
+#EXTINF:-1 tvg-id="" tvg-name="Go Action HD" tvg-logo="http://197.26.19.139:8000/images/c2125a762a0f72000c2fe13f2ff1937a.jpg" group-title="SHAREEXT@NETFLIX HD",Go Action HD
+http://197.26.19.139:8000/Matrix80/Matrix80/453944
+#EXTINF:-1 tvg-id="" tvg-name="Go Horror HD" tvg-logo="http://197.26.19.139:8000/images/c2125a762a0f72000c2fe13f2ff1937a.jpg" group-title="SHAREEXT@NETFLIX HD",Go Horror HD
+http://197.26.19.139:8000/Matrix80/Matrix80/453945
+#EXTINF:-1 tvg-id="" tvg-name="Go Cinema HD" tvg-logo="http://197.26.19.139:8000/images/c2125a762a0f72000c2fe13f2ff1937a.jpg" group-title="SHAREEXT@NETFLIX HD",Go Cinema HD
+http://197.26.19.139:8000/Matrix80/Matrix80/453946
+#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX CINEMA 2" tvg-logo="https://www12.0zz0.com/2023/09/15/15/227269814.jpeg" group-title="SHAREEXT@NETFLIX HD",SHOOF MAX CINEMA 2
+http://197.26.19.139:8000/Matrix80/Matrix80/453947
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HD" tvg-logo="http://197.26.19.139:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="SHAREEXT@NETFLIX HD",NETFLIX HD
+http://197.26.19.139:8000/Matrix80/Matrix80/453948
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq12QBhr/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@DUNIA•MOVIES",2A•Network
 https://simultv.s.llnwi.net/n4s4/2ANetwork/interlink.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq12QBhr/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@DUNIA•MOVIES",34100 TV(Greece)
