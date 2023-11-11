@@ -36,6 +36,8 @@ https://af.ayas.ir/hls2/persiana.m3u8
 https://af.ayas.ir/hls2/aiosport2.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_ez
 https://ezstat.ru/Indosiar_shareext-ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_mitro
+http://aflaxtv.xyz:8080/live/mitrovic/ff9bb47a59/162138.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_3net
 http://iptvtree.net:8080/live/Vladisergeevic/7eef2c4388/162138.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_alfax
