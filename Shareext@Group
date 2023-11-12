@@ -3458,7 +3458,7 @@ http://rr3.dens.tv/s/s41/index.m3u8
 http://rr.dens.tv/s/s16/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Aljazeera English
 http://rr.dens.tv/s/s17/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",AniPlus
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",FightSports
 http://rr1.dens.tv/h/h02/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",ANTV
 http://rr.dens.tv/s/s07/index.m3u8
