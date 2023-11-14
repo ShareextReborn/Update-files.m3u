@@ -437,139 +437,196 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="SHAREEXT@MOVIES|Indonesia",HBO
+http://aflaxtv.xyz:8080/multi6741/ab72059e/197972
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="SHAREEXT@MOVIES|Indonesia",HBO Family
+http://aflaxtv.xyz:8080/multi6741/ab72059e/197055
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="SHAREEXT@MOVIES|Indonesia",HBO Hits
+http://aflaxtv.xyz:8080/multi6741/ab72059e/196480
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="SHAREEXT@MOVIES|Indonesia",HBO Signature
+http://aflaxtv.xyz:8080/multi6741/ab72059e/221948
+#EXTINF:-1 tvg-id="" tvg-name="ID: CCM" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e781645d9f686de47e29b212df4791a1.png" group-title="SHAREEXT@MOVIES|Indonesia",CCM
+http://aflaxtv.xyz:8080/multi6741/ab72059e/165103
+#EXTINF:-1 tvg-id="" tvg-name="ID: Celestial Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/03722835968ebf5a812fcb4ad2d041dc.png" group-title="SHAREEXT@MOVIES|Indonesia",Celestial Movies
+http://aflaxtv.xyz:8080/multi6741/ab72059e/165065
+#EXTINF:-1 tvg-id="" tvg-name="ID: Chinese Drama" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@MOVIES|Indonesia",Chinese Drama
+http://aflaxtv.xyz:8080/multi6741/ab72059e/298516
+#EXTINF:-1 tvg-id="" tvg-name="ID: CinemaWorld" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="SHAREEXT@MOVIES|Indonesia",CinemaWorld
+http://aflaxtv.xyz:8080/multi6741/ab72059e/165082
+#EXTINF:-1 tvg-id="" tvg-name="ID: Cinemax" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="SHAREEXT@MOVIES|Indonesia",Cinemax
+http://aflaxtv.xyz:8080/multi6741/ab72059e/197964
+#EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/dddbae34f8fafd015e5221a02075ad19.png" group-title="SHAREEXT@MOVIES|Indonesia",Galaxy
+http://aflaxtv.xyz:8080/multi6741/ab72059e/264773
+#EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy Premium" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png" group-title="SHAREEXT@MOVIES|Indonesia",Galaxy Premium
+http://aflaxtv.xyz:8080/multi6741/ab72059e/264774
+#EXTINF:-1 tvg-id="" tvg-name="ID: Citra Bioskop" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/582b49165511b164bcca3bc14a8c5b6d.png" group-title="SHAREEXT@MOVIES|Indonesia",Citra Bioskop
+http://aflaxtv.xyz:8080/multi6741/ab72059e/298519
+#EXTINF:-1 tvg-id="" tvg-name="ID: Citra Dangdut" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png" group-title="SHAREEXT@MOVIES|Indonesia",Citra Dangdut
+http://aflaxtv.xyz:8080/multi6741/ab72059e/247446
+#EXTINF:-1 tvg-id="" tvg-name="ID: Citra Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png" group-title="SHAREEXT@MOVIES|Indonesia",Citra Drama
+http://aflaxtv.xyz:8080/multi6741/ab72059e/264748
+#EXTINF:-1 tvg-id="" tvg-name="ID: Citra Entertainment" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9b24e6afb5920e1696c0a0fceda060cf.png" group-title="SHAREEXT@MOVIES|Indonesia",Citra Entertainment
+http://aflaxtv.xyz:8080/multi6741/ab72059e/298520
+#EXTINF:-1 tvg-id="" tvg-name="ID: FLIK" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@MOVIES|Indonesia",FLIK
+http://aflaxtv.xyz:8080/multi6741/ab72059e/165095
+#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@MOVIES|Indonesia",Etv Bioskop
+http://aflaxtv.xyz:8080/multi6741/ab72059e/298526
+#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 02" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@MOVIES|Indonesia",Etv Bioskop 02
+http://aflaxtv.xyz:8080/multi6741/ab72059e/298527
+#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 03" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@MOVIES|Indonesia",Etv Bioskop 03
+http://aflaxtv.xyz:8080/multi6741/ab72059e/298528
+#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 04" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@MOVIES|Indonesia",Etv Bioskop 04
+http://aflaxtv.xyz:8080/multi6741/ab72059e/298529
+#EXTINF:-1 tvg-id="" tvg-name="ID: My Cinema" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a33da8890f49577c3a90507a07c8815d.png" group-title="SHAREEXT@MOVIES|Indonesia",My Cinema
+http://aflaxtv.xyz:8080/multi6741/ab72059e/298553
+#EXTINF:-1 tvg-id="" tvg-name="ID: My Cinema Asia" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="SHAREEXT@MOVIES|Indonesia",My Cinema Asia
+http://aflaxtv.xyz:8080/multi6741/ab72059e/298554
+#EXTINF:-1 tvg-id="" tvg-name="ID: My Family" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/21e2e3ff0f19266e11d9456e6bf19494.png" group-title="SHAREEXT@MOVIES|Indonesia",My Family
+http://aflaxtv.xyz:8080/multi6741/ab72059e/298555
+#EXTINF:-1 tvg-id="" tvg-name="ID: My Kidz" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9dcac0452d126b9596563d6aec5aa7a3.png" group-title="SHAREEXT@MOVIES|Indonesia",My Kidz
+http://aflaxtv.xyz:8080/multi6741/ab72059e/298556
+#EXTINF:-1 tvg-id="" tvg-name="ID: Rock Action" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png" group-title="SHAREEXT@MOVIES|Indonesia",Rock Action
+http://aflaxtv.xyz:8080/multi6741/ab72059e/298490
+#EXTINF:-1 tvg-id="" tvg-name="ID: Rock Entertaiment" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a6cf4f6391f4d39f34c0a04a208e4c1.png" group-title="SHAREEXT@MOVIES|Indonesia",Rock Entertaiment
+http://aflaxtv.xyz:8080/multi6741/ab72059e/298565
+#EXTINF:-1 tvg-id="" tvg-name="ID: Rock Extreme" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@MOVIES|Indonesia",Rock Extreme
+http://aflaxtv.xyz:8080/multi6741/ab72059e/298566
+#EXTINF:-1 tvg-id="" tvg-name="ID: Bioskop Indonesia" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="SHAREEXT@MOVIES|Indonesia",Bioskop Indonesia
+http://aflaxtv.xyz:8080/multi6741/ab72059e/264801
+#EXTINF:-1 tvg-id="" tvg-name="ID: Tech Storm" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/54e3399a19f5ee556aa1f85f3103520c.png" group-title="SHAREEXT@MOVIES|Indonesia",Tech Storm
+http://aflaxtv.xyz:8080/multi6741/ab72059e/298572
+#EXTINF:-1 tvg-id="" tvg-name="ID: Thrill" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="SHAREEXT@MOVIES|Indonesia",Thrill
+http://aflaxtv.xyz:8080/multi6741/ab72059e/157580
+#EXTINF:-1 tvg-id="" tvg-name="ID: Animax" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="SHAREEXT@MOVIES|Indonesia",Animax
+http://aflaxtv.xyz:8080/multi6741/ab72059e/165081
+#EXTINF:-1 tvg-id="" tvg-name="ID: AniPlus" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d0f77c4ae23b787f4aab6ed458ece469.png" group-title="SHAREEXT@MOVIES|Indonesia",AniPlus
+http://aflaxtv.xyz:8080/multi6741/ab72059e/298504
+#EXTINF:-1 tvg-id="" tvg-name="ID: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="SHAREEXT@MOVIES|Indonesia",AXN
+http://aflaxtv.xyz:8080/multi6741/ab72059e/165079
+#EXTINF:-1 tvg-id="" tvg-name="ID: Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="SHAREEXT@MOVIES|Indonesia",Hits
+http://aflaxtv.xyz:8080/multi6741/ab72059e/165085
+#EXTINF:-1 tvg-id="" tvg-name="ID: Hits Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="SHAREEXT@MOVIES|Indonesia",Hits Movies
+http://aflaxtv.xyz:8080/multi6741/ab72059e/221947
+#EXTINF:-1 tvg-id="" tvg-name="ID: K+" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce1fbaa72fd9c4f2b3095b33fc9fe696.png" group-title="SHAREEXT@MOVIES|Indonesia",K+
+http://aflaxtv.xyz:8080/multi6741/ab72059e/197969
+#EXTINF:-1 tvg-id="" tvg-name="ID: KBS World" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/564c06a526774b8025fde18160461e1f.png" group-title="SHAREEXT@MOVIES|Indonesia",KBS World
+http://aflaxtv.xyz:8080/multi6741/ab72059e/197053
+#EXTINF:-1 tvg-id="" tvg-name="ID: Sony One" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/c8bcdc3a1efe05b9889c9d515ec7fdbe.png" group-title="SHAREEXT@MOVIES|Indonesia",Sony One
+http://aflaxtv.xyz:8080/multi6741/ab72059e/165077
+#EXTINF:-1 tvg-id="" tvg-name="ID: TVN" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="SHAREEXT@MOVIES|Indonesia",TVN
+http://aflaxtv.xyz:8080/multi6741/ab72059e/197965
+#EXTINF:-1 tvg-id="" tvg-name="ID: TVN Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="SHAREEXT@MOVIES|Indonesia",TVN Movies
+http://aflaxtv.xyz:8080/multi6741/ab72059e/157596
+#EXTINF:-1 tvg-id="" tvg-name="ID: Vision Prime" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/aace6b866a640045edacb67fe95b4435.png" group-title="SHAREEXT@MOVIES|Indonesia",Vision Prime
+http://aflaxtv.xyz:8080/multi6741/ab72059e/197958
+#EXTINF:-1 tvg-id="" tvg-name="ID: Warner TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg" group-title="SHAREEXT@MOVIES|Indonesia",Warner TV
+http://aflaxtv.xyz:8080/multi6741/ab72059e/157594
+#EXTINF:-1 tvg-id="" tvg-name="ID: Zee Bioskop" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="SHAREEXT@MOVIES|Indonesia",Zee Bioskop
+http://aflaxtv.xyz:8080/multi6741/ab72059e/157584
+#EXTINF:-1 tvg-id="" tvg-name="ID: KIX" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/16d25160960bdf82fb24de6143ae7ae9.png" group-title="SHAREEXT@MOVIES|Indonesia",KIX
+http://aflaxtv.xyz:8080/multi6741/ab72059e/165068
+
+
+
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI_SPORT_denstv
 http://rr3.dens.tv/s/s107/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI_WORLD_ott
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI_SPORT_ott
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI Nasional_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI World_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI Sport HD_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI Aceh_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI Sumatra Utara_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://list.iptvcat.com/my_list/s/24e35ada935df08510f1cbacb9004625.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI Sumatra Selatan_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI Sumatra Barat_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI Bengkulu_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI Riau_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIriau)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI Jambi_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI Lampung_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI Bangka Belitung_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI Kalimantan Barat_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI Kalimantan Timur_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI Kalimantan Selatan_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI Kalimantan Tengah_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI DKI Jakarta_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI Jawa Barat_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI Jawa Tengah_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI Yogyakarta_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI Jawa Timur_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI Bali_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI Nusa Tenggara Barat_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI Nusa Tenggara Timur_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI Gorontalo_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI Sulawesi Barat_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI Sulawesi Tengah_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI Sulawesi Utara_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULUTMANADO)/index.m3u8?checkedby:iptvcat.com
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI Sulawesi Tenggara_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI Sulawesi Selatan_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI Maluku_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI Papua_decoder=auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
