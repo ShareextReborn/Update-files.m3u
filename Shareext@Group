@@ -2060,36 +2060,12 @@ https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="I593.103808.schedulesdirect.org" tvg-name="" tvg-logo="https://static.epg.best/gb/HorseAndCountry.uk.png" group-title="SHAREEXT@LIVE||SPORTS", Horse & Country
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",SporTV_1_HD+
-http://xcui.vitvabc.xyz:8880/287994016279/287994016279/16753
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Combate_HD+
-http://xcui.vitvabc.xyz:8880/287994016279/287994016279/16703
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",ESPN_4K
-http://xcui.vitvabc.xyz:8880/287994016279/287994016279/31034
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",ESPN_2_HD+
-http://xcui.vitvabc.xyz:8880/287994016279/287994016279/16716
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",ESPN_3
-http://xcui.vitvabc.xyz:8880/287994016279/287994016279/16725
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",ESPN_4_HD
-http://xcui.vitvabc.xyz:8880/287994016279/287994016279/31148
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",BeinPremier•1
 http://shareext@theking365tv.ws/play/live.php?mac=00:1A:79:5c:f4:67&stream=45706&extension=ts&play_token=shareext@.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",BeinPremier•2
 http://shareext@theking365tv.ws/play/live.php?mac=00:1A:79:5c:f4:67&stream=45708&extension=ts&play_token=shareext@.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",BeinPremier•3
 http://shareext@theking365tv.ws/play/live.php?mac=00:1A:79:5c:f4:67&stream=45710&extension=ts&play_token=shareext@.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",ESPN
-http://204.199.120.34:16123/play/ch16
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",ESPN2
-http://204.199.120.34:16123/play/ch17
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",ESPN3
-http://204.199.120.34:16123/play/ch18
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",ESPN4
-http://204.199.120.34:16123/play/ch19
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",FOXSPORTS 2   
-http://204.199.120.34:16123/play/ch20
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",FOXSPORTS 3
-http://204.199.120.34:16123/play/ch21
 
 
 #EXTINF:-1 group-title="SHAREEXT@GLOBAL_SPORTS" tvg-id="eurosport-hd" tvg-name="Eurosport 1 HD" tvg-logo="https://static.g-cdn.app/streams/eurosport-hd.png",Eurosport 1 HD
