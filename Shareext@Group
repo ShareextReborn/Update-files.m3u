@@ -2306,9 +2306,9 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=983567&extens
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="SHAREEXT@SPORT | ALL" tvg-logo="https://i.postimg.cc/Gpg0RK6F/tenis.png",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="SHAREEXT@SPORT | ALL" tvg-id="" tvg-logo="https://i.postimg.cc/HLkynD28/be-IN-Sports-HD.png",beIN Sports HD
+#EXTINF:-1 group-title="SHAREEXT@SPORT | ALL" tvg-id="" tvg-logo="https://i.postimg.cc/HLkynD28/be-IN-Sports-HD.png",TH_beINSports HD_dec=auto
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 group-title="SHAREEXT@SPORT | ALL" tvg-id="" tvg-logo="https://i.postimg.cc/vHNYvkFf/beinspot-2.png",beIN Sports 2
+#EXTINF:-1 group-title="SHAREEXT@SPORT | ALL" tvg-id="" tvg-logo="https://i.postimg.cc/vHNYvkFf/beinspot-2.png",TH_beINSports 2_dec=auto
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hZtRZ1m/tvrisport.jpg" group-title="SHAREEXT@SPORT | ALL",Tvri Sport
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
@@ -2322,17 +2322,17 @@ https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://i.ibb.co/0BKSzGt/sony5.jpg" group-title="SHAREEXT@SPORT | ALL",Sony TEN 5 HD 
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8 
-#EXTINF:-1 group-title="SHAREEXT@SPORT | ALL" tvg-logo="https://i.postimg.cc/N0x5xzCd/truepremfb1.png",True Premier Football 1
+#EXTINF:-1 group-title="SHAREEXT@SPORT | ALL" tvg-logo="https://i.postimg.cc/N0x5xzCd/truepremfb1.png",TruePremier Football 1_dec=auto
 https://ctrl.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 group-title="SHAREEXT@SPORT | ALL" tvg-logo="https://i.postimg.cc/SsNj1fwk/truepremfb2.png",True Premier Football 2
+#EXTINF:-1 group-title="SHAREEXT@SPORT | ALL" tvg-logo="https://i.postimg.cc/SsNj1fwk/truepremfb2.png",TruePremier Football 2_dec=auto
 https://ctrl.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 group-title="SHAREEXT@SPORT | ALL" tvg-logo="https://i.postimg.cc/wB5sGvMc/truepremfb3.png",True Premier Football 3
+#EXTINF:-1 group-title="SHAREEXT@SPORT | ALL" tvg-logo="https://i.postimg.cc/wB5sGvMc/truepremfb3.png",TruePremier Football 3_dec=auto
 https://ctrl.laotv.la/live/TrueSport2/index.m3u8
-#EXTINF:-1 group-title="SHAREEXT@SPORT | ALL" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png", True Sports 1
+#EXTINF:-1 group-title="SHAREEXT@SPORT | ALL" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png", TrueSports 1_dec=auto
 https://ctrl.laotv.la/live/TrueSport6/index.m3u8
-#EXTINF:-1 group-title="SHAREEXT@SPORT | ALL" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png", True Sports 3
+#EXTINF:-1 group-title="SHAREEXT@SPORT | ALL" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png", TrueSports 3_dec=auto
 https://ctrl.laotv.la/live/TrueSport3/index.m3u8
-#EXTINF:-1 group-title="SHAREEXT@SPORT | ALL" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", True Sports 7
+#EXTINF:-1 group-title="SHAREEXT@SPORT | ALL" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", TrueSports 7_dec=auto
 https://edge1.laotv.la/live/THD7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pd7KGsQ8/ss1.png" group-title="SHAREEXT@SPORT | ALL", Star Sports 1
 http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=155968&extension=ts&play_token=sf5sNQxbrB
