@@ -72,7 +72,8 @@ http://103.166.27.2:8112/play/a01h/index.m3u8
 http://103.166.27.2:8112/play/a01z/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseePrime_dec=auto
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="ShareExt@Relax",SkynetSports_2_Rolling
+https://ezstat.ru/SkynetSports2_shareext-ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="ShareExt@Relax",SPOTVHD TH_dec=auto
 http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186477&extension=ts&play_shareext@spotvHD
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="ShareExt@Relax",SPOTV_2(TH)_dec=auto
