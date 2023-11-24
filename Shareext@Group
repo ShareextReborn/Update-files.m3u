@@ -900,6 +900,50 @@ http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186480&extens
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186481&extension=ts&play_token=ZgqRTef08z
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@CHAMPIONS_LEAGUE_MATCH",champions_league_Match_1
+http://netse.es:8080/play/pGdkcF7AljcWLnX2v1_sXQ40Fhw3Rb97fhpOiLVBOt60TZw4Sip_Shb7tXVTY_LV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@CHAMPIONS_LEAGUE_MATCH",champions_league_Match_2
+http://netse.es:8080/play/pGdkcF7AljcWLnX2v1_sXQ40Fhw3Rb97fhpOiLVBOt6BzngIEfth4MRp1xC-mLOP
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@CHAMPIONS_LEAGUE_MATCH",champions_league_Match_3
+http://netse.es:8080/play/pGdkcF7AljcWLnX2v1_sXQ40Fhw3Rb97fhpOiLVBOt5vaRP5KzgvkwW0lznLochJ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@CHAMPIONS_LEAGUE_MATCH",champions_league_Match_4
+http://netse.es:8080/play/pGdkcF7AljcWLnX2v1_sXQ40Fhw3Rb97fhpOiLVBOt7M3xCOAZJk-GJw8Mf_jLcJ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@CHAMPIONS_LEAGUE_MATCH",champions_league_Match_5
+http://netse.es:8080/play/pGdkcF7AljcWLnX2v1_sXQ40Fhw3Rb97fhpOiLVBOt6AgAsFqNtYh7XrE6C3Tko9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@CHAMPIONS_LEAGUE_MATCH",champions_league_Match_6
+http://netse.es:8080/play/pGdkcF7AljcWLnX2v1_sXQ40Fhw3Rb97fhpOiLVBOt6PShZqqh4oU-fxgfkTsSkf
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@CHAMPIONS_LEAGUE_MATCH",champions_league_Match_7
+http://netse.es:8080/play/pGdkcF7AljcWLnX2v1_sXQ40Fhw3Rb97fhpOiLVBOt6PS-VnrPEz97qOK1_rh5AT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@CHAMPIONS_LEAGUE_MATCH",champions_league_Match_8
+http://netse.es:8080/play/pGdkcF7AljcWLnX2v1_sXQ40Fhw3Rb97fhpOiLVBOt7-5svm7eHv3qtheoN7X4w1
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@PREMIER_LEAGUE_REPLAY",premier_league_Replay_1
+http://netse.es:8080/play/pGdkcF7AljcWLnX2v1_sXQ40Fhw3Rb97fhpOiLVBOt4i1TfjDfP75jfelzDvRxVw
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@PREMIER_LEAGUE_REPLAY",premier_league_Replay_2
+http://netse.es:8080/play/pGdkcF7AljcWLnX2v1_sXQ40Fhw3Rb97fhpOiLVBOt5bB-KFI_U4lVihlFMlyVs8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@PREMIER_LEAGUE_REPLAY",premier_league_Replay_3
+http://netse.es:8080/play/pGdkcF7AljcWLnX2v1_sXQ40Fhw3Rb97fhpOiLVBOt7r5yZ_M9czVSfqO_qAyKna
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@PREMIER_LEAGUE_REPLAY",premier_league_Replay_4
+http://netse.es:8080/play/pGdkcF7AljcWLnX2v1_sXQ40Fhw3Rb97fhpOiLVBOt5K0BAtsa5jjkGj02r31jLR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@PREMIER_LEAGUE_REPLAY",premier_league_Replay_5
+http://netse.es:8080/play/pGdkcF7AljcWLnX2v1_sXQ40Fhw3Rb97fhpOiLVBOt67Udc9h-8GMCNdt1RKqjud
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@PREMIER_LEAGUE_REPLAY",premier_league_Replay_6
+http://netse.es:8080/play/pGdkcF7AljcWLnX2v1_sXQ40Fhw3Rb97fhpOiLVBOt4hj_zCGOO22vxwDRCAQU8b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@PREMIER_LEAGUE_REPLAY",premier_league_Replay_7
+http://netse.es:8080/play/pGdkcF7AljcWLnX2v1_sXQ40Fhw3Rb97fhpOiLVBOt7X6qayn70nlst0X6hbAO28
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@PREMIER_LEAGUE_REPLAY",premier_league_Replay_8
+http://netse.es:8080/play/pGdkcF7AljcWLnX2v1_sXQ40Fhw3Rb97fhpOiLVBOt61LJB4LOZmfx7dTiwakYA4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@PREMIER_LEAGUE_REPLAY",premier_league_Replay_9
+http://netse.es:8080/play/pGdkcF7AljcWLnX2v1_sXQ40Fhw3Rb97fhpOiLVBOt6AbnYlN6WqZWdD_c_BK88-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@PREMIER_LEAGUE_REPLAY",premier_league_Replay_10
+http://netse.es:8080/play/pGdkcF7AljcWLnX2v1_sXQ40Fhw3Rb97fhpOiLVBOt6UP_NbikBW5G7Q8qn06IO6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@PREMIER_LEAGUE_REPLAY",premier_league_Highlights
+http://netse.es:8080/play/pGdkcF7AljcWLnX2v1_sXQ40Fhw3Rb97fhpOiLVBOt5V9QKwHJVcon23A0KoYpN2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@PREMIER_LEAGUE_REPLAY",Premier_league_Info
+http://netse.es:8080/play/pGdkcF7AljcWLnX2v1_sXQ40Fhw3Rb97fhpOiLVBOt7du64kkkiAbQVfUIcohjuw
+
+
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",Indosiar
 http://iptvtree.net:8080/F26646/f950f250/162138
 #EXTINF:-1 tvg-id="" tvg-name="ID: INews" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",INews
