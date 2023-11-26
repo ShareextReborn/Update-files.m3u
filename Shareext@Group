@@ -1103,30 +1103,6 @@ http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8?$8M
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="SHAREEXT@OLAHRAGA•ASIAN",CCTV_16_HD(sports)
 http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",Astro_Cricket_dec_auto
-http://xtv.ooo:8080/493121299/992121394/352083
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",Astro_Sports_dec_auto
-http://xtv.ooo:8080/493121299/992121394/352087
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",INDOSIAR_dec_auto
-http://xtv.ooo:8080/493121299/992121394/350972
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",INEWS_dec_auto
-http://xtv.ooo:8080/493121299/992121394/350973
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",SPORTSTARS_1_dec_auto
-http://xtv.ooo:8080/493121299/992121394/350993
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",SPORTSTARS_2_dec_auto
-http://xtv.ooo:8080/493121299/992121394/350994
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",MNCTV_dec_auto
-http://xtv.ooo:8080/493121299/992121394/350996
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",RCTI_dec_auto
-http://xtv.ooo:8080/493121299/992121394/351023
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",SCTV_dec_auto
-http://xtv.ooo:8080/493121299/992121394/351030
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",USEE_PRIME_dec_auto
-http://xtv.ooo:8080/493121299/992121394/351055
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",USEE_SPORTS_1_dec_auto
-http://xtv.ooo:8080/493121299/992121394/351056
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",USEE_SPORTS_2_dec_auto
-http://xtv.ooo:8080/493121299/992121394/351057
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",SonySports TEN 1
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",SonySports TEN 2
