@@ -83,8 +83,6 @@ http://103.166.27.2:8112/play/a01h/index.m3u8
 http://103.166.27.2:8112/play/a01z/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseePrime_dec=auto
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="ShareExt@Relax",SkynetSports_2_Rolling
-https://ezstat.ru/SkynetSports2_shareext-ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="ShareExt@Relax",SPOTVHD TH_dec=auto
 http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186477&extension=ts&play_shareext@spotvHD
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="ShareExt@Relax",SPOTV_2(TH)_dec=auto
@@ -533,6 +531,15 @@ https://liveaneviadev.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 https://liveaneviadev.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",mnctv_live_dec=native
 https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",RCTI.ser
+https://m3u-editor.com/live/serve/5f89bda0-19b7-11ee-81cd-73200254a4c8/876535483.m3u8|User-Agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",MNCTV.ser
+https://m3u-editor.com/live/serve/5f89bda0-19b7-11ee-81cd-73200254a4c8/876535481.m3u8|User-Agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",GTV.ser
+https://m3u-editor.com/live/serve/5f89bda0-19b7-11ee-81cd-73200254a4c8/876535482.m3u8|User-Agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",INEWS.ser
+https://m3u-editor.com/live/serve/e46bc590-6c47-11ed-b6c8-d1f1f0221890/698814626.m3u8|User-Agent=Dalvik/2.1.0
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",JUARATV_1_dec=auto
 https://s.id/juaratv1_shareext-ts
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",JUARATV_2_dec=auto
@@ -1416,67 +1423,68 @@ http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=10324
 
 
 #EXTINF:-1 tvg-id="" tvg-name="3PM: SuperSport LaLiga" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-laliga.png" group-title="ShareExT@SuperSports",SuperSport LaLiga_dec=auto
-http://xtv.ooo:8080/493121299/992121394/238479
+http://xtv.ooo:8080/01720022604/01737895588/238479
 #EXTINF:-1 tvg-id="" tvg-name="3PM: SuperSport PSL" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/s6b35j1629404341.png" group-title="ShareExT@SuperSports",SuperSport PSL_dec=auto
-http://xtv.ooo:8080/493121299/992121394/238477
+http://xtv.ooo:8080/01720022604/01737895588/238477
 #EXTINF:-1 tvg-id="" tvg-name="3PM: SuperSport Premier League" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/x5ja5w1659624783.png" group-title="ShareExT@SuperSports",SuperSport Premier League_dec=auto
-http://xtv.ooo:8080/493121299/992121394/238478
- #EXTINF:-1 tvg-id="" tvg-name="3PM: SuperSport Grandstand" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/aitip41642604897.png" group-title="ShareExT@SuperSports",SuperSport Grandstand_dec=auto
-http://xtv.ooo:8080/493121299/992121394/238476
+http://xtv.ooo:8080/01720022604/01737895588/238478
+#EXTINF:-1 tvg-id="" tvg-name="3PM: SuperSport Grandstand" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/aitip41642604897.png" group-title="ShareExT@SuperSports",SuperSport Grandstand_dec=auto
+http://xtv.ooo:8080/01720022604/01737895588/238476
 #EXTINF:-1 tvg-id="" tvg-name="3PM: SuperSport Variety 1" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/0lwdq31638048788.png" group-title="ShareExT@SuperSports",SuperSport Variety 1_dec=auto
-http://xtv.ooo:8080/493121299/992121394/238481
+http://xtv.ooo:8080/01720022604/01737895588/238481
 #EXTINF:-1 tvg-id="" tvg-name="3PM: SuperSport Variety 2" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/9vnt801638048828.png" group-title="ShareExT@SuperSports",SuperSport Variety 2_dec=auto
-http://xtv.ooo:8080/493121299/992121394/238482
+http://xtv.ooo:8080/01720022604/01737895588/238482
 #EXTINF:-1 tvg-id="" tvg-name="3PM: SuperSport Variety 3" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/mh03f41638048848.png" group-title="ShareExT@SuperSports",SuperSport Variety 3_dec=auto
-http://xtv.ooo:8080/493121299/992121394/238483
+http://xtv.ooo:8080/01720022604/01737895588/238483
 #EXTINF:-1 tvg-id="" tvg-name="3PM: SuperSport Variety 4" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/jz5jpt1638048871.png" group-title="ShareExT@SuperSports",SuperSport Variety 4_dec=auto
-http://xtv.ooo:8080/493121299/992121394/238484
+http://xtv.ooo:8080/01720022604/01737895588/238484
 #EXTINF:-1 tvg-id="" tvg-name="3PM: SuperSport Action" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-action-live.png" group-title="ShareExT@SuperSports",SuperSport Action_dec=auto
-http://xtv.ooo:8080/493121299/992121394/238485
+http://xtv.ooo:8080/01720022604/01737895588/238485
 #EXTINF:-1 tvg-id="" tvg-name="3PM: SuperSport Football" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-football.png" group-title="ShareExT@SuperSports",SuperSport Football_dec=auto
-http://xtv.ooo:8080/493121299/992121394/238480
+http://xtv.ooo:8080/01720022604/01737895588/238480
 #EXTINF:-1 tvg-id="" tvg-name="3PM: SuperSport Cricket" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png" group-title="ShareExT@SuperSports",SuperSport Cricket_dec=auto
-http://xtv.ooo:8080/493121299/992121394/238475
+http://xtv.ooo:8080/01720022604/01737895588/238475
 #EXTINF:-1 tvg-id="" tvg-name="3PM: SuperSport Motorsport" tvg-logo="https://archive.org/download/racinguk-01_202011/supersport-motorsport.png" group-title="ShareExT@SuperSports",SuperSport Motorsport_dec=auto
-http://xtv.ooo:8080/493121299/992121394/238490
+http://xtv.ooo:8080/01720022604/01737895588/238490
 #EXTINF:-1 tvg-id="" tvg-name="3PM: SuperSport Rugby" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/scvqpc1642604954.png" group-title="ShareExT@SuperSports",SuperSport Rugby_dec=auto
-http://xtv.ooo:8080/493121299/992121394/238486
+http://xtv.ooo:8080/01720022604/01737895588/238486
 #EXTINF:-1 tvg-id="" tvg-name="3PM: SuperSport Tennis" tvg-logo="https://archive.org/download/supersport-tennis/supersport-tennis.png" group-title="ShareExT@SuperSports",SuperSport Tennis_dec=auto
-http://xtv.ooo:8080/493121299/992121394/238489
+http://xtv.ooo:8080/01720022604/01737895588/238489
 #EXTINF:-1 tvg-id="" tvg-name="G:AF | SuperSport Golf" tvg-logo="https://img.sport-tv-guide.live/images/stations/a304.png" group-title="ShareExT@SuperSports",SuperSport Golf_dec=auto
-http://xtv.ooo:8080/493121299/992121394/238488
+http://xtv.ooo:8080/01720022604/01737895588/238488
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="ShareExT@SuperSports",SuperSport_MAXIMO_1
-http://xtv.ooo:8080/493121299/992121394/238485
+http://xtv.ooo:8080/01720022604/01737895588/238485
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="ShareExT@SuperSports",SuperSport_BLITZ
-http://xtv.ooo:8080/493121299/992121394/238487
+http://xtv.ooo:8080/01720022604/01737895588/238487
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="ShareExT@SuperSports",ESPN_1
-http://xtv.ooo:8080/493121299/992121394/238491
+http://xtv.ooo:8080/01720022604/01737895588/238491
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="ShareExT@SuperSports",ESPN_2
-http://xtv.ooo:8080/493121299/992121394/238492
+http://xtv.ooo:8080/01720022604/01737895588/238492
+
 
 
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/zvYJZCrN/Skysport-shareext.png" group-title="SHAREEXT@SKYSPORTS",Skysports_select_NZ_dec=auto
-http://xtv.ooo:8080/493121299/992121394/233177
+http://xtv.ooo:8080/01720022604/01737895588/233177
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/zvYJZCrN/Skysport-shareext.png" group-title="SHAREEXT@SKYSPORTS",Skysports_1_NZ_dec=auto
-http://xtv.ooo:8080/493121299/992121394/233178
+http://xtv.ooo:8080/01720022604/01737895588/233178
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/zvYJZCrN/Skysport-shareext.png" group-title="SHAREEXT@SKYSPORTS",Skysports_2_NZ_dec=auto
-http://xtv.ooo:8080/493121299/992121394/233179
+http://xtv.ooo:8080/01720022604/01737895588/233179
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/zvYJZCrN/Skysport-shareext.png" group-title="SHAREEXT@SKYSPORTS",Skysports_3_NZ_dec=auto
-http://xtv.ooo:8080/493121299/992121394/233180
+http://xtv.ooo:8080/01720022604/01737895588/233180
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/zvYJZCrN/Skysport-shareext.png" group-title="SHAREEXT@SKYSPORTS",Skysports_4_NZ_dec=auto
-http://xtv.ooo:8080/493121299/992121394/233181
+http://xtv.ooo:8080/01720022604/01737895588/233181
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/zvYJZCrN/Skysport-shareext.png" group-title="SHAREEXT@SKYSPORTS",Skysports_5_NZ_dec=auto
-http://xtv.ooo:8080/493121299/992121394/233182
+http://xtv.ooo:8080/01720022604/01737895588/233182
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/zvYJZCrN/Skysport-shareext.png" group-title="SHAREEXT@SKYSPORTS",Skysports_6_NZ_dec=auto
-http://xtv.ooo:8080/493121299/992121394/233183
+http://xtv.ooo:8080/01720022604/01737895588/233183
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/zvYJZCrN/Skysport-shareext.png" group-title="SHAREEXT@SKYSPORTS",Skysports_7_NZ_dec=auto
-http://xtv.ooo:8080/493121299/992121394/233184
+http://xtv.ooo:8080/01720022604/01737895588/233184
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/zvYJZCrN/Skysport-shareext.png" group-title="SHAREEXT@SKYSPORTS",Skysports_8_NZ_dec=auto
-http://xtv.ooo:8080/493121299/992121394/233185
+http://xtv.ooo:8080/01720022604/01737895588/233185
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/zvYJZCrN/Skysport-shareext.png" group-title="SHAREEXT@SKYSPORTS",Skysports_9_NZ_dec=auto
-http://xtv.ooo:8080/493121299/992121394/233186
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/zvYJZCrN/Skysport-shareext.png" group-title="SHAREEXT@SKYSPORTS",skySport F1 DE
+http://xtv.ooo:8080/01720022604/01737895588/233186
+
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/zvYJZCrN/Skysport-shareext.png" group-title="SHAREEXT@SKYSPORTS",SKYSPORTS PREMIER LEAGUE UK
 http://flkmzyq9.megogo.xyz/iptv/YSWL6KZU93STS7/7335/index.m3u8
@@ -3837,7 +3845,64 @@ https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 
-
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",BRUCE•LEE•_MOVIE
+http://shareext@iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=558763&extension=ts&shareext@BruceleeMovie
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",RAMBO•_MOVIE
+http://shareext@iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=558774&extension=ts&shareext@RamboMovie
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",MR•BEAN•_MOVIE
+http://shareext@iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=558931&extension=ts&shareext@MrBeanMovie
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",007•_MOVIE
+http://shareext@iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=558789&extension=ts&shareext@JamesBond007Movie
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",MARVEL•01•_MOVIE
+http://shareext@iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=924731&extension=ts&shareext@Marvel01Movie
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",MARVEL•02•_MOVIE
+http://shareext@iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=924732&extension=ts&shareext@Marvel02Movie
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",MARVEL•03•_MOVIE
+http://shareext@iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=924733&extension=ts&shareext@Marvel03Movie
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",MARVEL•04•_MOVIE
+http://shareext@iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=924734&extension=ts&shareext@Marvel04Movie
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",FAST&FURY•_MOVIE
+http://shareext@iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=924701&extension=ts&shareext@Fast@FuryMovie
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",SCREAM•_MOVIE
+http://shareext@iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=914930&extension=ts&shareext@ScreamMovie
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",MIKE•TYSON•_MOVIE
+http://shareext@iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=1207319&extension=ts&shareext@MikeTysonMovie
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",ALIEN|PREDATOR•_MOVIE
+http://shareext@iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=558776&extension=ts&shareext@AlienPredator
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",HORROR•_MOVIE
+http://shareext@iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=558784&extension=ts&shareext@HorrorMovie
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",ROMAMCE•_MOVIE
+http://shareext@iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=558772&extension=ts&shareext@RomanceMovie
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",ACTION•_MOVIE
+http://shareext@iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=558770&extension=ts&shareext@ActionMovie
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",SPORTS•_MOVIE
+http://shareext@iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=558768&extension=ts&shareext@SportsMovie
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",SUPER•HEROES•_MOVIE
+http://shareext@iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=558765&extension=ts&shareext@SuperHeroesMovie
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",BATMAN•_MOVIE
+http://shareext@iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=534118&extension=ts&shareext@BatmanMovie
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",PLANET•OF•APES•MOVIE
+http://shareext@iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=558777&extension=ts&shareext@planetOfApesMovie
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",THRILLER•_MOVIE
+http://shareext@iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=558779&extension=ts&shareext@ThrillMovie
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",MATRIX•_MOVIE
+http://shareext@iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=558781&extension=ts&shareext@MatrixMovie
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",TEXAS•CHAINSAW•_MOVIE
+http://shareext@iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=558784&extension=ts&shareext@texasChainsawMovie
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",WALKING•DEAD•_MOVIE
+http://shareext@iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=998171&extension=ts&shareext@WalkingDeadMovie
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",FRIDAY•ELM•STREET•_MOVIE
+http://shareext@iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=558791&extension=ts&shareext@FridayOnElmStreetMovie
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",SCIFI•_MOVIE
+http://shareext@iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=558762&extension=ts&shareext@ScifiMovie
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",ENGLISH•_MOVIE_01
+http://shareext@iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=558930&extension=ts&shareext@EnglishMovie1
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",ENGLISH•_MOVIE_02
+http://shareext@iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=558796&extension=ts&shareext@EnglishMovie2
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",ENGLISH•_MOVIE_03
+http://shareext@iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=558933&extension=ts&shareext@EnglishMovie3
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",ARNOLD•_SWA9G•_MOVIE
+http://shareext@iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=534117&extension=ts&shareext@ArnoldMovie
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",JOHN_WICK
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/99483.ts
@@ -3876,64 +3941,6 @@ http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/111161.ts
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",VIN_DIESEL
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/111162.ts
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",BRUCE•LEE•_MOVIE
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558763&extension=ts&shareext@BruceleeMovie
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",RAMBO•_MOVIE
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558774&extension=ts&shareext@RamboMovie
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",MR•BEAN•_MOVIE
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558931&extension=ts&shareext@MrBeanMovie
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",007•_MOVIE
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558789&extension=ts&shareext@JamesBond007Movie
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",MARVEL•01•_MOVIE
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=924731&extension=ts&shareext@Marvel01Movie
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",MARVEL•02•_MOVIE
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=924732&extension=ts&shareext@Marvel02Movie
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",MARVEL•03•_MOVIE
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=924733&extension=ts&shareext@Marvel03Movie
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",MARVEL•04•_MOVIE
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=924734&extension=ts&shareext@Marvel04Movie
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",FAST&FURY•_MOVIE
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=924701&extension=ts&shareext@Fast@FuryMovie
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",SCREAM•_MOVIE
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=914930&extension=ts&shareext@ScreamMovie
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",MIKE•TYSON•_MOVIE
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1207319&extension=ts&shareext@MikeTysonMovie
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",ALIEN|PREDATOR•_MOVIE
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558776&extension=ts&shareext@AlienPredator
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",HORROR•_MOVIE
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558784&extension=ts&shareext@HorrorMovie
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",ROMAMCE•_MOVIE
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558772&extension=ts&shareext@RomanceMovie
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",ACTION•_MOVIE
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558770&extension=ts&shareext@ActionMovie
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",SPORTS•_MOVIE
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558768&extension=ts&shareext@SportsMovie
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",SUPER•HEROES•_MOVIE
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558765&extension=ts&shareext@SuperHeroesMovie
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",BATMAN•_MOVIE
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=534118&extension=ts&shareext@BatmanMovie
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",PLANET•OF•APES•MOVIE
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558777&extension=ts&shareext@planetOfApesMovie
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",THRILLER•_MOVIE
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558779&extension=ts&shareext@ThrillMovie
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",MATRIX•_MOVIE
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558781&extension=ts&shareext@MatrixMovie
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",TEXAS•CHAINSAW•_MOVIE
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558784&extension=ts&shareext@texasChainsawMovie
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",WALKING•DEAD•_MOVIE
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=998171&extension=ts&shareext@WalkingDeadMovie
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",FRIDAY•ELM•STREET•_MOVIE
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558791&extension=ts&shareext@FridayOnElmStreetMovie
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",SCIFI•_MOVIE
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558762&extension=ts&shareext@ScifiMovie
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",ENGLISH•_MOVIE_01
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558930&extension=ts&shareext@EnglishMovie1
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",ENGLISH•_MOVIE_02
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558796&extension=ts&shareext@EnglishMovie2
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",ENGLISH•_MOVIE_03
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558933&extension=ts&shareext@EnglishMovie3
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",ARNOLD•_SWA9G•_MOVIE
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=534117&extension=ts&shareext@ArnoldMovie
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq12QBhr/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@DUNIA•MOVIES",2A•Network
