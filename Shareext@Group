@@ -1383,6 +1383,15 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 https://stream.ads.ottera.tv/cl/29fmbD4wgol0FelXaMeAw/854x480_550000_3_f.m3u8
 
 
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OPTUS_Live_Event",🇭🇲OPTUS*1_(Live•Event)
+http://shareext@new.ivue.co:25461/play/live.php?mac=00:1A:79:5C:94:F2&stream=1519251&extension=ts&shareext@optus1.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OPTUS_Live_Event",🇭🇲OPTUS*2_(Live•Event)
+http://shareext@new.ivue.co:25461/play/live.php?mac=00:1A:79:5C:94:F2&stream=1519252&extension=ts&shareext@optus2.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OPTUS_Live_Event",🇭🇲OPTUS*3_(Live•Event)
+http://shareext@new.ivue.co:25461/play/live.php?mac=00:1A:79:5C:94:F2&stream=1519253&extension=ts&shareext@optus3.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OPTUS_Live_Event",🇭🇲OPTUS*4_(Live•Event)
+http://shareext@new.ivue.co:25461/play/live.php?mac=00:1A:79:5C:94:F2&stream=1519254&extension=ts&shareext@optus4.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OPTUS_Live_Event",🇭🇲OPTUS_1_(Live•Event)
 http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032471&extension=ts&play_Optus_1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OPTUS_Live_Event",🇭🇲OPTUS_2_(Live•Event)
