@@ -1329,6 +1329,14 @@ http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/501587
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.postimg.cc/7Lms7LVw/infack-wer.jpg",IMPACT! Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",UFC Fight Pass 1 HD
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/896939
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",UFC Fight Pass 2 HD
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/902439
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",UFC Fight Pass Alternativo 2
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/897944
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",Combate HD
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/2076
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",SonySport_1
 http://103.218.226.22/live/0EB1FD623EC0084BF8E1B321681ABA05/8.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",SonySport_2
