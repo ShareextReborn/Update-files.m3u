@@ -4986,6 +4986,18 @@ http://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="ShareExt@HK_MOVIES",Douyu_Movies_1
+http://epg.112114.xyz/douyu/4332
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="ShareExt@HK_MOVIES",Douyu_Movies_2
+http://epg.112114.xyz/douyu/36337
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="ShareExt@HK_MOVIES",Douyu_Movies_3
+http://epg.112114.xyz/douyu/2793084
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="ShareExt@HK_MOVIES",Douyu_Movies_4
+http://epg.112114.xyz/douyu/6140589
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="ShareExt@HK_MOVIES",Douyu_Movies_5
+http://epg.112114.xyz/douyu/252802
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="ShareExt@HK_MOVIES",Douyu_Movies_6
+http://epg.112114.xyz/douyu/4505431
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",斗鱼云旅行1_dec=auto
 http://epg.112114.xyz/douyu/9358196
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",斗鱼云旅游2_dec=auto
