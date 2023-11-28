@@ -2290,6 +2290,22 @@ http://ultrontv.xyz:80/Mahen123/Mahen77/151506
 http://ultrontv.xyz:80/Mahen123/Mahen77/151507
 
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Tyc•sports_mobile
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",FoxSport_mobile
+http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",FoxSport•2_mobile
+http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",FoxSports•3_mobile 
+http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Espn•_mobile
+http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Espn•2_mobile
+http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Espn•3_mobile
+http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",TNT•sports_mobile 
+http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
 #EXTINF:-1 tvg-ID="espnhd-ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="SHAREEXT@LIVE||SPORTS",ESPN HD 🇦🇷
 http://190.61.43.117:45000/play/a01l
 #EXTINF:-1 tvg-ID="espnhd2-ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="SHAREEXT@LIVE||SPORTS",ESPN 2 HD 🇦🇷
