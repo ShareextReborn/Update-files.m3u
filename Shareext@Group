@@ -8,8 +8,6 @@ https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",SPOTV_2_fm
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",SOCCER•CHANEL_🇮🇩
-https://maper.info/SoccerChannel_shareext
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",SPORTSTARS_🇮🇩
 https://s.id/sporstar1_shareext-ts
 https://maper.info/SPORSTAR1_shareext_ts
@@ -50,14 +48,8 @@ https://linkslogger.com/e4tydl|shareext.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_HD1
 https://linkslogger.com/ool0f6|shareext.ts
 https://2no.co/INDOSIARHD1_shareext-ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_HD2
-https://2no.co/INDOSIARHD2_shareext-ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_xtv_dec=hardware
 http://xtv.ooo:8080/01720022604/01737895588/350972
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_ugo
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:0E:19:18&stream=994885&extension=ts&shareext@indosiar
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar|pro
-http://shareext@ss123.pro/play/live.php?mac=00:1A:79:00:19:E7&stream=994885&extension=ts&shareext@indosiar
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_play
 http://103.166.27.2:8112/play/a016/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Antv_play
