@@ -619,17 +619,17 @@ https://m3u-editor.com/live/serve/5f89bda0-19b7-11ee-81cd-73200254a4c8/876535481
 https://m3u-editor.com/live/serve/5f89bda0-19b7-11ee-81cd-73200254a4c8/876535482.m3u8|User-Agent=Dalvik/2.1.0
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",INEWS.ser
 https://m3u-editor.com/live/serve/e46bc590-6c47-11ed-b6c8-d1f1f0221890/698814626.m3u8|User-Agent=Dalvik/2.1.0
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",JUARATV_1_dec=auto
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",JUARATV_1_dec=hardware
 https://s.id/juaratv1_shareext-ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",JUARATV_2_dec=auto
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",JUARATV_2_dec=hardware
 https://s.id/juaratv2_shareext-ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",JUARATV_3_dec=auto
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",JUARATV_3_dec=hardware
 https://s.id/juaratv3_shareext-ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",JUARATV_5_dec=auto
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",JUARATV_5_dec=hardware
 https://s.id/juaratv5_shareext-ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",JUARATV_6_dec=auto
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",JUARATV_6_dec=hardware
 https://s.id/juaratv6_shareext-ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",JUARATV_WC_dec=auto
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",JUARATV_WC_dec=hardware
 https://s.id/juaratv_WC_shareext-ts
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",indonesianaTv
@@ -3735,6 +3735,8 @@ https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",cctv鈥orld鈥eography馃嚚馃嚦
 https://node1.olelive.com:6443/live/SJDL/hls.m3u8
+#EXTINF:-1 tvg-id="CGTNDOCUMENTARY" tvg-name="CGTNDOCUMENTARY" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CGTN记录
+https://livedoc.cgtn.com/500d/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CGTN俄语
 https://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CGTN法语
