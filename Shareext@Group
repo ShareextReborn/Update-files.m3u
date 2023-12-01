@@ -3907,6 +3907,18 @@ http://rr.dens.tv/h/h91/index2.m3u8
 http://rr3.dens.tv/s/s94/index2.m3u8
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Shareext@MOVIES",HBO||🇮🇩
+http://myteve.online:8080/2d124d42/50dbd8b08e/197972
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Shareext@MOVIES",HBO|Family||🇮🇩
+http://myteve.online:8080/2d124d42/50dbd8b08e/197055
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Shareext@MOVIES",HBO|Hits||🇮🇩
+http://myteve.online:8080/2d124d42/50dbd8b08e/196480
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Shareext@MOVIES",HBO|Signature||🇮🇩
+http://myteve.online:8080/2d124d42/50dbd8b08e/221948
+#EXTINF:-1 tvg-id="" tvg-name="ID: Cinemax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Shareext@MOVIES",Cinemax||🇮🇩
+http://myteve.online:8080/2d124d42/50dbd8b08e/197964
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",BOO_🇲🇾
 https://maper.info/BOO_shareext
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",CINEMAX_🇲🇾
@@ -4110,6 +4122,28 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Angry Birds Toons" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="SHAREEXT@24X7",Angry Birds Toons|🇮🇩
+http://myteve.online:8080/2d124d42/50dbd8b08e/298493
+#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 BabyBus Indonesia" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="SHAREEXT@24X7",BabyBus Indonesia|🇮🇩
+http://myteve.online:8080/2d124d42/50dbd8b08e/298494
+#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Donald Ducks" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="SHAREEXT@24X7",Donald Ducks|🇮🇩
+http://myteve.online:8080/2d124d42/50dbd8b08e/298495
+#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Doraemon" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="SHAREEXT@24X7",Doraemon|🇮🇩
+http://myteve.online:8080/2d124d42/50dbd8b08e/298496
+#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Just For Laughs" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="SHAREEXT@24X7",Just For Laughs|🇮🇩
+http://myteve.online:8080/2d124d42/50dbd8b08e/298497
+#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Mr Bean Cartoon" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="SHAREEXT@24X7",Mr Bean Cartoon|🇮🇩
+http://myteve.online:8080/2d124d42/50dbd8b08e/298498
+#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Mr. Bean Classic" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="SHAREEXT@24X7",Mr. Bean Classic|🇮🇩
+http://myteve.online:8080/2d124d42/50dbd8b08e/298499
+#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Tom And Jerry" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="SHAREEXT@24X7",Tom And Jerry|🇮🇩
+http://myteve.online:8080/2d124d42/50dbd8b08e/298500
+#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Upin Ipin" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="SHAREEXT@24X7",Upin Ipin|🇮🇩
+http://myteve.online:8080/2d124d42/50dbd8b08e/298501
+#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Warkop DKI" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="SHAREEXT@24X7",Warkop DKI|🇮🇩
+http://myteve.online:8080/2d124d42/50dbd8b08e/298502
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",BRUCE•LEE•_MOVIE
 http://shareext@iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=558763&extension=ts&shareext@BruceleeMovie
