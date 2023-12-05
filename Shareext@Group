@@ -1504,11 +1504,9 @@ http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream
 
 
 #EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" group-title="SHAREEXT@OLAHRAGA•ASIAN" tvg-logo="https://i.imgur.com/hnfiUbK.png",T_Sports_7_TH
-https://cdn6.goprimetime.info/feed/202306140918/chtsport/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/chtsport/index.m3u8|user-agent=Shareext/2.1.0
 #EXTINF:-1 group-title="SHAREEXT@OLAHRAGA•ASIAN" tvg-logo="http://b4tv.live/images/0ef23e2c33c966c5c76e2b5cca9428f8.png", K+Sports_viet
 http://b4tv.live/b4tv/b4tv/76.m3u8
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-Wqldbg8C3yg/YB6ay96RJOI/AAAAAAAAJ9U/JxFPpldygRoaA-2OwJN9jymXAveltatmgCLcBGAsYHQ/COMBATE.png"  group-title="SHAREEXT@OLAHRAGA•ASIAN",COMBATE-HD
-http://grtsvk.life:80/308092352/489137370/71320
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="SHAREEXT@OLAHRAGA•ASIAN",CCTV-5浣撹偛
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="SHAREEXT@OLAHRAGA•ASIAN",CCTV-5+浣撹偛璧涗簨
@@ -1754,6 +1752,8 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 http://free.one24tv.com:80/31491701256364/31491701256364/45
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@FIGHT_Sports",AXS FIGHTS
 http://free.one24tv.com:80/31491701256364/31491701256364/21434
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg"  group-title="ShareExt@FIGHT_Sports",COMBATE-HD
+http://grtsvk.life:80/308092352/489137370/71320
 #EXTINF:-1 tvg-id="" tvg-name="BR: COMBATE SD" tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",BR:COMBATE SD
 http://175437699588333118.of231025.xyz:80/play/Mario908D/MarioM32/333118.ts
 #EXTINF:-1 tvg-id="" tvg-name="US: UFC FIGHT PASS 24/7 HD" tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_fight_sports.png" group-title="ShareExt@FIGHT_Sports",US:UFC•FIGHT•PASS 24/7 HD
