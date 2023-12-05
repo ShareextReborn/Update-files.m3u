@@ -6360,29 +6360,7 @@ http://203.81.84.130/hls/mwd_shopping/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
-http://stream.cvmtv.site:1000/VTV1HD?token=live
-#EXTINF:-1 tvg-id="vtv1hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
-http://stream.cvmtv.site:1000/VTV1HD?token=live
-#EXTINF:-1 tvg-id="vtv5hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
-http://stream.cvmtv.site/vtv5?token=live
-#EXTINF:-1 tvg-id="btv5hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 - ON Sports Action
-https://liveh34.vtvcab.vn/hls/ACTION/01.m3u8
-#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://b4tv.live/images/6c30cdc8aa40aa5776c7d8ebd78a93d4.png", B4MEN
-http://b4tv.live/b4tv/b4tv/1.m3u8
-#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://b4tv.live/images/f48921dd0505305aff871882567eeca9.png", B4BOX
-http://b4tv.live/b4tv/b4tv/2.m3u8
-#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://b4tv.live/images/5150b363cf6c9192ebe147a113dea625.png", B4TUBE
-http://b4tv.live/b4tv/b4tv/4.m3u8
-#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://b4tv.live/images/994c671dd2015154c0a928f00aa4934a.png", B4EVENT 1
-http://b4tv.live/b4tv/b4tv/3.m3u8
-#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://b4tv.live/images/994c671dd2015154c0a928f00aa4934a.png", B4EVENT 2
-http://b4tv.live/b4tv/b4tv/47.m3u8
-#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://b4tv.live/images/994c671dd2015154c0a928f00aa4934a.png", B4EVENT 3
-http://b4tv.live/b4tv/b4tv/48.m3u8
-#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://b4tv.live/images/0ef23e2c33c966c5c76e2b5cca9428f8.png", B4CONNECT 1
-http://103.195.238.135:8080/hls/0/stream.m3u8
-#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://b4tv.live/images/0ef23e2c33c966c5c76e2b5cca9428f8.png", B4CONNECT 2
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://b4tv.live/images/0ef23e2c33c966c5c76e2b5cca9428f8.png", K+ Sports
 http://b4tv.live/b4tv/b4tv/76.m3u8
 #EXTINF:-1 tvg-id="vtc1hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png", VTC1 HD
 https://1117141481.vnns.net/VTC1/playlist.m3u8
@@ -6551,92 +6529,6 @@ https://ctrl.laotv.la/live/LATV/index.m3u8
 https://ctrl.laotv.la/live/PSTV/index.m3u8
 #EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230802/video/23dd1aba-312f-41fe-ab8d-6b928455af0a.png", Lao ESTV
 https://ctrl.laotv.la/live/LaoESTV/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Dubai International
-http://183.89.246.119:8881/play/a07c/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",EDU
-http://183.89.246.119:8881/play/a07s/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Esan_HD           
-http://183.89.246.119:8881/play/a0a0/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Fortune TV
-http://183.89.246.119:8881/play/a082/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",France 24 (en Francais)
-http://183.89.246.119:8881/play/a07f/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",France 24 (in English)
-http://183.89.246.119:8881/play/a07e/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",MITV
-http://183.89.246.119:8881/play/a07r/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",MNTV
-http://183.89.246.119:8881/play/a07x/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",MRTV Entertainment
-http://183.89.246.119:8881/play/a07t/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",MRTV Farmer
-http://183.89.246.119:8881/play/a07p/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",MRTV HD 
-http://183.89.246.119:8881/play/a07l/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",MRTV Hluttaw
-http://183.89.246.119:8881/play/a07n/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",MRTV NEWS HD
-http://183.89.246.119:8881/play/a07m/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",MRTV NRC
-http://183.89.246.119:8881/play/a07o/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",MRTV Sport
-http://183.89.246.119:8881/play/a07q/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",MRTV-4
-http://183.89.246.119:8881/play/a07u/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",MWD
-http://183.89.246.119:8881/play/a07z/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Mangorn
-http://183.89.246.119:8881/play/a0a6/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Maya_HD           
-http://183.89.246.119:8881/play/a0ad/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Media TV 
-http://183.89.246.119:8881/play/a0af/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Mizzima +
-http://183.89.246.119:8881/play/a0ap/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Mizzima TV
-http://183.89.246.119:8881/play/a0ao/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Muslim TV
-http://183.89.246.119:8881/play/a0an/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",NHK WORLD-JPN
-http://183.89.246.119:8881/play/a08i/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",O SHOPPING_HD
-http://183.89.246.119:8881/play/a0a5/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Phx Chinese Channel
-http://183.89.246.119:8881/play/a08v/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Phx Infonews Channel
-http://183.89.246.119:8881/play/a08u/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",SHOP NOW
-http://183.89.246.119:8881/play/a0aa/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",StarTV_HD         
-http://183.89.246.119:8881/play/a0a7/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",TDM Macau Satellite
-http://183.89.246.119:8881/play/a0ba/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",THAICHAIYO_HD
-http://183.89.246.119:8881/play/a0a4/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",TRT World HD
-http://183.89.246.119:8881/play/a08j/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",TV5
-http://183.89.246.119:8881/play/a08r/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",TVD 1_HD_39
-http://183.89.246.119:8881/play/a0ab/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",TVD 7_HD
-http://183.89.246.119:8881/play/a0ah/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",TVD3_HD           
-http://183.89.246.119:8881/play/a09z/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",TVE INT ASIA
-http://183.89.246.119:8881/play/a0am/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Unity
-http://183.89.246.119:8881/play/a0a8/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",YTV
-http://183.89.246.119:8881/play/a081/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",kaset      
-http://183.89.246.119:8881/play/a0ae/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",topline  
-http://183.89.246.119:8881/play/a0ag/index.m3u8
-
-
-
 
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Starvijay 
