@@ -4154,6 +4154,16 @@ http://lemon.catchmeifyo.com:8000/11000982890/13215492908/37589
 http://lemon.catchmeifyo.com:8000/11000982890/13215492908/63294
 
 
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",LIVE 1
+https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",LIVE 2
+https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",LIVE 3
+https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",LIVE 4
+https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",EVENT_1
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",EVENT_2
@@ -5700,6 +5710,8 @@ http://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="ShareExt@HK_MOVIES",Douyu_Movies
+https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="ShareExt@HK_MOVIES",Douyu_Movies_1_dec=hardware
 http://epg.112114.xyz/douyu/4332
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="ShareExt@HK_MOVIES",Douyu_Movies_2_dec=hardware
