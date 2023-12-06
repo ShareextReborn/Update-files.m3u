@@ -1523,7 +1523,22 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/inde
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8?$8M1080
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="SHAREEXT@OLAHRAGA•ASIAN",CCTV_16_HD(sports)
 http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
-
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",Ssc_sport extra•1
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_Extra_1.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",Ssc_sport extra•2
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_Extra_2.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",Ssc_sport extra•3
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_Extra_3.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",Ssc_sport•1
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_1.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",Ssc_sport•2
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_2.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",Ssc_sport•3
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_3.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",Ssc_sport•4
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_4.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",Ssc_sport•5
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_5.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",RCTI!!_dec=hardware
 https://ezstat.ru/RCTI_shareext_ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",MNCTV!!_dec=hardware
