@@ -3164,6 +3164,26 @@ http://shareext@theking365tv.ws/play/live.php?mac=00:1A:79:5c:f4:67&stream=45708
 http://shareext@theking365tv.ws/play/live.php?mac=00:1A:79:5c:f4:67&stream=45710&extension=ts&play_token=shareext@.ts
 
 
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg"  group-title="SHAREEXT@GLOBAL_SPORTS",Astro|Arena
+http://sysadminhost.net:8080/F18320/518b1d12/157485
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg"  group-title="SHAREEXT@GLOBAL_SPORTS",Astro|Cricket
+http://sysadminhost.net:8080/F18320/518b1d12/157565
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg"  group-title="SHAREEXT@GLOBAL_SPORTS",Astro|SuperSport
+http://sysadminhost.net:8080/F18320/518b1d12/146068
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg"  group-title="SHAREEXT@GLOBAL_SPORTS",Astro|SuperSport 2
+http://sysadminhost.net:8080/F18320/518b1d12/157556
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg"  group-title="SHAREEXT@GLOBAL_SPORTS",Astro|SuperSport 3
+http://sysadminhost.net:8080/F18320/518b1d12/157557
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg"  group-title="SHAREEXT@GLOBAL_SPORTS",Astro|SuperSport 4
+http://sysadminhost.net:8080/F18320/518b1d12/157558
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg"  group-title="SHAREEXT@GLOBAL_SPORTS",Astro|SuperSport 5
+http://sysadminhost.net:8080/F18320/518b1d12/287792
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg"  group-title="SHAREEXT@GLOBAL_SPORTS",beINSports~MAlay
+http://sysadminhost.net:8080/F18320/518b1d12/157561
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg"  group-title="SHAREEXT@GLOBAL_SPORTS",FOXSPORTS~2~MAlay
+http://sysadminhost.net:8080/F18320/518b1d12/157488
+
 #EXTINF:-1 group-title="SHAREEXT@GLOBAL_SPORTS" tvg-id="eurosport-hd" tvg-name="Eurosport 1 HD" tvg-logo="https://static.g-cdn.app/streams/eurosport-hd.png",Eurosport 1 HD
 https://ucdn.beetv.kz/btv/live/hls/000002478.m3u8
 #EXTINF:-1 group-title="SHAREEXT@GLOBAL_SPORTS" tvg-id="eurosport2-hd" tvg-name="Eurosport 2 HD" tvg-logo="https://static.g-cdn.app/streams/eurosport2-hd.png",Eurosport 2 HD
