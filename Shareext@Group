@@ -123,17 +123,17 @@ http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186496&ex
 #EXTINF:-1 tvg-id="" tvg-name="PPTV HD TH" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax",PPTV HD_dec=auto
 http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186559&extension=ts&play_shareext@pptv.ts
 
-#EXTINF:1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",J°Sports 1		
+#EXTINF:1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",J°Sports 1		
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",J°Sports 2		
+#EXTINF:1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",J°Sports 2		
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",J°Sports 3		
+#EXTINF:1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",J°Sports 3		
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",J=Sports 4		
+#EXTINF:1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",J=Sports 4		
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",Golf°Network
+#EXTINF:1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",Golf°Network
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",Gaora°Sports
+#EXTINF:1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",Gaora°Sports
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",Cctv.5🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
@@ -158,12 +158,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b608000_sleng.m3u8
 #EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",RTB_ANEKA
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b608000_sleng.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",BTV_5_🇻🇳
-https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
 #EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",VTV_CAnThO
 http://171.238.181.52:18080/156.m3u8?Shareext/ts
-#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",Vtv_2
-http://171.238.181.52:18080/192.m3u8
 #EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",Vtv_5
 http://171.238.181.52:18080/194.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",SPORT_18_🇮🇳
@@ -657,7 +653,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="SHAREEXT@FIRSTMEDIA", CITRA_DRAMA
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/262vjnDt/shareext-firsmedia.jpg" group-title="SHAREEXT@FIRSTMEDIA", CITRA_DANGDUT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="SHAREEXT@FIRSTMEDIA", CITRA_DANGDUT
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="SHAREEXT@FIRSTMEDIA", CITRA_ENTERTAINMENT
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8
@@ -669,7 +665,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="SHAREEXT@FIRSTMEDIA", HITSMOVIE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg l" group-title="SHAREEXT@FIRSTMEDIA", HITS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="SHAREEXT@FIRSTMEDIA", HITS
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="SHAREEXT@FIRSTMEDIA", SONY_MAX
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch174%29/index.m3u8
@@ -1093,37 +1089,37 @@ http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115303.ts
 
 
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@EPL",ASSP•1_dec=auto
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL",ASSP•1_dec=auto
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186387&extension=ts&play_token=oNnNMlQM3k
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@EPL",ASSP•2_dec=auto
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL",ASSP•2_dec=auto
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186388&extension=ts&play_token=oNnNMlQM3
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@EPL",ASSP•3_dec=auto
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL",ASSP•3_dec=auto
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186389&extension=ts&play_token=oNnNMlQM3k
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@EPL",ASSP•4_dec=auto
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL",ASSP•4_dec=auto
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186390&extension=ts&play_token=oNnNMlQM3k
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@EPL",TruePremier•1_dec=auto
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL",TruePremier•1_dec=auto
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186574&extension=ts&play_token=j8tvtalOGI
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@EPL",TruePremier•2_dec=auto
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL",TruePremier•2_dec=auto
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186576&extension=ts&play_token=j8tvtalOGI
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@EPL",TrueSports.1 _dec=auto
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL",TrueSports.1 _dec=auto
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186604&extension=ts&play_token=tucOsc3ivU
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@EPL",TrueSports.2 _dec=auto
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL",TrueSports.2 _dec=auto
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186605&extension=ts&play_token=tucOsc3ivU
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@EPL",TrueSports.3 _dec=auto
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL",TrueSports.3 _dec=auto
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186606&extension=ts&play_token=tucOsc3ivU
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@EPL",TrueSports.5 _dec=auto
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL",TrueSports.5 _dec=auto
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186596&extension=ts&play_token=tucOsc3ivU
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@EPL",TrueSports.7 _dec=auto
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL",TrueSports.7 _dec=auto
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186597&extension=ts&play_token=tucOsc3ivU
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@EPL",Fight.bountung _dec=auto
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL",Fight.bountung _dec=auto
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186634&extension=ts&play_token=tucOsc3ivU
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@EPL",Beinsports•1•true_dec=auto
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL",Beinsports•1•true_dec=auto
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186614&extension=ts&play_token=j8tvtalOGI
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@EPL",Beinsports•2•true _dec=auto
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL",Beinsports•2•true _dec=auto
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186615&extension=ts&play_token=j8tvtalOGI
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@EPL",SPOTV•true_dec=auto 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL",SPOTV•true_dec=auto 
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186480&extension=ts&play_token=ZgqRTef08z
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@EPL",SPOTV•2•true _dec=auto
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL",SPOTV•2•true _dec=auto
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186481&extension=ts&play_token=ZgqRTef08z
 
 
