@@ -222,7 +222,7 @@ http://shareext@195.26.87.217/live?channelId=28963&deviceMac=00:1A:79:33:E9:41|i
 http://shareext@195.26.87.217/live?channelId=28964&deviceMac=00:1A:79:33:E9:41|id=tsn4|shareext.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",TSN_5
 http://shareext@195.26.87.217/live?channelId=28965&deviceMac=00:1A:79:33:E9:41|id=tsn5|shareext.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",WILLOW_HD
+#EXTINF:-1  tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@Relax",WILLOW_HD
 http://shareext@195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41|id=willowHD|shareext.m3u8
 #EXTINF:-1  tvg-logo="" group-title="ShareExt@Relax",WWE_NETWORK
 http://shareext@195.26.87.217/live?channelId=4244&deviceMac=00:1A:79:33:E9:41|id=wwenetwork|shareext.m3u8
@@ -272,7 +272,7 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 #EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="ShareExt@Relax", Bisnet Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="ShareExt@Relax", Biznet Kids
+#EXTINF:-1 tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="ShareExt@Relax", Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
 
@@ -1002,89 +1002,89 @@ https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMALUKUAM
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SPOTVHD TH
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD TH" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SPOTVHD TH
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115304.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD TH  [ENG]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SPOTV[ENG]
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD TH  [ENG]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SPOTV[ENG]
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115427.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SPOTV_2(TH)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SPOTV_2(TH)
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115305.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SPOTV_2(ENG)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SPOTV_2(ENG)
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115433.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football 1 TH [Thai]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball•1[Thai]
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football 1 TH [Thai]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball•1[Thai]
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115757.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 1  [ENG]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball HD•1[ENG]
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 1  [ENG]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball HD•1[ENG]
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115758.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 2  [ENG]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball•2HD TH
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 2  [ENG]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball•2HD TH
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115762.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 2  [ENG]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball HD•2•[ENG]
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 2  [ENG]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball HD•2•[ENG]
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115508.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 3" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball•3HD TH
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 3" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball•3HD TH
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115510.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 3 [ENG]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball HD•3[ENG]
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 3 [ENG]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball HD•3[ENG]
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115511.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 4" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball•4•HD TH
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 4" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball•4•HD TH
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115513.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 4-X" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball•4•HD[ENG]
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 4-X" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball•4•HD[ENG]
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115768.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 5" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball•5•HD
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 5" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball•5•HD
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115515.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport TH 1 [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•1[THAI]
+#EXTINF:-1 tvg-id="" tvg-name="Sport TH 1 [THAI]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•1[THAI]
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115532.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport HD TH 1[THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•1HD TH
+#EXTINF:-1 tvg-id="" tvg-name="Sport HD TH 1[THAI]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•1HD TH
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115531.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport HD TH 2 [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•2•HD2[THAI]
+#EXTINF:-1 tvg-id="" tvg-name="Sport HD TH 2 [THAI]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•2•HD2[THAI]
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115533.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport TH 2 [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•2
+#EXTINF:-1 tvg-id="" tvg-name="Sport TH 2 [THAI]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•2
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115535.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport HD TH 3 [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•3HD[THAI]
+#EXTINF:-1 tvg-id="" tvg-name="Sport HD TH 3 [THAI]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•3HD[THAI]
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115537.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport TH 3 [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•3
+#EXTINF:-1 tvg-id="" tvg-name="Sport TH 3 [THAI]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•3
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115538.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport 5 TH [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•5•[THAI]
+#EXTINF:-1 tvg-id="" tvg-name="Sport 5 TH [THAI]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•5•[THAI]
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115541.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport 6 TH [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•6•[THAI]
+#EXTINF:-1 tvg-id="" tvg-name="Sport 6 TH [THAI]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•6•[THAI]
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115542.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport 7 TH [ENG]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•7•[ENG]
+#EXTINF:-1 tvg-id="" tvg-name="Sport 7 TH [ENG]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•7•[ENG]
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115798.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport 7 TH [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•7•[THAI]
+#EXTINF:-1 tvg-id="" tvg-name="Sport 7 TH [THAI]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•7•[THAI]
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115799.ts
-#EXTINF:-1 tvg-id="" tvg-name="Thai BeIN Sports 1 HD TH [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",BeINSports•1 HD[THAI]
+#EXTINF:-1 tvg-id="" tvg-name="Thai BeIN Sports 1 HD TH [THAI]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",BeINSports•1 HD[THAI]
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115807.ts
-#EXTINF:-1 tvg-id="" tvg-name="Thai BeIN Sports 2 HD TH [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",BeINSports•2 HD[THAI]
+#EXTINF:-1 tvg-id="" tvg-name="Thai BeIN Sports 2 HD TH [THAI]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",BeINSports•2 HD[THAI]
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115809.ts
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",ASTRO•SUPERSPORTS 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",ASTRO•SUPERSPORTS 1 HD
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115615.ts
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",ASTRO•SUPERSPORTS 2 HD 
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",ASTRO•SUPERSPORTS 2 HD 
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115616.ts
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 3 HD TH MY" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",ASTRO•SUPERSPORTS 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 3 HD TH MY" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",ASTRO•SUPERSPORTS 3 HD
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115617.ts
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 4 HD TH MY" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",ASTRO•SUPERSPORTS 4 HD 
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 4 HD TH MY" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",ASTRO•SUPERSPORTS 4 HD 
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115618.ts
-#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket HD TH " tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Astro•Cricket HD 
+#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket HD TH " tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Astro•Cricket HD 
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115614.ts
-#EXTINF:-1 tvg-id="" tvg-name="Super Bunteung/FightBox" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SuperBunteunG/FightBox
+#EXTINF:-1 tvg-id="" tvg-name="Super Bunteung/FightBox" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SuperBunteunG/FightBox
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115500.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tennis HD TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Tennis HD
+#EXTINF:-1 tvg-id="" tvg-name="Tennis HD TH" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Tennis HD
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115805.ts
-#EXTINF:-1 tvg-id="" tvg-name="GOLF HD TH  [ENG]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",GOLF•HD[ENG]
+#EXTINF:-1 tvg-id="" tvg-name="GOLF HD TH  [ENG]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",GOLF•HD[ENG]
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115702.ts
-#EXTINF:-1 tvg-id="" tvg-name="Golf 2 HD TH [Thai]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Golf•2 HD[Thai]
+#EXTINF:-1 tvg-id="" tvg-name="Golf 2 HD TH [Thai]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Golf•2 HD[Thai]
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115698.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hi Sport TH [Thai]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Hi•Sport [Thai]
+#EXTINF:-1 tvg-id="" tvg-name="Hi Sport TH [Thai]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Hi•Sport [Thai]
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115709.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA HD TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",NBA HD
+#EXTINF:-1 tvg-id="" tvg-name="NBA HD TH" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",NBA HD
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115738.ts
-#EXTINF:-1 tvg-id="" tvg-name="NFL HD TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",NFL HD
+#EXTINF:-1 tvg-id="" tvg-name="NFL HD TH" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",NFL HD
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115742.ts
-#EXTINF:-1 tvg-id="" tvg-name="One Golf TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",One Golf
+#EXTINF:-1 tvg-id="" tvg-name="One Golf TH" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",One Golf
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115325.ts
-#EXTINF:-1 tvg-id="" tvg-name="PPTV HD TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PPTV HD
+#EXTINF:-1 tvg-id="" tvg-name="PPTV HD TH" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PPTV HD
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115501.ts
-#EXTINF:-1 tvg-id="" tvg-name="Thairath HD TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Thairath HD
+#EXTINF:-1 tvg-id="" tvg-name="Thairath HD TH" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Thairath HD
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115328.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fight Night TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Fight Night
+#EXTINF:-1 tvg-id="" tvg-name="Fight Night TH" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Fight Night
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115320.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fightclub (Sling) TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Fightclub (Sling)
+#EXTINF:-1 tvg-id="" tvg-name="Fightclub (Sling) TH" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Fightclub (Sling)
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115303.ts
 
 
@@ -1797,59 +1797,59 @@ http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/501587
 
 
 
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg",Fite•TV{PPV}
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",Fite•TV{PPV}
 http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/728484 
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg",UFC•Channel{PPV} 
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",UFC•Channel{PPV} 
 http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/728485 
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg",WWE•Network{PPV} 
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",WWE•Network{PPV} 
 http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/728486 
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg",PPV:WWE•Network
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",PPV:WWE•Network
 http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/811922
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg",WWE•NETWORK{USA} 
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",WWE•NETWORK{USA} 
 http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/707677 
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg", WWE Money in the Bank_24/7 
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg", WWE Money in the Bank_24/7 
 http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/701267 
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg", WWE Royal Rumble_24/7 
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg", WWE Royal Rumble_24/7 
 http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/701268 
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg", WWE SummerSlam_24/7 
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg", WWE SummerSlam_24/7 
 http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/701269 
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg", WWE WrestleMania_24/7
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg", WWE WrestleMania_24/7
 http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/701270
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg",Fight• 
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",Fight• 
 http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/793793
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg",FOX•Sports•
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",FOX•Sports•
 http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/793798
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg",fubo•Sports•Network• 
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",fubo•Sports•Network• 
 http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/793800
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg",GLORY•Kickboxing•
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",GLORY•Kickboxing•
 http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/793804
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg",Impack•Wrestling•
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",Impack•Wrestling•
 http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/793808
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg",AF:WWE•Channel 
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",AF:WWE•Channel 
 http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/796744
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.postimg.cc/YCNyrRL4/fite.jpg",FITE.24/7
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",FITE.24/7
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.postimg.cc/7Lms7LVw/infack-wer.jpg",IMPACT! Wrestling
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",IMPACT! Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@FIGHT_Sports",SamuraiTv_Wrestling_Japan
+#EXTINF:-1   tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",SamuraiTv_Wrestling_Japan
 http://14.102.154.164:5021/live/408.ts
 #EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.imgur.com/hnfiUbK.png",T•Sports•7_TH
 https://cdn6.goprimetime.info/feed/202306140918/chtsport/index.m3u8|user-agent=Shareext/2.1.0
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@FIGHT_Sports",WWE
+#EXTINF:-1  tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",WWE
 http://free.one24tv.com:80/31491701256364/31491701256364/45
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@FIGHT_Sports",AXS FIGHTS
+#EXTINF:-1  tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",AXS FIGHTS
 http://free.one24tv.com:80/31491701256364/31491701256364/21434
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg"  group-title="ShareExt@FIGHT_Sports",COMBATE-HD
+#EXTINF:-1  tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg"  group-title="ShareExt@FIGHT_Sports",COMBATE-HD
 http://grtsvk.life:80/308092352/489137370/71320
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@FIGHT_Sports",SonySports•TEN 1
+#EXTINF:-1   tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",SonySports•TEN 1
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@FIGHT_Sports",SonySports•TEN 2
+#EXTINF:-1   tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",SonySports•TEN 2
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@FIGHT_Sports",SonySports•TEN 3
+#EXTINF:-1   tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",SonySports•TEN 3
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@FIGHT_Sports",SonySports•TEN 4
+#EXTINF:-1   tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",SonySports•TEN 4
 https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@FIGHT_Sports",SonySports•TEN 5
+#EXTINF:-1   tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",SonySports•TEN 5
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="US: UFC FIGHT PASS 24/7 HD" tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_fight_sports.png" group-title="ShareExt@FIGHT_Sports",FIGHT•BOX
 http://sysadminhost.net:8080/F18320/518b1d12/350
@@ -1857,11 +1857,11 @@ http://sysadminhost.net:8080/F18320/518b1d12/350
 http://sysadminhost.net:8080/F18320/518b1d12/67638
 #EXTINF:-1 tvg-id="" tvg-name="UK: UFC FIGHT PASS FHD" tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_fight_sports.png" group-title="ShareExt@FIGHT_Sports",POLSAT•SPORTS•FIGHT
 http://sysadminhost.net:8080/F18320/518b1d12/26592
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",UFC_24/7
+#EXTINF:-1   tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",UFC_24/7
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/146291.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",UFC_network
+#EXTINF:-1   tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",UFC_network
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/146293.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@FIGHT_Sports",WWE•_usa
+#EXTINF:-1   tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",WWE•_usa
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/11645.ts
 #EXTINF:-1 tvg-id="FightNetwork.ca" tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="ShareExt@FIGHT_Sports",Fight•Network(1080p)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
@@ -1894,21 +1894,21 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bda9fd87eb3a27
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9be1be738977e2c312134/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9be1be738977e2c312134&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=f6e88030-d7c8-47c8-8fed-7e24dd0a038a&terminate=false&userId=
 #EXTINF:-1 tvg-id="TVSBoxing.us" tvg-logo="https://i.imgur.com/30ZoF75.png" group-title="ShareExt@FIGHT_Sports",TVS•Boxing(360p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",StrongmanChampionLeague
+#EXTINF:-1   tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",StrongmanChampionLeague
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@FIGHT_Sports",Japan.all.wrestling.pro
+#EXTINF:-1   tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",Japan.all.wrestling.pro
 http://14.102.154.164:5021/live/408.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",FIGHT•SPORTS.🇮🇩
+#EXTINF:-1  tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",FIGHT•SPORTS.🇮🇩
 http://rr1.dens.tv/h/h05/02.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",WWE•NETWORK
+#EXTINF:-1  tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",WWE•NETWORK
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",Boxing_Tv
+#EXTINF:-1  tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",Boxing_Tv
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/8d205a30-d00f-457d-978b-265b290eb7e0/0.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",Hard_knock
+#EXTINF:-1  tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",Hard_knock
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/52e53bec-21f1-4caf-86ce-a502b6cc8520.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",Impack Wrestling
+#EXTINF:-1  tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",Impack Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports", UFC
+#EXTINF:-1  tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports", UFC
 https://stream.ads.ottera.tv/cl/29fmbD4wgol0FelXaMeAw/854x480_550000_3_f.m3u8
 
 
