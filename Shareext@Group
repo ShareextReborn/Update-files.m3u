@@ -46,9 +46,6 @@ http://iptvtree.net:8080/F26646/f950f250/162138
 http://iptvstream.xyz:8080/Houngst20001/J6mEW1Q39jRCwRYMcxwdv/162138
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar_myteve
 http://myteve.online:8080/2d124d42/50dbd8b08e/162138
-#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",Indosiar_HD1
-https://linkslogger.com/ool0f6|shareext.ts
-https://2no.co/INDOSIARHD1_shareext-ts
 #EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",Indosiar_play
 http://103.166.27.2:8112/play/a016/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",Antv_play
@@ -792,17 +789,17 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",SEA.Today(MPD(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rodjatv.png" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",RODJA TV (MPD)(telkom)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",RODJA TV (MPD)(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/manifest.mpd
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/useeprime.png" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯", UseePrime (MPD(telkom)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯", UseePrime (MPD(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/jtv.png" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯", JTV (MPD)(telkom)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯", JTV (MPD)(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/.png" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",DIGIONE MAXstream (MPD)(telkom)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",DIGIONE MAXstream (MPD)(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rtv.png" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",RTV (MPD)(telkom)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",RTV (MPD)(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/balitv.png" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯", Bali TV (MPD)(telkom)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯", Bali TV (MPD)(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",iNews_TV_play
@@ -6175,23 +6172,23 @@ https://ctrl.laotv.la/live/PSTV/index.m3u8
 https://ctrl.laotv.la/live/LaoESTV/index.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Starvijay 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Starvijay 
 http://195.181.169.78:8899/star_vijay/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Star_maa 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Star_maa 
 http://195.181.169.78:8899/star_maa/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",SONY_set 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",SONY_set 
 http://195.181.169.78:8899/sony_tv/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Starplus
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Starplus
 http://195.181.169.78:8899/star_plus/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",SONY_sab
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",SONY_sab
 http://195.181.169.78:8899/sony_sab/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Star_Bharat 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Star_Bharat 
 http://195.181.169.78:8899/star_bharat/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Colors•tv
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Colors•tv
 http://170.254.18.107/COLORS/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Sony•max 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Sony•max 
 http://170.254.18.107/SONYMAX/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Zee•cinema 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Zee•cinema 
 http://170.254.18.107/ZEECINEMA/index.m3u8
 #EXTINF:-1 tvg-id="colorshd.in" tvg-name="Colors TV HD 1" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="SHAREEXT@TEVE•INDIA",Colors TV HD 
 http://watchindia.net:8880/live/60427/00546/801.ts
@@ -6396,89 +6393,100 @@ http://watchindia.net:8880/live/60427/00546/2146.ts
 http://watchindia.net:8880/live/60427/00546/887.ts
 #EXTINF:-1 tvg-id="zeethirai.in" tvg-name="Zee Thirai" tvg-logo="https://watchindia.net/images/channels/tamil/Zee_Thirai.png" group-title="ShareExt@TAMIL_television",Zee Thirai
 http://watchindia.net:8880/live/60427/00546/2142.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",Vasantham TV tamil 
-https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",IBC pakidi (Tamil Comedy channel)
-https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",IBC ISAI tamil
-https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",IBC Tamil
-https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",Tamil Vision 
-http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",EET TV tamil
-https://eu.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",Pirai tv(பிறை டிவி )
-https://askmedia.livebox.co.in/PiraiTVhls/6.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",Itn digital SRILANKA 
-https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/playlist_dvr.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",Swarnavahini tv
-https://jk3lz8xklw79-hls-live.5centscdn.com/efm/098f6bcd4621d373cade4e832627b4f6.sdp/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",Verbum TV 
-https://verbumtv.livebox.co.in/verbumtvhls/live.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",Siyatha tv
-https://voaplus.com/live/tL4Has1RhxZy8vANSC9uQAGc2/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",JINVANI
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",IBC tamil_* 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Vasantham TV tamil 
+https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",IBC pakidi (Tamil Comedy channel)
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",IBC ISAI tamil
+https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",IBC Tamil
+https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Tamil Vision 
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",EET TV tamil
+https://eu.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Pirai tv(பிறை டிவி )
+https://askmedia.livebox.co.in/PiraiTVhls/6.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Itn digital SRILANKA 
+https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/playlist_dvr.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Swarnavahini tv
+https://jk3lz8xklw79-hls-live.5centscdn.com/efm/098f6bcd4621d373cade4e832627b4f6.sdp/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Verbum TV 
+https://verbumtv.livebox.co.in/verbumtvhls/live.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Siyatha tv
+https://voaplus.com/live/tL4Has1RhxZy8vANSC9uQAGc2/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",IBC tamil_* 
 https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",krm tv_*
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",krm tv_*
 http://media.7starcloud.com:1935/harimedia/krmtv/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",haritv_*
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",haritv_*
 http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",thalapathytv_*
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",thalapathytv_*
 http://stream.applemedianetwork.com/hls/thalapathytv.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",vinayagamusic_*
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",vinayagamusic_*
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/chunklist_w1173294218.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",skytv music_*
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",skytv music_*
 http://stream.singamcloud.in/skytv/skytv/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",sr music_*
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",sr music_*
 http://hdserver.7starcloud.com:1935/srmusix/live/chunklist_w1487549298.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",7s music_* 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",7s music_* 
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/Stream(02)/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",ibc music_*             
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",ibc music_*             
 https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",Sun music_* 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Sun music_* 
 http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",Acn cinema_*
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Acn cinema_*
 http://198.144.149.82:8080/AMMA/ACNCINEMA/tracks-v1a1/mono.m3u8?token=AMMA
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",polimer_*
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",polimer_*
 http://hdserver.7starcloud.com:1935/polimer/live/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",kalaiisai tv_*
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",kalaiisai tv_*
 http://singamcloud.in/kalai/kalaiisai/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",Sana TV_*
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Sana TV_*
 http://51.79.158.179:1935/sanatv/sanatv/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",SD Media_*
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",SD Media_*
 http://51.79.158.179:1935/sd/sdmedia/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",MSN TV_*
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",MSN TV_*
 http://51.79.158.179:1935/msntv/live/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",Thirumalai TV_*
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Thirumalai TV_*
 http://51.79.158.179:1935/tirumalaitv/stream/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",Shalini TV tamil_*
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Shalini TV tamil_*
 https://gvjygr2jloem-hls-live.5centscdn.com:443/shalini/live.stream/chunks.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",Krishna TV_*
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Krishna TV_*
 http://51.79.158.179:1935/erodekrishnatv/livestream/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",Durais TV_*
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Durais TV_*
 http://51.79.158.179:1935/harimedia/duraistv/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",Ram TV_*
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Ram TV_*
 http://51.79.158.179:1935/harimedia/live5/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",7Star TV_*
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",7Star TV_*
 http://51.79.158.179:1935/live/7star/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",Sana TV 2_*
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Sana TV 2_*
 http://51.79.158.179:1935/live/sanatv2/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",Anu TV_*
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Anu TV_*
 http://139.99.96.93:1935/anutv/anutv/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",JEYAM TV PLUS TAMIL_*
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",JEYAM TV PLUS TAMIL_*
 http://198.144.149.82:8080/NOTV/JEYAMTVPLUS/index.m3u8?token=GTR
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",JEYAM TV TAMIL COVAI_* 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",JEYAM TV TAMIL COVAI_* 
 http://198.144.149.82:8080/NOTV/JEYAMTVCOVAI/index.m3u8?token=GTR
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",Analai Express Movie*
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Analai Express Movie*
 http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",MON TAMIL TV_*
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",MON TAMIL TV_*
 http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",7star tamil tv* 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",7star tamil tv* 
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",Jawahar tv*
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Jawahar tv*
 http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/chunklist_w1329828768.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",RCN TV*
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",RCN TV*
 https://5c75277727cd1.streamlock.net:443/rcntv/rcntv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
