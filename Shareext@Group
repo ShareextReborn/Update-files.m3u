@@ -74,6 +74,25 @@ http://103.166.27.2:8112/play/a01z/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",UseePrime_dec=auto
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro|Arena
+http://sysadminhost.net:8080/F18320/518b1d12/157485
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro|Cricket
+http://sysadminhost.net:8080/F18320/518b1d12/157565
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro|SuperSport
+http://sysadminhost.net:8080/F18320/518b1d12/146068
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro|SuperSport 2
+http://sysadminhost.net:8080/F18320/518b1d12/157556
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro|SuperSport 3
+http://sysadminhost.net:8080/F18320/518b1d12/157557
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro|SuperSport 4
+http://sysadminhost.net:8080/F18320/518b1d12/157558
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro|SuperSport 5
+http://sysadminhost.net:8080/F18320/518b1d12/287792
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",beIN|Sports
+http://sysadminhost.net:8080/F18320/518b1d12/157561
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",FOX|SPORTS 2
+http://sysadminhost.net:8080/F18320/518b1d12/157488
+
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD TH" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax",SPOTVHD TH_dec=auto
 http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186477&extension=ts&play_shareext@spotvHD
 #EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax",SPOTV_2(TH)_dec=auto
