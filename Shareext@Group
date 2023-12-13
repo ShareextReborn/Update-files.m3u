@@ -46,28 +46,6 @@ http://iptvtree.net:8080/F26646/f950f250/162138
 http://iptvstream.xyz:8080/Houngst20001/J6mEW1Q39jRCwRYMcxwdv/162138
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar_myteve
 http://myteve.online:8080/2d124d42/50dbd8b08e/162138
-#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",Indosiar_play
-http://103.166.27.2:8112/play/a016/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",Antv_play
-http://103.166.27.2:8112/play/a01g/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",Jtv_play
-http://103.166.27.2:8112/play/a01s/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",KompasTv_play
-http://103.166.27.2:8112/play/a019/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",MentariTv_play
-http://103.166.27.2:8112/play/a018/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",Mojitv_play
-http://103.166.27.2:8112/play/a017/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SCTV_play
-http://103.166.27.2:8112/play/a015/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",Trans7_play
-http://103.166.27.2:8112/play/a01c/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",TransTv_play
-http://103.166.27.2:8112/play/a01b/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",TVone_play
-http://103.166.27.2:8112/play/a01h/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",TvTabalong_play
-http://103.166.27.2:8112/play/a01z/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",UseePrime_dec=auto
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
@@ -6060,23 +6038,23 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1649997259_b384
 
 
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@MYANMAR|TELEVISION",MNTV (မြန်မာ)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ckjzPJn/Myanmar-Share-Ext-Group.jpg" group-title="SHAREEXT@MYANMAR|TELEVISION",MNTV (မြန်မာ)
 http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@MYANMAR|TELEVISION",MRTV (မြန်မာ)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ckjzPJn/Myanmar-Share-Ext-Group.jpg" group-title="SHAREEXT@MYANMAR|TELEVISION",MRTV (မြန်မာ)
 http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@MYANMAR|TELEVISION",MWD HD (မြန်မာ)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ckjzPJn/Myanmar-Share-Ext-Group.jpg" group-title="SHAREEXT@MYANMAR|TELEVISION",MWD HD (မြန်မာ)
 http://203.81.84.130/hls/mwd/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@MYANMAR|TELEVISION",MWD Movie HD (မြန်မာ)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ckjzPJn/Myanmar-Share-Ext-Group.jpg" group-title="SHAREEXT@MYANMAR|TELEVISION",MWD Movie HD (မြန်မာ)
 http://203.81.84.130/hls/mwd_serie/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@MYANMAR|TELEVISION",MWD Serie HD (မြန်မာ)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ckjzPJn/Myanmar-Share-Ext-Group.jpg" group-title="SHAREEXT@MYANMAR|TELEVISION",MWD Serie HD (မြန်မာ)
 http://203.81.84.130/hls/mwd_movie/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@MYANMAR|TELEVISION",MWD Variety HD (မြန်မာ)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ckjzPJn/Myanmar-Share-Ext-Group.jpg" group-title="SHAREEXT@MYANMAR|TELEVISION",MWD Variety HD (မြန်မာ)
 http://203.81.84.130/hls/mwd_variety/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@MYANMAR|TELEVISION",MWD Docmen HD (မြန်မာ)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ckjzPJn/Myanmar-Share-Ext-Group.jpg" group-title="SHAREEXT@MYANMAR|TELEVISION",MWD Docmen HD (မြန်မာ)
 http://203.81.84.130/hls/mwd_document/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@MYANMAR|TELEVISION",MWD Family HD (မြန်မာ)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ckjzPJn/Myanmar-Share-Ext-Group.jpg" group-title="SHAREEXT@MYANMAR|TELEVISION",MWD Family HD (မြန်မာ)
 http://203.81.84.130/hls/mwd_family/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@MYANMAR|TELEVISION",MWD Shopping HD (မြန်မာ)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ckjzPJn/Myanmar-Share-Ext-Group.jpg" group-title="SHAREEXT@MYANMAR|TELEVISION",MWD Shopping HD (မြန်မာ)
 http://203.81.84.130/hls/mwd_shopping/index.m3u8
 
 
