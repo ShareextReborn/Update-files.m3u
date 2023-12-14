@@ -3592,38 +3592,6 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF: -1 tvg-id="UrbantvSports.br" tvg-name="Urban Sports HD" tvg-chno="037" tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/channel/13/thumb_sports-1662477364.png" group-title="SHAREEXT@Canais de Esportes", Urban Sports HD
 https://stream.urbantv.com.br/urbantvsports/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 HD" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPYzEHk9HT5m8p4DyDcOywz0KHg9_zBpfRsQUOJ7f3sI_.png" group-title="SHAREEXT@Canais de Esportes",DAZN F1 HD
-http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/593921
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD." tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPYzEHk9HT5m8p4DyDcOywz0KHg9_zBpfRsQUOJ7f3sI_.png" group-title="SHAREEXT@Canais de Esportes",DAZN 2 HD.
-http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/593925
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPYzEHk9HT5m8p4DyDcOywz0KHg9_zBpfRsQUOJ7f3sI_.png" group-title="SHAREEXT@Canais de Esportes",DAZN 3 HD
-http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/593928
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPYzEHk9HT5m8p4DyDcOywz0KHg9_zBpfRsQUOJ7f3sI_.png" group-title="SHAREEXT@Canais de Esportes",DAZN 4 HD
-http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/593931
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPYzEHk9HT5m8p4DyDcOywz0KHg9_zBpfRsQUOJ7f3sI_.png" group-title="SHAREEXT@Canais de Esportes",DAZN LA LIGA HD
-http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/593934
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 2 HD" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPYzEHk9HT5m8p4DyDcOywz0KHg9_zBpfRsQUOJ7f3sI_.png" group-title="SHAREEXT@Canais de Esportes",DAZN LA LIGA 2 HD
-http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/593938
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Uruguay HD" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPaRFXiD-LoCypoWJswM3RwgC8kFZcsWG-PnoGu3HcYrL.png" group-title="SHAREEXT@Canais de Esportes",Directv Sports Uruguay HD
-http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/589330
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Ecuador HD" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPaRFXiD-LoCypoWJswM3RwgC8kFZcsWG-PnoGu3HcYrL.png" group-title="SHAREEXT@Canais de Esportes",Directv Sports Ecuador HD
-http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/589327
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Colombia HD" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPaRFXiD-LoCypoWJswM3RwgC8kFZcsWG-PnoGu3HcYrL.png" group-title="SHAREEXT@Canais de Esportes",Directv Sports Colombia HD
-http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/589324
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Argentina HD" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPaRFXiD-LoCypoWJswM3RwgC8kFZcsWG-PnoGu3HcYrL.png" group-title="SHAREEXT@Canais de Esportes",Directv Sports Argentina HD
-http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/589318
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 2 HD" tvg-logo="https://1.bp.blogspot.com/-01KlDKxKIUw/YJg4FfcFg1I/AAAAAAAAFiE/sDjy6gQBuywYBYjC-9sung9lziT0xAB8QCLcBGAsYHQ/s1920/directv%2Bsports%2B2%252C%2Bdirectv%2Bsports%2B1%252C%2Bdirectv%2Bsports%252B%2Bargentina%252C%2Bver%2Btv%2Bargentina%2Ben%2Bvivo%2Bonline.jpg" group-title="SHAREEXT@Canais de Esportes",Directv Sports 2 HD
-http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/589321
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Plus HD" tvg-logo="http://dnslivetv.online:80/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqJWpXOCmQ-pXPJ75v1LkwpuInBHnoIT_Smu-0bz-rCKQ.png" group-title="SHAREEXT@Canais de Esportes",Directv Sports Plus HD
-http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/589315
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Eventos 2" tvg-logo="http://dnslivetv.online:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohLdw4WWWJjZfvux3qZiZNI3lZYSaBMyheZSyvjZIoCGm5eNwgSZ_tgcrTabr6tEkqgFRatJ9h2fT1HMMOOeNaDgMI7XrbP93iSK4vLmO5_bmhjPeINdu57xBdygY4KWVWKYFVfCRrMvlXKVpQjSR-j.png" group-title="SHAREEXT@Canais de Esportes",Directv Sports Eventos 2
-http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/589342
-#EXTINF:-1 tvg-id="" tvg-name="USA: NHL NETWORK" tvg-logo="http://dnslivetv.online:80/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyBeFHw1C0qBjKNc--vFKGqsdVvI0arZFb15XFthutt9OQ.png" group-title="SHAREEXT@Canais de Esportes",USA:NHL NETWORK
-http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/590085
-#EXTINF:-1 tvg-id="" tvg-name="Peacock Live | Premier League" tvg-logo="http://dnslivetv.online:80/images/I1pSR7XU015S8m9TzZOhJoCWQWrjrh6kUliiT0FRc5ad6BkEkfQoRuCwWKSS-dx4KlesggdBfCAmeywas4JRFeZfzrr-NlHPbE8gyh3pkp4.png" group-title="SHAREEXT@Canais de Esportes",Peacock_Live|Premier_League
-http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/590221
-#EXTINF:-1 tvg-id="" tvg-name="FloRacing 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYORRdBKM0zFDFl6ZOKmamlH46ctgG-HNM1SLNswWxnxEDZmHraIWMy0cp6mmT-jgXPm0&usqp=CAU" group-title="SHAREEXT@Canais de Esportes",FloRacing 24/7
-http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/590417
 
 
 
