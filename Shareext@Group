@@ -1120,6 +1120,20 @@ https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMALUKUAM
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
 
 
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TruePremier 1
+https://edge1.laotv.la/live/TSport1/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TruePremier 2
+https://edge1.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TrueSport 2
+https://edge1.laotv.la/live/TrueSport2/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TrueSport 3
+https://edge1.laotv.la/live/TrueSport3/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Beinsport 1_true
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Beinsport 2_true
+https://ctrl.laotv.la/live/Bsport2/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD TH" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SPOTVHD TH
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115304.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD TH  [ENG]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SPOTV[ENG]
@@ -1381,6 +1395,55 @@ http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186615&extens
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186480&extension=ts&play_token=ZgqRTef08z
 #EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL",SPOTV•2•true _dec=auto
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186481&extension=ts&play_token=ZgqRTef08z
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",[AF] S LaLiga FHD
+http://supersonictv.live:8080/419094/970686/86861
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",[AF] S PSL FHD
+http://supersonictv.live:8080/419094/970686/86862
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",[AF] S Premier League FHD
+http://supersonictv.live:8080/419094/970686/86863
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",[AF] S Grandstand FHD
+http://supersonictv.live:8080/419094/970686/86864
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",[AF] S Variety 1 FHD
+http://supersonictv.live:8080/419094/970686/86865
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",[AF] S Variety 2 FHD
+http://supersonictv.live:8080/419094/970686/86866
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",[AF] S Variety 3 FHD
+http://supersonictv.live:8080/419094/970686/86867
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",[AF] S Variety 4 FHD
+http://supersonictv.live:8080/419094/970686/86868
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",[AF] S Football FHD
+http://supersonictv.live:8080/419094/970686/86869
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",[AF] S Action FHD
+http://supersonictv.live:8080/419094/970686/86870
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",[AF] S Rugby FHD
+http://supersonictv.live:8080/419094/970686/86871
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",[AF] S Cricket FHD
+http://supersonictv.live:8080/419094/970686/86872
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",[AF] S Blitz FHD
+http://supersonictv.live:8080/419094/970686/86873
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",[AF] S Máximo 1 FHD
+http://supersonictv.live:8080/419094/970686/86874
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",[AF] S Golf FHD
+http://supersonictv.live:8080/419094/970686/86875
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",[AF] S Tennis FHD
+http://supersonictv.live:8080/419094/970686/86876
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",[AF] S Play FHD
+http://supersonictv.live:8080/419094/970686/86877
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",[AF] S WWE FHD
+http://supersonictv.live:8080/419094/970686/86878
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",[AF] S Motorsport
+http://supersonictv.live:8080/419094/970686/86879
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",[AF] S Premier League backup
+http://supersonictv.live:8080/419094/970686/86880
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",[AF] S Premier League backup 02
+http://supersonictv.live:8080/419094/970686/86881
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",[AF] S Premier League backup 03
+http://supersonictv.live:8080/419094/970686/86882
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",[AF] S Premier League backup 04
+http://supersonictv.live:8080/419094/970686/86883
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",Am|Sports 1 
 http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/796445 
@@ -2375,6 +2438,31 @@ http://shareext@mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=63692
 http://shareext@mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=636926&extension=ts&shareext@skysport_9_NZ
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SKYSPORTS_WORLD",SKYSPORTS_SELECT_NZ
 http://shareext@mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=636927&extension=ts&shareext@skysport_Select_NZ
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SKYSPORTS_WORLD",UK|SkySport Racing HD
+http://supersonictv.live:8080/419094/970686/78145
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SKYSPORTS_WORLD",UK|SkySports Action
+http://supersonictv.live:8080/419094/970686/78146
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SKYSPORTS_WORLD",UK|SkySports Arena HD
+http://supersonictv.live:8080/419094/970686/78147
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SKYSPORTS_WORLD",UK|SkySports Cricket
+http://supersonictv.live:8080/419094/970686/78148
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SKYSPORTS_WORLD",UK|SkySports F1
+http://supersonictv.live:8080/419094/970686/78149
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SKYSPORTS_WORLD",UK|SkySports Football HD
+http://supersonictv.live:8080/419094/970686/78150
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SKYSPORTS_WORLD",UK|SkySports Golf HD
+http://supersonictv.live:8080/419094/970686/78151
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SKYSPORTS_WORLD",UK|SkySports MainEvents HD
+http://supersonictv.live:8080/419094/970686/78152
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SKYSPORTS_WORLD",UK|SkySports MIX
+http://supersonictv.live:8080/419094/970686/78153
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SKYSPORTS_WORLD",UK|SkySports News HD
+http://supersonictv.live:8080/419094/970686/78154
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SKYSPORTS_WORLD",UK|SkySports PremierLeague HD
+http://supersonictv.live:8080/419094/970686/78155
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SKYSPORTS_WORLD",UK|SkySports Racing
+http://supersonictv.live:8080/419094/970686/78156
 
 #EXTINF:-1 tvg-id="Sky Sport24" tvg-name="Sky Sport 24 HD" tvg-logo="http://nonusare.mywire.org:26650/Loghi/SKY_SPORT/Sky_Sport_24.png" group-title="SHAREEXT@SKYSPORTS_WORLD",SkySport 24 HD_ITA
 http://nonusare.mywire.org:26650/nicofra/u@Bg@N@@6@/77311
@@ -4972,6 +5060,112 @@ https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Classic Kungfu 1
+http://supersonictv.live:8080/419094/970686/61940
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Classic Kungfu 2
+http://supersonictv.live:8080/419094/970686/61941
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Classic Kungfu 3
+http://supersonictv.live:8080/419094/970686/61942
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Classic Kungfu 4
+http://supersonictv.live:8080/419094/970686/61943
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Classic Kungfu 5
+http://supersonictv.live:8080/419094/970686/61944
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Kungfu
+http://supersonictv.live:8080/419094/970686/40494
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Kungfu 1
+http://supersonictv.live:8080/419094/970686/40495
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Kungfu 2
+http://supersonictv.live:8080/419094/970686/40496
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Action Movie
+http://supersonictv.live:8080/419094/970686/40480
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Adventure Movie
+http://supersonictv.live:8080/419094/970686/40482
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Animation Movie
+http://supersonictv.live:8080/419094/970686/40483
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Comedy Movie
+http://supersonictv.live:8080/419094/970686/40484
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Comedy Movie 2
+http://supersonictv.live:8080/419094/970686/40485
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Crime Movie
+http://supersonictv.live:8080/419094/970686/40486
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Documentary Movie
+http://supersonictv.live:8080/419094/970686/40487
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Documentary Movie
+http://supersonictv.live:8080/419094/970686/40488
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Drama Movie
+http://supersonictv.live:8080/419094/970686/40489
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Family Movie
+http://supersonictv.live:8080/419094/970686/40490
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Family Movie 2
+http://supersonictv.live:8080/419094/970686/40491
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Horror Movie
+http://supersonictv.live:8080/419094/970686/40492
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Horror Movie 2
+http://supersonictv.live:8080/419094/970686/40493
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Mob Movie
+http://supersonictv.live:8080/419094/970686/40497
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Mob Movie 2
+http://supersonictv.live:8080/419094/970686/40498
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Mob Movie 3
+http://supersonictv.live:8080/419094/970686/40499
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Mob Movie 4
+http://supersonictv.live:8080/419094/970686/40500
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Mob Movie 5
+http://supersonictv.live:8080/419094/970686/40501
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Music Movie
+http://supersonictv.live:8080/419094/970686/40502
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Oscar Winning Movie 2020
+http://supersonictv.live:8080/419094/970686/40503
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Romance Movie
+http://supersonictv.live:8080/419094/970686/40504
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Science & Fiction Movie
+http://supersonictv.live:8080/419094/970686/40505
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Star Wars Movie
+http://supersonictv.live:8080/419094/970686/40506
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Western Movie
+http://supersonictv.live:8080/419094/970686/40507
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Alien Movie 1
+http://supersonictv.live:8080/419094/970686/47635
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Alien Movie 2
+http://supersonictv.live:8080/419094/970686/47636
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Alien Movie 3
+http://supersonictv.live:8080/419094/970686/47637
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Alien Movie 4
+http://supersonictv.live:8080/419094/970686/47638
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Alien Movie 5
+http://supersonictv.live:8080/419094/970686/47639
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Movie-2020 01
+http://supersonictv.live:8080/419094/970686/47644
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Movie-2020 02
+http://supersonictv.live:8080/419094/970686/47645
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Movie-2020 03
+http://supersonictv.live:8080/419094/970686/47646
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Movie-2020 04
+http://supersonictv.live:8080/419094/970686/47647
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Movie-2020 05
+http://supersonictv.live:8080/419094/970686/47648
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Movie-2020 06
+http://supersonictv.live:8080/419094/970686/47649
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Movie-2020 07
+http://supersonictv.live:8080/419094/970686/47650
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Movie-2020 08
+http://supersonictv.live:8080/419094/970686/47651
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Movie-2020 09
+http://supersonictv.live:8080/419094/970686/47652
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Movie-2020 10
+http://supersonictv.live:8080/419094/970686/47653
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Action Movie 1
+http://supersonictv.live:8080/419094/970686/61935
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Action Movie 2
+http://supersonictv.live:8080/419094/970686/61936
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Action Movie 3
+http://supersonictv.live:8080/419094/970686/61937
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Action Movie 4
+http://supersonictv.live:8080/419094/970686/61938
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnLRBSm/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@KUNGFU|ACTION|MOVIE_24/7",Action Movie 5
+http://supersonictv.live:8080/419094/970686/61939
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Angry Birds Toons" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@24X7",Angry Birds Toons|🇮🇩
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/298493
@@ -4993,7 +5187,6 @@ http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/298500
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/298501
 #EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Warkop DKI" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@24X7",Warkop DKI|🇮🇩
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/298502
-
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@24X7",BruceLee Movie
 http://supersonictv.live:8080/419094/970686/81942
