@@ -2049,16 +2049,12 @@ http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream
 
 
 
-
-
 #EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",One Sports Plus{PH} 
 http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/822086 
 #EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",Premier Sports HD{PH} 
 http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/822089
 #EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",Tap Sports{PH} 
 http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/822095
-#EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" group-title="SHAREEXT@OLAHRAGA•ASIAN" tvg-logo="https://i.imgur.com/hnfiUbK.png",T_Sports_7_TH
-https://cdn6.goprimetime.info/feed/202306140918/chtsport/index.m3u8|user-agent=Shareext/2.1.0
 #EXTINF:-1 group-title="SHAREEXT@OLAHRAGA•ASIAN" tvg-logo="http://b4tv.live/images/0ef23e2c33c966c5c76e2b5cca9428f8.png", K+Sports_viet
 http://b4tv.live/b4tv/b4tv/76.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="SHAREEXT@OLAHRAGA•ASIAN",CCTV-5浣撹偛
@@ -2193,75 +2189,6 @@ http://shareext@89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=13
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D59X1mX/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@HUB_PREMIER",HUB_PREMIER_11
 http://shareext@89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1350567&extension=ts&shareext@hubpremier11
 
-
-#EXTINF:-1 tvg-id="NowSportsPremierLeagueTV.hk" tvg-name="4K HK Now Sports (EPL)" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW PREMIER",4K Now Sports (EPL)
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/425322
-#EXTINF:-1 tvg-id="NowSportsPremierLeague1.hk" tvg-name="HK Now Premier Sports 1" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW PREMIER",Now PremierSports 1
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/425332
-#EXTINF:-1 tvg-id="NowSportsPremierLeague2.hk" tvg-name="HK Now Premier Sports 2" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW PREMIER",Now PremierSports 2
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/425333
-#EXTINF:-1 tvg-id="NowSportsPremierLeague3.hk" tvg-name="HK Now Premier Sports 3" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW PREMIER",Now PremierSports 3
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/425334
-#EXTINF:-1 tvg-id="NowSportsPremierLeague4.hk" tvg-name="HK Now Premier Sports 4" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW PREMIER",Now PremierSports 4
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/425335
-#EXTINF:-1 tvg-id="NowSportsPremierLeague5.hk" tvg-name="HK Now Premier Sports 5" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW PREMIER",Now PremierSports 5
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/425336
-#EXTINF:-1 tvg-id="NowSportsPremierLeague6.hk" tvg-name="HK Now Premier Sports 6" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW PREMIER",Now PremierSports 6
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/425337
-#EXTINF:-1 tvg-id="" tvg-name="HK Now Premier Sports 7" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW PREMIER",Now PremierSports 7
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/425331
-#EXTINF:-1 tvg-id="" tvg-name="HK Now Premier Sports 8" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW PREMIER",Now PremierSports 8
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/425330
-#EXTINF:-1 tvg-id="NowSports1.hk" tvg-name="HK Now Sports 1" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW PREMIER",Now Sports 1
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/425329
-#EXTINF:-1 tvg-id="beINNowSports2.hk" tvg-name="HK Now Sports 2" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW PREMIER",Now Sports 2
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/425328
-#EXTINF:-1 tvg-id="NowSports3.hk" tvg-name="HK Now Sports 3" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW PREMIER",Now Sports 3
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/425327
-#EXTINF:-1 tvg-id="NowSports4.hk" tvg-name="HK Now Sports 4" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW PREMIER",Now Sports 4
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/425326
-#EXTINF:-1 tvg-id="NowSports5.hk" tvg-name="HK Now Sports 5" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW PREMIER",Now Sports 5
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/425325
-#EXTINF:-1 tvg-id="NowSports6.hk" tvg-name="HK Now Sports 6" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW PREMIER",Now Sports 6
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/425324
-#EXTINF:-1 tvg-id="NowSports7.hk" tvg-name="HK Now Sports 7" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW PREMIER",Now Sports 7
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/425323
-
-
-#EXTINF:-1 tvg-id="HubSports1.sg" tvg-name="Hub Sport 1 FHD" tvg-logo="https://www.rapidtvnews.com/images/HUB_Sports_Arena.png" group-title="SHAREEXT@HUB SPORTS",Hub Sport 1 FHD
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/501593
-#EXTINF:-1 tvg-id="HubSports2.sg" tvg-name="Hub Sports 2 FHD" tvg-logo="https://www.rapidtvnews.com/images/HUB_Sports_Arena.png" group-title="SHAREEXT@HUB SPORTS",Hub Sports 2 FHD
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/501592
-#EXTINF:-1 tvg-id="HubSports3.sg" tvg-name="Hub Sports 3 FHD" tvg-logo="https://www.rapidtvnews.com/images/HUB_Sports_Arena.png" group-title="SHAREEXT@HUB SPORTS",Hub Sports 3 FHD
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/501591
-#EXTINF:-1 tvg-id="HubSports4.sg" tvg-name="Hub Sports 4 FHD" tvg-logo="https://www.rapidtvnews.com/images/HUB_Sports_Arena.png" group-title="SHAREEXT@HUB SPORTS",Hub Sports 4 FHD
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/501590
-#EXTINF:-1 tvg-id="HubSports5.sg" tvg-name="Hub Sports 5 FHD" tvg-logo="https://www.rapidtvnews.com/images/HUB_Sports_Arena.png" group-title="SHAREEXT@HUB SPORTS",Hub Sports 5 FHD
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/501589
-#EXTINF:-1 tvg-id="HubPremier1.sg" tvg-name="Hub Premier 1 FHD:" tvg-logo="https://www.rapidtvnews.com/images/HUB_Sports_Arena.png" group-title="SHAREEXT@HUB SPORTS",Hub Premier 1 FHD:
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/501577
-#EXTINF:-1 tvg-id="HubPremier2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://www.rapidtvnews.com/images/HUB_Sports_Arena.png" group-title="SHAREEXT@HUB SPORTS",Hub Premier 2 FHD
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/501578
-#EXTINF:-1 tvg-id="HubPremier2.sg" tvg-name="Hub Premier 2 UHD" tvg-logo="https://www.rapidtvnews.com/images/HUB_Sports_Arena.png" group-title="SHAREEXT@HUB SPORTS",Hub Premier 2 UHD
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/501588
-#EXTINF:-1 tvg-id="HubPremier3.sg" tvg-name="Hub Premier 3 FHD" tvg-logo="https://www.rapidtvnews.com/images/HUB_Sports_Arena.png" group-title="SHAREEXT@HUB SPORTS",Hub Premier 3 FHD
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/501579
-#EXTINF:-1 tvg-id="HubPremier4.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://www.rapidtvnews.com/images/HUB_Sports_Arena.png" group-title="SHAREEXT@HUB SPORTS",Hub Premier 4 FHD
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/501580
-#EXTINF:-1 tvg-id="HubPremier5.sg" tvg-name="Hub Premier 5 FHD" tvg-logo="https://www.rapidtvnews.com/images/HUB_Sports_Arena.png" group-title="SHAREEXT@HUB SPORTS",Hub Premier 5 FHD
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/501581
-#EXTINF:-1 tvg-id="HubPremier6.sg" tvg-name="Hub Premier 6 FHD" tvg-logo="https://www.rapidtvnews.com/images/HUB_Sports_Arena.png" group-title="SHAREEXT@HUB SPORTS",Hub Premier 6 FHD
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/501582
-#EXTINF:-1 tvg-id="HubPremier7.sg" tvg-name="Hub Premier 7 FHD" tvg-logo="https://www.rapidtvnews.com/images/HUB_Sports_Arena.png" group-title="SHAREEXT@HUB SPORTS",Hub Premier 7 FHD
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/501583
-#EXTINF:-1 tvg-id="HubPremier8.sg" tvg-name="Hub Premier 8 FHD" tvg-logo="https://www.rapidtvnews.com/images/HUB_Sports_Arena.png" group-title="SHAREEXT@HUB SPORTS",Hub Premier 8 FHD
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/501584
-#EXTINF:-1 tvg-id="HubPremier9.sg" tvg-name="Hub Premier 9 FHD" tvg-logo="https://www.rapidtvnews.com/images/HUB_Sports_Arena.png" group-title="SHAREEXT@HUB SPORTS",Hub Premier 9 FHD
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/501585
-#EXTINF:-1 tvg-id="HubPremier10.sg" tvg-name="Hub Premier 10 FHD" tvg-logo="https://www.rapidtvnews.com/images/HUB_Sports_Arena.png" group-title="SHAREEXT@HUB SPORTS",Hub Premier 10 FHD
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/501586
-#EXTINF:-1 tvg-id="HubPremier11.sg" tvg-name="Hub Premier 11 FHD" tvg-logo="https://www.rapidtvnews.com/images/HUB_Sports_Arena.png" group-title="SHAREEXT@HUB SPORTS",Hub Premier 11 FHD
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/501587
 
 
 #EXTINF:-1   tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",Lucha_Underground_24/7
@@ -2463,37 +2390,6 @@ http://supersonictv.live:8080/419094/970686/78154
 http://supersonictv.live:8080/419094/970686/78155
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SKYSPORTS_WORLD",UK|SkySports Racing
 http://supersonictv.live:8080/419094/970686/78156
-
-#EXTINF:-1 tvg-id="Sky Sport24" tvg-name="Sky Sport 24 HD" tvg-logo="http://nonusare.mywire.org:26650/Loghi/SKY_SPORT/Sky_Sport_24.png" group-title="SHAREEXT@SKYSPORTS_WORLD",SkySport 24 HD_ITA
-http://nonusare.mywire.org:26650/nicofra/u@Bg@N@@6@/77311
-#EXTINF:-1 tvg-id="Sky Sport Uno" tvg-name="Sky Sport Uno HD" tvg-logo="http://nonusare.mywire.org:26650/Loghi/SKY_SPORT/Sky_Sport_1.png" group-title="SHAREEXT@SKYSPORTS_WORLD",SkySport Uno HD_ITA
-http://nonusare.mywire.org:26650/nicofra/u@Bg@N@@6@/77268
-#EXTINF:-1 tvg-id="Sky Sport Football HD" tvg-name="Sky Sport Max HD" tvg-logo="http://nonusare.mywire.org:26650/Loghi/skysportmax.png" group-title="SHAREEXT@SKYSPORTS_WORLD",SkySport Max HD_ITA
-http://nonusare.mywire.org:26650/nicofra/u@Bg@N@@6@/77316
-#EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Arena HD" tvg-logo="http://nonusare.mywire.org:26650/Loghi/SKY_SPORT/Sky_Sport_Arena_FHD.png" group-title="SHAREEXT@SKYSPORTS_WORLD",SkySport Arena HD_ITA
-http://nonusare.mywire.org:26650/nicofra/u@Bg@N@@6@/77257
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Golf HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/1200px-Sky_Sport_Golf_Logo_2022.svg.png" group-title="SHAREEXT@SKYSPORTS_WORLD",SkySport Golf HD_ITA
-http://nonusare.mywire.org:26650/nicofra/u@Bg@N@@6@/125148
-#EXTINF:-1 tvg-id="Sky Sport NBA" tvg-name="Sky Sport NBA HD" tvg-logo="http://google-images-dsa2ds121cvd8as4c12xz15s4.ddns.net/Loghi/SKY_SPORT/Sky_Sport_NBA_FHD.png" group-title="SHAREEXT@SKYSPORTS_WORLD",SkySport NBA HD_ITA
-http://nonusare.mywire.org:26650/nicofra/u@Bg@N@@6@/77326
-#EXTINF:-1 tvg-id="Sky Sport Tennis HD" tvg-name="Sky Sport Tennis HD" tvg-logo="http://google-images-dsa2ds121cvd8as4c12xz15s4.ddns.net/Loghi/SKY_SPORT/Sky_Sport_Tennis.png" group-title="SHAREEXT@SKYSPORTS_WORLD",SkySport Tennis HD_ITA
-http://nonusare.mywire.org:26650/nicofra/u@Bg@N@@6@/77321
-#EXTINF:-1 tvg-id="Eurosport 1 FHD" tvg-name="Eurosport 1 HD" tvg-logo="https://s3-eu-west-1.amazonaws.com/tpd/logos/54d889f20000ff00057d4aa7/0x0.png" group-title="SHAREEXT@SKYSPORTS_WORLD",Eurosport 1 HD_ITA
-http://nonusare.mywire.org:26650/nicofra/u@Bg@N@@6@/77271
-#EXTINF:-1 tvg-id="Eurosport 2 FHD" tvg-name="Eurosport 2 HD" tvg-logo="https://s3-eu-west-1.amazonaws.com/tpd/logos/4d453e6300006400050e83f7/0x0.png" group-title="SHAREEXT@SKYSPORTS_WORLD",Eurosport 2 HD_ITA
-http://nonusare.mywire.org:26650/nicofra/u@Bg@N@@6@/77273
-#EXTINF:-1 tvg-id="EQTV HD" tvg-name="EQUTV FHD" tvg-logo="https://canalisat.altervista.org/img/loghi_tv/equtv.png" group-title="SHAREEXT@SKYSPORTS_WORLD",EQUTV FHD_ITA
-http://nonusare.mywire.org:26650/nicofra/u@Bg@N@@6@/88037
-#EXTINF:-1 tvg-id="" tvg-name="Rai Sport + HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Rai_Sport_%2B_HD_-_Logo_2017.svg/1200px-Rai_Sport_%2B_HD_-_Logo_2017.svg.png" group-title="SHAREEXT@SKYSPORTS_WORLD",RaiSport + HD_ITA
-http://nonusare.mywire.org:26650/nicofra/u@Bg@N@@6@/77275
-#EXTINF:-1 tvg-id="" tvg-name="Sport Italia live" tvg-logo="https://www.tvdream.net/img/si-solocalcio.png" group-title="SHAREEXT@SKYSPORTS_WORLD",Sport Italia live_ITA
-http://nonusare.mywire.org:26650/nicofra/u@Bg@N@@6@/77280
-#EXTINF:-1 tvg-id="" tvg-name="Sport Italia Live 24" tvg-logo="https://www.tvdream.net/img/si-solocalcio.png" group-title="SHAREEXT@SKYSPORTS_WORLD",Sport Italia Live 24_ITA
-http://nonusare.mywire.org:26650/nicofra/u@Bg@N@@6@/77279
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sport Italia Solo Calcio" tvg-logo="https://www.tvdream.net/img/si-solocalcio.png" group-title="SHAREEXT@SKYSPORTS_WORLD",Sport Italia Solo Calcio_ITA
-http://nonusare.mywire.org:26650/nicofra/u@Bg@N@@6@/77277
-#EXTINF:-1 tvg-id="" tvg-name="Super Tennis HD" tvg-logo="http://nonusare.mywire.org:26650/Loghi/SKY_SPORT/Super_Tennis.png" group-title="SHAREEXT@SKYSPORTS_WORLD",Super Tennis HD_ITA
-http://nonusare.mywire.org:26650/nicofra/u@Bg@N@@6@/77281
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SKYSPORTS_WORLD",SKYSPORTS Action/NFL_UK
 http://jmrk.xyz:8080/vsmith429@aol.com/ZZ0sA0xZdr/508238
