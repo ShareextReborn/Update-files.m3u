@@ -7006,24 +7006,60 @@ https://ctrl.laotv.la/live/PSTV/index.m3u8
 https://ctrl.laotv.la/live/LaoESTV/index.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Starvijay 
-http://195.181.169.78:8899/star_vijay/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Star_maa 
-http://195.181.169.78:8899/star_maa/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",SONY_set 
-http://195.181.169.78:8899/sony_tv/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Starplus
-http://195.181.169.78:8899/star_plus/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",SONY_sab
-http://195.181.169.78:8899/sony_sab/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Star_Bharat 
-http://195.181.169.78:8899/star_bharat/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Colors•tv
 http://170.254.18.107/COLORS/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Sony•max 
 http://170.254.18.107/SONYMAX/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Zee•cinema 
 http://170.254.18.107/ZEECINEMA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",SET|HD
+http://95.111.193.211:8106/play/a00l/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",SONY|MAX HD
+http://95.111.193.211:8106/play/a00x/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",STAR|JALSHA
+http://95.111.193.211:8106/play/a003/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",STAR|MOVIES
+http://95.111.193.211:8106/play/a00o/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Star|GOLD HD
+http://95.111.193.211:8106/play/a00c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Star|Plus HD
+http://95.111.193.211:8106/play/a00i/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Sun|Bangla
+http://95.111.193.211:8106/play/a00z/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Travelxp
+http://95.111.193.211:8106/play/a01o/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",ZEE|BANGLA HD
+http://95.111.193.211:8106/play/a00e/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",colors|BanglaHD
+http://95.111.193.211:8106/play/a00s/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",nick|HD+
+http://95.111.193.211:8106/play/a00h/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Animal|PlanetHD
+http://95.111.193.211:8106/play/a00b/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Colors HD
+http://95.111.193.211:8106/play/a00j/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Discovery HD
+http://95.111.193.211:8106/play/a00q/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",FOX Life HD
+http://95.111.193.211:8106/play/a025/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",NatGeo HD
+http://95.111.193.211:8106/play/a00p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",NatGeo|Wild HD
+http://95.111.193.211:8106/play/a00y/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",EUROSPORT HD
+http://95.111.193.211:8106/play/a00m/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Sony Ten 1 HD
+http://95.111.193.211:8106/play/a00v/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Sports18 1 HD
+http://95.111.193.211:8106/play/a00n/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",StarSports 1 HD
+http://95.111.193.211:8106/play/a00t/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",StarSports 2 HD
+http://95.111.193.211:8106/play/a00u/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",StarSport SL 1HD
+http://95.111.193.211:8106/play/a00f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",StarSport SL 2HD
+http://95.111.193.211:8106/play/a017/index.m3u8
 
 
 
