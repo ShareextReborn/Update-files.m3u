@@ -6908,6 +6908,151 @@ http://170.254.18.107/COLORS/index.m3u8
 http://170.254.18.107/SONYMAX/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Zee•cinema 
 http://170.254.18.107/ZEECINEMA/index.m3u8
+
+#EXTINF:-1 tvg-id="1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SHAREEXT@TEVE•INDIA",SET HD
+https://dai.google.com/ssai/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+#EXTINF:-1 tvg-id="1000009248" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SHAREEXT@TEVE•INDIA",Sony SAB HD
+https://dai.google.com/ssai/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+#EXTINF:-1 tvg-id="1000009273" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SHAREEXT@TEVE•INDIA",Sony PAL
+https://dai.google.com/ssai/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+#EXTINF:-1 tvg-id="1000001971" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SHAREEXT@TEVE•INDIA",Sony YAY
+https://dai.google.com/ssai/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+#EXTINF:-1 tvg-id="1000009255" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="SHAREEXT@TEVE•INDIA",Sony AATH
+https://dai.google.com/ssai/event/j-YEIDwORxubtP_967VcZg/master.m3u8
+#EXTINF:-1 tvg-id="1000009259" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="SHAREEXT@TEVE•INDIA",Sony Marathi
+https://dai.google.com/ssai/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
+#EXTINF:-1 tvg-id="1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SHAREEXT@TEVE•INDIA",Sony BBC Earth HD
+https://dai.google.com/ssai/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+#EXTINF:-1 tvg-id="1000009258" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SHAREEXT@TEVE•INDIA",Sony PIX HD
+https://dai.google.com/ssai/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="SHAREEXT@TEVE•INDIA",Sony WAH
+https://dai.google.com/ssai/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
+#EXTINF:-1 tvg-id="1000009249" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="SHAREEXT@TEVE•INDIA",Sony MAX
+https://dai.google.com/ssai/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
+#EXTINF:-1 tvg-id="1000009247" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SHAREEXT@TEVE•INDIA",Sony MAX HD
+https://dai.google.com/ssai/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+#EXTINF:-1 tvg-id="1000044878" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="SHAREEXT@TEVE•INDIA",Sony MAX2
+https://dai.google.com/ssai/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+#EXTINF:-1 tvg-id="1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="SHAREEXT@TEVE•INDIA",Sony TEN 1
+https://dai.google.com/ssai/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+#EXTINF:-1 tvg-id="1000009279" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="SHAREEXT@TEVE•INDIA",Sony TEN 2
+https://dai.google.com/ssai/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+#EXTINF:-1 tvg-id="1000009283" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="SHAREEXT@TEVE•INDIA",Sony TEN 3
+https://dai.google.com/ssai/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+#EXTINF:-1 tvg-id="1000119187" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="SHAREEXT@TEVE•INDIA",Sony TEN 4
+https://dai.google.com/ssai/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+#EXTINF:-1 tvg-id="1000009281" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SHAREEXT@TEVE•INDIA",Sony TEN 5
+https://dai.google.com/ssai/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+#EXTINF:-1 tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SHAREEXT@TEVE•INDIA",Sony TEN 1 HD
+https://dai.google.com/ssai/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+#EXTINF:-1 tvg-id="1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SHAREEXT@TEVE•INDIA",Sony TEN 2 HD
+https://dai.google.com/ssai/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+#EXTINF:-1 tvg-id="1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SHAREEXT@TEVE•INDIA",Sony TEN 3 HD
+https://dai.google.com/ssai/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+#EXTINF:-1 tvg-id="1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SHAREEXT@TEVE•INDIA",Sony TEN 4 HD
+https://dai.google.com/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+#EXTINF:-1 tvg-id="1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SHAREEXT@TEVE•INDIA",Sony TEN 5 HD
+https://dai.google.com/ssai/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" group-title="SHAREEXT@TEVE•INDIA",Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SHAREEXT@TEVE•INDIA",SET HD
+https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
+#EXTINF:-1 tvg-id="1000009248" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SHAREEXT@TEVE•INDIA",Sony SAB HD
+https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:-1 tvg-id="1000009273" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SHAREEXT@TEVE•INDIA",Sony PAL
+https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF:-1 tvg-id="1000001971" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SHAREEXT@TEVE•INDIA",Sony YAY
+https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#EXTINF:-1 tvg-id="1000009255" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="SHAREEXT@TEVE•INDIA",Sony AATH
+https://dai.google.com/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
+#EXTINF:-1 tvg-id="1000009259" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="SHAREEXT@TEVE•INDIA",Sony Marathi
+https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
+#EXTINF:-1 tvg-id="1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SHAREEXT@TEVE•INDIA",Sony BBC Earth HD
+https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:-1 tvg-id="1000009258" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SHAREEXT@TEVE•INDIA",Sony PIX HD
+https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="SHAREEXT@TEVE•INDIA",Sony WAH
+https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF:-1 tvg-id="1000009249" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="SHAREEXT@TEVE•INDIA",Sony MAX
+https://dai.google.com/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+#EXTINF:-1 tvg-id="1000009247" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SHAREEXT@TEVE•INDIA",Sony MAX HD
+https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:-1 tvg-id="1000044878" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="SHAREEXT@TEVE•INDIA",Sony MAX2
+https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",8XM
+http://144.217.70.181:9587/hin2/8XM/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",9XM
+http://144.217.70.181:9587/hin2/9XM/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",B4U Movies
+http://144.217.70.181:9587/hin2/B4UMOVIES/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",B4U Movies UK
+http://144.217.70.181:9587/hin2/B4UMOVIESUK/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",B4U Music
+http://144.217.70.181:9587/hin2/B4UMUSIC/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Colors HD
+http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Colors UK
+http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",E24
+http://144.217.70.181:9587/hin2/E24/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Hungama TV
+http://144.217.70.181:9587/hin2/HUNGAMA/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",India Today
+http://144.217.70.181:9587/hin2/INDIATODAY/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Mastiii 
+http://144.217.70.181:9587/hin2/MASTII/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",MTV
+http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",MTV Beats HD
+http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",News24
+http://144.217.70.181:9587/hin2/NEWS24/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",POGO.TV
+http://144.217.70.181:9587/hin2/POGO/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Sahara One
+http://144.217.70.181:9587/hin2/SAHARAONE/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Sonic
+http://144.217.70.181:9587/hin2/SONIC/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Sony HD
+http://144.217.70.181:9587/hin2/SONYTVHD/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Sony Max
+http://144.217.70.181:9587/hin2/SONYMAXHD/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Sony Max 2
+http://144.217.70.181:9587/hin2/SONYMAX2/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Sony PAL
+http://144.217.70.181:9587/hin2/SONYPAL/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Star Bharat UK
+http://144.217.70.181:9587/hin2/STARBHARATUK/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Star Gold 2
+http://144.217.70.181:9587/hin2/STARGOLD2/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Star Gold UK
+http://144.217.70.181:9587/hin2/STARGOLDUK/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Star Gold HD
+http://144.217.70.181:9587/hin2/STARGOLDHD/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Star Plus HD
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Star Plus UK
+http://144.217.70.181:9587/hin2/STARPLUSUK/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",UTV Action
+http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",UTV Movies HD
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Zee Action
+http://144.217.70.181:9587/hin2/ZEEACTION/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Zee Anmol Cinema
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Zee Cinema HD
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Zee Classic
+http://144.217.70.181:9587/hin2/ZEECLASSICHD/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Zee TV HD
+http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Zee TV UK
+http://144.217.70.181:9587/hin2/ZEETVUK/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Zoom
+http://144.217.70.181:9587/hin2/ZOOM/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",SET|HD
 http://95.111.193.211:8106/play/a00l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",SONY|MAX HD
@@ -6963,6 +7108,105 @@ http://95.111.193.211:8106/play/a017/index.m3u8
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/Colors_Bangla_HD_voot_MOB-audio_98835_ben=98800-video=1173600.m3u8
 #EXTINF:-1 tvg-id="sunlife.in" tvg-name="Sun Life" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_Life.png" group-title="ShareExt@TAMIL_television",ZEE_BANGLA_HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/zeebanglahd-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",EkusheyTV
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",DeeptoTV
+https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Colors  HD" tvg-logo="http://go.justflix.tv/images/india/Colors_Tamil_HD.png" group-title="ShareExt@TAMIL_television",Colors|HD
+http://go.justflix.tv:80/client112/kennythetiger2020/269
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Sun tv  HD" tvg-logo="http://go.justflix.tv/images/india/Sun_TV_HD.png" group-title="ShareExt@TAMIL_television",Suntv| HD
+http://go.justflix.tv:80/client112/kennythetiger2020/237
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | KTV  HD" tvg-logo="http://go.justflix.tv/images/india/KTV_HD.png" group-title="ShareExt@TAMIL_television",KTV|HD
+http://go.justflix.tv:80/client112/kennythetiger2020/203
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Star Vijay  HD" tvg-logo="http://go.justflix.tv/images/india/Star_Vijay.png" group-title="ShareExt@TAMIL_television",Star|Vijay  HD
+http://go.justflix.tv:80/client112/kennythetiger2020/296
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Sun Life " tvg-logo="http://go.justflix.tv/images/indialogo/TAMILSUNLIFE.png" group-title="ShareExt@TAMIL_television",Sun|Life 
+http://go.justflix.tv:80/client112/kennythetiger2020/282
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Star Vijay  Usa" tvg-logo="http://go.justflix.tv/images/india/Nambikkai.png" group-title="ShareExt@TAMIL_television",StarVijay|Usa
+http://go.justflix.tv:80/client112/kennythetiger2020/280
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Asianet news " tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Asianet|news 
+http://go.justflix.tv:80/client112/kennythetiger2020/283
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Sony BBC Earth " tvg-logo="http://go.justflix.tv/images/india/Sony_BBC_Earth_HD_Tamil.png" group-title="ShareExt@TAMIL_television",Sony BBC Earth 
+http://go.justflix.tv:80/client112/kennythetiger2020/277
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Star Vijay Super" tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",StarVijay Super
+http://go.justflix.tv:80/client112/kennythetiger2020/822
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Star Vijay Music" tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",StarVijay Music
+http://go.justflix.tv:80/client112/kennythetiger2020/293
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Adithya TV " tvg-logo="http://go.justflix.tv/images/india/Adithya_TV.png" group-title="ShareExt@TAMIL_television",Adithya|TV 
+http://go.justflix.tv:80/client112/kennythetiger2020/286
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Star Vijay sd" tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Star|Vijay sd
+http://go.justflix.tv:80/client112/kennythetiger2020/784
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Zee Thirai " tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Zee|Thirai 
+http://go.justflix.tv:80/client112/kennythetiger2020/703
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Kalingar " tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Kalingar| 
+http://go.justflix.tv:80/client112/kennythetiger2020/689
+#EXTINF:-1 tvg-id="" tvg-name="Tamil| Isaiaruvi" tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Isaiaruvi|
+http://go.justflix.tv:80/client112/kennythetiger2020/674
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Jaya Movie " tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Jaya Movie| 
+http://go.justflix.tv:80/client112/kennythetiger2020/307
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Jaya Plus " tvg-logo="http://go.justflix.tv/images/india/Jaya_Plus.png" group-title="ShareExt@TAMIL_television",Jaya|Plus 
+http://go.justflix.tv:80/client112/kennythetiger2020/304
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | JAYA TV " tvg-logo="http://go.justflix.tv/images/india/Jaya_TV_HD.png" group-title="ShareExt@TAMIL_television",JAYA|TV 
+http://go.justflix.tv:80/client112/kennythetiger2020/305
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Jaya Max " tvg-logo="http://go.justflix.tv/images/india/Jaya_Max.png" group-title="ShareExt@TAMIL_television",Jaya|Max 
+http://go.justflix.tv:80/client112/kennythetiger2020/309
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Raj News 24x7 " tvg-logo="http://go.justflix.tv/images/india/Raj_News_24x7.png" group-title="ShareExt@TAMIL_television",Raj|News 24x7 
+http://go.justflix.tv:80/client112/kennythetiger2020/297
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Raj TV " tvg-logo="http://go.justflix.tv/images/india/Raj_TV.png" group-title="ShareExt@TAMIL_television",Raj|TV 
+http://go.justflix.tv:80/client112/kennythetiger2020/298
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Raj Digital Plus " tvg-logo="http://go.justflix.tv/images/india/Raj_Digital_Plus.png" group-title="ShareExt@TAMIL_television",Raj|Digital Plus 
+http://go.justflix.tv:80/client112/kennythetiger2020/301
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Vasanth TV " tvg-logo="http://go.justflix.tv/images/india/Vasanth_TV.png" group-title="ShareExt@TAMIL_television",Vasanth|TV 
+http://go.justflix.tv:80/client112/kennythetiger2020/289
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Thanthi News " tvg-logo="http://go.justflix.tv/images/india/Thanthi_TV.png" group-title="ShareExt@TAMIL_television",Thanthi|News 
+http://go.justflix.tv:80/client112/kennythetiger2020/291
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Raj Musix " tvg-logo="http://go.justflix.tv/images/indialogo/TAMILRAJMUSIX.png" group-title="ShareExt@TAMIL_television",Raj|Musix 
+http://go.justflix.tv:80/client112/kennythetiger2020/300
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Angel TV " tvg-logo="http://go.justflix.tv/images/india/Angel_TV_HD.png" group-title="ShareExt@TAMIL_television",Angel|TV 
+http://go.justflix.tv:80/client112/kennythetiger2020/303
+#EXTINF:-1 tvg-id="" tvg-name="Tamil |  vision TV" tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",vision|TV
+http://go.justflix.tv:80/client112/kennythetiger2020/241
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Ktv HD  Usa" tvg-logo="http://go.justflix.tv/images/indialogo/TAMILKTVHD.png" group-title="ShareExt@TAMIL_television",Ktv HD  Usa
+http://go.justflix.tv:80/client112/kennythetiger2020/270
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Puthu Yugam " tvg-logo="http://go.justflix.tv/images/india/Puthu_Yugam.png" group-title="ShareExt@TAMIL_television",Puthu|Yugam 
+http://go.justflix.tv:80/client112/kennythetiger2020/271
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Polimer " tvg-logo="http://go.justflix.tv/images/india/Polimer_TV.png" group-title="ShareExt@TAMIL_television",Polimer 
+http://go.justflix.tv:80/client112/kennythetiger2020/302
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | News 7 " tvg-logo="http://go.justflix.tv/images/india/Prameya_News_7.png" group-title="ShareExt@TAMIL_television",News 7 
+http://go.justflix.tv:80/client112/kennythetiger2020/279
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Peppers " tvg-logo="http://go.justflix.tv/images/india/Peppers_TV.png" group-title="ShareExt@TAMIL_television",Peppers 
+http://go.justflix.tv:80/client112/kennythetiger2020/275
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Makkal Tv " tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Makkal|Tv 
+http://go.justflix.tv:80/client112/kennythetiger2020/284
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Travel XP " tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Travel|XP 
+http://go.justflix.tv:80/client112/kennythetiger2020/285
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | News 18 " tvg-logo="http://go.justflix.tv/images/india/News_18_Tamilnadu.png" group-title="ShareExt@TAMIL_television",News|18 
+http://go.justflix.tv:80/client112/kennythetiger2020/290
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Kalingar News " tvg-logo="http://go.justflix.tv/images/india/Kalinga_TV.png" group-title="ShareExt@TAMIL_television",Kalingar|News 
+http://go.justflix.tv:80/client112/kennythetiger2020/292
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Captain TV " tvg-logo="http://go.justflix.tv/images/india/Captain_tv.png" group-title="ShareExt@TAMIL_television",Captain|TV 
+http://go.justflix.tv:80/client112/kennythetiger2020/311
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Polimer News " tvg-logo="http://go.justflix.tv/images/india/Polimer_News.png" group-title="ShareExt@TAMIL_television",Polimer|News 
+http://go.justflix.tv:80/client112/kennythetiger2020/274
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Captain News " tvg-logo="http://go.justflix.tv/images/india/Captain_News.png" group-title="ShareExt@TAMIL_television",Captain|News
+http://go.justflix.tv:80/client112/kennythetiger2020/312
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | PuthiyaThalaimurai " tvg-logo="http://go.justflix.tv/images/india/Puthiya_Thalimurai.png" group-title="ShareExt@TAMIL_television",PuthiyaThalaimurai 
+http://go.justflix.tv:80/client112/kennythetiger2020/273
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Murasu TV " tvg-logo="http://go.justflix.tv/images/india/Malai_Murasu.png" group-title="ShareExt@TAMIL_television",Murasu|TV 
+http://go.justflix.tv:80/client112/kennythetiger2020/272
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Chutti Tv " tvg-logo="http://go.justflix.tv/images/india/Chutti_TV.png" group-title="ShareExt@TAMIL_television",Chutti|Tv 
+http://go.justflix.tv:80/client112/kennythetiger2020/308
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Ktv HD  Uk" tvg-logo="http://go.justflix.tv/images/india/Cartoon_Network_Tamil.png" group-title="ShareExt@TAMIL_television",Ktv HD  Uk
+http://go.justflix.tv:80/client112/kennythetiger2020/310
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Madha TV " tvg-logo="http://go.justflix.tv/images/indialogo/TAMILMADHATV.png" group-title="ShareExt@TAMIL_television",Madha TV 
+http://go.justflix.tv:80/client112/kennythetiger2020/239
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Discovery " tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Discovery 
+http://go.justflix.tv:80/client112/kennythetiger2020/278
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Zee " tvg-logo="http://go.justflix.tv/images/india/Zee_Tamil.png" group-title="ShareExt@TAMIL_television",Zee 
+http://go.justflix.tv:80/client112/kennythetiger2020/287
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Vendhar Tv " tvg-logo="http://go.justflix.tv/images/india/Vendhar_TV.png" group-title="ShareExt@TAMIL_television",Vendhar Tv 
+http://go.justflix.tv:80/client112/kennythetiger2020/299
+
 #EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Vasantham TV tamil 
 https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
 #EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",IBC pakidi (Tamil Comedy channel)
