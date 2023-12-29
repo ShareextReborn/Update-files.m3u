@@ -1143,6 +1143,18 @@ http://jmrk.xyz:8080/vsmith429@aol.com/ZZ0sA0xZdr/425324
 http://jmrk.xyz:8080/vsmith429@aol.com/ZZ0sA0xZdr/425323
 
 
+
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL",Optus_sports_3
+https://joo.vstreamnnetwork.com:443/UpFiles/2023/12/28/51/270734/720p.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL",EPL_live
+https://joo.vstreamnnetwork.com:443/UpFiles/2023/12/28/51/270735/720p.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL",Skysport_7_NZ
+https://joo.vstreamnnetwork.com:443/UpFiles/2023/12/27/51/270672/720p.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL",ChelseaTV
+https://joo.vstreamnnetwork.com:443/UpFiles/2023/12/27/51/270659/720p.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL",Peacock_live
+https://joo.vstreamnnetwork.com:443/UpFiles/2023/12/27/51/270660/720p.m3u8
+
 #EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL",ASSP•1_dec=auto
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186387&extension=ts&play_token=oNnNMlQM3k
 #EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL",ASSP•2_dec=auto
