@@ -6475,8 +6475,6 @@ http://95.111.193.211:8106/play/a017/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="sunlife.in" tvg-name="Sun Life" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_Life.png" group-title="ShareExt@TAMIL_television",COLOR_BANGLA_HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/Colors_Bangla_HD_voot_MOB-audio_98835_ben=98800-video=1173600.m3u8
 #EXTINF:-1 tvg-id="sunlife.in" tvg-name="Sun Life" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_Life.png" group-title="ShareExt@TAMIL_television",ZEE_BANGLA_HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/zeebanglahd-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",EkusheyTV
