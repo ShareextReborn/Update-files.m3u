@@ -6475,13 +6475,73 @@ http://95.111.193.211:8106/play/a017/index.m3u8
 
 
 
+
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",HUM TV
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6730/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",HUM Sitaray
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6731/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",GEO News
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6722/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",ARY Digital 
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6719/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",ARY News
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6720/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",HMTV
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6716/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",SVBC
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6714/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Fateh TV 
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6685/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Chardikla Time TV 
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6680/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Desi Channel
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6681/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Zee Punjabi
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6676/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Zee Marathi
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6658/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Zee Talkies 
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6660/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Mazhavil Manorama 
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6654/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Public Music
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6651/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Kairali TV 
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6652/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",AATH
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6641/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",TV9 Gujarati
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6643/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Channel I
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6633/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",NDTV 24x7
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6620/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Shubh TV 
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6623/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Satsang TV
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6624/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Sony Pal 
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6626/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Sony Yay 
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6627/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Sadhna Prime News
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6603/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Sony SAB 
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6571/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Sahara One
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6572/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Sahara Samay 
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6573/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Zee TV HD
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6576/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Zee Cinema 
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6577/index.m3u8
 #EXTINF:-1 tvg-id="sunlife.in" tvg-name="Sun Life" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_Life.png" group-title="ShareExt@TAMIL_television",ZEE_BANGLA_HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/zeebanglahd-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",EkusheyTV
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",DeeptoTV
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
-
 #EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Vasantham TV tamil 
 https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
 #EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",IBC pakidi (Tamil Comedy channel)
