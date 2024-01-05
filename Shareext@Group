@@ -50,25 +50,25 @@ http://iptvtree.net:8080/F26646/f950f250/162138
 https://s.id/indosiarHD_shareext-ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar_ds
 https://dik.si/2msgI|shareext@indosiar.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar_(s.id)
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar_
 https://s.id/indosiar_shareext-m3u8|User-Agent=Shareext/5.0
 #EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",UseePrime_dec=auto
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro_Arena_2_(s.id)
+#EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro_Arena_2_
 https://s.id/arena2_shareext-m3u8|User-Agent=Shareext/5.0
-#EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Arena_Bola_(s.id)
+#EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Arena_Bola_
 https://s.id/arenabola1_shareext-m3u8|User-Agent=Shareext/5.0
-#EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Arena_Bola_2_(s.id)
+#EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Arena_Bola_2_
 https://s.id/arenabola2_shareext-m3u8|User-Agent=Shareext/5.0
-#EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Sukan_RTM_(s.id)
+#EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Sukan_RTM_
 https://s.id/sukanrtm_shareext-m3u8|User-Agent=Shareext/5.0
-#EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",AstroSPORTS_1_(s.id)
+#EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",AstroSPORTS_1_
 https://s.id/assp1_shareext-m3u8|User-Agent=Shareext/5.0
-#EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",AstroSPORTS_2_(s.id)
+#EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",AstroSPORTS_2_
 https://s.id/assp2_shareext-m3u8|User-Agent=Shareext/5.0
-#EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",AstroSPORTS_3_(s.id)
+#EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",AstroSPORTS_3_
 https://s.id/assp3_shareext-m3u8|User-Agent=Shareext/5.0
-#EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",AstroSPORTS_4_(s.id)
+#EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",AstroSPORTS_4_
 https://s.id/assp4_shareext-m3u8|User-Agent=Shareext/5.0
 
 #EXTI#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
