@@ -42,8 +42,6 @@ https://af.ayas.ir/hls2/persiana.m3u8
 https://af.ayas.ir/hls2/aiosport2.m3u8
 #EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",Indosiar_xtv
 http://xtv.ooo:8080/moon786/moon1200/350972
-#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",Indosiar_gamsgo
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/162138
 #EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",Indosiar_iptv3
 http://iptvtree.net:8080/F26646/f950f250/162138
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar_HD
@@ -3625,16 +3623,6 @@ http://rr3.dens.tv/s/s94/index2.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Shareext@MOVIES",HBO||🇮🇩
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/197972
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Shareext@MOVIES",HBO|Family||🇮🇩
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/197055
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Shareext@MOVIES",HBO|Hits||🇮🇩
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/196480
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Shareext@MOVIES",HBO|Signature||🇮🇩
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/221948
-#EXTINF:-1 tvg-id="" tvg-name="ID: Cinemax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Shareext@MOVIES",Cinemax||🇮🇩
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/197964
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",HBO|Family_🇮🇳
 http://95.111.193.211:8106/play/a01b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",HBO|Hits HD_🇮🇳
@@ -3920,27 +3908,6 @@ http://supersonictv.live:8080/419094/970686/61939
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Angry Birds Toons" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@24X7",Angry Birds Toons|🇮🇩
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/298493
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 BabyBus Indonesia" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@24X7",BabyBus Indonesia|🇮🇩
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/298494
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Donald Ducks" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@24X7",Donald Ducks|🇮🇩
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/298495
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Doraemon" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@24X7",Doraemon|🇮🇩
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/298496
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Just For Laughs" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@24X7",Just For Laughs|🇮🇩
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/298497
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Mr Bean Cartoon" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@24X7",Mr Bean Cartoon|🇮🇩
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/298498
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Mr. Bean Classic" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@24X7",Mr. Bean Classic|🇮🇩
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/298499
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Tom And Jerry" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@24X7",Tom And Jerry|🇮🇩
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/298500
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Upin Ipin" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@24X7",Upin Ipin|🇮🇩
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/298501
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Warkop DKI" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@24X7",Warkop DKI|🇮🇩
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/298502
-
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@24X7",BruceLee Movie
 http://supersonictv.live:8080/419094/970686/81942
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@24X7",Van Helsing
@@ -4049,47 +4016,6 @@ http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/111160.ts
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/111161.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@24X7",VIN_DIESEL
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/111162.ts
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BEIN_ENTERTAIND",BEIN|MOVIES 1 HD
-http://sansat.net:88/L1LQ5V8YM/VVYG5O11XTFQYZM/59077
-#EXTINF:-1 tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BEIN_ENTERTAIND",BEIN|MOVIES 2 HD
-http://sansat.net:88/L1LQ5V8YM/VVYG5O11XTFQYZM/59078
-#EXTINF:-1 tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BEIN_ENTERTAIND",BEIN|MOVIES 3 HD
-http://sansat.net:88/L1LQ5V8YM/VVYG5O11XTFQYZM/59079
-#EXTINF:-1 tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BEIN_ENTERTAIND",BEIN|MOVIES 4 HD
-http://sansat.net:88/L1LQ5V8YM/VVYG5O11XTFQYZM/59080
-#EXTINF:-1 tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BEIN_ENTERTAIND",BEIN|SERIES 1 HD
-http://sansat.net:88/L1LQ5V8YM/VVYG5O11XTFQYZM/59082
-#EXTINF:-1 tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BEIN_ENTERTAIND",BEIN|SERIES 2 HD
-http://sansat.net:88/L1LQ5V8YM/VVYG5O11XTFQYZM/59083
-#EXTINF:-1 tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BEIN_ENTERTAIND",BEIN|DRAMA HD
-http://sansat.net:88/L1LQ5V8YM/VVYG5O11XTFQYZM/59084
-#EXTINF:-1 tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BEIN_ENTERTAIND",FOX MOVIES ACTION HD
-http://sansat.net:88/L1LQ5V8YM/VVYG5O11XTFQYZM/59086
-#EXTINF:-1 tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BEIN_ENTERTAIND",BE JUNIOR HD
-http://sansat.net:88/L1LQ5V8YM/VVYG5O11XTFQYZM/59087
-#EXTINF:-1 tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BEIN_ENTERTAIND",BOOMERANG HD
-http://sansat.net:88/L1LQ5V8YM/VVYG5O11XTFQYZM/59088
-#EXTINF:-1 tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BEIN_ENTERTAIND",GOURMET HD
-http://sansat.net:88/L1LQ5V8YM/VVYG5O11XTFQYZM/59089
-#EXTINF:-1 tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BEIN_ENTERTAIND",BARAEM HD
-http://sansat.net:88/L1LQ5V8YM/VVYG5O11XTFQYZM/59090
-#EXTINF:-1 tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BEIN_ENTERTAIND",CARTOON NETWORK HD
-http://sansat.net:88/L1LQ5V8YM/VVYG5O11XTFQYZM/59092
-#EXTINF:-1 tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BEIN_ENTERTAIND",FATAFEAT
-http://sansat.net:88/L1LQ5V8YM/VVYG5O11XTFQYZM/59093
-#EXTINF:-1 tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BEIN_ENTERTAIND",FOX MOVIES HD
-http://sansat.net:88/L1LQ5V8YM/VVYG5O11XTFQYZM/59095
-#EXTINF:-1 tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BEIN_ENTERTAIND",NATGEO
-http://sansat.net:88/L1LQ5V8YM/VVYG5O11XTFQYZM/59097
-#EXTINF:-1 tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BEIN_ENTERTAIND",NATGEO WILD
-http://sansat.net:88/L1LQ5V8YM/VVYG5O11XTFQYZM/59099
-#EXTINF:-1 tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BEIN_ENTERTAIND",JEEM HD
-http://sansat.net:88/L1LQ5V8YM/VVYG5O11XTFQYZM/59100
-#EXTINF:-1 tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BEIN_ENTERTAIND",FOX LIFE HD
-http://sansat.net:88/L1LQ5V8YM/VVYG5O11XTFQYZM/59101
 
 
 
@@ -5800,78 +5726,6 @@ https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF:-1 tvg-id="1000044878" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="SHAREEXT@TEVE•INDIA",Sony MAX2
 https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",8XM
-http://144.217.70.181:9587/hin2/8XM/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",9XM
-http://144.217.70.181:9587/hin2/9XM/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",B4U Movies
-http://144.217.70.181:9587/hin2/B4UMOVIES/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",B4U Movies UK
-http://144.217.70.181:9587/hin2/B4UMOVIESUK/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",B4U Music
-http://144.217.70.181:9587/hin2/B4UMUSIC/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Colors HD
-http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Colors UK
-http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",E24
-http://144.217.70.181:9587/hin2/E24/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Hungama TV
-http://144.217.70.181:9587/hin2/HUNGAMA/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",India Today
-http://144.217.70.181:9587/hin2/INDIATODAY/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Mastiii 
-http://144.217.70.181:9587/hin2/MASTII/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",MTV
-http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",MTV Beats HD
-http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",News24
-http://144.217.70.181:9587/hin2/NEWS24/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",POGO.TV
-http://144.217.70.181:9587/hin2/POGO/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Sahara One
-http://144.217.70.181:9587/hin2/SAHARAONE/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Sonic
-http://144.217.70.181:9587/hin2/SONIC/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Sony HD
-http://144.217.70.181:9587/hin2/SONYTVHD/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Sony Max
-http://144.217.70.181:9587/hin2/SONYMAXHD/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Sony Max 2
-http://144.217.70.181:9587/hin2/SONYMAX2/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Sony PAL
-http://144.217.70.181:9587/hin2/SONYPAL/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Star Bharat UK
-http://144.217.70.181:9587/hin2/STARBHARATUK/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Star Gold 2
-http://144.217.70.181:9587/hin2/STARGOLD2/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Star Gold UK
-http://144.217.70.181:9587/hin2/STARGOLDUK/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Star Gold HD
-http://144.217.70.181:9587/hin2/STARGOLDHD/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Star Plus HD
-http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Star Plus UK
-http://144.217.70.181:9587/hin2/STARPLUSUK/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",UTV Action
-http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",UTV Movies HD
-http://144.217.70.181:9587/hin2/UTVMOVIESHD/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Zee Action
-http://144.217.70.181:9587/hin2/ZEEACTION/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Zee Anmol Cinema
-http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Zee Cinema HD
-http://144.217.70.181:9587/hin2/ZEECINEMAHD/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Zee Classic
-http://144.217.70.181:9587/hin2/ZEECLASSICHD/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Zee TV HD
-http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Zee TV UK
-http://144.217.70.181:9587/hin2/ZEETVUK/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",Zoom
-http://144.217.70.181:9587/hin2/ZOOM/index.m3u8?token=test
 
 
 #EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",HUM TV
