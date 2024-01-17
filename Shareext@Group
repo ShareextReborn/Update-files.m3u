@@ -9,6 +9,8 @@ https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SPOTV_2_fm
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SOCCER~CHANNELL_🇮🇩
+https://s.id/soccer_channel_shareext-ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SPORTSTARS_🇮🇩
 https://s.id/sporstar1_shareext-ts
 https://maper.info/SPORSTAR1_shareext_ts
@@ -48,8 +50,12 @@ http://iptvtree.net:8080/F26646/f950f250/162138
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/162138
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar_
 https://s.id/indosiar_shareext-m3u8|User-Agent=Shareext/5.0
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar_id
+https://s.id/indosiar_shareext-ts
 #EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",UseePrime_dec=auto
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Unifi_ufc Live_mpd(ott|tivimate)
+https://unifi-live08.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro_Arena_2_
 https://s.id/arena2_shareext-m3u8|User-Agent=Shareext/5.0
 #EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Arena_Bola_
@@ -321,6 +327,25 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="ShareExt@Relax", Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
+
+#EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO",Astro~Arena
+https://s.id/astroarena_1_shareext-ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO",Astro~Arena_2
+https://s.id/astroarena_2_shareext-ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO",Arena~Bola_1
+https://s.id/arenabola_1_shareext-ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO",Arena~Bola_2
+https://s.id/arenabola_2_shareext-ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO",Astro~Sports_1
+https://s.id/assp_1_shareext-ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO",Astro~Sports_2
+https://s.id/assp_2_shareext-ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO",Astro~Sports_3
+https://s.id/assp_3_shareext-ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO",Astro~Sports_4
+https://s.id/assp_4_shareext-ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO",Astro~Sports_5
+https://s.id/assp_5_shareext-ts
 #EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO",BOO_(s.id)
 https://s.id/boo_shareext-m3u8|User-Agent=Shareext/5.0
 #EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO",HBO_(s.id)
@@ -719,6 +744,60 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/inde
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3888%29/index.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3888)/index.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",SOCCER~CHANEL
+https://s.id/soccer_channel_shareext-ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",SPORTSTAR~1
+https://s.id/sportstar_1_shareext-ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",SPORTSTAR~2
+https://s.id/sportstar_2_shareext-ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",SPORTSTAR~3
+https://s.id/sportstar_3_shareext-ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",SPORTSTAR~3_HD
+https://s.id/sporstar_3_hd_shareext-ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",TVRI~SPORTS
+https://s.id/tvrisports_shareext-ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",ANTV~
+https://s.id/antv_shareext-ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",INDOSIAR~
+https://s.id/indosiar_shareext-ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",SCTV~
+https://s.id/sctv_shareext-ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",RCTI~
+https://s.id/rcti_shareext-ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",MNCTV~
+https://s.id/mnctv_shareext-ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",GTV~
+https://s.id/gtv_shareext-ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",INEWS~
+https://s.id/inews_shareext-ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",TRANSTV~
+https://s.id/transtv_shareext-ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",TRANS7~
+https://s.id/trans7_shareext-ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",TVONE~
+https://s.id/tvone_shareext-ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",RTV~
+https://s.id/rtv_shareext-ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",KOMPASTV~
+https://s.id/kompastv_shareext-ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",JAKTV~
+https://s.id/jaktv_shareext-ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",JTV~
+https://s.id/jtv_shareext-ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",NETTV~
+https://s.id/nettv_shareext-ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",METROTV~
+https://s.id/metrotv_shareext-ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",HBO~
+https://s.id/hbo_shareext-ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",HBO~HITS~
+https://s.id/hboHits_shareext-ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",HBO~FAMILY~
+https://s.id/hboFamily_shareext-ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",HBO~SIGNATURE~
+https://s.id/hboSignature_shareext-ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯", ANTV_HD
 https://raw.githubusercontent.com/warningfm/streams/master/live/m3u8/id/b630a001384603f.m3u8
