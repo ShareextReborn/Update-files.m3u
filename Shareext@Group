@@ -5361,6 +5361,31 @@ http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch51-2.m3
 
 
 
+#EXTINF:-1 group-title="SHAREEXT@Television_South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1 Daejeon
+https://code.vthanhtivi.pw/getlink/kbs/60_11/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Television_South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1 Gwangju
+https://code.vthanhtivi.pw/getlink/kbs/40_11/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Television_South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1 Daegu
+https://code.vthanhtivi.pw/getlink/kbs/30_11/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Television_South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1 Ulsan
+https://code.vthanhtivi.pw/getlink/kbs/11_11/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Television_South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1 Busan
+https://code.vthanhtivi.pw/getlink/kbs/10_11/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Television_South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/640px-KBS_2_logo.svg.png", KBS2
+https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Television_South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg/2560px-%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg.png", KBS News D
+https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Television_South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/2560px-KBS_DRAMA.svg.png", KBS Drama
+https://code.vthanhtivi.pw/getlink/kbs/N91/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Television_South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/2560px-KBS_JOY.svg.png", KBS Joy
+https://code.vthanhtivi.pw/getlink/kbs/N92/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Television_South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/1024px-KBS_Story.svg.png", KBS Story
+https://code.vthanhtivi.pw/getlink/kbs/N94/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Television_South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/2560px-KBS_Life.svg.png", KBS Life
+https://code.vthanhtivi.pw/getlink/kbs/N93/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Television_South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/2560px-KBS_kids.svg.png", KBS Kids
+https://code.vthanhtivi.pw/getlink/kbs/N96/playlist.m3u8
+
 #EXTINF:-1 tvg-id="KRBD1400001ED" tvg-chno="501" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20230524T004408SQUARE.png_20230524004408.png" group-title="SHAREEXT@Television_South Korea" , 연합뉴스TV
 https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
@@ -5904,13 +5929,62 @@ https://ctrl.laotv.la/live/PSTV/index.m3u8
 https://ctrl.laotv.la/live/LaoESTV/index.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",One_Golf(Pakistan)
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",Zee India
+http://103.120.172.74:1040
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",Star India
+http://103.120.172.74:1060
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",Colors
+http://103.120.172.74:1070
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",Sony SAB
+http://103.120.172.74:1080
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",India news
+http://103.120.172.74:1090
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",StarPlus
+http://103.120.172.74:1120
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",Zee TV
+http://103.120.172.74:1140
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",Sony Max
+http://103.120.172.74:1150
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",DD news
+http://103.120.172.74:1170
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",Zee TV
+http://103.120.172.74:4000
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",Star sports1
+http://103.120.172.74:4100
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",Star sports2
+http://103.120.172.74:4200
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",StarPlus
+http://103.120.172.74:4300
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",MTV
+http://103.120.172.74:4400
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",Star sports1
+http://103.120.172.74:4600
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",Star sports2
+http://103.120.172.74:4700
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",Star sports2
+http://103.120.172.74:4800
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",Star Gold
+http://103.120.172.74:5000
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",Sony HD
+http://103.120.172.74:5100
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",Star India
+http://103.120.172.74:5200
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",Sony Sport5
+http://103.120.172.74:5300
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",Sony Sport1
+http://103.120.172.74:5400
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",NDTV
+http://103.120.172.74:5500
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Colors•tv
 http://170.254.18.107/COLORS/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Sony•max 
 http://170.254.18.107/SONYMAX/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Zee•cinema 
 http://170.254.18.107/ZEECINEMA/index.m3u8
-
 #EXTINF:-1 tvg-id="1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SHAREEXT@TEVE•INDIA",SET HD
 https://dai.google.com/ssai/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 #EXTINF:-1 tvg-id="1000009248" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SHAREEXT@TEVE•INDIA",Sony SAB HD
