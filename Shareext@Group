@@ -42,8 +42,6 @@ https://maper.info/GTV_shareext_ts
 https://maper.info/OKEY_shareext
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",Rtm_Sukan🇲🇾_maper
 https://maper.info/Rtm_Sukan_shareext
-#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SPOTV🇲🇾
-http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=683117&extension=ts&play_token=shareext.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",PERSIANA•SPORTS
 https://af.ayas.ir/hls2/persiana.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",AIO•SPORTS•2
@@ -60,6 +58,8 @@ https://s.id/indosiar_shareext-m3u8|User-Agent=Shareext/5.0
 https://dik.si/Indosiar_shareext-ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar_id
 https://s.id/indosiar_shareext-ts
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",1NdOsiAr_hd
+https://dik.si/1ndoSiar_shareext-ts
 #EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",UseePrime_dec=auto
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Unifi_ufc Live_mpd(ott|tivimate)
@@ -3122,7 +3122,25 @@ https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
 https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",LIVE 4
 https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",EVENT_1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="",Event 1
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="",Event 2 
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="",Event 3 
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="",Event 4
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL004/HLS/TL004.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="",Event 5_mpd 
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0129/DASH/V0129.mpd 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="",Event 6_mpd
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="",Event 7_mpd
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="",Event 8_mpd
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="",Event 9_mpd
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
 
 
 
@@ -3617,12 +3635,6 @@ http://rr3.dens.tv/s/s94/index2.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",HBO|Family_🇮🇳
-http://95.111.193.211:8106/play/a01b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",HBO|Hits HD_🇮🇳
-http://95.111.193.211:8106/play/a018/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",HBO|Signature_🇮🇳
-http://95.111.193.211:8106/play/a01a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",BOO_🇲🇾
 https://maper.info/BOO_shareext
