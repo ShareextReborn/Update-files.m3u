@@ -20,12 +20,6 @@ https://maper.info/SportStart2_shareext
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SPORTSTARS_3_🇮🇩
 https://s.id/sporstar3_shareext-ts
 https://maper.info/StarSport3_shareext
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SKYNET_SPORTS_1
-https://dik.si/Skynet1_shareext-ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SKYNET_SPORTS_2
-https://dik.si/Skynet2_shareext-ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SKYNET_SPORTS_3
-https://dik.si/Skynet3_shareext-ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SPOTV_🇮🇩
 https://maper.info/SPOTV_shareext
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SPOTV_KVISION_🇮🇩
@@ -1050,19 +1044,12 @@ https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/i
 
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TruePremier 1
-https://edge1.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TruePremier 2
-https://edge1.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TrueSport 2
-https://edge1.laotv.la/live/TrueSport2/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TrueSport 3
-https://edge1.laotv.la/live/TrueSport3/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Beinsport 1_true
-https://ctrl.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Beinsport 2_true
-https://ctrl.laotv.la/live/Bsport2/index.m3u8
-
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SKYNET~SPORTS_1
+https://s.id/skynetsport1_shareext-ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SKYNET~SPORTS_2
+https://s.id/skynetsport2_shareext-ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SKYNET~SPORTS_3
+https://s.id/skynetsport3_shareext-ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD TH" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SPOTVHD TH
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115304.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD TH  [ENG]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SPOTV[ENG]
