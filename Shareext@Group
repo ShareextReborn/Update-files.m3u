@@ -5,9 +5,15 @@ https://video.twimg.com/ext_tw_video/1732318564324196352/pu/pl/z-MYo1Z5kke4rRrm.
 https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
 #EXTINF:-1   tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax",WELCOME@_SHAREEXT@!!!!
 https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SPOTV_fm
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax",SKYNET~SPORTS_1
+https://s.id/skynetsport1_shareext-ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax",SKYNET~SPORTS_2
+https://s.id/skynetsport2_shareext-ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax",SKYNET~SPORTS_3
+https://s.id/skynetsport3_shareext-ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",🇮🇩_SPOTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SPOTV_2_fm
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",🇮🇩_SPOTV_2
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SOCCER~CHANNELL_🇮🇩
 https://s.id/soccer_channel_shareext-ts
@@ -52,8 +58,6 @@ https://s.id/indosiar_shareext-m3u8|User-Agent=Shareext/5.0
 https://dik.si/Indosiar_shareext-ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar_id
 https://s.id/indosiar_shareext-ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",1NdOsiAr_hd
-https://dik.si/1ndoSiar_shareext-ts
 #EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",UseePrime_dec=auto
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Unifi_ufc Live_mpd(ott|tivimate)
@@ -498,7 +502,6 @@ http://toh-users.xyz:8080/42204120/16250164/798542
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="SHAREEXT@MOVIES|Indonesia",HBO
 http://iptvtree.net:8080/F26646/f950f250/197972
-http://aflaxtv.xyz:8080/multi6741/ab72059e/197972
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="SHAREEXT@MOVIES|Indonesia",HBO Family
 http://iptvtree.net:8080/F26646/f950f250/197055
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="SHAREEXT@MOVIES|Indonesia",HBO Hits
@@ -3782,12 +3785,6 @@ https://maper.info/CCM_shareext
 https://maper.info/Celestial_shareext
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",AEC_🇲🇾
 https://maper.info/AEC_shareext
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Lotus•Macau_🇭🇰
-http://anren.live/HK/BiIOU11uLA.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Lotus•Macau_dec_auto
-http://shareext@107.151.203.111:2209/135/hk.php?id=amlh|shareext@lotusmacau
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Lotus•Macau_php_dec=auto
-http://shareext@www.238311.cn:555/lotustv.php
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://asiagrandiptv.us/logo/hbo.png" group-title="Shareext@MOVIES",HBO_🇹🇼
 http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
