@@ -1040,11 +1040,11 @@ https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/i
 
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SKYNET~SPORTS_1
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SKYNET_1
 https://s.id/skynetsport1_shareext-ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SKYNET~SPORTS_2
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SKYNET_2
 https://s.id/skynetsport2_shareext-ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SKYNET~SPORTS_3
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SKYNET_3
 https://s.id/skynetsport3_shareext-ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD TH" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SPOTVHD TH
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115304.ts
