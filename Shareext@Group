@@ -1163,6 +1163,20 @@ http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115320.ts
 http://n2ip.tv:80/live/s7w0PrWc/rXJhapu/115303.ts
 
 
+#EXTINF:-1 group-title="SHAREEXT@AFC Asian Cup 2023" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/afc-asian-cup-2023-ch1.png",BeinAsiaN_CUP 1
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng_afc_m2_250124/master_p3.m3u8
+#EXTINF:-1 group-title="SHAREEXT@AFC Asian Cup 2023" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/afc-asian-cup-2023-ch1.png",BeinAsiaN_CUP 2
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng_afc_m1_250124/master.m3u8
+#EXTINF:-1 group-title="SHAREEXT@AFC Asian Cup 2023" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/afc-asian-cup-2023-ch1.png",AFC AsianCup 2023 CH1
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424742&extension=ts
+#EXTINF:-1 group-title="SHAREEXT@AFC Asian Cup 2023" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/afc-asian-cup-2023-ch2.png",AFC AsianCup 2023 CH2
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422125&extension=ts
+#EXTINF:-1 group-title="SHAREEXT@AFC Asian Cup 2023" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img5.pic.in.th/file/secure-sv1/afc-asian-cup-2023-ch3.png",AFC AsianCup 2023 CH3
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422128&extension=ts
+#EXTINF:-1 group-title="SHAREEXT@AFC Asian Cup 2023" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/afc-asian-cup-2023-ch4.png",AFC AsianCup 2023 CH4
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422131&extension=ts
+
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@SUKAN_INDIE",PTV Sports HD
 http://103.131.214.129:9985/stream/channelid/776759222?ticket=D1753EABF6DF841BE5DB48553C80A2B4E6141AB9&profile=pass
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@SUKAN_INDIE",TEN Sports PK
@@ -3839,6 +3853,8 @@ https://maper.info/Celestial_shareext
 https://maper.info/AEC_shareext
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",LOTUS MACAU
 https://s.id/lotusmacau_shareext-ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",AXN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://asiagrandiptv.us/logo/hbo.png" group-title="Shareext@MOVIES",HBO_🇹🇼
 http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU" group-title="Shareext@MOVIES",HBO•FAMILY_🇹🇼
