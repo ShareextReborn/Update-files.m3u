@@ -47,7 +47,8 @@ https://af.ayas.ir/hls2/aiosport2.m3u8
 http://iptvtree.net:8080/F14995/a84c0963/299989
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",Aio Sport 2
 http://iptvtree.net:8080/F14995/a84c0963/299990
-
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar_xtv
+https://s.id/indosiar_xtv-shareext-ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar|hdd
 http://iptvtree.net:8080/F14995/a84c0963/162138
 #EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",Indosiar_iptv3
