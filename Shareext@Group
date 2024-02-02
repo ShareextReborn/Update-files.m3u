@@ -2783,6 +2783,59 @@ http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=10324
 #EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@OPTUS_Live_Event",🇭🇲OPTUS_6_(Live•Event)
 http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032466&extension=ts&play_Optus_6
 
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Старт
+http://194.26.229.213/start_new/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Старт Триумф
+http://194.26.229.213/start_triumf/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Russian Extreme HD
+http://194.26.229.213/777_Russian_Extreme/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Игрa
+http://194.26.229.213/777_igra/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Сила
+http://194.26.229.213/777_sila/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",М-1 Global
+http://194.26.229.213/777_m1globall/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Поединок
+http://194.26.229.213/777_poedinok/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Футбольный
+http://194.26.229.213/777_futboln/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Хоккейный
+http://194.26.229.213/777_hocceyn/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Спортивный
+http://194.26.229.213/777_sportivn/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Бокс ТВ
+http://194.26.229.213/777_box/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Setanta Sports 1 HD
+http://194.26.229.213/777_Setanta-Sports-1/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Setanta Sports 2 HD
+http://194.26.229.213/777_Setanta-Sports-2/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Setanta Sports Ukraine
+http://194.26.229.213/777_Setanta-Sports-Ukraine/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Сетанта Спорт+
+http://194.26.229.213/777_Setanta-Sports-Plus-Ukraine/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Setanta Qazaqstan
+http://194.26.229.213/777_Setanta-Qazaqstan/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Setanta Sports Eurazia
+http://194.26.229.213/777_Setanta-Sports-Eurazia/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Eleven Sports 1 PL
+http://194.26.229.213/eleven-sports-1/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Eleven Sports 2 PL
+http://194.26.229.213/eleven-sports-2/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Eleven Sports 3 PL
+http://194.26.229.213/eleven-sports-3/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",SportsNews HighLights
+http://194.26.229.213/sportsnews-highlights/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Joj-Sport
+http://194.26.229.213/joj-sport/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Матч! Футбол 1 HD
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Матч! Футбол 2 HD
+http://91.207.115.228:5000/c115
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",IMPACT! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",MATCH PREMIERE
 http://landiptv.vip:2095/play/hYqPwBrtZn7mldlcpVbx8phmxRf22AAf9jg3fKYUy0A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",MATCH GAME
