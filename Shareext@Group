@@ -3515,6 +3515,35 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 
 
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US Fox Sports 1 " tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png" group-title="SHAREEXT@Canais de Esportes"US_FoxSports 1
+http://tvstar.icu:8080/champion/champion/1846
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US Fox Sports 2 (A)" tvg-logo="https://gostreamtv.com/wp-content/uploads/channel-logos/foxs2.png" group-title="SHAREEXT@Canais de Esportes",US_Foxports 2 (A)
+http://tvstar.icu:8080/champion/champion/1847
+#EXTINF:-1 tvg-id="ballysportssarizona.us" tvg-name="US Bally Sports Arizona (A)" tvg-logo="" group-title="SHAREEXT@Canais de Esportes",US_Bally Sports Arizona (A)
+http://tvstar.icu:8080/champion/champion/20928
+#EXTINF:-1 tvg-id="ballysportscarolinas.us" tvg-name="US Bally Sports Carolinas (A)" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png" group-title="SHAREEXT@Canais de Esportes",US_Bally Sports Carolinas (A)
+http://tvstar.icu:8080/champion/champion/20929
+#EXTINF:-1 tvg-id="3abn.latino.houston.tx.us" tvg-name="US Bally Sports Southeast (A)" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png" group-title="SHAREEXT@Canais de Esportes",US_Bally Sports Southeast (A)
+http://tvstar.icu:8080/champion/champion/20931
+#EXTINF:-1 tvg-id="ballysportssouth.us" tvg-name="US Bally Sports South (A)" tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/08/fox-sports-southeast-logo-vector.png" group-title="SHAREEXT@Canais de Esportes",US_Bally Sports South (A)
+http://tvstar.icu:8080/champion/champion/20922
+#EXTINF:-1 tvg-id="marqueesportsnetwork.us" tvg-name="US Marquee Sports Network (HD) (A)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41WaYQ28QLL.png" group-title="SHAREEXT@Canais de Esportes",US_Marquee Sports Network (HD) (A)
+http://tvstar.icu:8080/champion/champion/13379
+#EXTINF:-1 tvg-id="mavtv.usa.us" tvg-name="US MAV TV (F)" tvg-logo="https://www.mavtv.com/assets/downloads/mavtv-color.png" group-title="SHAREEXT@Canais de Esportes",US_MAV TV (F)
+http://tvstar.icu:8080/champion/champion/20977
+#EXTINF:-1 tvg-id="madisonsquaregarden.us" tvg-name="US MSG Plus " tvg-logo="https://billboardmats-m63qtmyjwd.stackpathdns.com/wp-content/uploads/2017/01/MSG-madisonsquaregarden-saftmat-billboardmats.png" group-title="SHAREEXT@Canais de Esportes",US_MSG Plus 
+http://tvstar.icu:8080/champion/champion/9276
+#EXTINF:-1 tvg-id="msg.plus.us" tvg-name="US MSG (A)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Msg_plus.png/520px-Msg_plus.png" group-title="SHAREEXT@Canais de Esportes",US_MSG (A)
+http://tvstar.icu:8080/champion/champion/21090
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US ESPN 1 (HD) " tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="SHAREEXT@Canais de Esportes",US_ESPN 1 (HD) 
+http://tvstar.icu:8080/champion/champion/9802
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="US ESPN 2 " tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="SHAREEXT@Canais de Esportes",US_ESPN 2 
+http://tvstar.icu:8080/champion/champion/2210
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="US ESPNU College Sports " tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="SHAREEXT@Canais de Esportes",US_ESPNU College Sports 
+http://tvstar.icu:8080/champion/champion/10255
+#EXTINF:-1 tvg-id="spectrum.sportsnet.us" tvg-name="US Spectrum SportsNet Lakers (FHD) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Spectrum_Sports_logo.png" group-title="SHAREEXT@Canais de Esportes",US_Spectrum SportsNet Lakers (FHD) 
+http://tvstar.icu:8080/champion/champion/20946
+
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTE 1" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/fef-seleccion-ecuador-logo-0.png" group-title="SHAREEXT@Canais de Esportes",DEPORTE 1
 http://redima.pro:8880/1315808517/1315808517/302
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTE 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/fef-seleccion-ecuador-logo-0.png" group-title="SHAREEXT@Canais de Esportes",DEPORTE 2
