@@ -11,6 +11,8 @@ https://s.id/skynetsport1_shareext-ts
 https://s.id/skynetsport2_shareext-ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax",SKYNET~SPORTS_3
 https://s.id/skynetsport3_shareext-ts
+#EXTINF:-1 tvg-id="T-Sports7.th" group-title="ShareExt@Relax" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://i.imgur.com/hnfiUbK.png",T-Sports7
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",🇮🇩_SPOTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",🇮🇩_SPOTV_2
