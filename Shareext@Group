@@ -263,16 +263,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20
 #EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",Cctv.5🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",Sony•sports•1🇮🇳
-http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1114576&extension=ts&play_token=shareext.ts
-#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",Sony•sports•2🇮🇳
-http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1114577&extension=ts&play_token=shareext.ts
-#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",Sony•sports•3🇮🇳
-http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1114578&extension=ts&play_token=shareext.ts
-#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",Sony•sports•4🇮🇳
-http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1114579&extension=ts&play_token=shareext.ts
-#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",SWISS•sports
-https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/manifesto.m3u8
 #EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",RTM_1_dec=native🇲🇾
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 #EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",0KEY_dec=native🇲🇾
