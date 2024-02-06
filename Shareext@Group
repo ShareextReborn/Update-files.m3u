@@ -1242,6 +1242,37 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422128&ex
 #EXTINF:-1 group-title="SHAREEXT@AFC Asian Cup 2023" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/afc-asian-cup-2023-ch4.png",AFC AsianCup 2023 CH4
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422131&extension=ts
 
+#EXTINF:-1  group-title="SHAREEXT@AFC Asian Cup 2023" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/afc-asian-cup-2023-ch4.png",AR|BEINSPORTS 1 AFCON 
+http://4ksuper.live:80/00112233/00112233/1424746
+#EXTINF:-1  group-title="SHAREEXT@AFC Asian Cup 2023" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/afc-asian-cup-2023-ch4.png", AR|BEINSPORTS 2 AFCON 
+http://4ksuper.live:80/00112233/00112233/1424743
+#EXTINF:-1  group-title="SHAREEXT@AFC Asian Cup 2023" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/afc-asian-cup-2023-ch4.png", AR|BEINSPORTS AFCON 3 HD 
+http://4ksuper.live:80/00112233/00112233/1414643
+#EXTINF:-1  group-title="SHAREEXT@AFC Asian Cup 2023" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/afc-asian-cup-2023-ch4.png", AR|BEINSPORTS AFCON 4 HD 
+http://4ksuper.live:80/00112233/00112233/1414646
+#EXTINF:-1  group-title="SHAREEXT@AFC Asian Cup 2023" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/afc-asian-cup-2023-ch4.png", AR|BEINSPORTS 1 ASIANCUP 
+http://4ksuper.live:80/00112233/00112233/1424739
+#EXTINF:-1  group-title="SHAREEXT@AFC Asian Cup 2023" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/afc-asian-cup-2023-ch4.png", AR|BEINSPORTS 2 ASIANCUP 
+http://4ksuper.live:80/00112233/00112233/1424735
+#EXTINF:-1  group-title="SHAREEXT@AFC Asian Cup 2023" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/afc-asian-cup-2023-ch4.png", AR|ALKASS EXTRA 1 HD 
+http://4ksuper.live:80/00112233/00112233/1428648
+#EXTINF:-1  group-title="SHAREEXT@AFC Asian Cup 2023" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/afc-asian-cup-2023-ch4.png", AR|BEINSPORTS AFC HD 
+http://4ksuper.live:80/00112233/00112233/1422130
+#EXTINF:-1  group-title="SHAREEXT@AFC Asian Cup 2023" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/afc-asian-cup-2023-ch4.png", AR|BEINSPORTS AFC 1 HD 
+http://4ksuper.live:80/00112233/00112233/1422133
+#EXTINF:-1  group-title="SHAREEXT@AFC Asian Cup 2023" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/afc-asian-cup-2023-ch4.png", AR|BEINSPORTS AFC 2 HD 
+http://4ksuper.live:80/00112233/00112233/1422136
+#EXTINF:-1  group-title="SHAREEXT@AFC Asian Cup 2023" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/afc-asian-cup-2023-ch4.png", AR|BEINSPORTS AFC 3 HD 
+http://4ksuper.live:80/00112233/00112233/1422139
+#EXTINF:-1  group-title="SHAREEXT@AFC Asian Cup 2023" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/afc-asian-cup-2023-ch4.png", AR|BEINASIAN CUP 1 HD 
+http://4ksuper.live:80/00112233/00112233/1422121
+#EXTINF:-1  group-title="SHAREEXT@AFC Asian Cup 2023" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/afc-asian-cup-2023-ch4.png", AR|BEINASIAN CUP 2 HD 
+http://4ksuper.live:80/00112233/00112233/1422124
+#EXTINF:-1  group-title="SHAREEXT@AFC Asian Cup 2023" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/afc-asian-cup-2023-ch4.png", AR|BEINASIAN CUP 3 HD 
+http://4ksuper.live:80/00112233/00112233/1422127
+
+
+
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@SUKAN_INDIE",PTV Sports HD
 http://103.131.214.129:9985/stream/channelid/776759222?ticket=D1753EABF6DF841BE5DB48553C80A2B4E6141AB9&profile=pass
@@ -1377,6 +1408,60 @@ http://iptvtree.net:8080/F14995/a84c0963/297606
 http://iptvtree.net:8080/F14995/a84c0963/297604
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",StarzPlay Sports
 http://iptvtree.net:8080/F14995/a84c0963/297607
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",AR|ALKASS 1 HD 
+http://4ksuper.live:80/00112233/00112233/591593
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",AR|ALKASS 2 HD 
+http://4ksuper.live:80/00112233/00112233/591591
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",AR|ALKASS 3 HD 
+http://4ksuper.live:80/00112233/00112233/787903
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",AR|ALKASS 4 HD 
+http://4ksuper.live:80/00112233/00112233/591589 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",AR|ALKASS 5 HD 
+http://4ksuper.live:80/00112233/00112233/591587 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",AR|ALKASS 6 FHD 
+http://4ksuper.live:80/00112233/00112233/787906
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",AR|STARZPLAY/AD SPORT 1 HD 
+http://4ksuper.live:80/00112233/00112233/988032 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",AR|STARZPLAY/AD SPORT 2 HD 
+http://4ksuper.live:80/00112233/00112233/988033 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",AR|STARZPLAY/AD SPORT 3 HD 
+http://4ksuper.live:80/00112233/00112233/988034 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",AR|STARZPLAY/AD SPORT 4 HD 
+http://4ksuper.live:80/00112233/00112233/988035 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",AR|STARZPLAY/AD SPORT 5 HD 
+http://4ksuper.live:80/00112233/00112233/988036
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",AR|STARZPLAY/CRLIFE 1 HD 
+http://4ksuper.live:80/00112233/00112233/994886 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",AR|STARZPLAY/CRLIFE 2 HD 
+http://4ksuper.live:80/00112233/00112233/994887
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",AR|STARZPLAY/GOLF TV HD 
+http://4ksuper.live:80/00112233/00112233/994888 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",AR|AD SPORT ASIA 1 HD 
+http://4ksuper.live:80/00112233/00112233/993331 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",AR|AD SPORT ASIA 2 HD 
+http://4ksuper.live:80/00112233/00112233/993333
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",AR|ABUDHABI SPORT1 FHD
+http://4ksuper.live:80/00112233/00112233/993334
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",AR|ABUDHABI SPORT2 FHD
+http://4ksuper.live:80/00112233/00112233/993337
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",VIP|SSC 1 HD 
+http://4ksuper.live:80/00112233/00112233/1002801
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",VIP|SSC 2 HD 
+http://4ksuper.live:80/00112233/00112233/1002793
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",VIP|SSC 3 HD 
+http://4ksuper.live:80/00112233/00112233/1002785
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",VIP|SSC 4 HD 
+http://4ksuper.live:80/00112233/00112233/1002778
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",VIP|SSC HD5 
+http://4ksuper.live:80/00112233/00112233/1433958
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",VIP|SSC EXTRA 1 HD 
+http://4ksuper.live:80/00112233/00112233/1433957
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",VIP|SSC EXTRA 2 HD 
+http://4ksuper.live:80/00112233/00112233/1433956
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",VIP|SSC EXTRA 3 HD 
+http://4ksuper.live:80/00112233/00112233/1433955
+
+
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/rbFkzvP/shareext-australian-Kanguru-Logo.jpg" group-title="SHAREEXT@AUSTRALIAN_SPORTS",SkySport Austria 1
