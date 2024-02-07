@@ -29,6 +29,18 @@ https://s.id/nba_video_shsreext-ts
 https://s.id/bein3_shareext-ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",CHAMPION-5_🇮🇩
 https://s.id/champion5_shareext-ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",MOLA~SPORTS
+https://s.id/molasports_shareext-ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",MOLA~GOLF
+https://s.id/molagolf_shareext-ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SBS~SPORTS
+https://s.id/sbssports_shareext-ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",KBSN~SPORTS
+https://s.id/kbsnsports_shareext-ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",TVN~SPORTS
+https://s.id/tvnsports_shareext-ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",CCTV~16
+https://s.id/cctv16_shareext-ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SPORTSTARS_🇮🇩
 https://maper.info/SPORSTAR1_shareext_ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SPORTSTARS_2_🇮🇩
@@ -4824,7 +4836,8 @@ http://rr.dens.tv/h/h12/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@DENS_TV",Motorvision
 http://rr.dens.tv/h/h09/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@DENS_TV",My Cinema
-http://rr3.dens.tv/h/h192/index.m3u8
+http://210.210.155.35:80/uq2663/h/h192/index.m3u8
+http://rr3.dens.tv/h/h192/index.m3u8 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@DENS_TV",My Cinema Asia
 http://rr3.dens.tv/h/h193/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@DENS_TV",My Family Channel
@@ -5059,6 +5072,7 @@ http://rr1.dens.tv/h/h07/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇮🇩Kplus
 http://rr.dens.tv/h/h08/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇮🇩My Cinema
+http://210.210.155.35:80/uq2663/h/h192/index.m3u8
 http://rr3.dens.tv/h/h192/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇮🇩My Cinema Asia
 http://rr3.dens.tv/h/h193/index.m3u8
