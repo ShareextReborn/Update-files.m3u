@@ -12,7 +12,13 @@ https://s.id/skynetsport2_shareext-ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax",SKYNET~SPORTS_3
 https://s.id/skynetsport3_shareext-ts
 #EXTINF:-1 tvg-id="T-Sports7.th" group-title="ShareExt@Relax" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://i.imgur.com/hnfiUbK.png",T-Sports7
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8|user-agent=Shareext/5.0
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Sports%20HD.png" group-title="ShareExt@Relax",ON Sports HD
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/T%E1%BA%A1m%20d%E1%BB%ABng%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng/ON%20Sports%20HD.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab6%20-%20On%20Sports%2B%20HD.png" group-title="ShareExt@Relax",On Sports+ HD
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/T%E1%BA%A1m%20d%E1%BB%ABng%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng/On%20Sports%2B.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Golf%20HD.png" group-title="ShareExt@Relax",ON Golf
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/T%E1%BA%A1m%20d%E1%BB%ABng%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng/ON%20Golf.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",🇮🇩_SPOTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",🇮🇩_SPOTV_2
