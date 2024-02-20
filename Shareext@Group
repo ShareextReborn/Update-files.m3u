@@ -97,8 +97,6 @@ https://s.id/indosiar-xtra_shareext-ts
 https://s.id/indosiar-108_shareext-ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar_ktv
 https://s.id/indosiar_ktv_shareext-ts
-#EXTINF:-1   tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax",ANTV_idHome
-https://cdn11jtedge.indihometv.com/atm/HLS-10s/ANTV/ANTV-avc1_2500000=6.m3u8?encp=ufld3rk4mymT-ylOZElnBQ&uid=&expp=1708330389|user-agent=Mozilla/5.0
 #EXTINF:-1   tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax",ASSP•1
 https://s.id/assp1_shareext-ts
 #EXTINF:-1   tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax",SPOTV•TRUE
@@ -719,6 +717,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/index
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="SHAREEXT@FIRSTMEDIA", HITS
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="SHAREEXT@FIRSTMEDIA", Sony set
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch173%29/index.m3u8  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="SHAREEXT@FIRSTMEDIA", SONY_MAX
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch174%29/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="SHAREEXT@FIRSTMEDIA", KIX
@@ -789,11 +789,59 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch242%29/index
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch367%29/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="SHAREEXT@FIRSTMEDIA", STINGRAY DJAZZ
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3344%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="SHAREEXT@FIRSTMEDIA", stingray festival
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch344%29/index.m3u8  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="SHAREEXT@FIRSTMEDIA", stingray now
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch345%29/index.m3u8  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="SHAREEXT@FIRSTMEDIA", GEM
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="SHAREEXT@FIRSTMEDIA", Prase Music
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3888%29/index.m3u8
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3888)/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@FIRSTMEDIA" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg",rtenglish
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3981%29/index.m3u8 
+#EXTINF:-1 group-title="SHAREEXT@FIRSTMEDIA" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg",rai
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch258%29/index.m3u8 
+#EXTINF:-1 group-title="SHAREEXT@FIRSTMEDIA" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg",reformed21
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch365%29/index.m3u8 
+#EXTINF:-1 group-title="SHAREEXT@FIRSTMEDIA" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg",lifestyle
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3%29/index.m3u8 
+#EXTINF:-1 group-title="SHAREEXT@FIRSTMEDIA" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg",kairos
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch23%29/index.m3u8 
+#EXTINF:-1 group-title="SHAREEXT@FIRSTMEDIA" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg",idx
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/index.m3u8 
+#EXTINF:-1 group-title="SHAREEXT@FIRSTMEDIA" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg",idtv
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch19%29/index.m3u8 
+#EXTINF:-1 group-title="SHAREEXT@FIRSTMEDIA" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg",jakartaglobe
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch2%29/index.m3u8 
+#EXTINF:-1 group-title="SHAREEXT@FIRSTMEDIA" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg",dmax
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch347%29/index.m3u8 
+#EXTINF:-1 group-title="SHAREEXT@FIRSTMEDIA" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg",cartoonito
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8 
+#EXTINF:-1 group-title="SHAREEXT@FIRSTMEDIA" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg",TBN asia
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch61%29/index.m3u8  
+#EXTINF:-1 group-title="SHAREEXT@FIRSTMEDIA" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg",tv5mondeasie
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch260%29/index.m3u8 
+#EXTINF:-1 group-title="SHAREEXT@FIRSTMEDIA" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg",tvbsasia
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch216%29/index.m3u8 
+#EXTINF:-1 group-title="SHAREEXT@FIRSTMEDIA" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg",tvbsnews
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch217%29/index.m3u8 
+#EXTINF:-1 group-title="SHAREEXT@FIRSTMEDIA" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg",tvbxinghe
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch215%29/index.m3u8 
+#EXTINF:-1 group-title="SHAREEXT@FIRSTMEDIA" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg",xingkong
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch206%29/index.m3u8  
+#EXTINF:-1 group-title="SHAREEXT@FIRSTMEDIA" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg",zhejiang
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch208%29/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@FIRSTMEDIA" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg",shenzen
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch218%29/index.m3u8 
+#EXTINF:-1 group-title="SHAREEXT@FIRSTMEDIA" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg",jiangsu
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch221%29/index.m3u8 
+#EXTINF:-1 group-title="SHAREEXT@FIRSTMEDIA" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg",hunan
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch219%29/index.m3u8 
+#EXTINF:-1 group-title="SHAREEXT@FIRSTMEDIA" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg",dragon
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch220%29/index.m3u8 
+#EXTINF:-1 group-title="SHAREEXT@FIRSTMEDIA" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg",cctv4
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch209%29/index.m3u8 
+
 
 
 
