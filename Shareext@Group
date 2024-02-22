@@ -1091,6 +1091,84 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/q7V5G9m/sambas.png" group-title="SHAREEXT@TEVE_DAERAH",Sambas TV
+https://63b2dc7196c38.streamlock.net:1937/ch21/myStream/chunklist_w2128698489.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/2FK39bm/singkawang.png" group-title="SHAREEXT@TEVE_DAERAH",Singkawang TV
+https://63b2dc7196c38.streamlock.net:1937/singkawang/myStream/chunklist_w104533869.m3u8
+
+#EXTINF:-1 tvg-id="LINGKARTV.id" tvg-logo="https://i.ibb.co/GTXsnVq/LINGKAR-TV.png" group-title="SHAREEXT@TEVE_DAERAH",LINGKAR TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+
+#EXTINF:-1 tvg-id="MaduTV.id" tvg-logo="https://i.ibb.co/f0PCXs1/Madu-TV.png" group-title="SHAREEXT@TEVE_DAERAH",Madu TV 
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f8TPqdQ/DHOHO-TV.png" group-title="SHAREEXT@TEVE_DAERAH",DHOHO TV
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bwv2SJt/Padang-TV.png" group-title="SHAREEXT@TEVE_DAERAH",Padang TV
+http://63b2dc7196c38.streamlock.net:1935/ch16/myStream/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="SHAREEXT@TEVE_DAERAH" tvg-logo="https://i.ibb.co/nkvm7Zr/Jak-TV.png",Jak TV_mpd(ott)
+https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+
+#EXTINF:-1 tvg-id="Inspira.id" tvg-logo="https://i.ibb.co/FVjrdsg/Inspira-TV.png" group-title="SHAREEXT@TEVE_DAERAH",Inspira TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JogjaIstimewaTV.id" tvg-logo="https://i.ibb.co/3sPBv79/Jogja-Istimewa-TV.png" group-title="SHAREEXT@TEVE_DAERAH",Jogja Istimewa TV 
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@TEVE_DAERAH" tvg-logo="https://i.ibb.co/1q0D7Wm/Nusantara-TV.png",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4ftq59/TV-TABALONG.png" group-title="SHAREEXT@TEVE_DAERAH",TV TABALONG
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/chunklist_w1395725734.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="SHAREEXT@TEVE_DAERAH" tvg-logo="https://i.ibb.co/Z8Zfh4S/jtv.png",JTV_mpd(ott)
+https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@TEVE_DAERAH" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/RDNnB0H/Kilisuci-TV-Kediri.png",Kilisuci TV Kediri
+https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.ibb.co/M1V7Bkp/Banten-TV.png" group-title="SHAREEXT@TEVE_DAERAH",Banten TV 
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.ibb.co/w73LdSy/Balikapan-TV.png" group-title="SHAREEXT@TEVE_DAERAH",Balikapan TV 
+https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0qprnR/Bandung-TV.png" group-title="SHAREEXT@TEVE_DAERAH" tvg-id="BandungTV" tvg-name="Bandung TV", BandungTV_mpd(ott)
+https://nyanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@TEVE_DAERAH" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Surabaya_TV_%282017%29.png",Surabaya TV
+https://e.siar.us/live/surabayatv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/hZ1cpnF/Garuda-TV.png" group-title="SHAREEXT@TEVE_DAERAH",Garuda TV
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@TEVE_DAERAH" tvg-logo="https://i.ibb.co/tQXPctp/Sakti-TV.png",Sakti TV
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/y5m9CzC/Logo-Timor-TV.png" group-title="SHAREEXT@TEVE_DAERAH",Timor TV
+https://63b2dc7196c38.streamlock.net:1937/timortv/myStream/chunklist_w689544014.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/g4GgKMs/Bungo-TV.png" group-title="SHAREEXT@TEVE_DAERAH",Bungo TV
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@TEVE_DAERAH" tvg-logo="https://i.ibb.co/7yc8sHC/badar-tv.png",BADAR TV
+https://e1.siar.us/badartv/live/chunks.m3u8
+
+
+
+
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI_SPORT_denstv
 http://rr3.dens.tv/s/s107/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI_WORLD_ott
