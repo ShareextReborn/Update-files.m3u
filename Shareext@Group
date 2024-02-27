@@ -672,6 +672,61 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch209%29/index
 
 
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="SHAREEXT@VID_STATION",ANTV
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=782&type=hls|user-agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="SHAREEXT@VID_STATION",SCTV
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=204&type=hls|user-agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="SHAREEXT@VID_STATION",INDOSIAR
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls|user-agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="SHAREEXT@VID_STATION",MOJI
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=206&type=hls|user-agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="SHAREEXT@VID_STATION",TRANSTV
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=733&type=hls|user-agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="SHAREEXT@VID_STATION",TRANS7
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=734&type=hls|user-agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="SHAREEXT@VID_STATION",TVONE
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=783&type=hls|user-agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="SHAREEXT@VID_STATION",KOMPASTV
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=874&type=hls|user-agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="SHAREEXT@VID_STATION",MENTARITV
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=8237&type=hls|user-agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="SHAREEXT@VID_STATION",RTV
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=1561&type=hls|user-agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="SHAREEXT@VID_STATION",DAAI.TV
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=6482&type=hls|user-agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="SHAREEXT@VID_STATION",NTV
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=7432&type=hls|user-agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="SHAREEXT@VID_STATION",JAKTV
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=5415&type=hls|user-agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="SHAREEXT@VID_STATION",MYTV
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=6711&type=hls|user-agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="SHAREEXT@VID_STATION",TVRI
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=6441&type=hls|user-agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="SHAREEXT@VID_STATION",AJWA TV
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=7464&type=hls|user-agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="SHAREEXT@VID_STATION",ALQURAN KAREEM
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=6852&type=hls|user-agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="SHAREEXT@VID_STATION",METRO TV
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=777&type=hls|user-agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="SHAREEXT@VID_STATION",JAKTV
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=5415&type=hls|user-agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="SHAREEXT@VID_STATION",NET
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=875&type=hls|user-agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="SHAREEXT@VID_STATION",O SHOP
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=6166&type=hls|user-agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="SHAREEXT@VID_STATION",DW
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=5075&type=hls|user-agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="SHAREEXT@VID_STATION",TV EDUKASI
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=6838&type=hls|user-agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="SHAREEXT@VID_STATION",BERITA SATU
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=6165&type=hls|user-agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="SHAREEXT@VID_STATION",U CHANNEL
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=6898&type=hls|user-agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="SHAREEXT@VID_STATION",REFORMED21
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=6853&type=hls|user-agent=Dalvik/2.1.0
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",SOCCER~CHANEL
 https://s.id/soccer_channel_shareext-ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",SPORTSTAR~1
