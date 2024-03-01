@@ -27,16 +27,22 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/inde
 https://s.id/soccer_channel_shareext-ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SOCCER~2_CHANNELL_🇮🇩
 https://s.id/soccer-xtra_shareext-ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",Video-EPL_1_🇮🇩
-https://s.id/videoEPL1_shareext-ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",Video-EPL_2_🇮🇩
-https://s.id/nba_video_shsreext-ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",Video-EPL-3_🇮🇩
-https://s.id/bein3_shareext-ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",Video-EPL-4_🇮🇩
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:78:97:25&stream=1387253&extension=ts&play_token=pcNdwEASWM
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",CHAMPION-5_🇮🇩
-https://s.id/champion5_shareext-ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",RCTI-HD_🇮🇩
+http://103.84.206.6/stream/cba662f1ac8c406f9b831e243113d5dc/9/index.m3u8?token=MI1VlNNc0bQxuq81
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SCTV-HD_🇮🇩
+http://103.84.206.6/stream/cba662f1ac8c406f9b831e243113d5dc/11/index.m3u8?token=MI1VlNNc0bQxuq81
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SKYSPORTS-PREMIER.LIGUEA
+http://103.84.206.6/stream/cba662f1ac8c406f9b831e243113d5dc/15/index.m3u8?token=MI1VlNNc0bQxuq81
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",POKER-TV
+http://103.84.206.6/stream/cba662f1ac8c406f9b831e243113d5dc/10/index.m3u8?token=MI1VlNNc0bQxuq81
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SBS-SPORTS
+http://103.84.206.6/stream/cba662f1ac8c406f9b831e243113d5dc/8/index.m3u8?token=MI1VlNNc0bQxuq81
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",HBO_🇮🇩
+http://103.84.206.6/stream/cba662f1ac8c406f9b831e243113d5dc/12/index.m3u8?token=MI1VlNNc0bQxuq81
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",HBO-SIGNATURE_🇮🇩
+http://103.84.206.6/stream/cba662f1ac8c406f9b831e243113d5dc/13/index.m3u8?token=MI1VlNNc0bQxuq81
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",HBO-HITS_🇮🇩
+http://103.84.206.6/stream/cba662f1ac8c406f9b831e243113d5dc/14/index.m3u8?token=MI1VlNNc0bQxuq81
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SPORTSTARS_🇮🇩
 https://maper.info/SPORSTAR1_shareext_ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SPORTSTARS_2_🇮🇩
