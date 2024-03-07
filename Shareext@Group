@@ -836,8 +836,21 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch209%29/index
 
 
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="SHAREEXT@VID_STATION",RCTI_MPD_OttNavigator
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="SHAREEXT@VID_STATION",MNCTV_MPD_OttNavigator
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="SHAREEXT@VID_STATION",GTV_MPD_OttNavigator
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://1a-gtv.rctiplus.id/gtv-sdi.mpd
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="SHAREEXT@VID_STATION",INEWS_MPD_OttNavigator
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://1a-inews.rctiplus.id/inews-sdi.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
