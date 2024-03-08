@@ -11,6 +11,30 @@ https://s.id/skynetsport1_shareext-ts
 https://s.id/skynetsport2_shareext-ts
 #EXTINF:-1   tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax",SKYNET•SPORTS•3
 https://s.id/skynetsport3_shareext-ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",[SG]~MOLA•SPORTS
+http://176868.cloud/669ec0e18721bea2920e36e65b1728a7/a2142e9e39fcb740164dc9a0e031727e/11e2ae29b27dc50df5bff97aea6e4bf3/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",[SG]~MOLA•GOLF
+http://176868.cloud/b62f0490cc777018ac63d03f355d8e47/a2142e9e39fcb740164dc9a0e031727e/d54dcffb82220448dc22873abb8bba0a/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",[SG]~Hub•Sports•1 HD
+http://176868.cloud/5a1dfbe02420ddae6229cc892cc4f871/a2142e9e39fcb740164dc9a0e031727e/70950f7ed412a0cd087e9896cc88926a/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",[SG]~Hub•Sports•2 HD
+http://176868.cloud/264270723d760005fe008f121b93b0c6/a2142e9e39fcb740164dc9a0e031727e/27fbb615bc5868f86f91954dbd36a9a2/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",[SG]~Hub•Sports•3 HD
+http://176868.cloud/04cf5614f6fc4b5b7cef12d28b0ff03d/a2142e9e39fcb740164dc9a0e031727e/4ebce724b495c2d4ea48a81a89a3eb32/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",[SG]~Hub•Sports•4 HD
+http://176868.cloud/9b47e885e7bdf9aced0e1f634eacd08a/a2142e9e39fcb740164dc9a0e031727e/7b701c8d018f918eaf3025eccc912158/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",[SG]~Hub•Sports•5 HD
+http://176868.cloud/e2155e4b3e08d539c1a6cb87169c62b1/a2142e9e39fcb740164dc9a0e031727e/dfd5aa672164e280705469a7039dfd91/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",[SG]~HubPremier•1
+http://176868.cloud/867fdf546e6f15ab0fefc54fad9cf976/a2142e9e39fcb740164dc9a0e031727e/2b9b2401a60301b09b118336b0ec4b85/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",[SG]~HubPremier•2(HD)
+http://176868.cloud/66e86d468ec4eeccb89527ac0ad47a9c/a2142e9e39fcb740164dc9a0e031727e/7b2050fd7d75528b59a5ad9bb75071ea/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",[SG]~HubPremier•3
+http://176868.cloud/376a3fb64371b2430768ed938209257e/a2142e9e39fcb740164dc9a0e031727e/5ff08f8c60381c98d16ff92e13f98d97/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",[SG]~HubPremier•4
+http://176868.cloud/2dccba887e02df214299122850189ad1/a2142e9e39fcb740164dc9a0e031727e/6d7a0dfd0d29adb4695fd69db56ec33f/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",[SG]~HubPremier•5
+http://176868.cloud/2a4e607714f5d6637b7d41bb92383d3d/a2142e9e39fcb740164dc9a0e031727e/21c283b3c6b271d3147ddd57bc7a7fdf/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",🇲🇾~ASSP_1
 http://50.7.234.10:8278/Assp1/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 #EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",🇲🇾~ASSP_2
