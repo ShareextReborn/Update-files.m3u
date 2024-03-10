@@ -97,7 +97,22 @@ http://176868.cloud/402c2ea85b69a78fa1950feadbde50c5/a2142e9e39fcb740164dc9a0e03
 http://176868.cloud/3536856326efe39434bcde8b03e910ce/a2142e9e39fcb740164dc9a0e031727e/72ca8305d08d55730fee1568a364682d/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",[TW]愛爾達體育4台|ELTA~SPORTS~4
 http://176868.cloud/673b755f9f9215ba9b74cccdb74f1f5a/a2142e9e39fcb740164dc9a0e031727e/a9b5b3cb63e19bba7218f8c2f5114ba8/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png",HBO Hits (Banana TV)
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shuECy2JNi3y-F8mBeis1Kdg/ts
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0150.png",HBO family (Banana TV)
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsAu10kReTUVEG2yrpsyZZo/ts
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png", CINEMAX (BananaTV)
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shtJbESw0qm-noB9MnrvAQ0c/ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="",HBO (xtv)
+http://xtv.ooo:8080/3212571066/abc123/350955
+#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="",HBO Family (xtv)
+http://xtv.ooo:8080/3212571066/abc123/350956
+#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="",HBO Hits (xtv)
+http://xtv.ooo:8080/3212571066/abc123/350957
+#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="",HBO Signature (xtv)
+http://xtv.ooo:8080/3212571066/abc123/350958
+
 #EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",🇲🇾~ASSP_1
 http://50.7.234.10:8278/Assp1/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 #EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",🇲🇾~ASSP_2
@@ -126,22 +141,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/inde
 https://s.id/soccer_channel_shareext-ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SOCCER~2_CHANNELL_🇮🇩
 https://s.id/soccer-xtra_shareext-ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",RCTI-HD_🇮🇩
-http://103.84.206.6/stream/cba662f1ac8c406f9b831e243113d5dc/9/index.m3u8?token=MI1VlNNc0bQxuq81
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SCTV-HD_🇮🇩
-http://103.84.206.6/stream/cba662f1ac8c406f9b831e243113d5dc/11/index.m3u8?token=MI1VlNNc0bQxuq81
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SKYSPORTS-PREMIER.LIGUEA
-http://103.84.206.6/stream/cba662f1ac8c406f9b831e243113d5dc/15/index.m3u8?token=MI1VlNNc0bQxuq81
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",POKER-TV
 http://103.84.206.6/stream/cba662f1ac8c406f9b831e243113d5dc/10/index.m3u8?token=MI1VlNNc0bQxuq81
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SBS-SPORTS
-http://103.84.206.6/stream/cba662f1ac8c406f9b831e243113d5dc/8/index.m3u8?token=MI1VlNNc0bQxuq81
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",HBO_🇮🇩
-http://103.84.206.6/stream/cba662f1ac8c406f9b831e243113d5dc/12/index.m3u8?token=MI1VlNNc0bQxuq81
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",HBO-SIGNATURE_🇮🇩
-http://103.84.206.6/stream/cba662f1ac8c406f9b831e243113d5dc/13/index.m3u8?token=MI1VlNNc0bQxuq81
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",HBO-HITS_🇮🇩
-http://103.84.206.6/stream/cba662f1ac8c406f9b831e243113d5dc/14/index.m3u8?token=MI1VlNNc0bQxuq81
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SPORTSTARS_🇮🇩
 https://maper.info/SPORSTAR1_shareext_ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SPORTSTARS_2_🇮🇩
@@ -174,6 +175,8 @@ http://iptvtree.net:8080/F14995/a84c0963/299989
 http://iptvtree.net:8080/F14995/a84c0963/299990
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar_xtv
 https://s.id/indosiar_xtv-shareext-ts
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar_HD_XTV
+http://xtv.ooo:8080/3212571066/abc123/350972
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar|hdd
 http://iptvtree.net:8080/F14995/a84c0963/162138
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar|test
@@ -2597,6 +2600,10 @@ http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/723667
 
 
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",KSA sports 1
+https://edge.taghtia.com/sa/9.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",KSA sports 2
+https://edge.taghtia.com/sa/10.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",SSC 1
 http://iptvtree.net:8080/F14995/a84c0963/280132
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN_SUKAN",SSC 2
