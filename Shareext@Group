@@ -3570,23 +3570,6 @@ https://strm.yandex.ru/kal/start/start0.m3u8
 http://ott-cdn.ucom.am/s41/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ISRAEL_SPORTS",5 GOLD
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12254/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ISRAEL_SPORTS",5 LIVE
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12255/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ISRAEL_SPORTS",5 STAR
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12256/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ISRAEL_SPORTS",SPORT 1
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12249/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ISRAEL_SPORTS",SPORT 2
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12250/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ISRAEL_SPORTS",SPORT 3
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12251/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ISRAEL_SPORTS",SPORT 4
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12252/index.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@ISRAEL_STATION",Yes 5 Sport 4k
 http://iptvtree.net:8080/F14995/a84c0963/172323
