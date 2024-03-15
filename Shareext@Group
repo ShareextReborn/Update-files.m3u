@@ -463,6 +463,134 @@ https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.co
 #EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.postimg.cc/8CyTM6g2/download-2024-01-19-T210600-559.png",Drama Hebat_MPD~OttNavigator
 https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", CATCHPLAY~電影台
+http://176868.cloud/0abcfc35893c1e9e5bfa91b9fb877ed5/a2142e9e39fcb740164dc9a0e031727e/8a9ab2e6f73869d1c08c269642634996/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [NowTV] HBO Hits
+http://176868.cloud/aedbb1f32d563d79929216619febc76b/a2142e9e39fcb740164dc9a0e031727e/620c7020f97c0a00aba4398427b79075/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", NowTV] HBO Family
+http://176868.cloud/314f38edb164f1e080b0e5b279025c5f/a2142e9e39fcb740164dc9a0e031727e/0f2f178506cbb0d478d72d6e562eb801/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", NowTV] CINEMAX
+http://176868.cloud/3b033003666991b0204905b2223bc064/a2142e9e39fcb740164dc9a0e031727e/0b9c3b4f7928b474a51d0e62fa56ac0a/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", NowTV] HBO Signature
+http://176868.cloud/4b481770de47dab6b7bff913bd2c48e6/a2142e9e39fcb740164dc9a0e031727e/b8bdd6dab9a126dacc2430c596825824/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [Astro] QJ
+http://176868.cloud/4bbbf4242dee38837aff046299537074/a2142e9e39fcb740164dc9a0e031727e/49238ac308b687215d92089b6a832e37/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", astro] AEC
+http://176868.cloud/8d48691c4ee3bb18c0f25641a171c62e/a2142e9e39fcb740164dc9a0e031727e/bc9827fb5defe3cdee7914bc47a87277/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", astro] Celestial Movies
+http://176868.cloud/c1edd2522df31435d3cca10402b783bf/a2142e9e39fcb740164dc9a0e031727e/ac647f3e2d5ba906d6fc20ac50623c10/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [astro] Wah Lai Toi
+http://176868.cloud/0a069e89a170eb3fd0d4bf47cde035d6/a2142e9e39fcb740164dc9a0e031727e/d69c05db9d8674c43ef438b46f78cf7e/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", astro] AOD 311
+http://176868.cloud/27f306f42aa24b60f89e1a40b9e0a7e5/a2142e9e39fcb740164dc9a0e031727e/97b550c09e94618d0ae200ddeba9eaa2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [astro] TVB Entertainment News
+http://176868.cloud/a7352ee9fadaa8459cbaf5c9f76a382d/a2142e9e39fcb740164dc9a0e031727e/c2da86b805621078b76c51edaf4664a5/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", astro] TVB Xing He
+http://176868.cloud/7fb32d544ea36252c5182b75df02cdb9/a2142e9e39fcb740164dc9a0e031727e/c6d15aa03ec663cf12cc93fdf94c94a2/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", astro] TVBS Asia
+http://176868.cloud/9c1e7eb24f28fa3c474554eb1277622d/a2142e9e39fcb740164dc9a0e031727e/e22511dc06c2fab396efc56f0b5166d2/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", astro] Celestial Classic Movies
+http://176868.cloud/c07b66b5e706664f7842304c4967aa0a/a2142e9e39fcb740164dc9a0e031727e/79bdd2300353e02a9d1fad228e66aba5/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [astro] Phoenix Chinese Channel
+http://176868.cloud/f9e0cf2c140ab9b73a334146943328be/a2142e9e39fcb740164dc9a0e031727e/e6915e6490b74b4cd8f4ced5cace502d/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [astro] Phoenix Info News
+http://176868.cloud/9b9328f8d30fddcb959c3b4601ab4fe3/a2142e9e39fcb740164dc9a0e031727e/e4b169e1edc17158a355e41879f0d18b/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [astro] Hua Hee Dai
+http://176868.cloud/70fe633352ba9e5a374c3142fd05be7c/a2142e9e39fcb740164dc9a0e031727e/37ddc138995be7b1d5fea4c284ee06f5/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [astro] CCTV4
+http://176868.cloud/b1db472994b3e1a730599c13b6c309e8/a2142e9e39fcb740164dc9a0e031727e/6971f59965445f50082620b53cc21823/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [astro] AOD 352
+http://176868.cloud/94856654bafdf1850499363fb1cd14aa/a2142e9e39fcb740164dc9a0e031727e/837fc669570c1f71a9e5b750267148cd/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", astro] AOD 354
+http://176868.cloud/d24754064d3438e8961867dcc690ac13/a2142e9e39fcb740164dc9a0e031727e/e6e862c25048a0831c08b96864c07b8b/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [astro] KBS World
+http://176868.cloud/4a1edf4f549aa6e4e09183bb4639d17f/a2142e9e39fcb740164dc9a0e031727e/104dd7c3142a9781017c0e32dc2bc118/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", astro] ONE
+http://176868.cloud/2c23db5c71667e076dfb7d1b233bff1a/a2142e9e39fcb740164dc9a0e031727e/25194e70fc59da5e4cfc10ab4daccfe1/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [astro] tvN
+http://176868.cloud/4e49c463ed9b18aa81f60951c6adab0d/a2142e9e39fcb740164dc9a0e031727e/3d30592e62a26cb58463586f021bb2e1/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [astro] K-Plus
+http://176868.cloud/49d7292eee402959e47aabf396f013bd/a2142e9e39fcb740164dc9a0e031727e/71b300cf82a05d0ac6b556638a06fb81/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [astro] HITS Movies
+http://176868.cloud/336aa7299d24ef733407949884ec45ca/a2142e9e39fcb740164dc9a0e031727e/2099cdcfe61b1e8679c9f7848b29d689/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", astro] BOO
+http://176868.cloud/fdcee6962a2497f011e5eed32b2a5a05/a2142e9e39fcb740164dc9a0e031727e/ba548dc5365e1feff32e901bf6afec37/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", astro] Astro Premier
+http://176868.cloud/4981edba84361d1523731d49d8a6c823/a2142e9e39fcb740164dc9a0e031727e/370ca7488b6ad7286ac527f0ed8843b5/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [MY] TV1
+http://176868.cloud/8eef3cc2849fb33e04a0beaaa40d4d14/a2142e9e39fcb740164dc9a0e031727e/52b9ca1cdb3c6b14411859be14ead9bf/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", MY] TV2
+http://176868.cloud/d0c92fd8f2159eab60c799164bfad260/a2142e9e39fcb740164dc9a0e031727e/6218e1b2823c3abf0ef6ab28babd0ac0/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", MY] TV3
+http://176868.cloud/4bc333ee32293942093fa2228bed21e4/a2142e9e39fcb740164dc9a0e031727e/0b7ca80be96e401b067517f5869a7904/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", MY] NTV7
+http://176868.cloud/9d64cbbb7a55bba05f190342a5c6f53f/a2142e9e39fcb740164dc9a0e031727e/a665020dc441baff76738a633c1657b8/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", MY] TV8
+http://176868.cloud/5880465ae6f94bcb0ce4ae96c8b8fe78/a2142e9e39fcb740164dc9a0e031727e/f28024f4969404e7358538269b9f7b65/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", MY] TV9
+http://176868.cloud/19bbe692000a21434778caf136f45991/a2142e9e39fcb740164dc9a0e031727e/f14a866888d085f9fd100067e8473119/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", astro] HBO
+http://176868.cloud/cbcea7ba8db83e7837e1c6d7ef4f6448/a2142e9e39fcb740164dc9a0e031727e/3d72f62422904e1ec0806cd8bb1c7189/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [astro] CINEMAX
+http://176868.cloud/8b0854ecbebb5c25742261f33c1137ee/a2142e9e39fcb740164dc9a0e031727e/88e64757ab1a4e340b1beb072b2af587/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [astro] SHOWCASE
+http://176868.cloud/e848336459f8a35e521a17203139cd06/a2142e9e39fcb740164dc9a0e031727e/3edcce51d39196063a4819646e0579ed/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", astro] HBO Family
+http://176868.cloud/ae8fdbb262a681309ba3bd8a3ab8e119/a2142e9e39fcb740164dc9a0e031727e/72a58d91a05295248c5eebfa910ba2b3/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [astro] HBO Hits
+http://176868.cloud/4ede3ce105927065e49d5347d73f7619/a2142e9e39fcb740164dc9a0e031727e/59ffb06a38baac0c05c2d8714fb5c96d/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [astro] tvN Movies
+http://176868.cloud/8621cb18c11631bcf9460b9d89d3fcf1/a2142e9e39fcb740164dc9a0e031727e/eb6658e06c3dad9bc4006262bd224f98/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [astro] Awani
+http://176868.cloud/14bc4f9c6da0988eea317e0c6e36452e/a2142e9e39fcb740164dc9a0e031727e/8331d71ee3208e3b38f991f79e111d3c/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", astro] BERNAMA
+http://176868.cloud/477fe2eea690f7913c33e22bd17c2efa/a2142e9e39fcb740164dc9a0e031727e/9da77e37277b072f68ebe05c8634b56d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", MY] AWANI~
+http://176868.cloud/380a36e448c98ca9e2e37d09950eb346/a2142e9e39fcb740164dc9a0e031727e/f96798bee6c89c54ead3796a7d114512/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [MY] 天映頻道
+http://176868.cloud/909b901e671e4735143fc33003675495/a2142e9e39fcb740164dc9a0e031727e/96f72b1493897e69af5c52042a411ddc/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", MY] 全佳
+http://176868.cloud/716430401e50a03856f9300d63ea1ca8/a2142e9e39fcb740164dc9a0e031727e/bd08e9b99525d15d402c7a335e3dce38/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [MY] KIX
+http://176868.cloud/fca581d6dfffcb18ac9d31c6bcc01451/a2142e9e39fcb740164dc9a0e031727e/b6fcab51b748e7607a2a0ef73168cef8/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [MY] 歡喜
+http://176868.cloud/15cd72d472a319ea0ad4ace4587761af/a2142e9e39fcb740164dc9a0e031727e/3b510b98374554486f0fcf2368f12c8a/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [MY] 雙星
+http://176868.cloud/75557029f50b5dcde34311fb592c4da4/a2142e9e39fcb740164dc9a0e031727e/4f73b70fb503ad9b4a65acc7047ba375/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", MY] AEC
+http://176868.cloud/66a0c25ecff65447d18f27cde7ea4d95/a2142e9e39fcb740164dc9a0e031727e/948b2ee335be00b01a3b68ddd8788410/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", MY] 華麗
+http://176868.cloud/160a9fcc483ab38aaa1c3da01b49dff3/a2142e9e39fcb740164dc9a0e031727e/ab1d0d77cabb903a4e37d6e496548387/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", MY] 小太陽
+http://176868.cloud/4c57395e4fa27d1792327887733b81c9/a2142e9e39fcb740164dc9a0e031727e/9cb05582282a517a778b7d0811be543c/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [MY] AOD
+http://176868.cloud/6102c91089186a44ef17f049e038e788/a2142e9e39fcb740164dc9a0e031727e/af43d21649d2c2a51cbb352f3f4595da/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [MY] PRIMA
+http://176868.cloud/3fd459d63c2bca85f23e1b4960eae63f/a2142e9e39fcb740164dc9a0e031727e/93711ee972bd68847b4a341bdaacd587/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [MY] KIX~
+http://176868.cloud/99c1d6a2fab43a63affc565e33ce1ad3/a2142e9e39fcb740164dc9a0e031727e/bcb19ec6aa73bdcaa12903ab48cdb36c/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", MY] CCM
+http://176868.cloud/4a707503b8eecc08bc22c49f6fcbeeb2/a2142e9e39fcb740164dc9a0e031727e/698ac87c4383bc1efe1d809ca9d6f67d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", MY] BOO
+http://176868.cloud/33111bfc8a254717ecb535f5bced7aae/a2142e9e39fcb740164dc9a0e031727e/1623e5411934098b0d66b401016130fa/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", MY] Channel8
+http://176868.cloud/4870266652e6c787ef843ba3fd989e7c/a2142e9e39fcb740164dc9a0e031727e/74ab9320b0240173b59275b58ec9e58f/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", MY] Channel5
+http://176868.cloud/06967d48829f7338286dab7f44a4ea07/a2142e9e39fcb740164dc9a0e031727e/714226c35fed958c24c4dbb9a37d460f/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [MY] AFN
+http://176868.cloud/1d136a17f9bb080df550c20f01ae7d80/a2142e9e39fcb740164dc9a0e031727e/d9723c01d6f1c57d51d5581e4e1fb72d/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [MY] Channel U
+http://176868.cloud/4b50a80e28f0813184f53f521b73ccf0/a2142e9e39fcb740164dc9a0e031727e/fc085d7ee880c59f637169b339ebf78c/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [MY] Vasantham
+http://176868.cloud/716b56539e24b3e102a67d3a2c8070fe/a2142e9e39fcb740164dc9a0e031727e/2dc0accaaf9d2ad33d634e41bbc87096/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [MY] Suria
+http://176868.cloud/98724cbaa2d84674b86478345bf8b6ea/a2142e9e39fcb740164dc9a0e031727e/021ff2d3dedb0d112d8982e6a90fc691/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", MY] AXN
+http://176868.cloud/806dba2492258f1c430ee271e90e1bdb/a2142e9e39fcb740164dc9a0e031727e/6a3fd1a78b481885de6994e5d75b4251/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", MY] BNC
+http://176868.cloud/b97b12eb646e943e3e568f5ae22b9e24/a2142e9e39fcb740164dc9a0e031727e/b3055f29b2cb60776456091deb0d6617/index.m3u8
+
 #EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO",Astro Arena_(3)
 http://iptvtree.net:8080/F14995/a84c0963/157485
 #EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO",Arena 2_(3)
