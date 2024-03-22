@@ -163,8 +163,13 @@ http://50.7.234.10:8278/Arena/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe62
 http://50.7.234.10:8278/Arena2/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 #EXTINF:-1 tvg-id="T-Sports7.th" group-title="ShareExt@Relax" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://i.imgur.com/hnfiUbK.png",T-Sports7
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8|user-agent=Shareext/5.0
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Sports%20HD.png" group-title="ShareExt@Relax",ON Football HD
+http://is.am/5mnt/vtvcab16
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Sports%20HD.png" group-title="ShareExt@Relax",ON Sports Action HD
+https://wintv.fun/360/2380/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Sports%20HD.png" group-title="ShareExt@Relax",ON Sports HD
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/T%E1%BA%A1m%20d%E1%BB%ABng%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng/ON%20Sports%20HD.m3u8
+http://is.am/5mns/vtvcab3
+#https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/T%E1%BA%A1m%20d%E1%BB%ABng%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng/ON%20Sports%20HD.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab6%20-%20On%20Sports%2B%20HD.png" group-title="ShareExt@Relax",On Sports+ HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/T%E1%BA%A1m%20d%E1%BB%ABng%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng/On%20Sports%2B.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Golf%20HD.png" group-title="ShareExt@Relax",ON Golf
