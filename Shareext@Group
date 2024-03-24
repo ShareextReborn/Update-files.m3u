@@ -282,8 +282,6 @@ https://bit.ly/optus1_shareext-ts|User-Agent=OTT Navigator/hometv.finale (Linux;
 https://bit.ly/optus2_shareext-ts|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",OPTUS|3_event_only_(ott/televizo)
 https://bit.ly/optus3_shareext-ts|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",UseePrime_dec=auto
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
 #EXTI#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -2431,6 +2429,131 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/lifetime/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", SkySports Cricket 1
+http://watchindia.net:8880/live/71740/31043/2090.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", SkySports Cricket 2
+http://watchindia.net:8880/live/71740/31043/2143.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", SkySports MainEvent
+http://watchindia.net:8880/live/71740/31043/2091.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", SkySports PremierLeague
+http://watchindia.net:8880/live/71740/31043/2092.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", SkySports Football
+http://watchindia.net:8880/live/71740/31043/2093.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", SkySports F1
+http://watchindia.net:8880/live/71740/31043/2094.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", SkySports Arena
+http://watchindia.net:8880/live/71740/31043/2095.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", SkySports Golf
+http://watchindia.net:8880/live/71740/31043/2096.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", FoxSports 1
+http://watchindia.net:8880/live/71740/31043/2421.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", CBS Sports Network
+http://watchindia.net:8880/live/71740/31043/2121.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", ESPN
+http://watchindia.net:8880/live/71740/31043/2161.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", ESPN2
+http://watchindia.net:8880/live/71740/31043/2307.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", MLB Network
+http://watchindia.net:8880/live/71740/31043/2308.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", MotorTrend
+http://watchindia.net:8880/live/71740/31043/2306.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", MSNBC
+http://watchindia.net:8880/live/71740/31043/2060.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", NBA TV
+http://watchindia.net:8880/live/71740/31043/2309.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", NBC Sports Network
+http://watchindia.net:8880/live/71740/31043/2266.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", NFL Network
+http://watchindia.net:8880/live/71740/31043/2165.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", NFL RedZone
+http://watchindia.net:8880/live/71740/31043/2160.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", Tennis Channel
+http://watchindia.net:8880/live/71740/31043/2358.ts
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", nbc
+https://catowrap.live/mrgamingnbc.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", BT/TNT SPORTS 1
+https://catowrap.live/mrgamingbtsport1.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", BT/TNT SPORT 2
+https://catowrap.live/mrgamingbtsport2.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", BT/TNT SPORT 3
+https://catowrap.live/mrgamingbtsport3.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", BT/TNT SPORT 4
+https://catowrap.live/mrgamingbtsport4.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", TYC
+https://catowrap.live/mrgamingtyc.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", SPORTSNET
+https://catowrap.live/mrgamingsportsnet.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", PACNET
+https://catowrap.live/mrgamingpacnet.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", NBCPHILLY
+https://catowrap.live/nbcphilly.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", A SPORTS 
+https://catowrap.live/mrgamingasport.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", BEIN
+https://catowrap.live/mrgamingbein.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", ESPND
+https://catowrap.live/mrgamingespnd.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", ABC
+https://catowrap.live/mrgamingabc.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", WWE.NET
+https://catowrap.live/mrgamingwwenet.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", SKYSPORTS MAINEVENT 
+https://catowrap.live/mrgamingmainevent.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", TENNIS
+https://catowrap.live/mrgamingtennis.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", CRICKET 
+https://catowrap.live/mrgamingcric.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", CBS
+https://catowrap.live/mrgamingcbs.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", RACING TV
+https://catowrap.live/mrgamingracing.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", SKYSPORTS TENNIS
+https://catowrap.live/mrgamingsstennis.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", EURO 2
+https://catowrap.live/mrgamingeuro2.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", NBA
+https://catowrap.live/mrgamingnba.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", ESPN
+https://catowrap.live/mrgamingespn.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", SKYPORTS ARENA
+https://catowrap.live/mrgamingskyarena.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", FOX
+https://catowrap.live/mrgamingfox.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", SKYPORTS CRICKET
+https://catowrap.live/mrgamingsscric.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", SKYSPORTS MIX 
+https://catowrap.live/mrgamingmix.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE~SUKAN",StarSports 1 HD
+http://watchindia.net:8880/live/71740/31043/2186.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE~SUKAN",StarSports 2 HD 
+http://watchindia.net:8880/live/71740/31043/1069.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE~SUKAN",StarSports Select 1 HD 
+http://watchindia.net:8880/live/71740/31043/1070.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE~SUKAN",StarSports Select 2 HD
+http://watchindia.net:8880/live/71740/31043/1071.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE~SUKAN",Ten 1 HD 
+http://watchindia.net:8880/live/71740/31043/1756.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE~SUKAN",Ten 2 HD
+http://watchindia.net:8880/live/71740/31043/1757.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE~SUKAN",Ten 3 HD
+http://watchindia.net:8880/live/71740/31043/1758.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE~SUKAN",Sports 18 HD
+http://watchindia.net:8880/live/71740/31043/2423.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE~SUKAN",DD Sports
+http://watchindia.net:8880/live/71740/31043/2380.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE~SUKAN",Willow HD 1
+http://watchindia.net:8880/live/71740/31043/1067.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE~SUKAN",Willow_HD 2
+http://watchindia.net:8880/live/71740/31043/2145.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE~SUKAN",Astro Cricket
+http://watchindia.net:8880/live/71740/31043/2174.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE~SUKAN",Geo Super
+http://watchindia.net:8880/live/71740/31043/1016.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE~SUKAN",PTV Sports
+http://watchindia.net:8880/live/71740/31043/2325.ts
 
 
 
@@ -3484,6 +3607,72 @@ http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/395387.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SKYSPORTS_WORLD",DE:SKYSPORT BUNDESLIGA 1 (MATCH TIME)
 http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/7044.m3u8
 
+
+
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",SPorts italia
+https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist_b3096000.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Sports Grid 
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",MATCH !
+http://194.143.148.28:8080/MatchHD/mpegts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",MATCH APENA
+http://194.143.148.28:8080/MatchArena/mpegts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",TYGON~1~FUTbol
+http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",TYGON~2~FUTBOL
+http://31.148.48.15:80/Match_Futbol_2_HD/index.m3u8?token=test
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",TYGON~3~FUTBOL
+http://31.148.48.15:80/Match_Futbol_3_HD/index.m3u8?token=test
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",MotoR~Racing 
+https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",FITE~24/7
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Nash~1
+https://stream-msk-14.ott.tricolor.tv:443/dtv/id794_MSKSG-PVR-1--Nash_khokkey1/01/plst.m3u8 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",ALL SPORTS TV 
+http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Futbol TVHorizon Sports 
+https://dai.google.com/linear/hls/event/onG023gQQ22Tjm14B5yg1w/master.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",M-1 Global 
+https://lb.telepark.tv/live/ru_m1global/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",FightBox 
+https://lb.telepark.tv/live/ru_fightbox/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Fast&FunBox 
+https://lb.telepark.tv/live/ru_fastfunbox/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Extreme Sports HD 
+https://lb.telepark.tv/live/ru_extreme_sports/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",UkrainaSport~1小锌芯褉褌 1 
+https://lb.telepark.tv/live/ua_sport1/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",RU_Boks tv
+https://lb.telepark.tv/live/ru_boks_tv/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Setanta Sports 1 HD 
+https://lb.telepark.tv/live/ru_setanta_sports_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Eurosport 1 HD 
+https://lb.telepark.tv/live/ru_eurosport_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",RU_TK.sports
+https://lb.telepark.tv/live/ru_tk_futbol_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",RU_start-hd
+https://lb.telepark.tv/live/ru_start_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",RU.Match.football_1hd
+https://lb.telepark.tv/live/ru_match_futbol1_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",RU.Match.football_2hd
+https://lb.telepark.tv/live/ru_match_futbol2_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",RU.Match.football_3hd
+https://lb.telepark.tv/live/ru_match_futbol3_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",RU_Mstch!igra_hd
+https://lb.telepark.tv/live/ru_match_igra_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",RU_Arena_hd
+https://lb.telepark.tv/live/ru_match_arena_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",RU_Nasth_football-hd
+https://lb.telepark.tv/live/ru_nash_futbol/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",RU_Boec
+https://lb.telepark.tv/live/ru_boec/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",RU_MIR_hd
+https://lb.telepark.tv/live/ru_konnij_mir_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",RU.Mtch..hd
+https://lb.telepark.tv/live/ru_match_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Eleven Sports 1 PL
 http://194.26.229.213/eleven-sports-1/index.m3u8
