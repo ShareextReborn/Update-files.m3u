@@ -2510,46 +2510,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/lifetime/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", SkySports Cricket 1
-http://watchindia.net:8880/live/71740/31043/2090.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", SkySports Cricket 2
-http://watchindia.net:8880/live/71740/31043/2143.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", SkySports MainEvent
-http://watchindia.net:8880/live/71740/31043/2091.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", SkySports PremierLeague
-http://watchindia.net:8880/live/71740/31043/2092.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", SkySports Football
-http://watchindia.net:8880/live/71740/31043/2093.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", SkySports F1
-http://watchindia.net:8880/live/71740/31043/2094.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", SkySports Arena
-http://watchindia.net:8880/live/71740/31043/2095.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", SkySports Golf
-http://watchindia.net:8880/live/71740/31043/2096.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", FoxSports 1
-http://watchindia.net:8880/live/71740/31043/2421.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", CBS Sports Network
-http://watchindia.net:8880/live/71740/31043/2121.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", ESPN
-http://watchindia.net:8880/live/71740/31043/2161.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", ESPN2
-http://watchindia.net:8880/live/71740/31043/2307.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", MLB Network
-http://watchindia.net:8880/live/71740/31043/2308.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", MotorTrend
-http://watchindia.net:8880/live/71740/31043/2306.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", MSNBC
-http://watchindia.net:8880/live/71740/31043/2060.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", NBA TV
-http://watchindia.net:8880/live/71740/31043/2309.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", NBC Sports Network
-http://watchindia.net:8880/live/71740/31043/2266.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", NFL Network
-http://watchindia.net:8880/live/71740/31043/2165.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", NFL RedZone
-http://watchindia.net:8880/live/71740/31043/2160.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", Tennis Channel
-http://watchindia.net:8880/live/71740/31043/2358.ts
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", nbc
 https://catowrap.live/mrgamingnbc.m3u8
@@ -2605,36 +2565,6 @@ https://catowrap.live/mrgamingfox.m3u8
 https://catowrap.live/mrgamingsscric.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", SKYSPORTS MIX 
 https://catowrap.live/mrgamingmix.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE~SUKAN",StarSports 1 HD
-http://watchindia.net:8880/live/71740/31043/2186.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE~SUKAN",StarSports 2 HD 
-http://watchindia.net:8880/live/71740/31043/1069.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE~SUKAN",StarSports Select 1 HD 
-http://watchindia.net:8880/live/71740/31043/1070.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE~SUKAN",StarSports Select 2 HD
-http://watchindia.net:8880/live/71740/31043/1071.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE~SUKAN",Ten 1 HD 
-http://watchindia.net:8880/live/71740/31043/1756.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE~SUKAN",Ten 2 HD
-http://watchindia.net:8880/live/71740/31043/1757.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE~SUKAN",Ten 3 HD
-http://watchindia.net:8880/live/71740/31043/1758.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE~SUKAN",Sports 18 HD
-http://watchindia.net:8880/live/71740/31043/2423.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE~SUKAN",DD Sports
-http://watchindia.net:8880/live/71740/31043/2380.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE~SUKAN",Willow HD 1
-http://watchindia.net:8880/live/71740/31043/1067.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE~SUKAN",Willow_HD 2
-http://watchindia.net:8880/live/71740/31043/2145.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE~SUKAN",Astro Cricket
-http://watchindia.net:8880/live/71740/31043/2174.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE~SUKAN",Geo Super
-http://watchindia.net:8880/live/71740/31043/1016.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE~SUKAN",PTV Sports
-http://watchindia.net:8880/live/71740/31043/2325.ts
 
 
 
