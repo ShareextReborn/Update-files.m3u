@@ -4253,8 +4253,16 @@ http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/7044.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-logo="https://static.g-cdn.app/streams/match-futbol1-hd.png",Суспільне Спорт
+http://cdnua03.hls.tv/476/hls/c4a7acbb4f6a85595a117f7aa2099d65/4856/stream.m3u8
+#EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-id="equalympic" tvg-name="Equalympic HD" tvg-logo="https://picon.pp.ua/equalympic.png",EQUALYMPIC HD
+http://cdnua03.hls.tv/476/hls/c4a7acbb4f6a85595a117f7aa2099d65/4779/stream.m3u8
+#EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-logo="https://static.g-cdn.app/streams/match-futbol1-hd.png",Футбол УПЛ 1
+http://cdnua03.hls.tv/476/hls/c4a7acbb4f6a85595a117f7aa2099d65/4853/stream.m3u8
+#EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-logo="https://static.g-cdn.app/streams/match-futbol1-hd.png",Футбол УПЛ 2
+http://cdnua03.hls.tv/476/hls/c4a7acbb4f6a85595a117f7aa2099d65/4854/stream.m3u8
+#EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-logo="https://static.g-cdn.app/streams/match-futbol1-hd.png",Футбол УПЛ 3
+http://cdnua03.hls.tv/476/hls/c4a7acbb4f6a85595a117f7aa2099d65/4855/stream.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",SPorts italia
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist_b3096000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Sports Grid 
