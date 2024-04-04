@@ -8864,24 +8864,6 @@ https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="SHAREEXT@Vietnam_television" tvg-logo="http://gg.gg/13vwb5", Apsara TV
 http://203.176.130.123:8989/live/apsaratv_480k.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="france24eng" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.ibb.co/n1dGjWL/HMHDTV-BEARTV.png", Hangmeas TV
-http://167.99.72.244:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w998573077_b1800000_sleng.m3u8
-#EXTINF:-1 tvg-id="france24eng" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.ibb.co/n8097VD/RHM-HDTV-BEARTV.png", Rasmey Hang Meas HDTV
-http://167.99.72.244:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w58865286_b1800000_sleng.m3u8
-#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/47acb94e-a2a5-4fde-bd9f-a0ec148cdf86.png", LNTV3
-https://ctrl.laotv.la/live/LNTV3/index.m3u8
-#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/57c9c7ba-bcc7-4c30-8ad4-d4fab611a2b7.png", LNTV1
-https://ctrl.laotv.la/live/LNTV1/index.m3u8
-#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/4f032dfc-bfd4-4c69-982b-361b9a4795a4.png", LaoStar
-https://ctrl.laotv.la/live/LaoStar/index.m3u8
-#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/42c67d3b-86e3-4e71-8f05-6677d1d31d3f.png", VTE9
-https://ctrl.laotv.la/live/VTE9/index.m3u8
-#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230804/video/d632d48f-2850-44ff-9fd6-e859e6edbed3.png", LATV
-https://ctrl.laotv.la/live/LATV/index.m3u8
-#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/fc251bad-66db-4d92-bbb4-d1aab661f56e.png", PSTV
-https://ctrl.laotv.la/live/PSTV/index.m3u8
-#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230802/video/23dd1aba-312f-41fe-ab8d-6b928455af0a.png", Lao ESTV
-https://ctrl.laotv.la/live/LaoESTV/index.m3u8
 
 
 
