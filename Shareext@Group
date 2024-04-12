@@ -221,12 +221,8 @@ http://xtv.ooo:8080/live/T4S00515/820172/350957.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="ShareExt@Relax",HBO Signature (xtv)
 http://xtv.ooo:8080/live/T4S00515/820172/350958.ts
 
-#EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",IDMAN_TV
-http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/2198/index.m3u8
 #EXTINF:-1 tvg-id="T-Sports7.th" group-title="ShareExt@Relax" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://i.imgur.com/hnfiUbK.png",T-Sports7
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8|user-agent=Shareext/5.0
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Golf%20HD.png" group-title="ShareExt@Relax",ON Golf
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/T%E1%BA%A1m%20d%E1%BB%ABng%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng/ON%20Golf.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SOCCER~CHANNELL_🇮🇩
 https://s.id/soccer_channel_shareext-ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SOCCER~2_CHANNELL_🇮🇩
@@ -261,8 +257,6 @@ https://af.ayas.ir/hls2/aiosport2.m3u8
 http://iptvtree.net:8080/F14995/a84c0963/299989
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",Aio Sport 2
 http://iptvtree.net:8080/F14995/a84c0963/299990
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar_xtv
-https://s.id/indosiar_xtv-shareext-ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar_HD_XTV
 http://xtv.ooo:8080/live/T4S00515/820172/350972.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar|xtv
@@ -288,7 +282,7 @@ https://s.id/indosiar_shareext-ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar_xtra
 https://s.id/indosiar-xtra_shareext-ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",[ID]Indosiar~
-http://iptvtree.net:8080/everton/7def2e7e/162138
+
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar_(ott/televizo)
 http://bit.ly/indosiar_shareext-ts|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar_play
@@ -1012,94 +1006,6 @@ http://toh-users.xyz:8080/42204120/16250164/857027
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",HBO
-http://iptvtree.net:8080/everton/7def2e7e/197972
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",HBO Family
-http://iptvtree.net:8080/everton/7def2e7e/197055
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",HBO Hits
-http://iptvtree.net:8080/everton/7def2e7e/196480
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",HBO Signature
-http://iptvtree.net:8080/everton/7def2e7e/221948
-#EXTINF:-1 tvg-id="" tvg-name="ID: CCM" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",CCM
-http://iptvtree.net:8080/everton/7def2e7e/165103
-#EXTINF:-1 tvg-id="" tvg-name="ID: Celestial Movies" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",Celestial Movies
-http://iptvtree.net:8080/everton/7def2e7e/165065
-#EXTINF:-1 tvg-id="" tvg-name="ID: Chinese Drama" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",Chinese Drama
-http://iptvtree.net:8080/everton/7def2e7e/298516
-#EXTINF:-1 tvg-id="" tvg-name="ID: CinemaWorld" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",CinemaWorld
-http://iptvtree.net:8080/everton/7def2e7e/165082
-#EXTINF:-1 tvg-id="" tvg-name="ID: Cinemax" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",Cinemax
-http://iptvtree.net:8080/everton/7def2e7e/197964
-#EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",Galaxy
-http://iptvtree.net:8080/everton/7def2e7e/264773
-#EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy Premium" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",Galaxy Premium
-http://iptvtree.net:8080/everton/7def2e7e/264774
-#EXTINF:-1 tvg-id="" tvg-name="ID: Citra Bioskop" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",Citra Bioskop
-http://iptvtree.net:8080/everton/7def2e7e/298519
-#EXTINF:-1 tvg-id="" tvg-name="ID: Citra Dangdut" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",Citra Dangdut
-http://iptvtree.net:8080/everton/7def2e7e/247446
-#EXTINF:-1 tvg-id="" tvg-name="ID: Citra Drama" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",Citra Drama
-http://iptvtree.net:8080/everton/7def2e7e/264748
-#EXTINF:-1 tvg-id="" tvg-name="ID: Citra Entertainment" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",Citra Entertainment
-http://iptvtree.net:8080/everton/7def2e7e/298520
-#EXTINF:-1 tvg-id="" tvg-name="ID: FLIK" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",FLIK
-http://iptvtree.net:8080/everton/7def2e7e/165095
-#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",Etv Bioskop
-http://iptvtree.net:8080/everton/7def2e7e/298526
-#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 02" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",Etv Bioskop 02
-http://iptvtree.net:8080/everton/7def2e7e/298527
-#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 03" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",Etv Bioskop 03
-http://iptvtree.net:8080/everton/7def2e7e/298528
-#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 04" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",Etv Bioskop 04
-http://iptvtree.net:8080/everton/7def2e7e/298529
-#EXTINF:-1 tvg-id="" tvg-name="ID: My Cinema" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",My Cinema
-http://iptvtree.net:8080/everton/7def2e7e/298553
-#EXTINF:-1 tvg-id="" tvg-name="ID: My Cinema Asia" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",My Cinema Asia
-http://iptvtree.net:8080/everton/7def2e7e/298554
-#EXTINF:-1 tvg-id="" tvg-name="ID: My Family" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",My Family
-http://iptvtree.net:8080/everton/7def2e7e/298555
-#EXTINF:-1 tvg-id="" tvg-name="ID: My Kidz" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",My Kidz
-http://iptvtree.net:8080/everton/7def2e7e/298556
-#EXTINF:-1 tvg-id="" tvg-name="ID: Rock Action" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",Rock Action
-http://iptvtree.net:8080/everton/7def2e7e/298490
-#EXTINF:-1 tvg-id="" tvg-name="ID: Rock Entertaiment" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",Rock Entertaiment
-http://iptvtree.net:8080/everton/7def2e7e/298565
-#EXTINF:-1 tvg-id="" tvg-name="ID: Rock Extreme" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",Rock Extreme
-http://iptvtree.net:8080/everton/7def2e7e/298566
-#EXTINF:-1 tvg-id="" tvg-name="ID: Bioskop Indonesia" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",Bioskop Indonesia
-http://iptvtree.net:8080/everton/7def2e7e/264801
-#EXTINF:-1 tvg-id="" tvg-name="ID: Tech Storm" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",Tech Storm
-http://iptvtree.net:8080/everton/7def2e7e/298572
-#EXTINF:-1 tvg-id="" tvg-name="ID: Thrill" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",Thrill
-http://iptvtree.net:8080/everton/7def2e7e/157580
-#EXTINF:-1 tvg-id="" tvg-name="ID: Animax" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",Animax
-http://iptvtree.net:8080/everton/7def2e7e/165081
-#EXTINF:-1 tvg-id="" tvg-name="ID: AniPlus" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",AniPlus
-http://iptvtree.net:8080/everton/7def2e7e/298504
-#EXTINF:-1 tvg-id="" tvg-name="ID: AXN" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",AXN
-http://iptvtree.net:8080/everton/7def2e7e/165079
-#EXTINF:-1 tvg-id="" tvg-name="ID: Hits" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",Hits
-http://iptvtree.net:8080/everton/7def2e7e/165085
-#EXTINF:-1 tvg-id="" tvg-name="ID: Hits Movies" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",Hits Movies
-http://iptvtree.net:8080/everton/7def2e7e/221947
-#EXTINF:-1 tvg-id="" tvg-name="ID: K+" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",K+
-http://iptvtree.net:8080/everton/7def2e7e/197969
-#EXTINF:-1 tvg-id="" tvg-name="ID: KBS World" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",KBS World
-http://iptvtree.net:8080/everton/7def2e7e/197053
-#EXTINF:-1 tvg-id="" tvg-name="ID: Sony One" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",Sony One
-http://iptvtree.net:8080/everton/7def2e7e/165077
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVN" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",TVN
-http://iptvtree.net:8080/everton/7def2e7e/197965
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVN Movies" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",TVN Movies
-http://iptvtree.net:8080/everton/7def2e7e/157596
-#EXTINF:-1 tvg-id="" tvg-name="ID: Vision Prime" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",Vision Prime
-http://iptvtree.net:8080/everton/7def2e7e/197958
-#EXTINF:-1 tvg-id="" tvg-name="ID: Warner TV" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",Warner TV
-http://iptvtree.net:8080/everton/7def2e7e/157594
-#EXTINF:-1 tvg-id="" tvg-name="ID: Zee Bioskop" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",Zee Bioskop
-http://iptvtree.net:8080/everton/7def2e7e/157584
-#EXTINF:-1 tvg-id="" tvg-name="ID: KIX" tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@MOVIES|Indonesia",KIX
-http://iptvtree.net:8080/everton/7def2e7e/165068
 
 
 
@@ -1220,47 +1126,7 @@ http://210.210.155.35/uq2663/h/h126/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4c
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",INDONESIAna TV
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Kompas.TV(MPD(telkom)
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Magna.Channel(MPD(telkom)
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Metro.TV(MPD(telkom)
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",SEA.Today(MPD(telkom)
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",RODJA TV (MPD)(telkom)
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯", UseePrime (MPD(telkom)
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯", JTV (MPD)(telkom)
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",DIGIONE MAXstream (MPD)(telkom)
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",RTV (MPD)(telkom)
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯", Bali TV (MPD)(telkom)
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",iNews_TV_play
-http://198.16.100.90:8278/Inewstv/playlist.m3u8?tid=ME1E8983653189836531&ct=19249&tsum=94c9e0a29f266dea3d3ed307954ed91a
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Vision_Prime_play
-http://198.16.100.90:8278/VisionPrime/playlist.m3u8?tid=MAFA7925284679252846&ct=19249&tsum=775468fd4a124f17bdd61e9147b32ea9
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Tvone_play
-http://198.16.100.90:8278/Tvone/playlist.m3u8?tid=MB8B7419376174193761&ct=19249&tsum=a00bd93ffc12fe4d1c9aa4c996a10679
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",TvN_play
-http://198.16.100.90:8278/TVN/playlist.m3u8?tid=ME8E2207086222070862&ct=19249&tsum=b7f602e68174a03e917c7b354788bce9
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Transtv_play
-http://198.16.100.90:8278/Transtv/playlist.m3u8?tid=MCFC2537709525377095&ct=19249&tsum=dcb22c095fc52f971f7dea381f456a43
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Trans_7_play
-http://198.16.100.90:8278/Trans7_eko/playlist.m3u8?tid=MABA8459856784598567&ct=19249&tsum=355af3a5c5bdf35204c638fb2076d199
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",TVRI_National_play
-http://198.16.100.90:8278/TVRI/playlist.m3u8?tid=MBEB3773542337735423&ct=19249&tsum=9a00b24e2d7d7ac6a58ce692c2147e2e
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",SCTV_play
-http://198.16.100.90:8278/Sctv/playlist.m3u8?tid=MEAE5576803555768035&ct=19249&tsum=22cd08338943a038eb9a5bcf2ff7cba3
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",RCTI_play
-http://198.16.100.90:8278/Rcti/playlist.m3u8?tid=MC2C8104265481042654&ct=19249&tsum=a03f74405124dc54a0e467a91f2afe8d
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Metro_TV_play
-http://198.16.100.90:8278/metrotv_eko/playlist.m3u8?tid=MF8F5976470059764700&ct=19249&tsum=480db4ba88eb5616ddfdd41839efb81b
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",GARUDA
 http://edge.linknetott.swiftserve.com/channelgroup1/cg002production/ch45/02.m3u8
@@ -4365,106 +4231,6 @@ http://toh-users.xyz:8080/42204120/16250164/791846
 http://toh-users.xyz:8080/42204120/16250164/791847 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@PREMIER_LEAGUE_REPLAY",PremierLeague Replay 10 ᴴᴰ 
 http://toh-users.xyz:8080/42204120/16250164/791848
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",Indosiar
-http://iptvtree.net:8080/everton/7def2e7e/162138
-#EXTINF:-1 tvg-id="" tvg-name="ID: INews" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",INews
-http://iptvtree.net:8080/everton/7def2e7e/157579
-#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",Moji
-http://iptvtree.net:8080/everton/7def2e7e/298550
-#EXTINF:-1 tvg-id="" tvg-name="ID: RCTI" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg"  group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",RCTI
-http://iptvtree.net:8080/everton/7def2e7e/157591
-#EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",SCTV
-http://iptvtree.net:8080/everton/7def2e7e/162141
-#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 1" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",ID:beINSports 1
-http://iptvtree.net:8080/everton/7def2e7e/165105
-#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 3" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",ID:beINSports 3
-http://iptvtree.net:8080/everton/7def2e7e/298506
-#EXTINF:-1 tvg-id="" tvg-name="ID: SpoTV" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",ID:SpoTV
-http://iptvtree.net:8080/everton/7def2e7e/298570
-#EXTINF:-1 tvg-id="" tvg-name="ID: SpoTV 2" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",ID:SpoTV 2
-http://iptvtree.net:8080/everton/7def2e7e/298571
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Sport" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",ID:TVRI Sport
-http://iptvtree.net:8080/everton/7def2e7e/166686
-#EXTINF:-1 tvg-id="" tvg-name="ID: Usee Prime" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",ID:Usee Prime
-http://iptvtree.net:8080/everton/7def2e7e/162524
-#EXTINF:-1 tvg-id="" tvg-name="ID: Usee Sport 1" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",ID:UseeSport 1
-http://iptvtree.net:8080/everton/7def2e7e/298577
-#EXTINF:-1 tvg-id="" tvg-name="ID: Usee Sport 2" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",ID:UseeSport 2
-http://iptvtree.net:8080/everton/7def2e7e/298578
-#EXTINF:-1 tvg-id="" tvg-name="ID: 01. ETV Live Event" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",ETV Live Event
-http://iptvtree.net:8080/everton/7def2e7e/298491
-#EXTINF:-1 tvg-id="" tvg-name="ID: 02. ETV Live Event 02" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",ETV Live Event 02
-http://iptvtree.net:8080/everton/7def2e7e/298292
-#EXTINF:-1 tvg-id="" tvg-name="ID: Fight Sport" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",ID:FightSport
-http://iptvtree.net:8080/everton/7def2e7e/298531
-#EXTINF:-1 tvg-id="" tvg-name="ID: MNC Sports" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",Sportstar_1
-http://iptvtree.net:8080/everton/7def2e7e/157589
-#EXTINF:-1 tvg-id="" tvg-name="ID: MNC Sports 2" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",Sportstar_2
-http://iptvtree.net:8080/everton/7def2e7e/298548
-#EXTINF:-1 tvg-id="" tvg-name="ID: MNC Sports 3" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",Sportstar_3
-http://iptvtree.net:8080/everton/7def2e7e/298549
-#EXTINF:-1 tvg-id="" tvg-name="ID: NBA TV" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",ID:NBA TV
-http://iptvtree.net:8080/everton/7def2e7e/298558
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Arena" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",MY:Astro Arena
-http://iptvtree.net:8080/everton/7def2e7e/157485
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Cricket" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",MY:Astro_Cricket
-http://iptvtree.net:8080/everton/7def2e7e/157565
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",MY:Astro SuperSport
-http://iptvtree.net:8080/everton/7def2e7e/146068
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",MY:Astro SuperSport 2
-http://iptvtree.net:8080/everton/7def2e7e/157556
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",MY:Astro SuperSport 3
-http://iptvtree.net:8080/everton/7def2e7e/157557
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",MY:Astro SuperSport 4
-http://iptvtree.net:8080/everton/7def2e7e/157558
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 5" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",MY:Astro SuperSport 5
-http://iptvtree.net:8080/everton/7def2e7e/287792
-#EXTINF:-1 tvg-id="" tvg-name="MY: beIN Sports" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",MY:beINSports
-http://iptvtree.net:8080/everton/7def2e7e/157561
-#EXTINF:-1 tvg-id="" tvg-name="MY: FOX SPORTS 2" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",MY:FOXSPORTS 2
-http://iptvtree.net:8080/everton/7def2e7e/157488
-#EXTINF:-1 tvg-id="" tvg-name="TH: True Premier Football 1" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",TruePremier Football 1
-http://iptvtree.net:8080/everton/7def2e7e/162591
-#EXTINF:-1 tvg-id="" tvg-name="TH: True Sport 4" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",TrueSport 4
-http://iptvtree.net:8080/everton/7def2e7e/285569
-#EXTINF:-1 tvg-id="" tvg-name="TH: True Vision NBA" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",True Vision NBA
-http://iptvtree.net:8080/everton/7def2e7e/281638
-#EXTINF:-1 tvg-id="" tvg-name="TH: PPTV 36" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",TH:PPTV 36
-http://iptvtree.net:8080/everton/7def2e7e/281639
-#EXTINF:-1 tvg-id="" tvg-name="PH: beIN Sports 1" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",PH:beINSports 1
-http://iptvtree.net:8080/everton/7def2e7e/282772
-#EXTINF:-1 tvg-id="" tvg-name="PH: beIN Sports 3" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",PH:beINSports 3
-http://iptvtree.net:8080/everton/7def2e7e/266844
-#EXTINF:-1 tvg-id="" tvg-name="PH: One Sports" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",PH:One Sports
-http://iptvtree.net:8080/everton/7def2e7e/299947
-#EXTINF:-1 tvg-id="" tvg-name="PH: One Sports +" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",PH:One Sports +
-http://iptvtree.net:8080/everton/7def2e7e/290365
-#EXTINF:-1 tvg-id="" tvg-name="PH: Premier Sports" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",PH:PremierSports
-http://iptvtree.net:8080/everton/7def2e7e/299965
-#EXTINF:-1 tvg-id="" tvg-name="PH: TAP Sports" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",PH:TAP Sports
-http://iptvtree.net:8080/everton/7def2e7e/299945
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Six" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",Sony Six
-http://iptvtree.net:8080/everton/7def2e7e/4853
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 1" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",Sony Sports Ten 1
-http://iptvtree.net:8080/everton/7def2e7e/16622
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 2" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",Sony Sports Ten 2
-http://iptvtree.net:8080/everton/7def2e7e/16621
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 3" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",Sony Sports Ten 3
-http://iptvtree.net:8080/everton/7def2e7e/56191
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 1" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",StarSports 1
-http://iptvtree.net:8080/everton/7def2e7e/3630
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 2" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",StarSports 2
-http://iptvtree.net:8080/everton/7def2e7e/3631
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 3" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",StarSports 3
-http://iptvtree.net:8080/everton/7def2e7e/62584
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 1" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",StarSports Select 1
-http://iptvtree.net:8080/everton/7def2e7e/82628
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 2" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",StarSports Select 2
-http://iptvtree.net:8080/everton/7def2e7e/16619
-
 
 
 
