@@ -439,21 +439,9 @@ https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.co
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [Astro] BOO
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/108
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [Astro] HBO
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/104
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [Astro] HBO Family
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/105
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [Astro] HBO Signature
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/103
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [Astro] Cinemax
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/106
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [Astro] AXN
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/107
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [Astro] TVN
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/109
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", iQIYI HD [Astro]
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/141
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [Astro]-Prima HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [Astro]-celes HD
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/48
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [Astro] 8TV HD
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/49
@@ -487,24 +475,12 @@ http://gmlive.ddns.net:5000/kun5g/kun5g2024/22
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/61
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Rock Entertainment HD
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/62
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", ZEE CINEMA HD [Astro]
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/87
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", STAR WORLD
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/143
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", STAR MOVIES HD
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/144
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [Astro] WARNA HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/146
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [Astro] Oasis HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/145
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [Astro] Rania HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/147
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [Astro] ONE HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/148
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", SONY MOVIES [English SUB]
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/32
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", HITS [English SUB]
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/24
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", HITS MOVIES [English SUB]
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/25
 
