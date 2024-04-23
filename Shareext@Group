@@ -181,28 +181,38 @@ http://xtv.ooo:8080/live/T4S00515/820172/350958.ts
 
 #EXTINF:-1 tvg-id="T-Sports7.th" group-title="ShareExt@Relax" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://i.imgur.com/hnfiUbK.png",T-Sports7
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8|user-agent=Shareext/5.0
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SOCCER~CHANNELL_🇮🇩
-https://s.id/soccer_channel_shareext-ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SOCCER~2_CHANNELL_🇮🇩
-https://s.id/soccer-xtra_shareext-ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",BEINSPORTS~1_🇮🇩
+http://xtv.ooo:8080/MansoorWapda/258741/350900
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",BEINSPORTS~3_🇮🇩
+http://xtv.ooo:8080/MansoorWapda/258741/350901
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SPORTSTARS_🇮🇩
-https://maper.info/SPORSTAR1_shareext_ts
+http://xtv.ooo:8080/MansoorWapda/258741/350993
+#https://maper.info/SPORSTAR1_shareext_ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SPORTSTARS_2_🇮🇩
-https://maper.info/SportStart2_shareext
+http://xtv.ooo:8080/MansoorWapda/258741/350994
+#https://maper.info/SportStart2_shareext
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SPORTSTARS_3_🇮🇩
-https://maper.info/StarSport3_shareext
+http://xtv.ooo:8080/MansoorWapda/258741/350995
+#https://maper.info/StarSport3_shareext
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SPOTV_🇮🇩
-https://maper.info/SPOTV_shareext
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SPOTV_KVISION_🇮🇩
-https://maper.info/SPOTV_kvision_shareext_ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SPOTV•2_KVISION_🇮🇩
-https://maper.info/SPOTV_2_kvision_shareext_ts
+http://xtv.ooo:8080/MansoorWapda/258741/351034
+#https://maper.info/SPOTV_shareext
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SPOTV•2_🇮🇩
+http://xtv.ooo:8080/MansoorWapda/258741/351035
+#https://maper.info/SPOTV_2_kvision_shareext_ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",RCTI_🇮🇩
-https://maper.info/RCTI_shareext_ts
+http://xtv.ooo:8080/MansoorWapda/258741/351023
+#https://maper.info/RCTI_shareext_ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",INEWS_🇮🇩
-https://maper.info/INEWS_shareext
+http://xtv.ooo:8080/MansoorWapda/258741/350973
+#https://maper.info/INEWS_shareext
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",GTV_🇮🇩
-https://maper.info/GTV_shareext_ts
+http://xtv.ooo:8080/MansoorWapda/258741/350954
+#https://maper.info/GTV_shareext_ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",MNCTV_🇮🇩
+http://xtv.ooo:8080/MansoorWapda/258741/350996
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",ONE SPORTS+_PH
+http://xtv.ooo:8080/MansoorWapda/258741/352626
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",Okey🇲🇾_maper
 https://maper.info/OKEY_shareext
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",Rtm_Sukan🇲🇾_maper
