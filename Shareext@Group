@@ -5679,8 +5679,17 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/6063a9ba-71aa-44f2-bdcf-0eb1cabf7b34/2.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",TYC sports
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US ESPN 1 (HD) " tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="SHAREEXT@Canais de Esportes",ESPN_STAR+
+http://168.227.22.18:1935/live/mobile-007/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",Chingurinto.Madrid
+http://168.227.22.18:1935/live/mobile-008/playlist.m3u8
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US Fox Sports 1 " tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png" group-title="SHAREEXT@Canais de Esportes",Foxsports_vivo
+http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
 
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US Fox Sports 1 " tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png" group-title="SHAREEXT@Canais de Esportes"US_FoxSports 1
+
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US Fox Sports 1 " tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png" group-title="SHAREEXT@Canais de Esportes",US_FoxSports 1
 http://tvstar.icu:8080/champion/champion/1846
 #EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US Fox Sports 2 (A)" tvg-logo="https://gostreamtv.com/wp-content/uploads/channel-logos/foxs2.png" group-title="SHAREEXT@Canais de Esportes",US_Foxports 2 (A)
 http://tvstar.icu:8080/champion/champion/1847
@@ -5708,49 +5717,6 @@ http://tvstar.icu:8080/champion/champion/2210
 http://tvstar.icu:8080/champion/champion/10255
 #EXTINF:-1 tvg-id="spectrum.sportsnet.us" tvg-name="US Spectrum SportsNet Lakers (FHD) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Spectrum_Sports_logo.png" group-title="SHAREEXT@Canais de Esportes",US_Spectrum SportsNet Lakers (FHD) 
 http://tvstar.icu:8080/champion/champion/20946
-
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTE 1" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/fef-seleccion-ecuador-logo-0.png" group-title="SHAREEXT@Canais de Esportes",DEPORTE 1
-http://redima.pro:8880/1315808517/1315808517/302
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTE 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/fef-seleccion-ecuador-logo-0.png" group-title="SHAREEXT@Canais de Esportes",DEPORTE 2
-http://redima.pro:8880/1315808517/1315808517/301
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTE 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/fef-seleccion-ecuador-logo-0.png" group-title="SHAREEXT@Canais de Esportes",DEPORTE 3
-http://redima.pro:8880/1315808517/1315808517/300
-#EXTINF:-1 tvg-id="" tvg-name="GOL TV ECU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title="SHAREEXT@Canais de Esportes",GOL TV ECUADOR
-http://redima.pro:8880/1315808517/1315808517/569
-#EXTINF:-1 tvg-id="" tvg-name="GOL TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title="SHAREEXT@Canais de Esportes",GOL TV 
-http://redima.pro:8880/1315808517/1315808517/570
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="SHAREEXT@Canais de Esportes",ESPN
-http://redima.pro:8880/1315808517/1315808517/571
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://pbs.twimg.com/media/EWs-iniWkAAOVOh.jpg" group-title="SHAREEXT@Canais de Esportes",ESPN 2
-http://redima.pro:8880/1315808517/1315808517/312
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://static.epg.best/ar/ESPN3.ar.png" group-title="SHAREEXT@Canais de Esportes",ESPN 3
-http://redima.pro:8880/1315808517/1315808517/573
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title="SHAREEXT@Canais de Esportes",ESPN 4
-http://redima.pro:8880/1315808517/1315808517/574
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://static.epg.best/ar/612DTS2.ar.png" group-title="SHAREEXT@Canais de Esportes",DIRECTV SPORTS 2
-http://redima.pro:8880/1315808517/1315808517/575
-#EXTINF:-1 tvg-id="" tvg-name="TUDN MEXICO +" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="SHAREEXT@Canais de Esportes",TUDN MEXICO +
-http://redima.pro:8880/1315808517/1315808517/579
-#EXTINF:-1 tvg-id="" tvg-name="TUDN MEXICO" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="SHAREEXT@Canais de Esportes",TUDN MEXICO
-http://redima.pro:8880/1315808517/1315808517/578
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT" tvg-logo="https://static.epg.best/co/DirectvSportsPlus.co.png" group-title="SHAREEXT@Canais de Esportes",DIRECTV SPORT
-http://redima.pro:8880/1315808517/1315808517/576
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT 2" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/101.png" group-title="SHAREEXT@Canais de Esportes",DIRECTV SPORT 2
-http://redima.pro:8880/1315808517/1315808517/323
-#EXTINF:-1 tvg-id="" tvg-name="GOL TV" tvg-logo="https://cdn.mitvstatic.com/channels/co_nba-tv-hd_m.png" group-title="SHAREEXT@Canais de Esportes",GOL TV_latino
-http://redima.pro:8880/1315808517/1315808517/317
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="SHAREEXT@Canais de Esportes",WIN SPORTS  
-http://redima.pro:8880/1315808517/1315808517/316
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="https://static.epg.best/ar/TYCSports.ar.png" group-title="SHAREEXT@Canais de Esportes",TYC SPORTS
-http://redima.pro:8880/1315808517/1315808517/313
-#EXTINF:-1 tvg-id="" tvg-name="││EC││CANAL DEL FUTBOL" tvg-logo="https://cnt-media.boxqos.com/consumer/canals/canal-del-futbol/logo/canal-del-futbol-logo.png" group-title="SHAREEXT@Canais de Esportes",││EC││CANAL DEL FUTBOL
-http://redima.pro:8880/1315808517/1315808517/311
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="SHAREEXT@Canais de Esportes",FOXSPORT
-http://redima.pro:8880/1315808517/1315808517/326
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="SHAREEXT@Canais de Esportes",FOXSPORT 2
-http://redima.pro:8880/1315808517/1315808517/327
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="SHAREEXT@Canais de Esportes",FOXSPORT 3
-http://redima.pro:8880/1315808517/1315808517/329
 
 #EXTINF: -1 tvg-id="Vesportiva.br" tvg-chno="105" tvg-logo="https://yt3.googleusercontent.com/btu6HWDl-raFdsF0Qi4S-TBze48fsIWOJX1tvVSqLJo3sgJ0kNor1E3NlGuhetoCdC6lFiT_bA=s900-c-k-c0x00ffffff-no-rj" group-title="SHAREEXT@Canais de Esportes", Vitrine Esportiva
 https://cdn.jmvstream.com/w/AVJ-12930/playlist/playlist.m3u8
