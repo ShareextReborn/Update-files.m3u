@@ -3414,39 +3414,31 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/60896d5647a23d1949
 https://director.streaming.telia.com/tvm-packager-prod/group2/60ae45e51522bd66f469461b/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="SHAREEXT@FIFA+|ESPN+", Fifa+ 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="SHAREEXT@FIFA+|PREMIER_SPORTS", Fifa+ 1
 https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="SHAREEXT@FIFA+|ESPN+", Fifa+ 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="SHAREEXT@FIFA+|PREMIER_SPORTS", Fifa+ 2
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="SHAREEXT@FIFA+|ESPN+", Fifa+ 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="SHAREEXT@FIFA+|PREMIER_SPORTS", Fifa+ 3
 https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="SHAREEXT@FIFA+|ESPN+", Fifa+ 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="SHAREEXT@FIFA+|PREMIER_SPORTS", Fifa+ 4
 https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="SHAREEXT@FIFA+|ESPN+", Fifa+ 5
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="SHAREEXT@FIFA+|PREMIER_SPORTS", Fifa+ 5
 https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="SHAREEXT@FIFA+|ESPN+" , FIFA+ 6
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="SHAREEXT@FIFA+|PREMIER_SPORTS" , FIFA+ 6
 https://i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9qCWlnhgnAO8LHnEFgH6VhP14EImmDZ54Q&usqp=CAU" group-title="SHAREEXT@FIFA+|ESPN+", ESPN+ 1
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519359_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9qCWlnhgnAO8LHnEFgH6VhP14EImmDZ54Q&usqp=CAU" group-title="SHAREEXT@FIFA+|ESPN+", ESPN+ 2
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519360_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9qCWlnhgnAO8LHnEFgH6VhP14EImmDZ54Q&usqp=CAU" group-title="SHAREEXT@FIFA+|ESPN+", ESPN+ 3
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519361_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9qCWlnhgnAO8LHnEFgH6VhP14EImmDZ54Q&usqp=CAU" group-title="SHAREEXT@FIFA+|ESPN+", ESPN+ 4
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519362_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9qCWlnhgnAO8LHnEFgH6VhP14EImmDZ54Q&usqp=CAU" group-title="SHAREEXT@FIFA+|ESPN+", ESPN+ 5
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519363_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9qCWlnhgnAO8LHnEFgH6VhP14EImmDZ54Q&usqp=CAU" group-title="SHAREEXT@FIFA+|ESPN+", ESPN+ 6
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519364_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9qCWlnhgnAO8LHnEFgH6VhP14EImmDZ54Q&usqp=CAU" group-title="SHAREEXT@FIFA+|ESPN+", ESPN+ 7
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519365_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9qCWlnhgnAO8LHnEFgH6VhP14EImmDZ54Q&usqp=CAU" group-title="SHAREEXT@FIFA+|ESPN+", ESPN+ 8
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519366_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9qCWlnhgnAO8LHnEFgH6VhP14EImmDZ54Q&usqp=CAU" group-title="SHAREEXT@FIFA+|ESPN+", ESPN+ 9
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519367_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9qCWlnhgnAO8LHnEFgH6VhP14EImmDZ54Q&usqp=CAU" group-title="SHAREEXT@FIFA+|ESPN+", ESPN+ 10
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519368_&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/110/110-LOGO-m.png" group-title="SHAREEXT@FIFA+|PREMIER_SPORTS",Premier~Sports 1 
+http://202.21.104.6:88/sps-prime/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/847/847-LOGO-m.png" group-title="SHAREEXT@FIFA+|PREMIER_SPORTS",Premier~Sports 2 
+http://202.21.104.6:88/sps-play/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/848/848-LOGO-m.png" group-title="SHAREEXT@FIFA+|PREMIER_SPORTS",Premier~Sports 3 
+http://202.21.104.6:88/sps-world/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/849/849-LOGO-m.png" group-title="SHAREEXT@FIFA+|PREMIER_SPORTS",Premier~Sports 4 
+http://202.21.104.6:88/sps-action/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/850/850-LOGO-m.png" group-title="SHAREEXT@FIFA+|PREMIER_SPORTS",Premier~Sports 5 
+http://202.21.104.6:88/sps-plus/index.m3u8
+
+
 
 
 
