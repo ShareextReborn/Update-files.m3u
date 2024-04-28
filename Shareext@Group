@@ -225,7 +225,7 @@ https://af.ayas.ir/hls2/aiosport2.m3u8
 http://iptvtree.net:8080/F14995/a84c0963/299989
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",Aio Sport 2
 http://iptvtree.net:8080/F14995/a84c0963/299990
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR FHD" tvg-logo="https://i.postimg.cc/tRkjgrmW/indo22.png" group-title="ShareExt@Relax",INDOSIAR FHD
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR FHD" tvg-logo="https://i.ibb.co/stL6b6b/INDOSIAR-PPI-IP-TV.png" group-title="ShareExt@Relax",INDOSIAR FHD
 https://s.id/indosiar-fhd_king_shareext-ts
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://i.ibb.co/stL6b6b/INDOSIAR-PPI-IP-TV.png" group-title="ShareExt@Relax",ID:Indosiar HD
 https://s.id/indosiar-hd-king_shareext-ts
@@ -8814,50 +8814,16 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-id="DLTV15.th" tvg-logo="https://i.imgur.com/onJi2b6.png" group-title="SHAREEXT@THAiLandTv",DLTV 15
 https://cdn-live.dltv.ac.th/dltv15.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv",CTB(1080p)
-http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv",NBT Bangkok(1080p)
-http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv",News1
 http://news1.live14.com/stream/news1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv",ThaiPBS3
-https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv",ThaiPBS3(1080p)
-https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv",ThaiPBS3(720p)
-https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv",ThairathTV 32
-https://live.thairath.co.th/trtv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv",ThairathTV32(720p)
-https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv",WhiteChannel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv",News1(hi)
-http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv",bTV News
-http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv",NBT Bangkok(p)
-http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv",NBT Bangkok(c)
-http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv",NBT Central
-http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv",ThaiPBS(480p)
-http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv",ThaiPBS(720p)
-http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv",ThaiPBS3(1080)
-http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv",Thai PBS 3
 https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv",Yateem TV (New!)
 https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv",Thai PBS 3 HD
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv",Wild Earth
-https://wildearth-roku.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv",XPLORE
-https://xplore-roku.amagi.tv/playlist720-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv",CNN indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1649997259_b384000_sleng.m3u8
 
@@ -8942,37 +8908,7 @@ https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="vtc1hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png", VTC1 HD
-https://1117141481.vnns.net/VTC1/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc2" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://cdn.hqth.me/logo/thumbs/33.png", VTC2
-https://1117141481.vnns.net/VTC2/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc3hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://cdn.hqth.me/logo/thumbs/34.png", VTC3 HD
-https://1117141481.vnns.net/VTC3/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc4" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://cdn.hqth.me/logo/thumbs/35.png", VTC4
-https://1117141481.vnns.net/VTC4/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc5hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://cdn.hqth.me/logo/thumbs/36.png", VTC5 HD
-https://1117141481.vnns.net/VTC5/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc6" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://cdn.hqth.me/logo/thumbs/37.png", VTC6
-https://1117141481.vnns.net/VTC6/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc7hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://cdn.hqth.me/logo/thumbs/38.png", VTC7 HD
-https://1117141481.vnns.net/VTC7/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc8" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://cdn.hqth.me/logo/thumbs/39.png", VTC8
-https://1117141481.vnns.net/VTC8/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc9hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://cdn.hqth.me/logo/thumbs/40.png", VTC9 HD
-https://1117141481.vnns.net/VTC9/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc10" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://cdn.hqth.me/logo/thumbs/41.png", VTC10
-https://1117141481.vnns.net/VTC10/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc11hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://cdn.hqth.me/logo/thumbs/42.png", VTC11 HD
-https://1117141481.vnns.net/VTC11/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc12" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://cdn.hqth.me/logo/thumbs/43.png", VTC12
-https://1117141481.vnns.net/VTC12/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc13hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://cdn.hqth.me/logo/thumbs/44.png", VTC13 HD
-https://1117141481.vnns.net/VTC13/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc14" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://cdn.hqth.me/logo/thumbs/45.png", VTC14
-https://1117141481.vnns.net/VTC14/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc16hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://cdn.hqth.me/logo/thumbs/46.png", VTC16 HD
-https://1117141481.vnns.net/VTC16/playlist.m3u8
-#EXTINF:0 tvg-id="antvhd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/07/pknvvkab_antvfe67960f142384f3dd9222fff08e9654_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
+#EXTINF:-1 tvg-id="antvhd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/07/pknvvkab_antvfe67960f142384f3dd9222fff08e9654_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
 #EXTVLCOPT:http-user-agent="Khanggne"
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/6gx5feuu_vnews_296_168.webp" ,VNews HD
@@ -9093,6 +9029,35 @@ http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
 http://203.176.130.123:8989/live/apsaratv_480k.stream/playlist.m3u8
 
 
+
+
+
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png", Discovery Kids Hindi
+https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://pbs.twimg.com/profile_images/567474044560089088/CaQ_ZKMP_400x400.png", Al Horreya TV
+http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1280px-TLC_Logo_Germany.svg.png", TLC
+https://varun-iptv.netlify.app/m3u/TLC.m3u8
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png", Travel Channel
+https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072015/hgtv.png?itok=9mkH6jTn", HGTV
+https://varun-iptv.netlify.app/m3u/HGTV.m3u8
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png", Food Network
+https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png", Discovery Channel
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://media-prod.press.discovery.com/ugc/logos/2012/12/19/Science-logo-horizontal.jpg", Discovery Science
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png", Discovery Turbo
+https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/InvestigationDiscovery.png", Investigation Discovery
+https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2019/07/dmax-vector-logo.png", DMAX
+https://varun-iptv.netlify.app/m3u/DMAX.m3u8
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://centaur-wp.s3.eu-central-1.amazonaws.com/designweek/prod/content/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg", Animal Planet
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eurosport_logo_%282001-2011%29.svg/2560px-Eurosport_logo_%282001-2011%29.svg.png", Eurosport
+https://varun-iptv.netlify.app/m3u/Eurosport.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg' group-title="SHAREEXT@TEVE•INDIA",One_Golf(Pakistan)
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
