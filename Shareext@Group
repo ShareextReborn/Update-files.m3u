@@ -7960,83 +7960,214 @@ https://dai.google.com/linear/hls/event/1FTmFXC8Q5qFG7CZ0oaJXA/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",石家庄都市
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv-4k
+http://guot55.serv00.net/ysp2.php?id=cctv4k
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv-8k
+http://guot55.serv00.net/ysp2.php?id=cctv8k
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv1
+http://guot55.serv00.net/ysp2.php?id=cctv1
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv2
+http://guot55.serv00.net/ysp2.php?id=cctv2
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv3(vip)
+http://guot55.serv00.net/ysp2.php?id=cctv3
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv4
+http://guot55.serv00.net/ysp2.php?id=cctv4
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv5
+http://guot55.serv00.net/ysp2.php?id=cctv5
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv5+
+http://guot55.serv00.net/ysp2.php?id=cctv5p
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv6(vip)
+http://guot55.serv00.net/ysp2.php?id=cctv6
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv7
+http://guot55.serv00.net/ysp2.php?id=cctv7
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv8(vip)
+http://guot55.serv00.net/ysp2.php?id=cctv8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv9
+http://guot55.serv00.net/ysp2.php?id=cctv9
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV10
+http://guot55.serv00.net/ysp2.php?id=cctv10
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV11
+http://guot55.serv00.net/ysp2.php?id=cctv11
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV12
+http://guot55.serv00.net/ysp2.php?id=cctv12
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV13
+http://guot55.serv00.net/ysp2.php?id=cctv13
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV14
+http://guot55.serv00.net/ysp2.php?id=cctv14
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV15
+http://guot55.serv00.net/ysp2.php?id=cctv15
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV16
+http://guot55.serv00.net/ysp2.php?id=cctv16
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV16-4k(vip)
+http://guot55.serv00.net/ysp2.php?id=cctv16-4k
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV17
+http://guot55.serv00.net/ysp2.php?id=cctv17
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV兵器科技(vip)
+http://guot55.serv00.net/ysp2.php?id=bqkj
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV第一剧场(vip)
+http://guot55.serv00.net/ysp2.php?id=dyjc
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV怀旧剧场(vip)
+http://guot55.serv00.net/ysp2.php?id=hjjc
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV风云剧场(vip)
+http://guot55.serv00.net/ysp2.php?id=fyjc
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV风云音乐(vip)
+http://guot55.serv00.net/ysp2.php?id=fyyy
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV风云足球(vip)
+http://guot55.serv00.net/ysp2.php?id=fyzq
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV电视指南(vip)
+http://guot55.serv00.net/ysp2.php?id=dszn
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV女性时尚(vip)
+http://guot55.serv00.net/ysp2.php?id=nxss
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV央视文化精品(vip)
+http://guot55.serv00.net/ysp2.php?id=whjp
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV世界地理(vip)
+http://guot55.serv00.net/ysp2.php?id=sjdl
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV高尔夫网球(vip)
+http://guot55.serv00.net/ysp2.php?id=gefwq
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV央视台球(vip)
+http://guot55.serv00.net/ysp2.php?id=ystq
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV卫生健康(vip)
+http://guot55.serv00.net/ysp2.php?id=wsjk
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CGTN
+http://guot55.serv00.net/ysp2.php?id=cgtn
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CGTN纪录
+http://guot55.serv00.net/ysp2.php?id=cgtnjl
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CGTN西语
+http://guot55.serv00.net/ysp2.php?id=cgtne
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CGTN法语
+http://guot55.serv00.net/ysp2.php?id=cgtnf
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CGTN阿语
+http://guot55.serv00.net/ysp2.php?id=cgtna
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CGTN俄语
+http://guot55.serv00.net/ysp2.php?id=cgtnr
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",北京卫视
+http://guot55.serv00.net/ysp2.php?id=bjws
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",东方卫视
+http://guot55.serv00.net/ysp2.php?id=dfws
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",天津卫视
+http://guot55.serv00.net/ysp2.php?id=tjws
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",重庆卫视
+http://guot55.serv00.net/ysp2.php?id=cqws
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",黑龙江卫视
+http://guot55.serv00.net/ysp2.php?id=hljws
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",辽宁卫视
+http://guot55.serv00.net/ysp2.php?id=lnws
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",河北卫视
+http://guot55.serv00.net/ysp2.php?id=hbws
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",山东卫视
+http://guot55.serv00.net/ysp2.php?id=sdws
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",安徽卫视
+http://guot55.serv00.net/ysp2.php?id=ahws
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",河南卫视
+http://guot55.serv00.net/ysp2.php?id=hnws
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",湖北卫视
+http://guot55.serv00.net/ysp2.php?id=hubws
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",湖南卫视
+http://guot55.serv00.net/ysp2.php?id=hunws
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",江西卫视
+http://guot55.serv00.net/ysp2.php?id=jxws
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",江苏卫视
+http://guot55.serv00.net/ysp2.php?id=jsws
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",浙江卫视
+http://guot55.serv00.net/ysp2.php?id=zjws
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",东南卫视
+http://guot55.serv00.net/ysp2.php?id=dnws
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",广东卫视
+http://guot55.serv00.net/ysp2.php?id=gdws
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",深圳卫视
+http://guot55.serv00.net/ysp2.php?id=szws
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",广西卫视
+http://guot55.serv00.net/ysp2.php?id=gxws
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",贵州卫视
+http://guot55.serv00.net/ysp2.php?id=gzws
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",四川卫视
+http://guot55.serv00.net/ysp2.php?id=scws
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",新疆卫视
+http://guot55.serv00.net/ysp2.php?id=xjws
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",海南卫视
+http://guot55.serv00.net/ysp2.php?id=hinws
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",石家庄都市
 http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",石家庄生活
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",石家庄生活
 http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",石家庄娱乐
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",石家庄娱乐
 http://pluslive1.sjzntv.cn/yule/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",邯郸科教
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",邯郸科教
 https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",邯郸新闻
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",邯郸新闻
 https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",邯郸公共
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",邯郸公共
 https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="SHAREEXT@央视频道",浙江新闻
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="SHAREEXT@CHINA_STATION/央视频道",浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="SHAREEXT@央视频道",浙江国际
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="SHAREEXT@CHINA_STATION/央视频道",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="SHAREEXT@央视频道",浙江少儿
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="SHAREEXT@CHINA_STATION/央视频道",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江教科影视.png" group-title="SHAREEXT@央视频道",浙江教科
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江教科影视.png" group-title="SHAREEXT@CHINA_STATION/央视频道",浙江教科
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/之江记录.png" group-title="SHAREEXT@央视频道",之江纪录
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/之江记录.png" group-title="SHAREEXT@CHINA_STATION/央视频道",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png" group-title="SHAREEXT@央视频道",浙江民生
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png" group-title="SHAREEXT@CHINA_STATION/央视频道",浙江民生
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png" group-title="SHAREEXT@央视频道",浙江经济
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png" group-title="SHAREEXT@CHINA_STATION/央视频道",浙江经济
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="SHAREEXT@央视频道",浙江钱江
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="SHAREEXT@CHINA_STATION/央视频道",浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",丰宁综合
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",丰宁综合
 https://jwliveqxzb.hebyun.com.cn/fengningzonghe/fengningzonghe.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",任丘文娱
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",任丘文娱
 https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",兴隆综合
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",兴隆综合
 https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",云南卫视
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",云南卫视
 http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",青海卫视
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",青海卫视
 http://stream.qhbtv.com/qhws/sd/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",三沙卫视
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",三沙卫视
 https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",延边卫视
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",延边卫视
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",绍兴新闻综合
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",绍兴新闻综合
 http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",绍兴新闻综合
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",绍兴新闻综合
 http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8?zzhed
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",绍兴文化影院
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",绍兴文化影院
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",武义新闻综合
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",武义新闻综合
 http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",平湖新闻综合
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",平湖新闻综合
 http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",平湖民生休闲
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",平湖民生休闲
 http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",萧山新闻综合
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",萧山新闻综合
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",萧山生活频道
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",萧山生活频道
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",余杭综合频道
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",余杭综合频道
 http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",余杭未来E频道
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",余杭未来E频道
 http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",余姚新闻综合
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",余姚新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",余姚姚江文化
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",余姚姚江文化
 http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",嵊州新闻综合
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",嵊州新闻综合
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",诸暨新闻综合
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",诸暨新闻综合
 http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",上虞新闻综合
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",上虞新闻综合
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",上虞文化影院
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",上虞文化影院
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",上虞新商都
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",上虞新商都
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@央视频道",兰溪新闻综合
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",兰溪新闻综合
 http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
 
 
