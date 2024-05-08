@@ -55,15 +55,20 @@ http://gmlive.ddns.net:5000/kun5g/kun5g2024/142
 #EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax", [Astro]CRICKET
 https://z88.ubtvfans.com/live/rx3/1173/b9032b89cc136d03888b97ebd36f03aa/index.m3u8
 #EXTINF:-1 tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="ShareExt@Relax",Sony TEN 1 HD
-https://dai.google.com/ssai/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
+#https://dai.google.com/ssai/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 #EXTINF:-1 tvg-id="1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="ShareExt@Relax",Sony TEN 2 HD
-https://dai.google.com/ssai/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/192.ts
+#https://dai.google.com/ssai/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 #EXTINF:-1 tvg-id="1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="ShareExt@Relax",Sony TEN 3 HD
-https://dai.google.com/ssai/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
+#https://dai.google.com/ssai/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 #EXTINF:-1 tvg-id="1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="ShareExt@Relax",Sony TEN 4 HD
-https://dai.google.com/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+http://xtv.ooo:8080/live/7262771/7272772/167595.ts
+#https://dai.google.com/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 #EXTINF:-1 tvg-id="1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="ShareExt@Relax",Sony TEN 5 HD
-https://dai.google.com/ssai/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
+#https://dai.google.com/ssai/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",18 SPORT
 http://103.174.195.4:8000/play/a03q
