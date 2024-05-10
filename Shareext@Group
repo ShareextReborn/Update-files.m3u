@@ -19,7 +19,10 @@ http://ky-iptv.com:80/Nashj023/JFAhd336Pa/2276084.ts
 http://ky-iptv.com:80/Nashj023/JFAhd336Pa/1391046.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",🇭🇰_NOW.HK.PREMIER.SPORTS.2_HD
 http://ky-iptv.com:80/Nashj023/JFAhd336Pa/1391047.ts
-
+#EXTINF:-1   tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax", ID: SPOTV
+http://tr.redatvgold.com:80/live/0b14WRvtZckx/oW40Zf4h4t/1387255.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax", ID: CHAMPION-3
+http://tr.redatvgold.com:80/live/0b14WRvtZckx/oW40Zf4h4t/1387256.ts
 #EXTINF:-1   tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax", ID: CHAMPION-5
 http://xtv.ooo:8080/live/7262771/7272772/350877.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]True-PremierLeague 2HD
@@ -312,7 +315,9 @@ http://iptvtree.net:8080/F14995/a84c0963/299990
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar|xtv_owais
 http://xtv.ooo:8080/owais1/12345/350972
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar|redatv
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=994885&extension=m3u8
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=994885&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar|redatv.s2
+http://tr.redatvgold.com:80/live/0b14WRvtZckx/oW40Zf4h4t/994885.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar|cam
 http://shareext@cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=994885&extension=ts&play_indosiar
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar|z88
