@@ -25,6 +25,8 @@ http://tr.redatvgold.com:80/live/0b14WRvtZckx/oW40Zf4h4t/1387255.ts
 http://tr.redatvgold.com:80/live/0b14WRvtZckx/oW40Zf4h4t/1387256.ts
 #EXTINF:-1   tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax", ID: CHAMPION-5
 http://xtv.ooo:8080/live/7262771/7272772/350877.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]True-PremierLeague 1HD
+http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186563&extension=ts&play_shareext@premier1TH.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]True-PremierLeague 2HD
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/130
 #EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]True-PremierLeague 3HD
@@ -33,6 +35,10 @@ http://gmlive.ddns.net:5000/kun5g/kun5g2024/102
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/101
 #EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]TruePremier 5HD 
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/1
+#EXTINF:-1 tvg-id="" tvg-name="Sport TH 1 [THAI]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]True-SPORT 1HD
+http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186600&extension=ts&play_shareext@truesport1TH.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport HD TH 2 [THAI]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]True-SPORT 2HD
+http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186593&extension=ts&play_shareext@truesport2TH.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]True-SPORT 3HD
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/98
 #EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]True-SPORT 5HD
@@ -3129,7 +3135,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="SHAREEXT@MPD SPORT", UNIFI SPORTS HD
-https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg" group-title="SHAREEXT@MPD SPORT", Event MolaTV 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
