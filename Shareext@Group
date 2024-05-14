@@ -611,13 +611,34 @@ https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.co
 #EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.postimg.cc/8CyTM6g2/download-2024-01-19-T210600-559.png",Drama Hebat_MPD~OttNavigator
 https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", (Astro) BOO
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/108
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", (Astro) ASSP1-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/57
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", (Astro) ASSP2-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/58
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", (Astro) ASSP3-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/59
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", (Astro) ASSP4-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/60
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", (Astro) WWE-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/63
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [Astro] TVB Xing He
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/50
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", [Astro] QJ
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/92
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", SONY MOVIES [English SUB]
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/32
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", (Astro) Hua Hee Dai-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/52
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", (Astro) AEC-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/53
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", FTV-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/65
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", 姚江文化-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/66
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", 新闻综合-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/67
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: TV Alhijrah" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", TV Alhijrah 
 http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/856915
