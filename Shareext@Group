@@ -443,33 +443,34 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 https://s.id/indosiar-xtra_shareext-ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar.video.mytv
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-1|🇲🇨
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-1_LOKAL|🇲🇨
 https://s.id/indosiar1_shareext-xs
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-2|🇲🇨
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-2_HD|🇲🇨
 https://s.id/indosiar2hd_shareext-xs
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", ANTV|🇲🇨
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", ANTV_HD|🇲🇨
 https://s.id/antv_shareext-xs
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", TVONE|🇲🇨
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", TVONE_HD|🇲🇨
 https://s.id/tvone_shareext-xs
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", SCTV|🇲🇨
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", SCTV_HD|🇲🇨
 https://s.id/sctv_shareext-xs
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", TRANSTV|🇲🇨
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", TRANSTV_HD|🇲🇨
 https://s.id/transtv_shareext-xs
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", TRANS7|🇲🇨
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", TRANS7_HD|🇲🇨
 https://s.id/trans7_shareext-xs
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", RCTI|🇲🇨
-https://s.id/rcti_shareext-xs
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", MNCTV|🇲🇨
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", RCTI_HD|🇲🇨
+https://dik.si/RCTI_HD_shareext-xs
+#https://s.id/rcti_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", MNCTV_HD|🇲🇨
 https://s.id/mnctv_shareext-xs
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", GTV|🇲🇨
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", GTV_HD|🇲🇨
 https://s.id/gtv_shareext-xs
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", INEWS|🇲🇨
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", INEWS_HD|🇲🇨
 https://s.id/inews_shareext-xs
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", VTV|🇲🇨
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", VTV_HD|🇲🇨
 https://s.id/vtv_shareext-xs
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", MOJI|🇲🇨
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", MOJI_HD|🇲🇨
 https://s.id/moji_shareext-xs
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", MENTARI|🇲🇨
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", MENTARI_HD|🇲🇨
 https://s.id/mentari_shareext-xs
 
 #EXTI#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
