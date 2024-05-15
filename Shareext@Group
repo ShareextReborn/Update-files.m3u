@@ -443,6 +443,34 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 https://s.id/indosiar-xtra_shareext-ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar.video.mytv
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-1|🇲🇨
+https://s.id/indosiar1_shareext-xs
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-2|🇲🇨
+https://s.id/indosiar2hd_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", ANTV|🇲🇨
+https://s.id/antv_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", TVONE|🇲🇨
+https://s.id/tvone_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", SCTV|🇲🇨
+https://s.id/sctv_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", TRANSTV|🇲🇨
+https://s.id/transtv_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", TRANS7|🇲🇨
+https://s.id/trans7_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", RCTI|🇲🇨
+https://s.id/rcti_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", MNCTV|🇲🇨
+https://s.id/mnctv_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", GTV|🇲🇨
+https://s.id/gtv_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", INEWS|🇲🇨
+https://s.id/inews_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", VTV|🇲🇨
+https://s.id/vtv_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", MOJI|🇲🇨
+https://s.id/moji_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", MENTARI|🇲🇨
+https://s.id/mentari_shareext-xs
 
 #EXTI#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -587,6 +615,148 @@ http://rr1.dens.tv/h/h05/02.m3u8
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",Nature
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
+
+
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SOCCERTV|🇲🇨
+https://s.id/soccer_shareext-xs
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SPOTV|🇲🇨
+https://s.id/spotv_id_shareext-xs
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SPOTV-2|🇲🇨
+https://s.id/spotv2_id_shareext-xs
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SPORTSTAR-1|🇲🇨
+https://s.id/sportstar1_shareext-xs
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SPORTSTAR-2|🇲🇨
+https://s.id/sportstar2_shareext-xs
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SPORTSTAR-3|🇲🇨
+https://s.id/sportstar3_shareext-xs
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SPORTSTAR-4|🇲🇨
+https://s.id/sportstar4_shareext-xs
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",BEIN-1|🇲🇨
+https://s.id/bein1_id_shareext-xs
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",BEIN-3|🇲🇨
+https://s.id/bein3_id_shareext-xs
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",PEACOCK-PREMIERLIGA|🇬🇧
+https://s.id/ppl_shareext-xs
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",NOW-SPORTS-1|🇭🇰
+https://s.id/nowsports1_shareext-xs
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",NOW-SPORTS-2|🇭🇰
+https://s.id/nowsports2_shareext-xs
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",NOW-SPORTS-3|🇭🇰
+https://s.id/nowsports3_shareext-xs
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",ARENA-1|🇲🇾
+https://s.id/arena1_shareext-xs
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",ARENA-2|🇲🇾
+https://s.id/arena2_shareext-xs
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",ASTRO-SPORTS-1|🇲🇾
+https://s.id/assp1_shareext-xs
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",ASTRO-SPORTS-2|🇲🇾
+https://s.id/assp2_shareext-xs
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",ASTRO-SPORTS-3|🇲🇾
+https://s.id/assp3_shareext-xs
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",ASTRO-SPORTS-4|🇲🇾
+https://s.id/assp4_shareext-xs
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",ASTRO-CRICKET|🇲🇾
+https://s.id/astrocricket_shareext-xs
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",OKEY|🇲🇾
+https://s.id/okey_shareext-xs
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",OPTUS-1|🇦🇺
+https://s.id/optus1_shareext-xs
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",OPTUS-2|🇦🇺
+https://s.id/optus2_shareext-xs
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",OPTUS-3|🇦🇺
+https://s.id/optus3_shareext-xs
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",BIOSKOP ACTION
+https://s.id/b_action_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",BIOSKOP THRILLER
+https://s.id/b_thiller_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",BIOSKOP CHINA
+https://s.id/b_china_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",BIOSKOP BOOLYWOOD
+https://s.id/b_boolywood_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",BIOSKOP DRAMA FAMILY
+https://s.id/b_dramafamily_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",BIOSKOP HORROR
+https://s.id/b_horror_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",BIOSKOP INDONESIA
+https://s.id/b_indonesia_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",HBO 
+https://s.id/hbo_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",HBO SIGNATURE
+https://s.id/hbo_signature_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",HBO HITS
+https://s.id/hbo_hits_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",HBO FAMILY
+https://s.id/hbo_family_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",CINEMAX
+https://s.id/cinemax_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",CHINESES DRAMA
+https://s.id/chinesesdrama_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",CINEMACHI
+https://s.id/cinemachi_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",CINEMACHI ACTION
+https://s.id/cmachi_action_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",CINEMACHI MAX
+https://s.id/cmachi_max_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",CINEMACHI EXTRA
+https://s.id/cmachi_xtra_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",CINEMACHI KIDS
+https://s.id/cmachi_kids_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",[ASTRO] BOO
+https://s.id/boo_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",ASTRO] CERIA
+https://s.id/ceria_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",ASTRO] OASIS
+https://s.id/oasis_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",ASTRO] RANIA
+https://s.id/rania_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",ASTRO] AWESOME
+https://s.id/awesome_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",ASTRO] VASANTHAM
+https://s.id/vasantham_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",[ASTRO] SURIA_SG
+https://s.id/suria_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",CHANNEL U_SG
+https://s.id/chU_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",CHANNEL 8_SG
+https://s.id/ch8_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",CHANNEL 5_SG
+https://s.id/ch5_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",[ASTRO] AURA
+https://s.id/aura_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",[ASTRO] PREMIER
+https://s.id/astropremier_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",SHOWCASE MOVIE
+https://s.id/showcasemovie_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",CITRA DRAMA
+https://s.id/citradrama_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",DUNIA SINEMA
+https://s.id/duniasinema_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",GALAXY
+https://s.id/galaxy_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",GALAXY PREMIUM
+https://s.id/galaxypremium_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",MY CINEMA
+https://s.id/mycinema_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",MY CINEMA ASIA
+https://s.id/mycinemaasia_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",MY FAMILY
+https://s.id/myfamily_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",MY KIDZS
+https://s.id/mykidzs_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",CINEMA WORLDS
+https://s.id/cinemaworld_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",KIX
+https://s.id/kix_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",THRILL
+https://s.id/thriil_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",TVN
+https://s.id/tvn_shareext-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",TVN MOVIES
+https://s.id/tvnmovies_shareext-xs
 
 
 
@@ -8154,6 +8324,21 @@ http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
 
 
 
+
+
+
+#EXTINF:-1 group-title="SHAREEXT@SINGSPORE_Brunei_Station" tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg",AWESOME|🇸🇬
+https://s.id/awesome_shareext-xs
+#EXTINF:-1 group-title="SHAREEXT@SINGSPORE_Brunei_Station" tvg-id="Vasantham HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mediacorp_Vasantham_2023.svg/640px-Mediacorp_Vasantham_2023.svg.png",VASANTHAM|🇸🇬
+https://s.id/vasantham_shareext-xs
+#EXTINF:-1 group-title="SHAREEXT@SINGSPORE_Brunei_Station" tvg-id="Suria HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mediacorp_Suria_2023.svg/640px-Mediacorp_Suria_2023.svg.png",SURIA|🇸🇬
+https://s.id/suria_shareext-xs
+#EXTINF:-1 group-title="SHAREEXT@SINGSPORE_Brunei_Station" tvg-id="Channel U HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mediacorp_Channel_U_2023.svg/640px-Mediacorp_Channel_U_2023.svg.png",CHANNEL-U|🇸🇬
+https://s.id/chU_shareext-xs
+#EXTINF:-1 group-title="SHAREEXT@SINGSPORE_Brunei_Station" tvg-id="Channel 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/640px-Mediacorp_Channel_5_2023.svg.png",CHANNEL-5|🇸🇬
+https://s.id/ch5_shareext-xs
+#EXTINF:-1 group-title="SHAREEXT@SINGSPORE_Brunei_Station" tvg-id="Channel 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/640px-Mediacorp_Channel_8_2023.svg.png",CHANNEL-8|🇸🇬
+https://s.id/ch8_shareext-xs
 
 #EXTINF:-1 group-title="SHAREEXT@SINGSPORE_Brunei_Station" tvg-id="Suria HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mediacorp_Suria_2023.svg/640px-Mediacorp_Suria_2023.svg.png",Suria_MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
