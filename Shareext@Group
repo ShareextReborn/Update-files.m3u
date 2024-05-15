@@ -668,6 +668,30 @@ https://s.id/optus2_shareext-xs
 #EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",OPTUS-3|🇦🇺
 https://s.id/optus3_shareext-xs
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@PREMIUM✓SPORTS ", Indosiar(xtv)
+http://xtv.ooo:8080/RiyazMPT/433833/350972
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="ShareExt@PREMIUM✓SPORTS ", INews(xtv)
+http://xtv.ooo:8080/RiyazMPT/433833/350973
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="ShareExt@PREMIUM✓SPORTS", RCTI(xtv)
+http://xtv.ooo:8080/RiyazMPT/433833/351023
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="ShareExt@PREMIUM✓SPORTS", MNC TV(xtv)
+http://xtv.ooo:8080/RiyazMPT/433833/350996
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="ShareExt@PREMIUM✓SPORTS", SCTV(xtv)
+http://xtv.ooo:8080/RiyazMPT/433833/351030
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="ShareExt@PREMIUM✓SPORTS", Moji(xtv)
+http://xtv.ooo:8080/RiyazMPT/433833/350997
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/db1dfff49cbaffb6a323ce329f64a2f8.png" group-title="ShareExt@PREMIUM✓SPORTS", Mentari TV(xtv)
+http://xtv.ooo:8080/RiyazMPT/433833/350989
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="ShareExt@PREMIUM✓SPORTS", NBA TV(xtv)
+http://xtv.ooo:8080/RiyazMPT/433833/351009
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png" group-title="ShareExt@PREMIUM✓SPORTS", MNC Sports(xtv)
+http://xtv.ooo:8080/RiyazMPT/433833/350993
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a69bff38e05e469908d7e8190e1184eb.png" group-title="ShareExt@PREMIUM✓SPORTS", MNC Sports 2(xtv)
+http://xtv.ooo:8080/RiyazMPT/433833/350994
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e5b6a41ba121fd867a41a6e8ccf30b20.png" group-title="ShareExt@PREMIUM✓SPORTS", MNC Sports 3(xtv)
+http://xtv.ooo:8080/RiyazMPT/433833/350995
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",BIOSKOP ACTION
@@ -758,6 +782,22 @@ https://s.id/thriil_shareext-xs
 https://s.id/tvn_shareext-xs
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES",TVN MOVIES
 https://s.id/tvnmovies_shareext-xs
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES", Etv Bioskop(xtv)
+http://xtv.ooo:8080/RiyazMPT/433833/350941
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES", Etv Bioskop 02(xtv)
+http://xtv.ooo:8080/RiyazMPT/433833/350942
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES", Etv Bioskop 03(xtv)
+http://xtv.ooo:8080/RiyazMPT/433833/350943
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES", Etv Bioskop 04(xtv)
+http://xtv.ooo:8080/RiyazMPT/433833/350944
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES", Rock Action(xtv)
+http://xtv.ooo:8080/RiyazMPT/433833/351025
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES", Rock Entertaiment(xtv)
+http://xtv.ooo:8080/RiyazMPT/433833/351026
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@PREMIUM✓MOVIES", Rock Extreme(xtv)
+http://xtv.ooo:8080/RiyazMPT/433833/351027
+
 
 
 
