@@ -112,11 +112,15 @@ http://ky-iptv.com:80/Nashj023/JFAhd336Pa/2276084.ts
 http://ky-iptv.com:80/Nashj023/JFAhd336Pa/1391046.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",🇭🇰_NOW.HK.PREMIER.SPORTS.2_HD
 http://ky-iptv.com:80/Nashj023/JFAhd336Pa/1391047.ts
-#EXTINF:-1   tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax", ID: SPOTV
-http://tr.redatvgold.com:80/live/0b14WRvtZckx/oW40Zf4h4t/1387255.ts
-#EXTINF:-1   tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax", ID: CHAMPION-3
-http://tr.redatvgold.com:80/live/0b14WRvtZckx/oW40Zf4h4t/1387256.ts
-#EXTINF:-1   tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax", ID: CHAMPION-5
+#EXTINF:-1   tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax", event: SPOTV
+http://b1g.ooo:80/Alfie/Alfie/634818
+#http://tr.redatvgold.com:80/live/0b14WRvtZckx/oW40Zf4h4t/1387255.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax", event: SPOTV.3
+http://b1g.ooo:80/Alfie/Alfie/634820
+#EXTINF:-1   tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax", event: CHAMPION-3
+http://b1g.ooo:80/Alfie/Alfie/634819
+#http://tr.redatvgold.com:80/live/0b14WRvtZckx/oW40Zf4h4t/1387256.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax", event: CHAMPION-5
 http://xtv.ooo:8080/live/7262771/7272772/350877.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]True-PremierLeague 1HD
 http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186563&extension=ts&play_shareext@premier1TH.ts
