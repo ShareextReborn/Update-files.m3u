@@ -115,7 +115,7 @@ http://ky-iptv.com:80/Nashj023/JFAhd336Pa/1391047.ts
 #EXTINF:-1   tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax", event: SPOTV
 http://b1g.ooo:80/Alfie/Alfie/634818
 #http://tr.redatvgold.com:80/live/0b14WRvtZckx/oW40Zf4h4t/1387255.ts
-#EXTINF:-1   tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax", event: SPOTV.3
+#EXTINF:-1   tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax", event: SPOTV.2
 http://b1g.ooo:80/Alfie/Alfie/634820
 #EXTINF:-1   tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax", event: CHAMPION-3
 http://b1g.ooo:80/Alfie/Alfie/634819
@@ -447,6 +447,38 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 https://s.id/indosiar-xtra_shareext-ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar.video.mytv
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar.1_HD_diksi
+https://dik.si/indosiar1_SE-xs
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar.2_HD_diksi
+https://dik.si/indosiar2HD_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", SCTV_HD_diksi
+https://dik.si/sctvHD_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", TRANS7_HD_diksi
+https://dik.si/trans7HD_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", TRANSTV_HD_diksi
+https://dik.si/transtvHD_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", MNCTV_HD_diksi
+https://dik.si/mnctvHD_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", GTV_HD_diksi
+https://dik.si/gtvHD_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", INEWS_HD_diksi
+https://dik.si/inews_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", TV ONE_HD_diksi
+https://dik.si/tvoneHD_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", ANTV_HD_diksi
+https://dik.si/antvHD_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", NET_HD_diksi
+https://dik.si/netHD_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", METROTV_HD_diksi
+https://dik.si/metrotvHD_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", KOMPASTV_HD_diksi
+https://dik.si/kompastvHD_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", RTV_HD_diksi
+https://dik.si/rtvHD_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", MOJI_HD_diksi
+https://dik.si/mojiHD_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", MENTARI_HD_diksi
+https://dik.si/mentariHD_SE-xs
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax", RCTI_HD|🇲🇨
 https://dik.si/RCTI_HD_shareext-xs
 
@@ -596,6 +628,66 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", SOCCERTV_ID
+https://dik.si/soccerHD_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", BEIN_1_ID
+https://dik.si/bein1id_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", BEIN_3_ID
+https://dik.si/bein3id_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", SPOTV_ID
+https://dik.si/spotv_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", SPOTV_2_ID
+https://dik.si/spotv2_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", SPORTSTAR_1_ID
+https://dik.si/sportstar1_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", SPORTSTAR_2_ID
+https://dik.si/sportstar2_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", SPORTSTAR_3_ID
+https://dik.si/sportstar3_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", SPORTSTAR_4_ID
+https://dik.si/sportstar4_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", PEACOCK_PREMIERLIGUEA_UK
+https://dik.si/ppl_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", NOW_SPORTS_1_HK
+https://dik.si/nowsport1_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", NOW_SPORTS_2_HK
+https://dik.si/nowsport2_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", NOW_SPORTS_3_HK
+https://dik.si/nowsport3_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", OPTUS_1_AUS
+https://dik.si/optus1_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", OPTUS_2_AUS
+https://dik.si/optus2_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", OPTUS_3_AUS
+https://dik.si/optus3_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", ASTRO_ARENA_MY
+https://dik.si/arena1_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", ASTRO_ARENA_2_MY
+https://dik.si/arena2_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", WWE_MY
+https://dik.si/wwe_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", UFC_UK
+https://dik.si/ufc_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", BEIN_1_MY
+https://dik.si/bein1my_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", BEIN_2_MY
+https://dik.si/bein2my_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", BEIN_3_MY
+https://dik.si/bein3my_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", OKEY_MY
+https://dik.si/okey_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", ASTRO_CRICKET_MY
+https://dik.si/cricket_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", ASSP1_HD_MY
+https://dik.si/assp1_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", ASSP_2_MY
+https://dik.si/assp2_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", ASSP_3_MY
+https://dik.si/assp3_SE-xs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", ASSP_4_MY
+https://dik.si/assp4_SE-xs
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", Indosiar(xtv)
 http://xtv.ooo:8080/RiyazMPT/433833/350972
