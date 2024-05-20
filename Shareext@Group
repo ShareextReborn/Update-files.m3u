@@ -973,8 +973,60 @@ http://iptvtree.net:8080/F14995/a84c0963/157561
 
 
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", RCTI~HD~§
+https://s.id/rcti_play_shareext-ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", MNCTV~HD~§
+https://s.id/mnctv_play_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", INEWS~HD~§
+https://s.id/inews_play_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", GTV~HD~§
+https://s.id/gtv_play_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", TVRI SPORTS~HD~§
+https://s.id/tvrisports_play_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", ANTV~HD~§
+https://s.id/antvHD_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", SCTV~HD~§
+https://s.id/sctvHD_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", INDOSIAR~HD~§
+https://s.id/indosiar_play_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", TVONE~HD~§
+https://s.id/tvoneHD_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", BTV~HD~§
+https://s.id/btvHD_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", VTV~HD~§
+https://s.id/vtvHD_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", METROTV~HD~§
+https://s.id/metrotvHD_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", TRANS7~HD~§
+https://s.id/trans7HD_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", TRANSTV~HD~§
+https://s.id/transtvHD_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", RTV~HD~§
+https://s.id/rtvHD_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", MOJI~HD~§
+https://s.id/mojiHD_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", MENTARI~HD~§
+https://s.id/mentariHD_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", KOMPASTV~HD~§
+https://s.id/kompastvHD_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", TVRI WORLD~HD~§
+https://s.id/tvriworld_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", TVRI NASIONAL~HD~§
+https://s.id/tvrinasional_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", SANGAJITV~HD~§
+https://s.id/sangajitv_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", TATTV~HD~§
+https://s.id/tatv_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", NUSANTARATV~HD~§
+https://s.id/nusantaratv_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", ADITV~HD~§
+https://s.id/aditv_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", GARUDATV~HD~§
+https://s.id/garudatv_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", NET~HD~§
+https://s.id/netHD_shareext-ts
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",RCTI_MPD_[tevizo]OttNavigator
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", RCTI_MPD_[tevizo]OttNavigator
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 
