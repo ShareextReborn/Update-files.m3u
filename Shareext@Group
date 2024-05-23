@@ -704,8 +704,218 @@ http://gmlive.ddns.net:5000/kun5g/kun5g2024/66
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", 新闻综合-Test
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/67
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="MY: TV Alhijrah" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", TV Alhijrah 
+http://toh-users.xyz:8080/42204120/16250164/856915
+#EXTINF:-1 tvg-id="" tvg-name="MY: TV Okey" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", TV Okey 
+http://toh-users.xyz:8080/42204120/16250164/856916
+#EXTINF:-1 tvg-id="" tvg-name="MY: TV2" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", TV2 
+http://toh-users.xyz:8080/42204120/16250164/856917
+#EXTINF:-1 tvg-id="" tvg-name="MY: TV3" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", TV3 
+http://toh-users.xyz:8080/42204120/16250164/856918
+#EXTINF:-1 tvg-id="" tvg-name="MY: TV9" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", TV9 
+http://toh-users.xyz:8080/42204120/16250164/856919
+#EXTINF:-1 tvg-id="" tvg-name="MY: TVB Classic" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", TVB Classic 
+http://toh-users.xyz:8080/42204120/16250164/856920
+#EXTINF:-1 tvg-id="" tvg-name="MY: TVB E News" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", TVB E News 
+http://toh-users.xyz:8080/42204120/16250164/856921
+#EXTINF:-1 tvg-id="" tvg-name="MY: TVB Jade" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", TVB Jade 
+http://toh-users.xyz:8080/42204120/16250164/856922
+#EXTINF:-1 tvg-id="" tvg-name="MY: TVB News" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", TVB News 
+http://toh-users.xyz:8080/42204120/16250164/856923
+#EXTINF:-1 tvg-id="" tvg-name="MY: TVB Xing He" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", TVB Xing He 
+http://toh-users.xyz:8080/42204120/16250164/856924
+#EXTINF:-1 tvg-id="" tvg-name="MY: TVBS Asia" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", TVBS Asia 
+http://toh-users.xyz:8080/42204120/16250164/856925
+#EXTINF:-1 tvg-id="" tvg-name="MY: TVBS News" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", TVBS News 
+http://toh-users.xyz:8080/42204120/16250164/856926
+#EXTINF:-1 tvg-id="" tvg-name="MY: tvN" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", tvN 
+http://toh-users.xyz:8080/42204120/16250164/856927
+#EXTINF:-1 tvg-id="" tvg-name="MY: tvN Movies" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", tvN Movies 
+http://toh-users.xyz:8080/42204120/16250164/856928
+#EXTINF:-1 tvg-id="" tvg-name="MY: TVS" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", TVS 
+http://toh-users.xyz:8080/42204120/16250164/856929
+#EXTINF:-1 tvg-id="" tvg-name="MY: Warner TV" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Warner TV 
+http://toh-users.xyz:8080/42204120/16250164/856930
+#EXTINF:-1 tvg-id="" tvg-name="MY: WWE Network" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", WWE Network 
+http://toh-users.xyz:8080/42204120/16250164/856931
+#EXTINF:-1 tvg-id="" tvg-name="MY: WWE_NETWORK_50fps" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", WWE_NETWORK_50fps 
+http://toh-users.xyz:8080/42204120/16250164/856932
+#EXTINF:-1 tvg-id="" tvg-name="MY: ZEE Tamil" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", ZEE Tamil 
+http://toh-users.xyz:8080/42204120/16250164/856933
+#EXTINF:-1 tvg-id="" tvg-name="MY: Love Nature" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Love Nature 
+http://toh-users.xyz:8080/42204120/16250164/856893
+#EXTINF:-1 tvg-id="" tvg-name="MY: Moonbug Kids" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Moonbug Kids 
+http://toh-users.xyz:8080/42204120/16250164/856894
+#EXTINF:-1 tvg-id="" tvg-name="MY: MTV" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", MTV 
+http://toh-users.xyz:8080/42204120/16250164/856895
+#EXTINF:-1 tvg-id="" tvg-name="MY: Nick JR" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Nick JR 
+http://toh-users.xyz:8080/42204120/16250164/856896
+#EXTINF:-1 tvg-id="" tvg-name="MY: Nickelodeon" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Nickelodeon 
+http://toh-users.xyz:8080/42204120/16250164/856897
+#EXTINF:-1 tvg-id="" tvg-name="MY: NTV7" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", NTV7 
+http://toh-users.xyz:8080/42204120/16250164/856898
+#EXTINF:-1 tvg-id="" tvg-name="MY: One" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", One 
+http://toh-users.xyz:8080/42204120/16250164/856899
+#EXTINF:-1 tvg-id="" tvg-name="MY: Paramount" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Paramount 
+http://toh-users.xyz:8080/42204120/16250164/856900
+#EXTINF:-1 tvg-id="" tvg-name="MY: Phoenix" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Phoenix 
+http://toh-users.xyz:8080/42204120/16250164/856901
+#EXTINF:-1 tvg-id="" tvg-name="MY: Phoenix News" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Phoenix News 
+http://toh-users.xyz:8080/42204120/16250164/856902
+#EXTINF:-1 tvg-id="" tvg-name="MY: Rugby Pass" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Rugby Pass 
+http://toh-users.xyz:8080/42204120/16250164/856903
+#EXTINF:-1 tvg-id="" tvg-name="MY: Sports SPO TV" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", SPOTV 
+http://toh-users.xyz:8080/42204120/16250164/856907
+#EXTINF:-1 tvg-id="" tvg-name="MY: SPOTV2" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", SPOTV2 
+http://toh-users.xyz:8080/42204120/16250164/856908
+#EXTINF:-1 tvg-id="" tvg-name="MY: Star Vijay" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Star Vijay 
+http://toh-users.xyz:8080/42204120/16250164/856909
+#EXTINF:-1 tvg-id="" tvg-name="MY: Sun Life" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Sun Life 
+http://toh-users.xyz:8080/42204120/16250164/856910
+#EXTINF:-1 tvg-id="" tvg-name="MY: SUN Music" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", SUN Music 
+http://toh-users.xyz:8080/42204120/16250164/856911
+#EXTINF:-1 tvg-id="" tvg-name="MY: Sun News" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Sun News 
+http://toh-users.xyz:8080/42204120/16250164/856912
+#EXTINF:-1 tvg-id="" tvg-name="MY: SUN TV" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", SUN TV 
+http://toh-users.xyz:8080/42204120/16250164/856913
+#EXTINF:-1 tvg-id="" tvg-name="MY: TLC" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", TLC
+http://toh-users.xyz:8080/42204120/16250164/856914
+#EXTINF:-1  tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", 8TV
+http://toh-users.xyz:8080/42204120/16250164/856801
+#EXTINF:-1 tvg-id="" tvg-name="MY: ABC Australia" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", ABC Australia 
+http://toh-users.xyz:8080/42204120/16250164/856802
+#EXTINF:-1 tvg-id="" tvg-name="MY: Adithya" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Adithya 
+http://toh-users.xyz:8080/42204120/16250164/856803
+#EXTINF:-1 tvg-id="" tvg-name="MY: AFC" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", AFC 
+http://toh-users.xyz:8080/42204120/16250164/856804
+#EXTINF:-1 tvg-id="" tvg-name="MY: Animal Planet" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Animal Planet 
+http://toh-users.xyz:8080/42204120/16250164/856805
+#EXTINF:-1 tvg-id="" tvg-name="MY: ARENA_HD_50fps" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", ARENA_HD_50fps 
+http://toh-users.xyz:8080/42204120/16250164/856806
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro AOD 351" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", AOD 351 
+http://toh-users.xyz:8080/42204120/16250164/856807
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro AOD 353" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", AOD 353 
+http://toh-users.xyz:8080/42204120/16250164/856808
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro AOD 362" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", AOD 362 
+http://toh-users.xyz:8080/42204120/16250164/856809
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Arena" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Arena 
+http://toh-users.xyz:8080/42204120/16250164/856810
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Arena 1" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Arena 1 
+http://toh-users.xyz:8080/42204120/16250164/856811
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Aura" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Aura 
+http://toh-users.xyz:8080/42204120/16250164/856812
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Awani" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Awani 
+http://toh-users.xyz:8080/42204120/16250164/856813
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Cricket" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Astro Cricket 
+http://toh-users.xyz:8080/42204120/16250164/856815
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Hua Hee Dai" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Hua Hee Dai 
+http://toh-users.xyz:8080/42204120/16250164/856816
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Oasis" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Oasis 
+http://toh-users.xyz:8080/42204120/16250164/856817
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Premier 1" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Premier 1
+http://toh-users.xyz:8080/42204120/16250164/856818
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Premier 2" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Premier 2
+http://toh-users.xyz:8080/42204120/16250164/856819
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Rania" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Rania 
+http://toh-users.xyz:8080/42204120/16250164/856820
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Supersport 1" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Supersport 1
+http://toh-users.xyz:8080/42204120/16250164/856822
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Supersport 2" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Supersport 2
+http://toh-users.xyz:8080/42204120/16250164/856824
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Supersport 3" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Supersport 3
+http://toh-users.xyz:8080/42204120/16250164/856827
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Supersport 4" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Supersport 4
+http://toh-users.xyz:8080/42204120/16250164/856830
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Vellithirai" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Vellithirai 
+http://toh-users.xyz:8080/42204120/16250164/856839
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Xiao Tai Yang" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Xiao Tai Yang 
+http://toh-users.xyz:8080/42204120/16250164/856840
+#EXTINF:-1 tvg-id="" tvg-name="MY: Awesome TV" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Awesome TV 
+http://toh-users.xyz:8080/42204120/16250164/856842
+#EXTINF:-1 tvg-id="" tvg-name="MY: AXN" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", AXN 
+http://toh-users.xyz:8080/42204120/16250164/856843
+#EXTINF:-1 tvg-id="" tvg-name="MY: BBC CBeebies" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", BBC CBeebies 
+http://toh-users.xyz:8080/42204120/16250164/856844
+#EXTINF:-1 tvg-id="" tvg-name="MY: beIN Sports" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", beIN Sports 
+http://toh-users.xyz:8080/42204120/16250164/856845
+#EXTINF:-1 tvg-id="" tvg-name="MY: beIN Sports 2" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", beIN Sports 2 
+http://toh-users.xyz:8080/42204120/16250164/856846
+#EXTINF:-1 tvg-id="" tvg-name="MY: beIN Sports 2 50fps" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", beIN Sports 2 50fps 
+http://toh-users.xyz:8080/42204120/16250164/856847
+#EXTINF:-1 tvg-id="" tvg-name="MY: beIN Sports 3" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", beIN Sports 3 
+http://toh-users.xyz:8080/42204120/16250164/856848
+#EXTINF:-1 tvg-id="" tvg-name="MY: beIN Sports 4" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", beIN Sports 4 
+http://toh-users.xyz:8080/42204120/16250164/856850
+#EXTINF:-1 tvg-id="" tvg-name="MY: beIN Sports 5" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", beIN Sports 5 
+http://toh-users.xyz:8080/42204120/16250164/856851
+#EXTINF:-1 tvg-id="" tvg-name="MY: Bernama" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Bernama 
+http://toh-users.xyz:8080/42204120/16250164/856853
+#EXTINF:-1 tvg-id="" tvg-name="MY: Bisnet Adventure" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Bisnet Adventure
+http://toh-users.xyz:8080/42204120/16250164/856854
+#EXTINF:-1 tvg-id="" tvg-name="MY: Bloomberg TV" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Bloomberg TV 
+http://toh-users.xyz:8080/42204120/16250164/856855
+#EXTINF:-1 tvg-id="" tvg-name="MY: BOO" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", BOO 
+http://toh-users.xyz:8080/42204120/16250164/856856
+#EXTINF:-1 tvg-id="" tvg-name="MY: CCTV4" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", CCTV4 
+http://toh-users.xyz:8080/42204120/16250164/856857
+#EXTINF:-1 tvg-id="" tvg-name="MY: Celestial" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Celestial 
+http://toh-users.xyz:8080/42204120/16250164/856858
+#EXTINF:-1 tvg-id="" tvg-name="MY: Celestial Classic Movies" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Celestial Classic Movies 
+http://toh-users.xyz:8080/42204120/16250164/856859
+#EXTINF:-1 tvg-id="" tvg-name="MY: CGTN" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", CGTN 
+http://toh-users.xyz:8080/42204120/16250164/856860
+#EXTINF:-1 tvg-id="" tvg-name="MY: Cinemax" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Cinemax 
+http://toh-users.xyz:8080/42204120/16250164/856861
+#EXTINF:-1 tvg-id="" tvg-name="MY: CNA" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", CNA 
+http://toh-users.xyz:8080/42204120/16250164/856862
+#EXTINF:-1 tvg-id="" tvg-name="MY: CNBC" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", CNBC 
+http://toh-users.xyz:8080/42204120/16250164/856863
+#EXTINF:-1 tvg-id="" tvg-name="MY: Colors Tamil" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Colors Tamil 
+http://toh-users.xyz:8080/42204120/16250164/856864
+#EXTINF:-1 tvg-id="" tvg-name="MY: Crime Investigation" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Crime Investigation 
+http://toh-users.xyz:8080/42204120/16250164/856865
+#EXTINF:-1 tvg-id="" tvg-name="MY: CTI Asia" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", CTI Asia 
+http://toh-users.xyz:8080/42204120/16250164/856866
+#EXTINF:-1 tvg-id="" tvg-name="MY: DISCOVERY ASIA" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", DISCOVERY ASIA 
+http://toh-users.xyz:8080/42204120/16250164/856867
+#EXTINF:-1 tvg-id="" tvg-name="MY: Discovery Asia" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Discovery Asia 
+http://toh-users.xyz:8080/42204120/16250164/856868'"
+#EXTINF:-1 tvg-id="" tvg-name="MY: Discovery Channel" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Discovery Channel 
+http://toh-users.xyz:8080/42204120/16250164/856869
+#EXTINF:-1 tvg-id="" tvg-name="MY: Discovery Science" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Discovery Science 
+http://toh-users.xyz:8080/42204120/16250164/856870
+#EXTINF:-1 tvg-id="" tvg-name="MY: Disney Junior" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Disney Junior 
+http://toh-users.xyz:8080/42204120/16250164/856871
+#EXTINF:-1 tvg-id="" tvg-name="MY: Dmax" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Dmax
+http://toh-users.xyz:8080/42204120/16250164/856872
+#EXTINF:-1 tvg-id="" tvg-name="MY: Dream Works" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Dream Works 
+http://toh-users.xyz:8080/42204120/16250164/856873
+#EXTINF:-1 tvg-id="" tvg-name="MY: DW" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", DW 
+http://toh-users.xyz:8080/42204120/16250164/856874
+#EXTINF:-1 tvg-id="" tvg-name="MY: Eurosport" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Eurosport 
+http://toh-users.xyz:8080/42204120/16250164/856875
+#EXTINF:-1 tvg-id="" tvg-name="MY: Food Network" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Food Network 
+http://toh-users.xyz:8080/42204120/16250164/856877
+#EXTINF:-1 tvg-id="" tvg-name="MY: Global Trekker" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Global Trekker 
+http://toh-users.xyz:8080/42204120/16250164/856878
+#EXTINF:-1 tvg-id="" tvg-name="MY: Golf Channel" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Golf Channel 
+http://toh-users.xyz:8080/42204120/16250164/856879
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO Family" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", HBO Family 
+http://toh-users.xyz:8080/42204120/16250164/856881
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO Hits" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", HBO Hits 
+http://toh-users.xyz:8080/42204120/16250164/856882
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO Signature" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", HBO Signature 
+http://toh-users.xyz:8080/42204120/16250164/856883
+#EXTINF:-1 tvg-id="" tvg-name="MY: History" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", History 
+http://toh-users.xyz:8080/42204120/16250164/856884
+#EXTINF:-1 tvg-id="" tvg-name="MY: Hits" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Hits 
+http://toh-users.xyz:8080/42204120/16250164/856885
+#EXTINF:-1 tvg-id="" tvg-name="MY: Hits Movies" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", Hits Movies 
+http://toh-users.xyz:8080/42204120/16250164/856886
+#EXTINF:-1 tvg-id="" tvg-name="MY: iQIYI" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="SHAREEXT@Television/MY/ASTRO", iQIYI 
+http://toh-users.xyz:8080/42204120/16250164/856887
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", K+ 
+http://toh-users.xyz:8080/42204120/16250164/856888
 
 #EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO",Astro Arena_(3)
 http://iptvtree.net:8080/F14995/a84c0963/157485
@@ -3575,6 +3785,508 @@ http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186481&extens
 
  
 
+#EXTINF:-1 tvg-id="" tvg-name="AF (ZW): WWE Channel" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Africa-Map-PNG-Transparent-HD-Photo.png" group-title="SHAREEXT@SUPERSPORT",(ZW):WWE Channel
+http://toh-users.xyz:8080/42204120/16250164/857364
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857364
+#EXTINF:-1 tvg-id="" tvg-name="AF (ZA) (DSTV): SuperSport Schools" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Africa-Map-PNG-Transparent-HD-Photo.png" group-title="SHAREEXT@SUPERSPORT",(ZA)SuperSport Schools
+http://toh-users.xyz:8080/42204120/16250164/857404
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857404
+#EXTINF:-1 tvg-id="" tvg-name="AF (ZA) (DSTV): Racing 240" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Africa-Map-PNG-Transparent-HD-Photo.png" group-title="SHAREEXT@SUPERSPORT",(DSTV):Racing 240
+http://toh-users.xyz:8080/42204120/16250164/857398
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857398
+#EXTINF:-1 tvg-id="" tvg-name="SS: ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0.png" group-title="SHAREEXT@SUPERSPORT",ESPN
+http://toh-users.xyz:8080/42204120/16250164/857423
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857423
+#EXTINF:-1 tvg-id="" tvg-name="SS: SuperSport Action" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SS: SuperSport_HD.png" group-title="SHAREEXT@SUPERSPORT",SuperSport Action
+http://toh-users.xyz:8080/42204120/16250164/857424
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857424
+#EXTINF:-1 tvg-id="" tvg-name="SS: SuperSport Blitz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SS: SuperSport_HD.png" group-title="SHAREEXT@SUPERSPORT",SuperSport Blitz
+http://toh-users.xyz:8080/42204120/16250164/857425
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857425
+#EXTINF:-1 tvg-id="" tvg-name="SS: SuperSport Cricket" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SS: SuperSport_HD.png" group-title="SHAREEXT@SUPERSPORT",SuperSport Cricket
+http://toh-users.xyz:8080/42204120/16250164/857426
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857426
+#EXTINF:-1 tvg-id="" tvg-name="SS: SuperSport Football / WC Fan Zone" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SS: SuperSport_HD.png" group-title="SHAREEXT@SUPERSPORT",SuperSport Football/WC Fan Zone
+http://toh-users.xyz:8080/42204120/16250164/857427
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857427
+#EXTINF:-1 tvg-id="" tvg-name="SS: SuperSport Golf" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SS: SuperSport_HD.png" group-title="SHAREEXT@SUPERSPORT",SuperSport Golf
+http://toh-users.xyz:8080/42204120/16250164/857428
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857428
+#EXTINF:-1 tvg-id="" tvg-name="SS: SuperSport Grandstand" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SS: SuperSport_HD.png" group-title="SHAREEXT@SUPERSPORT",SuperSport Grandstand
+http://toh-users.xyz:8080/42204120/16250164/857429
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857429
+#EXTINF:-1 tvg-id="" tvg-name="SS: SuperSport La Liga / WC Select 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SS: SuperSport_HD.png" group-title="SHAREEXT@SUPERSPORT",SuperSport LaLiga/WC Select 1
+http://toh-users.xyz:8080/42204120/16250164/857430
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857430
+#EXTINF:-1 tvg-id="" tvg-name="SS: SuperSport Maximo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SS: SuperSport_HD.png" group-title="SHAREEXT@SUPERSPORT",SuperSport Maximo
+http://toh-users.xyz:8080/42204120/16250164/857431
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857431
+#EXTINF:-1 tvg-id="" tvg-name="SS: SuperSport Motorsports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SS: SuperSport_HD.png" group-title="SHAREEXT@SUPERSPORT",SuperSport Motorsports
+http://toh-users.xyz:8080/42204120/16250164/857432
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857432
+#EXTINF:-1 tvg-id="" tvg-name="SS: SuperSport Premier League / SS: SuperSport WC Extra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SS: SuperSport_HD.png" group-title="SHAREEXT@SUPERSPORT",SuperSport PremierLeague
+http://toh-users.xyz:8080/42204120/16250164/857433
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857433
+#EXTINF:-1 tvg-id="" tvg-name="SS: SuperSport PSL / WC Central" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SS: SuperSport_HD.png" group-title="SHAREEXT@SUPERSPORT",SuperSport PSL / WC Central
+http://toh-users.xyz:8080/42204120/16250164/857434
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857434
+#EXTINF:-1 tvg-id="" tvg-name="SS: SuperSport Rugby" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SS: SuperSport_HD.png" group-title="SHAREEXT@SUPERSPORT",SuperSport Rugby
+http://toh-users.xyz:8080/42204120/16250164/857435
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857435
+#EXTINF:-1 tvg-id="" tvg-name="SS: SuperSport Tennis" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SS: SuperSport_HD.png" group-title="SHAREEXT@SUPERSPORT",SuperSport Tennis
+http://toh-users.xyz:8080/42204120/16250164/857436
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857436
+#EXTINF:-1 tvg-id="" tvg-name="SS: SuperSport Variety 01 / WC Select 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SS: SuperSport_HD.png" group-title="SHAREEXT@SUPERSPORT",SuperSport Variety 01 / WC Select 2
+http://toh-users.xyz:8080/42204120/16250164/857437
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857437
+#EXTINF:-1 tvg-id="" tvg-name="SS: SuperSport Variety 02" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SS: SuperSport_HD.png" group-title="SHAREEXT@SUPERSPORT",SuperSport Variety 02
+http://toh-users.xyz:8080/42204120/16250164/857438
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857438
+#EXTINF:-1 tvg-id="" tvg-name="SS: SuperSport Variety 03" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SS: SuperSport_HD.png" group-title="SHAREEXT@SUPERSPORT",SuperSport Variety 03
+http://toh-users.xyz:8080/42204120/16250164/857439
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857439
+#EXTINF:-1 tvg-id="" tvg-name="SS: SuperSport Variety 04" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SS: SuperSport_HD.png" group-title="SHAREEXT@SUPERSPORT",SuperSport Variety 04
+http://toh-users.xyz:8080/42204120/16250164/857440
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857440
+#EXTINF:-1 tvg-id="" tvg-name="AS: Arena 1" tvg-logo="http://3.bp.blogspot.com/-vy8zO7jhsuc/VBvnSPstFhI/AAAAAAAAH1w/PhLMKHx4ixg/s1600/Astro_SuperSport_logo.png" group-title="SHAREEXT@SUPERSPORT",ASTro: Arena 1
+http://toh-users.xyz:8080/42204120/16250164/857441
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857441
+#EXTINF:-1 tvg-id="" tvg-name="AS: Arena 2" tvg-logo="http://3.bp.blogspot.com/-vy8zO7jhsuc/VBvnSPstFhI/AAAAAAAAH1w/PhLMKHx4ixg/s1600/Astro_SuperSport_logo.png" group-title="SHAREEXT@SUPERSPORT",AStro: Arena 2
+http://toh-users.xyz:8080/42204120/16250164/857411
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857411
+#EXTINF:-1 tvg-id="" tvg-name="AS: beIN Sports 1" tvg-logo="http://3.bp.blogspot.com/-vy8zO7jhsuc/VBvnSPstFhI/AAAAAAAAH1w/PhLMKHx4ixg/s1600/Astro_SuperSport_logo.png" group-title="SHAREEXT@SUPERSPORT",AStro: beINSports 1
+http://toh-users.xyz:8080/42204120/16250164/857412
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857412
+#EXTINF:-1 tvg-id="" tvg-name="AS: beIN Sports 2" tvg-logo="http://3.bp.blogspot.com/-vy8zO7jhsuc/VBvnSPstFhI/AAAAAAAAH1w/PhLMKHx4ixg/s1600/Astro_SuperSport_logo.png" group-title="SHAREEXT@SUPERSPORT",ASTro: beINSports 2
+http://toh-users.xyz:8080/42204120/16250164/857413
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857413
+#EXTINF:-1 tvg-id="" tvg-name="AS: beIN Sports 3" tvg-logo="http://3.bp.blogspot.com/-vy8zO7jhsuc/VBvnSPstFhI/AAAAAAAAH1w/PhLMKHx4ixg/s1600/Astro_SuperSport_logo.png" group-title="SHAREEXT@SUPERSPORT",ASTro: beINSports 3
+http://toh-users.xyz:8080/42204120/16250164/857414
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857414
+#EXTINF:-1 tvg-id="" tvg-name="AS: Eurosport" tvg-logo="http://3.bp.blogspot.com/-vy8zO7jhsuc/VBvnSPstFhI/AAAAAAAAH1w/PhLMKHx4ixg/s1600/Astro_SuperSport_logo.png" group-title="SHAREEXT@SUPERSPORT",AStro: Eurosport
+http://toh-users.xyz:8080/42204120/16250164/857415
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857415
+#EXTINF:-1 tvg-id="" tvg-name="AS: SPOTV" tvg-logo="http://3.bp.blogspot.com/-vy8zO7jhsuc/VBvnSPstFhI/AAAAAAAAH1w/PhLMKHx4ixg/s1600/Astro_SuperSport_logo.png" group-title="SHAREEXT@SUPERSPORT",AStro: SPOTV
+http://toh-users.xyz:8080/42204120/16250164/857416
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857416
+#EXTINF:-1 tvg-id="" tvg-name="AS: SPOTV 2" tvg-logo="http://3.bp.blogspot.com/-vy8zO7jhsuc/VBvnSPstFhI/AAAAAAAAH1w/PhLMKHx4ixg/s1600/Astro_SuperSport_logo.png" group-title="SHAREEXT@SUPERSPORT",AStro: SPOTV 2
+http://toh-users.xyz:8080/42204120/16250164/857417
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857417
+#EXTINF:-1 tvg-id="" tvg-name="AS: SuperSport 1" tvg-logo="http://3.bp.blogspot.com/-vy8zO7jhsuc/VBvnSPstFhI/AAAAAAAAH1w/PhLMKHx4ixg/s1600/Astro_SuperSport_logo.png" group-title="SHAREEXT@SUPERSPORT",AStro: SuperSport 1
+http://toh-users.xyz:8080/42204120/16250164/857418
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857418
+#EXTINF:-1 tvg-id="" tvg-name="AS: SuperSport 2" tvg-logo="http://3.bp.blogspot.com/-vy8zO7jhsuc/VBvnSPstFhI/AAAAAAAAH1w/PhLMKHx4ixg/s1600/Astro_SuperSport_logo.png" group-title="SHAREEXT@SUPERSPORT",AStro: SuperSport 2
+http://toh-users.xyz:8080/42204120/16250164/857419
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857419
+#EXTINF:-1 tvg-id="" tvg-name="AS: SuperSport 3" tvg-logo="http://3.bp.blogspot.com/-vy8zO7jhsuc/VBvnSPstFhI/AAAAAAAAH1w/PhLMKHx4ixg/s1600/Astro_SuperSport_logo.png" group-title="SHAREEXT@SUPERSPORT",AStro: SuperSport 3
+http://toh-users.xyz:8080/42204120/16250164/857420
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857420
+#EXTINF:-1 tvg-id="" tvg-name="AS: SuperSport 4" tvg-logo="http://3.bp.blogspot.com/-vy8zO7jhsuc/VBvnSPstFhI/AAAAAAAAH1w/PhLMKHx4ixg/s1600/Astro_SuperSport_logo.png" group-title="SHAREEXT@SUPERSPORT",AStro: SuperSport 4
+http://toh-users.xyz:8080/42204120/16250164/857421
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857421
+#EXTINF:-1 tvg-id="" tvg-name="AS: SuperSport 5" tvg-logo="http://3.bp.blogspot.com/-vy8zO7jhsuc/VBvnSPstFhI/AAAAAAAAH1w/PhLMKHx4ixg/s1600/Astro_SuperSport_logo.png" group-title="SHAREEXT@SUPERSPORT",AStro: SuperSport 5
+http://toh-users.xyz:8080/42204120/16250164/857422
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857422
+#EXTINF:-1 tvg-id="" tvg-name="AF (ZA): SuperSport Action" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Africa-Map-PNG-Transparent-HD-Photo.png" group-title="SHAREEXT@SUPERSPORT",AF_SuperSport Action
+http://toh-users.xyz:8080/42204120/16250164/857253
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857253
+#EXTINF:-1 tvg-id="" tvg-name="AF (ZA): SuperSport Blitz" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Africa-Map-PNG-Transparent-HD-Photo.png" group-title="SHAREEXT@SUPERSPORT",AF_SuperSport Blitz
+http://toh-users.xyz:8080/42204120/16250164/857254
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857254
+#EXTINF:-1 tvg-id="" tvg-name="AF (ZA): SuperSport Cricket" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Africa-Map-PNG-Transparent-HD-Photo.png" group-title="SHAREEXT@SUPERSPORT",AF_SuperSport Cricket
+http://toh-users.xyz:8080/42204120/16250164/857255
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857255
+#EXTINF:-1 tvg-id="" tvg-name="AF (ZA): SuperSport Football" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Africa-Map-PNG-Transparent-HD-Photo.png" group-title="SHAREEXT@SUPERSPORT",AF_SuperSport Football
+http://toh-users.xyz:8080/42204120/16250164/857256
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857256
+#EXTINF:-1 tvg-id="" tvg-name="AF (ZA): SuperSport Football Plus" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Africa-Map-PNG-Transparent-HD-Photo.png" group-title="SHAREEXT@SUPERSPORT",AF_SuperSport Football Plus
+http://toh-users.xyz:8080/42204120/16250164/857257
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857257
+#EXTINF:-1 tvg-id="" tvg-name="AF (ZA): SuperSport Golf" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Africa-Map-PNG-Transparent-HD-Photo.png" group-title="SHAREEXT@SUPERSPORT",AF_SuperSport Golf
+http://toh-users.xyz:8080/42204120/16250164/857258
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857258
+#EXTINF:-1 tvg-id="" tvg-name="AF (ZA): SuperSport Grandstand" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Africa-Map-PNG-Transparent-HD-Photo.png" group-title="SHAREEXT@SUPERSPORT",AF_SuperSport Grandstand
+http://toh-users.xyz:8080/42204120/16250164/857259
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857259
+#EXTINF:-1 tvg-id="" tvg-name="AF (ZA): SuperSport La Liga" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Africa-Map-PNG-Transparent-HD-Photo.png" group-title="SHAREEXT@SUPERSPORT",AF_SuperSport LaLiga
+http://toh-users.xyz:8080/42204120/16250164/857260
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857260
+#EXTINF:-1 tvg-id="" tvg-name="AF (ZA): SuperSport MaXimo 1 Champions" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Africa-Map-PNG-Transparent-HD-Photo.png" group-title="SHAREEXT@SUPERSPORT",AF_SuperSport MaXimo 1 Champions
+http://toh-users.xyz:8080/42204120/16250164/857261
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857261
+#EXTINF:-1 tvg-id="" tvg-name="AF (ZA): SuperSport Motorsport" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Africa-Map-PNG-Transparent-HD-Photo.png" group-title="SHAREEXT@SUPERSPORT",AF_SuperSport Motorsport
+http://toh-users.xyz:8080/42204120/16250164/857262
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857262
+#EXTINF:-1 tvg-id="" tvg-name="AF (ZA): SuperSport OTT 1" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Africa-Map-PNG-Transparent-HD-Photo.png" group-title="SHAREEXT@SUPERSPORT",AF_SuperSport OTT 1
+http://toh-users.xyz:8080/42204120/16250164/857263
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857263
+#EXTINF:-1 tvg-id="" tvg-name="AF (ZA): SuperSport OTT 2" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Africa-Map-PNG-Transparent-HD-Photo.png" group-title="SHAREEXT@SUPERSPORT",AF_SuperSport OTT 2
+http://toh-users.xyz:8080/42204120/16250164/857264
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857264
+#EXTINF:-1 tvg-id="" tvg-name="AF (ZA): SuperSport OTT 3" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Africa-Map-PNG-Transparent-HD-Photo.png" group-title="SHAREEXT@SUPERSPORT",AF_SuperSport OTT 3
+http://toh-users.xyz:8080/42204120/16250164/857265
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857265
+#EXTINF:-1 tvg-id="" tvg-name="AF (ZA): SuperSport OTT 4" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Africa-Map-PNG-Transparent-HD-Photo.png" group-title="SHAREEXT@SUPERSPORT",AF_SuperSport OTT 4
+http://toh-users.xyz:8080/42204120/16250164/857266
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857266
+#EXTINF:-1 tvg-id="" tvg-name="AF (ZA): SuperSport OTT 5" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Africa-Map-PNG-Transparent-HD-Photo.png" group-title="SHAREEXT@SUPERSPORT",AF_SuperSport OTT 5
+http://toh-users.xyz:8080/42204120/16250164/857267
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857267
+#EXTINF:-1 tvg-id="" tvg-name="AF (ZA): SuperSport OTT 6" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Africa-Map-PNG-Transparent-HD-Photo.png" group-title="SHAREEXT@SUPERSPORT",AF_SuperSport OTT 6
+http://toh-users.xyz:8080/42204120/16250164/857268
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857268
+#EXTINF:-1 tvg-id="" tvg-name="AF (ZA): SuperSport Play" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Africa-Map-PNG-Transparent-HD-Photo.png" group-title="SHAREEXT@SUPERSPORT",AF_SuperSport Play
+http://toh-users.xyz:8080/42204120/16250164/857269
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857269
+#EXTINF:-1 tvg-id="" tvg-name="AF (ZA): SuperSport PSL" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Africa-Map-PNG-Transparent-HD-Photo.png" group-title="SHAREEXT@SUPERSPORT",AF_SuperSport PSL
+http://toh-users.xyz:8080/42204120/16250164/857270
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857270
+#EXTINF:-1 tvg-id="" tvg-name="AF (ZA): SuperSport Tennis" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Africa-Map-PNG-Transparent-HD-Photo.png" group-title="SHAREEXT@SUPERSPORT",AF_SuperSport Tennis
+http://toh-users.xyz:8080/42204120/16250164/857271
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857271
+#EXTINF:-1 tvg-id="" tvg-name="AF (ZA): SuperSport Variety 1" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Africa-Map-PNG-Transparent-HD-Photo.png" group-title="SHAREEXT@SUPERSPORT",AF_SuperSport Variety 1
+http://toh-users.xyz:8080/42204120/16250164/857272
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857272
+#EXTINF:-1 tvg-id="" tvg-name="AF (ZA): SuperSport Variety 4" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Africa-Map-PNG-Transparent-HD-Photo.png" group-title="SHAREEXT@SUPERSPORT",AF_SuperSport Variety 4
+http://toh-users.xyz:8080/42204120/16250164/857273
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857273
+#EXTINF:-1 tvg-id="" tvg-name="AF (AZ): Azam Sports 1" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Africa-Map-PNG-Transparent-HD-Photo.png" group-title="SHAREEXT@SUPERSPORT",AF_AzamSports 1
+http://toh-users.xyz:8080/42204120/16250164/857025
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857025
+#EXTINF:-1 tvg-id="" tvg-name="AF (AZ): Azam Sports 2" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Africa-Map-PNG-Transparent-HD-Photo.png" group-title="SHAREEXT@SUPERSPORT",AF_AzamSports 2
+http://toh-users.xyz:8080/42204120/16250164/857026
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857026
+#EXTINF:-1 tvg-id="" tvg-name="AF (AZ): Azam Sports 3" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Africa-Map-PNG-Transparent-HD-Photo.png" group-title="SHAREEXT@SUPERSPORT",AF_AzamSports 3
+http://toh-users.xyz:8080/42204120/16250164/857027
+#http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857027
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ARB: beIN Sports Premium 1" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="SHAREEXT@BEINSPORTS",beINSports Premium 1 
+http://toh-users.xyz:8080/42204120/16250164/855434
+#EXTINF:-1 tvg-id="" tvg-name="ARB: beIN Sports Premium 2" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="SHAREEXT@BEINSPORTS",beINSports Premium 2 
+http://toh-users.xyz:8080/42204120/16250164/855435 
+#EXTINF:-1 tvg-id="" tvg-name="ARB: beIN Sports Premium 3" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="SHAREEXT@BEINSPORTS",beINSports Premium 3 
+http://toh-users.xyz:8080/42204120/16250164/855436
+#EXTINF:-1 tvg-id="" tvg-name="ARB: beIN Sports 1 English" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="SHAREEXT@BEINSPORTS",beINSports 1 English 
+http://toh-users.xyz:8080/42204120/16250164/855425
+#EXTINF:-1 tvg-id="" tvg-name="ARB: beIN Sports 2 English" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="SHAREEXT@BEINSPORTS",beINSports 2 English 
+http://toh-users.xyz:8080/42204120/16250164/855428
+#EXTINF:-1 tvg-id="" tvg-name="ARB: beIN Sports 3 English" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="SHAREEXT@BEINSPORTS",beINSports 3 English 
+http://toh-users.xyz:8080/42204120/16250164/855431
+#EXTINF:-1 tvg-id="" tvg-name="ARB: beIN Sports 1 French" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="SHAREEXT@BEINSPORTS",beINSports 1 French 
+http://toh-users.xyz:8080/42204120/16250164/855426
+#EXTINF:-1 tvg-id="" tvg-name="ARB: beIN Sports 2 French" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="SHAREEXT@BEINSPORTS",beINSports 2 French 
+http://toh-users.xyz:8080/42204120/16250164/855429
+#EXTINF:-1 tvg-id="" tvg-name="ARB: beIN Sports 1" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="SHAREEXT@BEINSPORTS",ARB: beINSports 1 
+http://toh-users.xyz:8080/42204120/16250164/855424
+#EXTINF:-1 tvg-id="" tvg-name="ARB: beIN Sports 2" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="SHAREEXT@BEINSPORTS",ARB: beINSports 2 
+http://toh-users.xyz:8080/42204120/16250164/855427
+#EXTINF:-1 tvg-id="" tvg-name="ARB: beIN Sports 3" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="SHAREEXT@BEINSPORTS",ARB: beINSports 3 
+http://toh-users.xyz:8080/42204120/16250164/855430
+#EXTINF:-1 tvg-id="" tvg-name="ARB: beIN Sports 4" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="SHAREEXT@BEINSPORTS",beINSports 4 
+http://toh-users.xyz:8080/42204120/16250164/855432 
+#EXTINF:-1 tvg-id="" tvg-name="ARB: beIN Sports 5" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="SHAREEXT@BEINSPORTS",beINSports 5 
+http://toh-users.xyz:8080/42204120/16250164/855433
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 FHD (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GDJ-World-Flags-Globe.svg/1047px-GDJ-World-Flags-Globe.svg.png" group-title="SHAREEXT@BEINSPORTS",beINSPORTS 6 FHD (D) 
+http://toh-users.xyz:8080/42204120/16250164/590258 
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 FHD (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GDJ-World-Flags-Globe.svg/1047px-GDJ-World-Flags-Globe.svg.png" group-title="SHAREEXT@BEINSPORTS",beINSPORTS 7 FHD (D) 
+http://toh-users.xyz:8080/42204120/16250164/590259 
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 8 FHD (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GDJ-World-Flags-Globe.svg/1047px-GDJ-World-Flags-Globe.svg.png" group-title="SHAREEXT@BEINSPORTS",beINSPORTS 8 FHD (D) 
+http://toh-users.xyz:8080/42204120/16250164/590260 
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS en Espanol (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GDJ-World-Flags-Globe.svg/1047px-GDJ-World-Flags-Globe.svg.png" group-title="SHAREEXT@BEINSPORTS",beINSPORTS en Espanol (D) 
+http://toh-users.xyz:8080/42204120/16250164/590261 
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS La Liga (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GDJ-World-Flags-Globe.svg/1047px-GDJ-World-Flags-Globe.svg.png" group-title="SHAREEXT@BEINSPORTS",beINSPORTS LaLiga (D) 
+http://toh-users.xyz:8080/42204120/16250164/590262 
+#EXTINF:-1 tvg-id="" tvg-name="beIN_Xtra (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GDJ-World-Flags-Globe.svg/1047px-GDJ-World-Flags-Globe.svg.png" group-title="SHAREEXT@BEINSPORTS",beIN_Xtra (D) 
+http://toh-users.xyz:8080/42204120/16250164/590263
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GDJ-World-Flags-Globe.svg/1047px-GDJ-World-Flags-Globe.svg.png" group-title="SHAREEXT@BEINSPORTS",beINSPORTS (D) 
+http://toh-users.xyz:8080/42204120/16250164/590255 
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 FHD (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GDJ-World-Flags-Globe.svg/1047px-GDJ-World-Flags-Globe.svg.png" group-title="SHAREEXT@BEINSPORTS",beINSPORTS 4 FHD (D) 
+http://toh-users.xyz:8080/42204120/16250164/590256 
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 FHD (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GDJ-World-Flags-Globe.svg/1047px-GDJ-World-Flags-Globe.svg.png" group-title="SHAREEXT@BEINSPORTS",beINSPORTS 5 FHD (D) 
+http://toh-users.xyz:8080/42204120/16250164/590257
+
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SPORTS_Replay",Sports Replay info 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791666 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SPORTS_Replay",Sports Replay 1 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791667 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SPORTS_Replay",Sports Replay 2 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791668 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SPORTS_Replay",Sports Replay 3 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791669  
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SPORTS_Replay",Sports Replay 4 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791670 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SPORTS_Replay",Sports Replay 5 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791671 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SPORTS_Replay",Sports Replay 6 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791672 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SPORTS_Replay",Sports Replay 7 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791673 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SPORTS_Replay",Sports Replay 8 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791674 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SPORTS_Replay",Sports Replay 9 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791675 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SPORTS_Replay",Sports Replay 10 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791676 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SPORTS_Replay",Sports Replay 11 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791677 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SPORTS_Replay",Sports Replay 12 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791678
+
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-CH Replay info 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791679 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-CH Highlights 岽瘁窗
+http://toh-users.xyz:8080/42204120/16250164/791680 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-CH Replay 1 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791681 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-CH Replay 2 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791682 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-CH Replay 3 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791683 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-CH Replay 4 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791684 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-CH Replay 5 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791685 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-CH Replay 6 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791686 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-CH Replay 7 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791687 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-CH Replay 8 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791688 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-CH Replay 9 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791689 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-CH Replay 10 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791690 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-CH Replay 11 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791691 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-CH Replay 12 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791692 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-L1 Replay info 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791693 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-L1 Replay 1 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791694 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-L1 Replay 2 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791695 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-L1 Replay 3 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791696
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-L1 Replay 4 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791697 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-L1 Replay 5 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791698 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-L1 Replay 6 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791699 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-L1 Replay 7 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791700 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-L1 Replay 8 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791701 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-L1 Replay 9 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791702 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-L1 Replay 10 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791703 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-L1 Replay 11 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791704 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-L1 Replay 12 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791705 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-L2 Replay info 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791706 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-L2 Replay 1 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791707 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-L2 Replay 2 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791708 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-L2 Replay 3 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791709 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-L2 Replay 4 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791710 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-L2 Replay 5 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791711 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-L2 Replay 6 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791712 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-L2 Replay 7 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791713 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-L2 Replay 8 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791714 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-L2 Replay 9 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791715 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-L2 Replay 10 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791716 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-L2 Replay 11 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791717 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-L2 Replay 12 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791718
+
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@BUNDESLIGA_Replay",BundesLiga Replay info 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791719 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@BUNDESLIGA_Replay",BundesLiga HighLights 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791720 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@BUNDESLIGA_Replay",BundesLiga Replay 1 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791721 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@BUNDESLIGA_Replay",BundesLiga Replay 2 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791722 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@BUNDESLIGA_Replay",BundesLiga Replay 3 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791723 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@BUNDESLIGA_Replay",BundesLiga Replay 4 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791724 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@BUNDESLIGA_Replay",BundesLiga Replay 5 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791725 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@BUNDESLIGA_Replay",BundesLiga Replay 6 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791726 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@BUNDESLIGA_Replay",BundesLiga Replay 7 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791727 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@BUNDESLIGA_Replay",BundesLiga Replay 8 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791728 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@BUNDESLIGA_Replay",BundesLiga Replay 9 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791729 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@BUNDESLIGA_Replay",BundesLiga Replay English 1 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791730 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@BUNDESLIGA_Replay",BundesLiga Replay English 2 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791731
+
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@CHAMPIONSLEAGUE_Replay",ChampionsLeague Replay info 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791732 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@CHAMPIONSLEAGUE_Replay",ChampionsLeague HighLights 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791733 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@CHAMPIONSLEAGUE_Replay",ChampionsLeague Replay 1 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791734 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@CHAMPIONSLEAGUE_Replay",ChampionsLeague Replay 2 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791735 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@CHAMPIONSLEAGUE_Replay",ChampionsLeague Replay 3 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791736 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@CHAMPIONSLEAGUE_Replay",ChampionsLeague Replay 4 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791737 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@CHAMPIONSLEAGUE_Replay",ChampionsLeague Replay 5 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791738 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@CHAMPIONSLEAGUE_Replay",ChampionsLeague Replay 6 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791739 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@CHAMPIONSLEAGUE_Replay",ChampionsLeague Replay 7 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791740 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@CHAMPIONSLEAGUE_Replay",ChampionsLeague Replay 8 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791741 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@CHAMPIONSLEAGUE_Replay",ChampionsLeague Replay 9 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791742 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@CHAMPIONSLEAGUE_Replay",ChampionsLeague Replay 10 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791743
+
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EUROPALEAGUE_Replay",EuropaLeague Replay info 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791744 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EUROPALEAGUE_Replay",EuropaLeague HighLights 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791745 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EUROPALEAGUE_Replay",EuropaLeague Replay 1 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791746 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EUROPALEAGUE_Replay",EuropaLeague Replay 2 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791747 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EUROPALEAGUE_Replay",EuropaLeague Replay 3 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791748 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EUROPALEAGUE_Replay",EuropaLeague Replay 4 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791749 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EUROPALEAGUE_Replay",EuropaLeague Replay 5 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791750 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EUROPALEAGUE_Replay",EuropaLeague Replay 6 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791751 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EUROPALEAGUE_Replay",EuropaLeague Replay 7 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791752 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EUROPALEAGUE_Replay",EuropaLeague Replay 8 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791753 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EUROPALEAGUE_Replay",EuropaLeague Replay 9 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791754 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EUROPALEAGUE_Replay",EuropaLeague Replay 10 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791755 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EUROPALEAGUE_Replay",EuropaLeague Replay 11 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791756
+
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@LALIGA_Replay",LaLiga Replay info 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791757 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@LALIGA_Replay",LaLiga HighLights 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791758 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@LALIGA_Replay",LaLiga Replay 1 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791759 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@LALIGA_Replay",LaLiga Replay 2 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791760 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@LALIGA_Replay",LaLiga Replay 3 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791761 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@LALIGA_Replay",LaLiga Replay 4 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791762 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@LALIGA_Replay",LaLiga Replay 5 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791763 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@LALIGA_Replay",LaLiga Replay 6 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791764 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@LALIGA_Replay",LaLiga Replay 7 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791765 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@LALIGA_Replay",LaLiga Replay 8 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791766 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@LALIGA_Replay",LaLiga Replay 9 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791767 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@LALIGA_Replay",LaLiga Replay 10 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791768 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@LALIGA_Replay",LaLiga Replay English 1 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791769 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@LALIGA_Replay",LaLiga Replay English 2 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791770
+
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SERIE_A_Replay",SerieA Replay info 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791849 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SERIE_A_Replay",SerieA HighLights 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791850 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SERIE_A_Replay",SerieA Replay 1 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791851 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SERIE_A_Replay",SerieA Replay 2 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791852 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SERIE_A_Replay",SerieA Replay 3 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791853 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SERIE_A_Replay",SerieA Replay 4 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791854 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SERIE_A_Replay",SerieA Replay 5 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791855 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SERIE_A_Replay",SerieA Replay 6 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791856 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SERIE_A_Replay",SerieA Replay 7 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791857 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SERIE_A_Replay",SerieA Replay 8 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791858 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SERIE_A_Replay",SerieA Replay 9 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791859 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SERIE_A_Replay",SerieA Replay 10 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791860
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@PREMIER_LEAGUE_REPLAY",PremierLeague Replay info 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791837 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@PREMIER_LEAGUE_REPLAY",PremierLeague HighLights 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791838 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@PREMIER_LEAGUE_REPLAY",PremierLeague Replay 1 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791839 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@PREMIER_LEAGUE_REPLAY",PremierLeague Replay 2 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791840 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@PREMIER_LEAGUE_REPLAY",PremierLeague Replay 3 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791841 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@PREMIER_LEAGUE_REPLAY",PremierLeague Replay 4 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791842 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@PREMIER_LEAGUE_REPLAY",PremierLeague Replay 5 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791843 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@PREMIER_LEAGUE_REPLAY",PremierLeague Replay 6 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791844 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@PREMIER_LEAGUE_REPLAY",PremierLeague Replay 7 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791845 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@PREMIER_LEAGUE_REPLAY",PremierLeague Replay 8 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791846 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@PREMIER_LEAGUE_REPLAY",PremierLeague Replay 9 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791847 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@PREMIER_LEAGUE_REPLAY",PremierLeague Replay 10 岽瘁窗 
+http://toh-users.xyz:8080/42204120/16250164/791848
+
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@OLAHRAGA•ASIAN",MY:Astro Premier 1
@@ -3650,7 +4362,26 @@ http://14.102.154.164:5021/live/409.ts
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Triller / Fite 24/7" tvg-logo="https://i.postimg.cc/nh29JLR0/thriller-fotor-bg-remover-20240201102632.png" group-title="ShareExt@FIGHT_Sports",PPV:Fite 24/7
+http://toh-users.xyz:8080/42204120/16250164/851449
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Mike Tyson 24/7" tvg-logo="https://postersverkerke.com/wp-content/uploads/2021/01/Box002X.png" group-title="ShareExt@FIGHT_Sports",PPV:MikeTyson 24/7
+http://toh-users.xyz:8080/42204120/16250164/851450
+#EXTINF:-1 tvg-id="" tvg-name="PPV: UFC FIGHT PASS 24/7" tvg-logo="https://ufc-video.s3.amazonaws.com/image/logos/UFC_FIGHTPASS_LOGO_F.PNG" group-title="ShareExt@FIGHT_Sports",PPV:UFC FIGHT PASS 24/7
+http://toh-users.xyz:8080/42204120/16250164/851451
+#EXTINF:-1 tvg-id="" tvg-name="PPV: WWE Network (Peacock)" tvg-logo="https://prowrestlingsource.com/wp-content/uploads/2021/03/WWE-Peacock-NBC-logo-banner.png" group-title="ShareExt@FIGHT_Sports",WWE Network (Peacock)
+http://toh-users.xyz:8080/42204120/16250164/851452
+#EXTINF:-1 tvg-id="" tvg-name="PPV: WWE Network (PPV)" tvg-logo="http://www.officialpsds.com/images/thumbs/WWE-Network-Logo-psd98782.png" group-title="ShareExt@FIGHT_Sports",WWE Network (PPV)
+http://toh-users.xyz:8080/42204120/16250164/851453
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",WWE NETWORK{USA} 
+http://toh-users.xyz:8080/42204120/16250164/707677 
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg", WWE Money in the Bank_24/7 
+http://toh-users.xyz:8080/42204120/16250164/701267 
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg", WWE Royal Rumble_24/7 
+http://toh-users.xyz:8080/42204120/16250164/701268 
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg", WWE SummerSlam_24/7 
+http://toh-users.xyz:8080/42204120/16250164/701269 
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg", WWE WrestleMania_24/7
+http://toh-users.xyz:8080/42204120/16250164/701270
 
 #EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",FITE.24/7
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
@@ -4566,6 +5297,46 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF: -1 tvg-id="UrbantvSports.br" tvg-name="Urban Sports HD" tvg-chno="037" tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/channel/13/thumb_sports-1662477364.png" group-title="SHAREEXT@Canais de Esportes", Urban Sports HD
 https://stream.urbantv.com.br/urbantvsports/video.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport 251" tvg-logo="http://3.bp.blogspot.com/-XwB20HPiOmo/Tgh1Wrt2GNI/AAAAAAAANFE/fFarBKz_CCk/s1600/italy+flag+map.png" group-title="SHAREEXT@ITALIE_SPORT",SkySport鉁�251
+http://toh-users.xyz:8080/42204120/16250164/778228
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport 252" tvg-logo="http://3.bp.blogspot.com/-XwB20HPiOmo/Tgh1Wrt2GNI/AAAAAAAANFE/fFarBKz_CCk/s1600/italy+flag+map.png" group-title="SHAREEXT@ITALIE_SPORT",SkySport鉁�252
+http://toh-users.xyz:8080/42204120/16250164/778229
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport 253" tvg-logo="http://3.bp.blogspot.com/-XwB20HPiOmo/Tgh1Wrt2GNI/AAAAAAAANFE/fFarBKz_CCk/s1600/italy+flag+map.png" group-title="SHAREEXT@ITALIE_SPORT",SkySport鉁�253
+http://toh-users.xyz:8080/42204120/16250164/778232
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport 254" tvg-logo="http://3.bp.blogspot.com/-XwB20HPiOmo/Tgh1Wrt2GNI/AAAAAAAANFE/fFarBKz_CCk/s1600/italy+flag+map.png" group-title="SHAREEXT@ITALIE_SPORT",SkySport鉁�254
+http://toh-users.xyz:8080/42204120/16250164/778233
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport 255" tvg-logo="http://3.bp.blogspot.com/-XwB20HPiOmo/Tgh1Wrt2GNI/AAAAAAAANFE/fFarBKz_CCk/s1600/italy+flag+map.png" group-title="SHAREEXT@ITALIE_SPORT",SkySport鉁�255
+http://toh-users.xyz:8080/42204120/16250164/778236
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport 256" tvg-logo="http://3.bp.blogspot.com/-XwB20HPiOmo/Tgh1Wrt2GNI/AAAAAAAANFE/fFarBKz_CCk/s1600/italy+flag+map.png" group-title="SHAREEXT@ITALIE_SPORT",SkySport鉁�256
+http://toh-users.xyz:8080/42204120/16250164/778237
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport 257" tvg-logo="http://3.bp.blogspot.com/-XwB20HPiOmo/Tgh1Wrt2GNI/AAAAAAAANFE/fFarBKz_CCk/s1600/italy+flag+map.png" group-title="SHAREEXT@ITALIE_SPORT",SkySport鉁�257
+http://toh-users.xyz:8080/42204120/16250164/778240
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport 258" tvg-logo="http://3.bp.blogspot.com/-XwB20HPiOmo/Tgh1Wrt2GNI/AAAAAAAANFE/fFarBKz_CCk/s1600/italy+flag+map.png" group-title="SHAREEXT@ITALIE_SPORT",SkySport鉁�258
+http://toh-users.xyz:8080/42204120/16250164/778241
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Arena" tvg-logo="http://3.bp.blogspot.com/-XwB20HPiOmo/Tgh1Wrt2GNI/AAAAAAAANFE/fFarBKz_CCk/s1600/italy+flag+map.png" group-title="SHAREEXT@ITALIE_SPORT",SkySport鉁揂rena
+http://toh-users.xyz:8080/42204120/16250164/778243
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Calcio" tvg-logo="http://3.bp.blogspot.com/-XwB20HPiOmo/Tgh1Wrt2GNI/AAAAAAAANFE/fFarBKz_CCk/s1600/italy+flag+map.png" group-title="SHAREEXT@ITALIE_SPORT",SkySport鉁揅alcio
+http://toh-users.xyz:8080/42204120/16250164/778244
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport F1" tvg-logo="http://3.bp.blogspot.com/-XwB20HPiOmo/Tgh1Wrt2GNI/AAAAAAAANFE/fFarBKz_CCk/s1600/italy+flag+map.png" group-title="SHAREEXT@ITALIE_SPORT",SkySport鉁揊1
+http://toh-users.xyz:8080/42204120/16250164/778247
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Football" tvg-logo="http://3.bp.blogspot.com/-XwB20HPiOmo/Tgh1Wrt2GNI/AAAAAAAANFE/fFarBKz_CCk/s1600/italy+flag+map.png" group-title="SHAREEXT@ITALIE_SPORT",SkySport鉁揊ootball
+http://toh-users.xyz:8080/42204120/16250164/778248
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Golf" tvg-logo="http://3.bp.blogspot.com/-XwB20HPiOmo/Tgh1Wrt2GNI/AAAAAAAANFE/fFarBKz_CCk/s1600/italy+flag+map.png" group-title="SHAREEXT@ITALIE_SPORT",SkySport鉁揋olf
+http://toh-users.xyz:8080/42204120/16250164/778251
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport MotoGP" tvg-logo="http://3.bp.blogspot.com/-XwB20HPiOmo/Tgh1Wrt2GNI/AAAAAAAANFE/fFarBKz_CCk/s1600/italy+flag+map.png" group-title="SHAREEXT@ITALIE_SPORT",SkySport鉁揗otoGP
+http://toh-users.xyz:8080/42204120/16250164/778252
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport NBA" tvg-logo="http://3.bp.blogspot.com/-XwB20HPiOmo/Tgh1Wrt2GNI/AAAAAAAANFE/fFarBKz_CCk/s1600/italy+flag+map.png" group-title="SHAREEXT@ITALIE_SPORT",SkySport鉁揘BA
+http://toh-users.xyz:8080/42204120/16250164/778255
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Tennis" tvg-logo="http://3.bp.blogspot.com/-XwB20HPiOmo/Tgh1Wrt2GNI/AAAAAAAANFE/fFarBKz_CCk/s1600/italy+flag+map.png" group-title="SHAREEXT@ITALIE_SPORT",SkySport鉁揟ennis
+http://toh-users.xyz:8080/42204120/16250164/778256
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Uno" tvg-logo="http://3.bp.blogspot.com/-XwB20HPiOmo/Tgh1Wrt2GNI/AAAAAAAANFE/fFarBKz_CCk/s1600/italy+flag+map.png" group-title="SHAREEXT@ITALIE_SPORT",SkySport鉁揢no
+http://toh-users.xyz:8080/42204120/16250164/778259
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport24" tvg-logo="http://3.bp.blogspot.com/-XwB20HPiOmo/Tgh1Wrt2GNI/AAAAAAAANFE/fFarBKz_CCk/s1600/italy+flag+map.png" group-title="SHAREEXT@ITALIE_SPORT",SkySport24
+http://toh-users.xyz:8080/42204120/16250164/778260
+
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@PORTUGAL ➾ Sports",ELEVEN SPORTS 1
