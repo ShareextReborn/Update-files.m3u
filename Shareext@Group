@@ -5,6 +5,10 @@ https://video.twimg.com/ext_tw_video/1732318564324196352/pu/pl/z-MYo1Z5kke4rRrm.
 https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
 #EXTINF:-1   tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax",WELCOME@_SHAREEXT@!!!!
 https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="ShareExt@Relax",DAZN.1_ELEVEN1(TAIWAN)
+rtmp://shareext@f13h.mine.nu/sat/tv731
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="ShareExt@Relax",DAZN.2_ELEVEN2(TAIWAN)
+rtmp://shareext@f13h.mine.nu/sat/tv741
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ASSP-1_(server 1)
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186387
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ASSP-2_(server 1)
