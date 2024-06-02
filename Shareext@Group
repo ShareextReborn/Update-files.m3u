@@ -5,6 +5,27 @@ https://video.twimg.com/ext_tw_video/1732318564324196352/pu/pl/z-MYo1Z5kke4rRrm.
 https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
 #EXTINF:-1   tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax",WELCOME@_SHAREEXT@!!!!
 https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]True-PremierLeague 1HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/129
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]True-PremierLeague 2HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/130
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]True-PremierLeague 3HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/102
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]True-PremierLeague 4HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/101
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]TruePremier 5HD 
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/1
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]True-SPORT HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/96
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]True-SPORT 2HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/97
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]True-SPORT 3HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/98
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]True-SPORT 5SD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/99
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]True-SPORT 7SD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/100
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="ShareExt@Relax",DAZN.1_ELEVEN1(TAIWAN)
 rtmp://shareext@f13h.mine.nu/sat/tv731
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="ShareExt@Relax",DAZN.2_ELEVEN2(TAIWAN)
