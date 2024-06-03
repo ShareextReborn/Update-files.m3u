@@ -427,10 +427,6 @@ https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",TRANS7(indihome)
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
-
-
-
-
 #EXTI#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -478,7 +474,6 @@ https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-id="FightSports" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="ShareExt@Relax",Fight Sports_mpd(0tt/tivimate)
 https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD TH" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax",SPOTVHD TH_dec=auto
 http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186477&extension=ts&play_shareext@spotvHD
@@ -577,6 +572,81 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD TH" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SPOTVHD TH
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115304&extension=m3u8&shareext@spotvTh
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD TH  [ENG]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SPOTV[ENG]
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115427&extension=m3u8&shareext@spotvEng
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SPOTV_2(TH)
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115305&extension=m3u8&shareext@spotv2Th
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SPOTV_2(ENG)
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115433&extension=m3u8&shareext@spotv2Eng
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football 1 TH [Thai]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",PremierFootball•1[Thai]
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115757&extension=m3u8&shareext@premier1Th
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 1  [ENG]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",PremierFootball HD•1[ENG]
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115758&extension=m3u8&shareext@premier1Eng
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 2  [ENG]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",PremierFootball•2HD TH
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115762&extension=m3u8&shareext@premier2Th
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 2  [ENG]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",PremierFootball HD•2•[ENG]
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115508&extension=m3u8&shareext@premier2Eng
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 3" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",PremierFootball•3HD TH
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115510&extension=m3u8&shareext@premier3Th
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 3 [ENG]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",PremierFootball HD•3[ENG]
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115511&extension=m3u8&shareext@premier3Eng
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 4" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",PremierFootball•4•HD TH
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115513&extension=m3u8&shareext@premier4Th
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 4-X" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",PremierFootball•4•HD[ENG]
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115768&extension=m3u8&shareext@premier4Eng
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 5" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",PremierFootball•5•HD
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115515&extension=m3u8&shareext@premier5Hd
+#EXTINF:-1 tvg-id="" tvg-name="Sport TH 1 [THAI]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",TRUESport•1[THAI]
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115532&extension=m3u8&shareext@true1Th
+#EXTINF:-1 tvg-id="" tvg-name="Sport HD TH 1[THAI]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",TRUESport•1HD TH
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115531&extension=m3u8&shareext@true1Hd
+#EXTINF:-1 tvg-id="" tvg-name="Sport HD TH 2 [THAI]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",TRUESport•2•HD2[THAI]
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115533&extension=m3u8&shareext@true2Th
+#EXTINF:-1 tvg-id="" tvg-name="Sport TH 2 [THAI]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",TRUESport•2
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115535&extension=m3u8&shareext@true2
+#EXTINF:-1 tvg-id="" tvg-name="Sport HD TH 3 [THAI]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",TRUESport•3HD[THAI]
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115537&extension=m3u8&shareext@true3Th
+#EXTINF:-1 tvg-id="" tvg-name="Sport TH 3 [THAI]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",TRUESport•3
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115538&extension=m3u8&shareext@true3
+#EXTINF:-1 tvg-id="" tvg-name="Sport 5 TH [THAI]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",TRUESport•5•[THAI]
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115541&extension=m3u8&shareext@true5Th
+#EXTINF:-1 tvg-id="" tvg-name="Sport 6 TH [THAI]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",TRUESport•6•[THAI]
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115542&extension=m3u8&shareext@true6
+#EXTINF:-1 tvg-id="" tvg-name="Sport 7 TH [ENG]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",TRUESport•7•[ENG]
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115798&extension=m3u8&shareext@true7
+#EXTINF:-1 tvg-id="" tvg-name="Sport 7 TH [THAI]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",TRUESport•7•[THAI]
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115799&extension=m3u8&shareext@true7Th
+#EXTINF:-1 tvg-id="" tvg-name="Thai BeIN Sports 1 HD TH [THAI]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",BeINSports•1 HD[THAI]
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115807&extension=m3u8&shareext@bein1
+#EXTINF:-1 tvg-id="" tvg-name="Thai BeIN Sports 2 HD TH [THAI]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",BeINSports•2 HD[THAI]
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115809&extension=m3u8&shareext@bein2
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",ASTRO•SUPERSPORTS 1 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115615&extension=m3u8&shareext@assp1
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",ASTRO•SUPERSPORTS 2 HD 
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115616&extension=m3u8&shareext@assp2
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 3 HD TH MY" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",ASTRO•SUPERSPORTS 3 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115617&extension=m3u8&shareext@assp3
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 4 HD TH MY" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",ASTRO•SUPERSPORTS 4 HD 
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115618&extension=m3u8&shareext@assp4
+#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket HD TH " tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",Astro•Cricket HD 
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115614&extension=m3u8&shareext@cricket
+#EXTINF:-1 tvg-id="" tvg-name="Super Bunteung/FightBox" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",True SuperBunteunG/FightBox
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115500&extension=m3u8&shareext@superbounteung
+#EXTINF:-1 tvg-id="" tvg-name="Tennis HD TH" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",True Tennis HD
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115805&extension=m3u8&shareext@tennis
+#EXTINF:-1 tvg-id="" tvg-name="GOLF HD TH  [ENG]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",True GOLF•HD[ENG]
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115702&extension=m3u8&shareext@golf
+#EXTINF:-1 tvg-id="" tvg-name="NBA HD TH" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",True NBA HD
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115738&extension=m3u8&shareext@nba
+#EXTINF:-1 tvg-id="" tvg-name="NFL HD TH" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",NFL HD
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115742&extension=m3u8&shareext@nfl
+#EXTINF:-1 tvg-id="" tvg-name="PPTV HD TH" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",PPTV HD
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115501&extension=m3u8&shareext@pptv
+#EXTINF:-1 tvg-id="" tvg-name="Thairath HD TH" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",Thairath HD
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115328&extension=m3u8&shareext@thairath
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", Indosiar(xtv)
 http://xtv.ooo:8080/RiyazMPT/433833/350972
