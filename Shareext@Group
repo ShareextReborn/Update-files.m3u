@@ -570,6 +570,28 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="ShareExt@PREMIUM✓SPORTS",StarSports 1 HD
+http://103.120.172.74:4600
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="ShareExt@PREMIUM✓SPORTS",StarSports 2
+http://103.120.172.74:4500
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="ShareExt@PREMIUM✓SPORTS",StarSports Select 1
+http://103.120.172.74:1030
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="ShareExt@PREMIUM✓SPORTS",StarSports Select 2
+http://103.120.172.74:4700
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="ShareExt@PREMIUM✓SPORTS",SonySports Ten 1 HD
+http://103.120.172.74:1140
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="ShareExt@PREMIUM✓SPORTS",SonySports Ten 2
+https://toxicify.pro/sliv/stream.php?id=sony-ten-2-hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="ShareExt@PREMIUM✓SPORTS",SonySports Ten 3 HD
+https://toxicify.pro/sliv/stream.php?id=sony-ten-3-hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20https04.png"group-title="ShareExt@PREMIUM✓SPORTS",SonySports Ten 4
+http://xtv.ooo:8080/live/shahz18/18usman/167595.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="ShareExt@PREMIUM✓SPORTS",SonySports Ten 5
+http://103.120.172.74:1110
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="ShareExt@PREMIUM✓SPORTS",SonySports Ten 5
+https://toxicify.pro/sliv/stream.php?id=sony-ten-5-hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="ShareExt@PREMIUM✓SPORTS",Sports 18 1 HD
+http://103.120.172.74:5500
 
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD TH" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SPOTVHD TH
 http://clientsportals.com:2095/play/live.php?mac=00:1A:79:14:C7:01&stream=115304&extension=m3u8&shareext@spotvTh
@@ -6890,6 +6912,77 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
+
+
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_01
+http://huanqiuzhibo.cn/manifest/douyu.php?id=6566671
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_02
+http://huanqiuzhibo.cn/manifest/douyu.php?id=310926
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_03
+http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_04
+http://huanqiuzhibo.cn/manifest/douyu.php?id=3637765
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_05
+http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_06
+http://huanqiuzhibo.cn/manifest/douyu.php?id=85894
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_07
+http://huanqiuzhibo.cn/manifest/douyu.php?id=925724
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_08
+http://huanqiuzhibo.cn/manifest/douyu.php?id=1504768
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_09
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9650887
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_10
+http://huanqiuzhibo.cn/manifest/douyu.php?id=310926
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_11
+http://huanqiuzhibo.cn/manifest/douyu.php?id=315457
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_12
+http://huanqiuzhibo.cn/manifest/douyu.php?id=5033502
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_13
+http://huanqiuzhibo.cn/manifest/douyu.php?id=5423
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_14
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9275635
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_15
+http://huanqiuzhibo.cn/manifest/douyu.php?id=6763930
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_16
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7253343
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_17
+http://huanqiuzhibo.cn/manifest/douyu.php?id=8603174
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_18
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7356023
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_19
+http://117.148.179.160/PLTV/88888888/224/3221231564/index.m3u8
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_20
+http://111.40.196.9/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_21
+http://111.40.196.9/PLTV/88888888/224/3221225610/index.m3u8
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_22
+http://huanqiuzhibo.cn/manifest/douyu.php?id=8945323
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_23
+http://huanqiuzhibo.cn/manifest/douyu.php?id=252802
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_24
+http://huanqiuzhibo.cn/manifest/douyu.php?id=4332
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_25
+http://huanqiuzhibo.cn/manifest/douyu.php?id=263824
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_26
+http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_27
+http://huanqiuzhibo.cn/manifest/douyu.php?id=1504768
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_28
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9292499
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_29
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7882691
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_30
+http://huanqiuzhibo.cn/manifest/douyu.php?id=248753
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_31
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7575350
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_32
+http://huanqiuzhibo.cn/manifest/douyu.php?id=6655271
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_33
+http://epg.112114.xyz/douyu/434971
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="SHAREEXT@DOUYU_21 Cineplex",MOVIES_DOUYU_34
+http://epg.112114.xyz/douyu/315457
 #EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="SHAREEXT@DOUYU_21 Cineplex",DOUYU•Bioskop 1
 http://epg.112114.xyz/douyu/4332
 #EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="SHAREEXT@DOUYU_21 Cineplex",DOUYU•Bioskop 2
