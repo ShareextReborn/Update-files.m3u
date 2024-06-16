@@ -2892,58 +2892,100 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 
 
 
-#EXTINF:-1tvg-id="PPTV HD.th" tvg-logo="https://i.ibb.co/NVPBMds/motogepe.png" group-title="SHAREEXT@MPD SPORT", PPTV_TH
+
+
+#EXTINF:-1 tvg-id="Sukan RTM" tvg-name=Sukan RTM" group-title="SHAREEXT@MPD SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png7",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTI#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png", Sportstars_cub
+https://melon-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png", Sportstars 2_cub
+https://melon-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png", Sportstars 3_cub
+https://melon-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png", Sportstars 4_cub
+https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png", Soccer Channel_cub
+https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png", SPOTV_cub
+https://melon-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png", SPOTV 2_cub
+https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="SHAREEXT@MPD SPORT",Fight Sports_cub
+https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-id="eleven.pt" tvg-logo="https://mytransfer.be/wp-content/uploads/2020/09/ELEVEN_Brand_Final_RGB_ELEVEN-ProLeague-Positive-small.png",ELEVEN PRO LEAGUE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey  
+#KODIPROP:inputstream.adaptive.license_key=16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae 
+https://tvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-id="eleven.pt" tvg-logo="https://mytransfer.be/wp-content/uploads/2020/09/ELEVEN_Brand_Final_RGB_ELEVEN-ProLeague-Positive-small.png",ELEVEN PRO LEAGUE 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey  
+#KODIPROP:inputstream.adaptive.license_key=c6455c5a1ad1484fa4029ba498659838:4329fb08c3444a8ae9b3c477efe11002
+https://tvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd
+
+#EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png" group-title="SHAREEXT@MPD SPORT",T Sports 7_TH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
+
+#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="PPTV HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="SHAREEXT@MPD SPORT",PPTV HD_TH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 
+#EXTINF:-1 tvg-id="3BBSportone.th" tvg-name="3BB Sport one" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBsports1_new.png" group-title="SHAREEXT@MPD SPORT",SportOne_TH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png", BALLTHAI 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/58x0bnotsgxseoltjl8rf/Sportstars.jpeg?rlkey=pmh7htmzc1mjffe43fgspt2rt&dl=0",Sportstars 1
-https://liveaneviadev.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
- 
+https://cnt1-streamer5.cdn.3bbtv.com:8443/3bb/tstv/901/901.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_2.png", BALLTHAI 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/58x0bnotsgxseoltjl8rf/Sportstars.jpeg?rlkey=pmh7htmzc1mjffe43fgspt2rt&dl=0",Sportstars 2
-https://liveaneviadev.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
- 
+https://cnt1-streamer7.cdn.3bbtv.com:8443/3bb/tstv/902/902.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png", BALLTHAI 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/58x0bnotsgxseoltjl8rf/Sportstars.jpeg?rlkey=pmh7htmzc1mjffe43fgspt2rt&dl=0",Sportstars 3/Liga 1 Bri
-https://liveaneviadev.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
- 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/58x0bnotsgxseoltjl8rf/Sportstars.jpeg?rlkey=pmh7htmzc1mjffe43fgspt2rt&dl=0",Sportstars 4/Liga 1 Bri
-https://liveaneviadev.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
- 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/royqep3xryxyqtv/soccer.png" group-title="SHAREEXT@MPD SPORT",Soccer Channel
-https://liveaneviadev.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
- 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-logo="https://dl.dropboxusercontent.com/s/txrhza2co3508cc/fightsports.png", FIGHT SPORTS
-https://liveaneviadev.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
- 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-logo="https://dl.dropboxusercontent.com/s/7b91c92lplsks96/spotv.png",SPOTV
-https://liveaneviadev.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
- 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-logo="https://dl.dropboxusercontent.com/s/7b91c92lplsks96/spotv.png",SPOTV 2
-https://liveaneviadev.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+https://cnt1-streamer1.cdn.3bbtv.com:8443/3bb/tstv/903/903.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="SHAREEXT@MPD SPORT",LIVE CHAMPION
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3030,11 +3072,11 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/o
 #KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
 
-
-
-
 #EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="SHAREEXT@MPD SPORT", UNIFI SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+
 #EXTINF:-1 tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg" group-title="SHAREEXT@MPD SPORT", Event MolaTV 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
@@ -3194,69 +3236,6 @@ https://ssc-extra2-on-prem-ak.akamaized.net/out/v1/a525c44d152f4d238aa21af75945e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b05d5f11a0b422d86354c34782ed2bc:82aef319b4cfc71fd48cdd495ee79786
 https://ssc-extra3-on-prem-cw-ak.akamaized.net/out/v1/9d373d000ab64078b131f9d4c18e3502/index.mpd
-
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 6.pt" tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@MPD SPORT", PLAY SPORT 1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-051/stream.mpd
-
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 6.pt" tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@MPD SPORT", PLAY SPORT 2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-052/stream.mpd
-
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 6.pt" tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@MPD SPORT", PLAY SPORT 3
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-053/stream.mpd
-
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 1.pt" tvg-logo="https://i.ibb.co/kc5KZ5c/Untitled-1-10.png" group-title="SHAREEXT@MPD SPORT", DAZN ELEVEN 1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-054/stream.mpd
-
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 2.pt" tvg-logo="https://i.ibb.co/3SVYrd2/Untitled-1-11.png" group-title="SHAREEXT@MPD SPORT", DAZN ELEVEN 2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-055/stream.mpd
- 
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 3.pt" tvg-logo="https://i.ibb.co/sRHChnd/Untitled-1-12.png" group-title="SHAREEXT@MPD SPORT", DAZN ELEVEN 3
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-056/stream.mpd
- 
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 4.pt" tvg-logo="https://i.ibb.co/FJSkXkq/Untitled-1-13.png" group-title="SHAREEXT@MPD SPORT", DAZN ELEVEN 4
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-057/stream.mpd
- 
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 5.pt" tvg-logo="https://i.ibb.co/swf6sHv/Untitled-1-14.png" group-title="SHAREEXT@MPD SPORT", DAZN ELEVEN 5
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-058/stream.mpd
-
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 6.pt" tvg-logo="https://i.ibb.co/bHy4M1c/Untitled-1-15.png" group-title="SHAREEXT@MPD SPORT", DAZN ELEVEN 6
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-059/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
@@ -6176,6 +6155,36 @@ https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="" group-title="SHAREEXT@MPD_MOVIES",Cinemax(Sg)_ott-Navigator
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
+
+#EXTINF:-0 group-title="SHAREEXT@MPD_MOVIES" tvg-id="hbo.th" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png", HBO TH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
+https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
+
+#EXTINF:-0 group-title="SHAREEXT@MPD_MOVIES" tvg-id="hbosignature.th" tvg-logo="https://i.postimg.cc/rw9GnR69/hbos.png", HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
+
+#EXTINF:-0 group-title="SHAREEXT@MPD_MOVIES" tvg-id="HBOHits.th" tvg-logo="https://i.postimg.cc/tJhns8pz/hitsth.png", HBO Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
+
+#EXTINF:-0 group-title="SHAREEXT@MPD_MOVIES" tvg-id="HBOFamily.th" tvg-logo="https://i.postimg.cc/x8rbT9DC/lfdvs017.png",HBO FAMILY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@MPD_MOVIES" tvg-id="cinemaxasia.sg" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",CINEMAX 3BBTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
+
+#EXTINF:-1 tvg-id="3BBAsian.th" tvg-name="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="SHAREEXT@MPD_MOVIES",TRUE4U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
 
 #EXTINF:-1 group-title="SHAREEXT@MPD_MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png",Cinemachi_ott-Navigator
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
