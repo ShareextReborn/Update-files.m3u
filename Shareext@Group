@@ -3902,6 +3902,16 @@ http://14.102.154.164:5021/live/409.ts
 
 
 
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",PPV:Triller / Fite 24/7
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/601452
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",PPV:Mike Tyson 24/7
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/601453
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",PPV:UFC FIGHT PASS 24/7
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/601454
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",PPV:WWE Network (Peacock)
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/601455
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",PPV:WWE Network (PPV)
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/601456
 
 #EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",FITE.24/7
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
