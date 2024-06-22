@@ -113,46 +113,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",[JP]J Sport 4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",NOW*SPORTS*1_HK
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554617_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",NOW*SPORTS*2_HK
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554616_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",NOW*SPORTS*3_HK
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554615_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",NOW*SPORTS*4_HK
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554614_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",NOW*SPORTS*5_HK
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554613_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",NOW*SPORTS*6_HK
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554612_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",NOW*SPORTS*7_HK
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554611_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",BEINSPORTS*1
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554610_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",BEINSPORTS*2
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554609_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",NOW*PREMIER*SPORTS_TV_HK
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554625_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",NOW*SPORTS*PRIME_HK
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554618_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",NOW*PREMIER*SPORTS*1_HK
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554624_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",NOW*PREMIER*SPORTS*2_HK
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554623_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",NOW*PREMIER*SPORTS*3_HK
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554622_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",NOW*PREMIER*SPORTS*4_HK
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554621_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",NOW*PREMIER*SPORTS*5_HK
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554620_&extension=m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",OPTUS*1_AU
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",OPTUS*tv_AU
 http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=333576_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",OPTUS*2_AU
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=333575_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",OPTUS*3_AU
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=333574_&extension=m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",HUB*SPORTS*1_SG
 http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554968_&extension=m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",HUB*SPORTS*2_SG
@@ -161,21 +123,6 @@ http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554967_&extensi
 http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554966_&extension=m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",HUB*SPORTS*4_SG
 http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554965_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",HUB*PREMIER*1_SG
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:B8:49:6A&stream=1350557_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",HUB*PREMIER*2_SG
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:B8:49:6A&stream=1350558_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",HUB*PREMIER*3_SG
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:B8:49:6A&stream=1350559_&extension=m3u8
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="ShareExt@Relax",HBO (xtv)
-http://xtv.ooo:8080/MansoorWapda/258741/350955
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="ShareExt@Relax",HBO Family (xtv)
-http://xtv.ooo:8080/MansoorWapda/258741/350956
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="ShareExt@Relax",HBO Hits (xtv)
-http://xtv.ooo:8080/MansoorWapda/258741/350957
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="ShareExt@Relax",HBO Signature (xtv)
-http://xtv.ooo:8080/MansoorWapda/258741/350958
 
 #EXTINF:-1 tvg-id="T-Sports7.th" group-title="ShareExt@Relax" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://i.imgur.com/hnfiUbK.png",T-Sports7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 ExoPlayerLib/2.14.1
@@ -3884,93 +3831,22 @@ https://stream-msk-14.ott.tricolor.tv:443/dtv/id794_MSKSG-PVR-1--Nash_khokkey1/0
 http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Futbol TVHorizon Sports 
 https://dai.google.com/linear/hls/event/onG023gQQ22Tjm14B5yg1w/master.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",M-1 Global 
-https://lb.telepark.tv/live/ru_m1global/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",FightBox 
-https://lb.telepark.tv/live/ru_fightbox/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Fast&FunBox 
-https://lb.telepark.tv/live/ru_fastfunbox/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Extreme Sports HD 
-https://lb.telepark.tv/live/ru_extreme_sports/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",UkrainaSport~1小锌芯褉褌 1 
-https://lb.telepark.tv/live/ua_sport1/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",RU_Boks tv
-https://lb.telepark.tv/live/ru_boks_tv/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Setanta Sports 1 HD 
-https://lb.telepark.tv/live/ru_setanta_sports_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Eurosport 1 HD 
-https://lb.telepark.tv/live/ru_eurosport_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",RU_TK.sports
-https://lb.telepark.tv/live/ru_tk_futbol_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",RU_start-hd
-https://lb.telepark.tv/live/ru_start_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",RU.Match.football_1hd
-https://lb.telepark.tv/live/ru_match_futbol1_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",RU.Match.football_2hd
-https://lb.telepark.tv/live/ru_match_futbol2_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",RU.Match.football_3hd
-https://lb.telepark.tv/live/ru_match_futbol3_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",RU_Mstch!igra_hd
-https://lb.telepark.tv/live/ru_match_igra_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",RU_Arena_hd
-https://lb.telepark.tv/live/ru_match_arena_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",RU_Nasth_football-hd
-https://lb.telepark.tv/live/ru_nash_futbol/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",RU_Boec
-https://lb.telepark.tv/live/ru_boec/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",RU_MIR_hd
-https://lb.telepark.tv/live/ru_konnij_mir_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",RU.Mtch..hd
-https://lb.telepark.tv/live/ru_match_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Eleven Sports 1 PL
-http://194.26.229.213/eleven-sports-1/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Eleven Sports 2 PL
-http://194.26.229.213/eleven-sports-2/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Eleven Sports 3 PL
-http://194.26.229.213/eleven-sports-3/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",SportsNews HighLights
-http://194.26.229.213/sportsnews-highlights/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Joj-Sport
-http://194.26.229.213/joj-sport/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Матч! Футбол 1 HD
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Матч! Футбол 2 HD
 http://91.207.115.228:5000/c115
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",IMPACT! Wrestling
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",MATCH PREMIERE
-http://landiptv.vip:2095/play/hYqPwBrtZn7mldlcpVbx8phmxRf22AAf9jg3fKYUy0A
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",MATCH GAME
-http://landiptv.vip:2095/play/hYqPwBrtZn7mldlcpVbx8mvWJljJX6s-ToatA4VumkY
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",MATCH FUTBOL 2
-http://landiptv.vip:2095/play/hYqPwBrtZn7mldlcpVbx8vB-7InS3p_h5DOBYJ9Xmv4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",MATCH BOX
-http://landiptv.vip:2095/play/hYqPwBrtZn7mldlcpVbx8pGXE_pnZ3ex105L9GOl8Oo
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",MATCH
-http://landiptv.vip:2095/play/hYqPwBrtZn7mldlcpVbx8uoGYz6Ry4gfILoSyWEi6IU
-
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні", IMPACT!!Wrestling!!
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8?
 #EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-id="match-futbol1-hd" tvg-name="МАТЧ! Футбол 1 HD" tvg-logo="https://static.g-cdn.app/streams/match-futbol1-hd.png",Матч! ФУТБОЛ 1 HD
 http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-id="match-futbol2-hd" tvg-name="МАТЧ! Футбол 2 HD" tvg-logo="https://static.g-cdn.app/streams/match-futbol2-hd.png",Матч! ФУТБОЛ 2 HD
 http://31.148.48.15:80/Match_Futbol_2_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-id="match-futbol3-hd" tvg-name="МАТЧ! Футбол 3 HD" tvg-logo="https://static.g-cdn.app/streams/match-futbol3-hd.png",Матч! ФУТБОЛ 3 HD
 http://31.148.48.15:80/Match_Futbol_3_HD/index.m3u8?token=test
-#EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-id="setanta-qazaqstan-hd" tvg-name="Setanta Qazaqstan HD" tvg-logo="https://static.g-cdn.app/streams/setanta-qazaqstan-hd.png",Setanta Qazaqstan HD
-https://ucdn.beetv.kz/btv/live/hls/000002649.m3u8
-#EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-id="setanta-sport-plus-ua-hd" tvg-name="Setanta Sports + UA HD" tvg-logo="https://static.g-cdn.app/streams/setanta-sport-plus-ua-hd.png",Setanta Sports UA HD
-rtmp://93.189.60.202//272
-#EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-id="setanta-eurasia-plus" tvg-name="Setanta Sports 2 HD" tvg-logo="https://static.g-cdn.app/streams/setanta-eurasia-plus.png",Setanta Sports 2 HD
-https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
 #EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-id="xsport" tvg-name="XSport" tvg-logo="https://static.g-cdn.app/streams/xsport.png",XSport
 http://iptv.prosto.tv:7000/ch110/video.m3u8
 #EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-id="equalympic" tvg-name="Equalympic HD" tvg-logo="https://picon.pp.ua/equalympic.png",Equalympic HD
 http://cdnua03.hls.tv/476/hls/c4a7acbb4f6a85595a117f7aa2099d65/4779/stream.m3u8
-#EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-id="eurosport-hd" tvg-name="Eurosport 1 HD" tvg-logo="https://static.g-cdn.app/streams/eurosport-hd.png",Eurosport 1 HD
-https://ucdn.beetv.kz/btv/live/hls/000002478.m3u8
-#EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-id="eurosport2-hd" tvg-name="Eurosport 2 HD" tvg-logo="https://static.g-cdn.app/streams/eurosport2-hd.png",Eurosport 2 HD
-https://ucdn.beetv.kz/btv/live/hls/000002479.m3u8
 #EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-logo="https://i.imgur.com/BKaEtqL.png" group-title="SHAREEXT@RUSIA_Спортивні",Астрахань.Ru Sport (720p)
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 tvg-id="RussianExtreme.ru" tvg-logo="https://i.imgur.com/qjx6zZV.png" group-title="SHAREEXT@RUSIA_Спортивні",Русский Экстрим
@@ -3983,22 +3859,6 @@ http://ott-cdn.ucom.am/s41/index.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@ISRAEL_STATION",5 GOLD
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12254/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@ISRAEL_STATION",5 LIVE
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12255/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@ISRAEL_STATION",5 SPORTS
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12256/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@ISRAEL_STATION",SPORT 1
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12249/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@ISRAEL_STATION",SPORT 2
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12250/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@ISRAEL_STATION",SPORT 3
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12251/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@ISRAEL_STATION",SPORT 4
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12252/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@ISRAEL_STATION",Yes 5 Sport 4k
 http://iptvtree.net:8080/F14995/a84c0963/172323
@@ -4016,23 +3876,23 @@ http://iptvtree.net:8080/F14995/a84c0963/14781
 http://iptvtree.net:8080/F14995/a84c0963/297076
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@ISRAEL_STATION",Yes Movies Kids
 http://iptvtree.net:8080/F14995/a84c0963/196398
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@ISRAEL_STATION",Yes Sport 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@ISRAEL_STATION",Sport 1
 http://iptvtree.net:8080/F14995/a84c0963/14785
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@ISRAEL_STATION",Yes Sport 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@ISRAEL_STATION",Sport 2
 http://iptvtree.net:8080/F14995/a84c0963/14787
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@ISRAEL_STATION",Yes Sport 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@ISRAEL_STATION",Sport 3
 http://iptvtree.net:8080/F14995/a84c0963/91282
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@ISRAEL_STATION",Yes Sport 4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@ISRAEL_STATION",Sport 4
 http://iptvtree.net:8080/F14995/a84c0963/40609
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@ISRAEL_STATION",Yes Sport 5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@ISRAEL_STATION",Sport 5
 http://iptvtree.net:8080/F14995/a84c0963/299189
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@ISRAEL_STATION",Yes Sport 5 Gold
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@ISRAEL_STATION",Sport 5 Gold
 http://iptvtree.net:8080/F14995/a84c0963/147174
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@ISRAEL_STATION",Yes Sport 5 Live
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@ISRAEL_STATION",Sport 5 Live
 http://iptvtree.net:8080/F14995/a84c0963/91281
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@ISRAEL_STATION",Yes Sport 5 Plus
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@ISRAEL_STATION",Sport 5 Plus
 http://iptvtree.net:8080/F14995/a84c0963/282063
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@ISRAEL_STATION",Yes Sport 5 Stars
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@ISRAEL_STATION",Sport 5 Stars
 http://iptvtree.net:8080/F14995/a84c0963/14788
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@ISRAEL_STATION",Yes TV Action
 http://iptvtree.net:8080/F14995/a84c0963/297075
@@ -4084,283 +3944,10 @@ http://iptvtree.net:8080/F14995/a84c0963/1052
 
 
 
-#EXTINF:-1 tvg-id="premier-league-tv" tvg-name="Premijer Legue" tvg-logo="https://repo.ottshow.net/pikoni/ikone45345/premierleague.gif" group-title="Shareext@Sport Plus",Premijer Legue 
-http://ottshow.net:80/Jakub1222/Jakub1222/71274 
-#EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV HD" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/sportplusnba.gif" group-title="Shareext@Sport Plus",NBA TV HD 
-http://ottshow.net:80/Jakub1222/Jakub1222/24722 
-#EXTINF:-1 tvg-id="supertennis-hd" tvg-name="Super Tennis HD" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/supertenis.gif" group-title="Shareext@Sport Plus",SuperTennis HD 
-http://ottshow.net:80/Jakub1222/Jakub1222/2754 
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports HD 1" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/beinsportshd1plus.gif" group-title="Shareext@Sport Plus",BeINSports HD 1 
-http://ottshow.net:80/Jakub1222/Jakub1222/12644 
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports HD 2" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/beinsportshd2plus.gif" group-title="Shareext@Sport Plus",BeINSports HD 2 
-http://ottshow.net:80/Jakub1222/Jakub1222/12645 
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports HD 3" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/beinsportshd3plus.gif" group-title="Shareext@Sport Plus",BeINSports HD 3 
-http://ottshow.net:80/Jakub1222/Jakub1222/12646 
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports HD 4" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/beinsportshd4plus.gif" group-title="Shareext@Sport Plus",BeINSports HD 4 
-http://ottshow.net:80/Jakub1222/Jakub1222/12647 
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports HD 5" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/beinsportshd5.gif" group-title="Shareext@Sport Plus",BeINSports HD 5 
-http://ottshow.net:80/Jakub1222/Jakub1222/12648 
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports HD 6" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/beinsportshd6.gif" group-title="Shareext@Sport Plus",BeINSports HD 6 
-http://ottshow.net:80/Jakub1222/Jakub1222/12649 
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports HD 7" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/beinsportshd7.gif" group-title="Shareext@Sport Plus",BeINSports HD 7 
-http://ottshow.net:80/Jakub1222/Jakub1222/12650 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1  FR" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/Bein%20Sports%20Premium%201.gif" group-title="Shareext@Sport Plus",BeinSports 1 FR 
-http://ottshow.net:80/Jakub1222/Jakub1222/36407 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 FR" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/Bein%20Sports%20Premium%202.gif" group-title="Shareext@Sport Plus",BeinSports 2 FR 
-http://ottshow.net:80/Jakub1222/Jakub1222/36408 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 FR" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/Bein%20Sports%20Premium%203.gif" group-title="Shareext@Sport Plus",BeinSports 3 FR 
-http://ottshow.net:80/Jakub1222/Jakub1222/36409 
-#EXTINF:-1 tvg-id="supersport-1-al" tvg-name="Supersport 1 HD" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/supersport1.gif" group-title="Shareext@Sport Plus",Supersport 1 HD 
-http://ottshow.net:80/Jakub1222/Jakub1222/29739
-#EXTINF:-1 tvg-id="supersport-2-al" tvg-name="Supersport 2 HD" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/supersport2.gif" group-title="Shareext@Sport Plus",Supersport 2 HD 
-http://ottshow.net:80/Jakub1222/Jakub1222/29740 
-#EXTINF:-1 tvg-id="supersport-3-al" tvg-name="Supersport 3 HD" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/supersport3.gif" group-title="Shareext@Sport Plus",Supersport 3 HD 
-http://ottshow.net:80/Jakub1222/Jakub1222/29741 
-#EXTINF:-1 tvg-id="supersport-4-al" tvg-name="Supersport 4 HD" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/supersport4.gif" group-title="Shareext@Sport Plus",Supersport 4 HD 
-http://ottshow.net:80/Jakub1222/Jakub1222/29742 
-#EXTINF:-1 tvg-id="supersport-5-al" tvg-name="Supersport 5 HD" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/supersport5.gif" group-title="Shareext@Sport Plus",Supersport 5 HD
-http://ottshow.net:80/Jakub1222/Jakub1222/29743 
-#EXTINF:-1 tvg-id="tv-digi-sport-1" tvg-name="Digi Sport 1" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport1.gif" group-title="Shareext@Sport Plus",DigiSport 1 
-http://ottshow.net:80/Jakub1222/Jakub1222/39886 
-#EXTINF:-1 tvg-id="digi-sport-2" tvg-name="Digi Sport 2" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport2.gif" group-title="Shareext@Sport Plus",DigiSport 2 
-http://ottshow.net:80/Jakub1222/Jakub1222/39887 
-#EXTINF:-1 tvg-id="digi-sport-3" tvg-name="Digi Sport 3" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport3.gif" group-title="Shareext@Sport Plus",DigiSport 3 
-http://ottshow.net:80/Jakub1222/Jakub1222/39888 
-#EXTINF:-1 tvg-id="digi-sport-4" tvg-name="Digi Sport 4" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport4.gif" group-title="Shareext@Sport Plus",DigiSport 4 
-http://ottshow.net:80/Jakub1222/Jakub1222/39889 
-#EXTINF:-1 tvg-id="" tvg-name="Orange Sport 1" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/orangesport1.gif" group-title="Shareext@Sport Plus",Orange Sport 1 
-http://ottshow.net:80/Jakub1222/Jakub1222/69800 
-#EXTINF:-1 tvg-id="" tvg-name="Orange Sport 2" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/orangesport2.gif" group-title="Shareext@Sport Plus",Orange Sport 2 
-http://ottshow.net:80/Jakub1222/Jakub1222/69802 
-#EXTINF:-1 tvg-id="" tvg-name="Orange Sport 3" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/orangesport3.gif" group-title="Shareext@Sport Plus",Orange Sport 3 
-http://ottshow.net:80/Jakub1222/Jakub1222/69803 
-#EXTINF:-1 tvg-id="" tvg-name="Orange Sport 4" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/orangesport4.gif" group-title="Shareext@Sport Plus",Orange Sport 4 
-http://ottshow.net:80/Jakub1222/Jakub1222/69804 
-#EXTINF:-1 tvg-id="" tvg-name="LIG TV 1" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/ligtv1tr.gif" group-title="Shareext@Sport Plus",LIG TV 1 
-http://ottshow.net:80/Jakub1222/Jakub1222/39895 
-#EXTINF:-1 tvg-id="" tvg-name="LIG TV 2" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/ligtv2tr.gif" group-title="Shareext@Sport Plus",LIG TV 2 
-http://ottshow.net:80/Jakub1222/Jakub1222/39896 
-#EXTINF:-1 tvg-id="" tvg-name="LIG TV 3" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/ligtv3tr.gif" group-title="Shareext@Sport Plus",LIG TV 3 
-http://ottshow.net:80/Jakub1222/Jakub1222/39897 
-#EXTINF:-1 tvg-id="" tvg-name="LIG TV 4" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/ligtv4tr.gif" group-title="Shareext@Sport Plus",LIG TV 4 
-http://ottshow.net:80/Jakub1222/Jakub1222/39898 
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1" tvg-logo="https://repo.ottshow.net/pikoni/Poland/elevensport1.gif" group-title="Shareext@Sport Plus",ElevenSports 1 
-http://ottshow.net:80/Jakub1222/Jakub1222/67766 
-#EXTINF:-1 tvg-id="eleven-sports-2-pl" tvg-name="Eleven Sports 2" tvg-logo="https://repo.ottshow.net/pikoni/Poland/elevensport2.gif" group-title="Shareext@Sport Plus",ElevenSports 2 
-http://ottshow.net:80/Jakub1222/Jakub1222/67767 
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3" tvg-logo="https://repo.ottshow.net/pikoni/Poland/elevensport3.gif" group-title="Shareext@Sport Plus",ElevenSports 3 
-http://ottshow.net:80/Jakub1222/Jakub1222/67768 
-#EXTINF:-1 tvg-id="polsat-sport" tvg-name="Polsat Sport" tvg-logo="https://repo.ottshow.net/pikoni/Poland/polsatsport.gif" group-title="Shareext@Sport Plus",PolsatSport 
-http://ottshow.net:80/Jakub1222/Jakub1222/67770
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 1" tvg-logo="https://repo.ottshow.net/pikoni/Poland/polsatsportpremium1.gif" group-title="Shareext@Sport Plus",PolsatSport Premium 1 
-http://ottshow.net:80/Jakub1222/Jakub1222/67771 
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 2" tvg-logo="https://repo.ottshow.net/pikoni/Poland/polsatsportpremium2.gif" group-title="Shareext@Sport Plus",PolsatSport Premium 2 
-http://ottshow.net:80/Jakub1222/Jakub1222/67772
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 2" tvg-logo="https://repo.ottshow.net/pikoni/Poland/canal+sport2.gif" group-title="Shareext@Sport Plus",CANAL+SPORT 2 
-http://ottshow.net:80/Jakub1222/Jakub1222/67773 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 3" tvg-logo="https://repo.ottshow.net/pikoni/Poland/canal+sport3.gif" group-title="Shareext@Sport Plus",CANAL+SPORT 3 
-http://ottshow.net:80/Jakub1222/Jakub1222/67774 
-#EXTINF:-1 tvg-id="canal-sport-4-pl" tvg-name="CANAL+ SPORT 4" tvg-logo="https://repo.ottshow.net/pikoni/juni2023/canel+4.gif" group-title="Shareext@Sport Plus",CANAL+SPORT 4 
-http://ottshow.net:80/Jakub1222/Jakub1222/71761 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 5" tvg-logo="https://repo.ottshow.net/pikoni/juni2023/canel+5.gif" group-title="Shareext@Sport Plus",CANAL+SPORT 5 
-http://ottshow.net:80/Jakub1222/Jakub1222/71762 
-#EXTINF:-1 tvg-id="" tvg-name="TV2 Sport" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/tv2sport.gif" group-title="Shareext@Sport Plus",TV2 Sport 
-http://ottshow.net:80/Jakub1222/Jakub1222/69797 
-#EXTINF:-1 tvg-id="" tvg-name="TV2 Sport X" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/tv2sportextra.gif" group-title="Shareext@Sport Plus",TV2 Sport X 
-http://ottshow.net:80/Jakub1222/Jakub1222/69798 
-#EXTINF:-1 tvg-id="" tvg-name="TV3 Sport" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/sportplus/tv3-spoert.gif" group-title="Shareext@Sport Plus",TV3 Sport
-http://ottshow.net:80/Jakub1222/Jakub1222/68705 
-#EXTINF:-1 tvg-id="" tvg-name="C More Live 1" tvg-logo="http://repo.ottshow.net/pikoni/svedska/cmorelive1.gif" group-title="Shareext@Sport Plus",C More Live 1 
-http://ottshow.net:80/Jakub1222/Jakub1222/4444 
-#EXTINF:-1 tvg-id="" tvg-name="C More Live 2" tvg-logo="http://repo.ottshow.net/pikoni/svedska/cmorelive2.gif" group-title="Shareext@Sport Plus",C More Live 2 
-http://ottshow.net:80/Jakub1222/Jakub1222/4445 
-#EXTINF:-1 tvg-id="" tvg-name="C More Live 3" tvg-logo="http://repo.ottshow.net/pikoni/svedska/cmorelive3.gif" group-title="Shareext@Sport Plus",C More Live 3 
-http://ottshow.net:80/Jakub1222/Jakub1222/4446 
-#EXTINF:-1 tvg-id="" tvg-name="C More Live 4" tvg-logo="http://repo.ottshow.net/pikoni/svedska/cmorelive4.gif" group-title="Shareext@Sport Plus",C More Live 4 
-http://ottshow.net:80/Jakub1222/Jakub1222/4447 
-#EXTINF:-1 tvg-id="" tvg-name="C More Fotboll" tvg-logo="http://web.izipizi1.info/pi/f.png" group-title="Shareext@Sport Plus",C More Fotboll 
-http://ottshow.net:80/Jakub1222/Jakub1222/40569 
-#EXTINF:-1 tvg-id="sky-sports-news" tvg-name="Sky Sport News" tvg-logo="https://repo.ottshow.net/pikoni/juni2023/skysportnews.gif" group-title="Shareext@Sport Plus",SkySport News 
-http://ottshow.net:80/Jakub1222/Jakub1222/72627 
-#EXTINF:-1 tvg-id="sky-sports-football" tvg-name="Sky Sport Foodball" tvg-logo="https://repo.ottshow.net/pikoni/juni2023/skysportfootball.gif" group-title="Shareext@Sport Plus",SkySport Foodball 
-http://ottshow.net:80/Jakub1222/Jakub1222/72625 
-#EXTINF:-1 tvg-id="sky-sports-arena" tvg-name="Sky Sport Arene" tvg-logo="https://repo.ottshow.net/pikoni/juni2023/skysportarene.gif" group-title="Shareext@Sport Plus",SkySport Arene 
-http://ottshow.net:80/Jakub1222/Jakub1222/72623 
-#EXTINF:-1 tvg-id="sky-sports-mix" tvg-name="Sky Sport Mix" tvg-logo="https://repo.ottshow.net/pikoni/juni2023/skysportmix.gif" group-title="Shareext@Sport Plus",SkySport Mix 
-http://ottshow.net:80/Jakub1222/Jakub1222/72624 
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Golf" tvg-logo="https://repo.ottshow.net/pikoni/juni2023/skysportgolf.gif" group-title="Shareext@Sport Plus",SkySport Golf 
-http://ottshow.net:80/Jakub1222/Jakub1222/72626 
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="http://repo.ottshow.net/pikoni/sportde/skysportf1.gif" group-title="Shareext@Sport Plus",SkySport F1 
-http://ottshow.net:80/Jakub1222/Jakub1222/71731
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Cricket" tvg-logo="https://repo.ottshow.net/pikoni/juni2023/skysportcricket.gif" group-title="Shareext@Sport Plus",SkySport Cricket
-http://ottshow.net:80/Jakub1222/Jakub1222/72645 
-#EXTINF:-1 tvg-id="" tvg-name="Racing TV" tvg-logo="https://repo.ottshow.net/pikoni/juni2023/racking-tv.gif" group-title="Shareext@Sport Plus",Racing TV 
-http://ottshow.net:80/Jakub1222/Jakub1222/72646 
-#EXTINF:-1 tvg-id="espn" tvg-name="ESPN 1" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/espn1.gif" group-title="Shareext@Sport Plus",ESPN 1 
-http://ottshow.net:80/Jakub1222/Jakub1222/25466 
-#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/espn2.gif" group-title="Shareext@Sport Plus",ESPN 2 
-http://ottshow.net:80/Jakub1222/Jakub1222/25465 
-#EXTINF:-1 tvg-id="espn-uk" tvg-name="ESPN 3" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/espn3.gif" group-title="Shareext@Sport Plus",ESPN 3 
-http://ottshow.net:80/Jakub1222/Jakub1222/25464 
-#EXTINF:-1 tvg-id="bt-sport-1" tvg-name="TBT S 1" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/btsport1.gif" group-title="Shareext@Sport Plus",TBT S 1 
-http://ottshow.net:80/Jakub1222/Jakub1222/39632 
-#EXTINF:-1 tvg-id="bt-sport-2" tvg-name="TNT S 2" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/btsport2.gif" group-title="Shareext@Sport Plus",TNT S 2 
-http://ottshow.net:80/Jakub1222/Jakub1222/39633 
-#EXTINF:-1 tvg-id="bt-sport-europe" tvg-name="TNT S 3" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/btsport3.gif" group-title="Shareext@Sport Plus",TNT S 3 
-http://ottshow.net:80/Jakub1222/Jakub1222/39634 
-#EXTINF:-1 tvg-id="sport-tv-1" tvg-name="Sport TV 1" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/sporttv1.gif" group-title="Shareext@Sport Plus",SportTV 1
-http://ottshow.net:80/Jakub1222/Jakub1222/69683 
-#EXTINF:-1 tvg-id="sport-tv-2" tvg-name="Sport TV 2" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/sporttv2.gif" group-title="Shareext@Sport Plus",SportTV 2
-http://ottshow.net:80/Jakub1222/Jakub1222/69684 
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/sporttv3.gif" group-title="Shareext@Sport Plus",SportTV 3 
-http://ottshow.net:80/Jakub1222/Jakub1222/69685 
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 4" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/sporttv4.gif" group-title="Shareext@Sport Plus",SportTV 4 
-http://ottshow.net:80/Jakub1222/Jakub1222/69686 
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5" tvg-logo="https://repo.ottshow.net/pikoni/ikone45345/sporttv5.gif" group-title="Shareext@Sport Plus",SportTV 5 
-http://ottshow.net:80/Jakub1222/Jakub1222/69687 
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 PT" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/elevensports1pt.gif" group-title="Shareext@Sport Plus",ElevenSports 1 PT 
-http://ottshow.net:80/Jakub1222/Jakub1222/69688 
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 PT" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/elevensports2.gif" group-title="Shareext@Sport Plus",ElevenSports 2 PT 
-http://ottshow.net:80/Jakub1222/Jakub1222/69689 
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3 PT" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/elevensports3.gif" group-title="Shareext@Sport Plus",ElevenSports 3 PT 
-http://ottshow.net:80/Jakub1222/Jakub1222/69690 
-#EXTINF:-1 tvg-id="" tvg-name="Fight Box" tvg-logo="https://repo.ottshow.net/pikoni/pikoni25.9/Sport%20plus/fightbox.gif" group-title="Shareext@Sport Plus",Fight Box
-http://ottshow.net:80/Jakub1222/Jakub1222/73899 
-#EXTINF:-1 tvg-id="" tvg-name="Supersport Rugby" tvg-logo="https://repo.ottshow.net/pikoni/pikoni25.9/Sport%20plus/supersport-rugby.gif" group-title="Shareext@Sport Plus",Supersport Rugby 
-http://ottshow.net:80/Jakub1222/Jakub1222/75452 
-#EXTINF:-1 tvg-id="" tvg-name="UFC Pass" tvg-logo="https://repo.ottshow.net/pikoni/pikoni25.9/Sport%20plus/ufcfight.gif" group-title="Shareext@Sport Plus",UFC Pass 
-http://ottshow.net:80/Jakub1222/Jakub1222/75526
-#EXTINF:-1 tvg-id="" tvg-name="Moto GP" tvg-logo="https://repo.ottshow.net/pikoni/pikoni25.9/Sport%20plus/motogp.gif" group-title="Shareext@Sport Plus",Moto GP 
-http://ottshow.net:80/Jakub1222/Jakub1222
-#EXTINF:-1 tvg-id="eurosport" tvg-name="Eurosport 1" tvg-logo="http://repo.ottshow.net/pikoni/sport/eurosport1.gif" group-title="Shareext@Sport Plus",Eurosport 1 
-http://ottshow.net:80/Jakub1222/Jakub1222/66 
-#EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2" tvg-logo="http://repo.ottshow.net/pikoni/sport/eurosport2.gif" group-title="Shareext@Sport Plus",Eurosport 2 
-http://ottshow.net:80/Jakub1222/Jakub1222/67 
-#EXTINF:-1 tvg-id="sport-klub-hd" tvg-name="Sport Klub " tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklubhd.gif" group-title="Shareext@Sport Plus",SportKlub  
-http://ottshow.net:80/Jakub1222/Jakub1222/34330 
-#EXTINF:-1 tvg-id="sport-klub" tvg-name="Sport Klub 1 " tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub1hd.gif" group-title="Shareext@Sport Plus",SportKlub 1  
-http://ottshow.net:80/Jakub1222/Jakub1222/39321 
-#EXTINF:-1 tvg-id="sportklub-plus-rs" tvg-name="Sport Klub 2 " tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub2hd.gif" group-title="Shareext@Sport Plus",SportKlub 2  
-http://ottshow.net:80/Jakub1222/Jakub1222/62 
-#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-name="Sport Klub 3 " tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub3hd.gif" group-title="Shareext@Sport Plus",SportKlub 3  
-http://ottshow.net:80/Jakub1222/Jakub1222/64
-#EXTINF:-1 tvg-id="sport-klub-4" tvg-name="Sport Klub 4" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub4.gif" group-title="Shareext@Sport Plus",SportKlub 4 
-http://ottshow.net:80/Jakub1222/Jakub1222/205 
-#EXTINF:-1 tvg-id="sport-klub-5" tvg-name="Sport Klub 5" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub5.gif" group-title="Shareext@Sport Plus",SportKlub 5 
-http://ottshow.net:80/Jakub1222/Jakub1222/1202 
-#EXTINF:-1 tvg-id="sport-klub-6" tvg-name="Sport Klub 6" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub6.gif" group-title="Shareext@Sport Plus",SportKlub 6 
-http://ottshow.net:80/Jakub1222/Jakub1222/1626 
-#EXTINF:-1 tvg-id="sport-klub-7" tvg-name="Sport Klub 7" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk7.gif" group-title="Shareext@Sport Plus",SportKlub 7 
-http://ottshow.net:80/Jakub1222/Jakub1222/69870 
-#EXTINF:-1 tvg-id="sport-klub-8" tvg-name="Sport Klub 8" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk8.gif" group-title="Shareext@Sport Plus",SportKlub 8 
-http://ottshow.net:80/Jakub1222/Jakub1222/69871 
-#EXTINF:-1 tvg-id="sport-klub-9" tvg-name="Sport Klub 9" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk9.gif" group-title="Shareext@Sport Plus",SportKlub 9 
-http://ottshow.net:80/Jakub1222/Jakub1222/69872 
-#EXTINF:-1 tvg-id="sport-klub-10" tvg-name="Sport Klub 10" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk10.gif" group-title="Shareext@Sport Plus",SportKlub 10 
-http://ottshow.net:80/Jakub1222/Jakub1222/69873 
-#EXTINF:-1 tvg-id="arena-sport-1-premium-bih" tvg-name="Arena Premium 1 BiH" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium1.gif" group-title="Shareext@Sport Plus",ArenaPremium 1 BiH 
-http://ottshow.net:80/Jakub1222/Jakub1222/67283 
-#EXTINF:-1 tvg-id="arena-sport-2-premium-bih" tvg-name="Arena Premium 2 BiH" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium2.gif" group-title="Shareext@Sport Plus",ArenaPremium 2 BiH 
-http://ottshow.net:80/Jakub1222/Jakub1222/67284 
-#EXTINF:-1 tvg-id="arena-sport-3-premium-bih" tvg-name="Arena Premium 3 BiH" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium3.gif" group-title="Shareext@Sport Plus",ArenaPremium 3 BiH 
-http://ottshow.net:80/Jakub1222/Jakub1222/67285 
-#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-name="Arena Premium 1 SR" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium1.gif" group-title="Shareext@Sport Plus",ArenaPremium 1 SR 
-http://ottshow.net:80/Jakub1222/Jakub1222/39440 
-#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-name="Arena Premium 2 SR" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium2.gif" group-title="Shareext@Sport Plus",ArenaPremium 2 SR 
-http://ottshow.net:80/Jakub1222/Jakub1222/39441
-#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-name="Arena Premium 3 SR" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium3.gif" group-title="Shareext@Sport Plus",ArenaPremium 3 SR 
-http://ottshow.net:80/Jakub1222/Jakub1222/39439 
-#EXTINF:-1 tvg-id="arena-sport-1-premium-si" tvg-name="Arena Premium 1 SL" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium1.gif" group-title="Shareext@Sport Plus",ArenaPremium 1 SL 
-http://ottshow.net:80/Jakub1222/Jakub1222/62594 
-#EXTINF:-1 tvg-id="arena-sport-1-ba" tvg-name="Arena Sport 1 BiH" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport1hdbih.gif" group-title="Shareext@Sport Plus",ArenaSport 1 BiH 
-http://ottshow.net:80/Jakub1222/Jakub1222/128 
-#EXTINF:-1 tvg-id="arena-sport-2-bih" tvg-name="Arena Sport 2 BiH" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport2hd.gif" group-title="Shareext@Sport Plus",ArenaSport 2 BiH 
-http://ottshow.net:80/Jakub1222/Jakub1222/29 
-#EXTINF:-1 tvg-id="arena-sport-3-bih" tvg-name="Arena Sport 3 BiH" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport3hd.gif" group-title="Shareext@Sport Plus",ArenaSport 3 BiH 
-http://ottshow.net:80/Jakub1222/Jakub1222/30 
-#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-name="Arena Sport 4 BiH" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport4hd.gif" group-title="Shareext@Sport Plus",ArenaSport 4 BiH 
-http://ottshow.net:80/Jakub1222/Jakub1222/31
-#EXTINF:-1 tvg-id="arena-sport-5-hr" tvg-name="Arena Sport 5 HR " tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthrhd5.gif" group-title="Shareext@Sport Plus",ArenaSport 5 HR  
-http://ottshow.net:80/Jakub1222/Jakub1222/645 
-#EXTINF:-1 tvg-id="arena-sport-6-hr" tvg-name="Arena Sport 6 HR" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthdhr6.gif" group-title="Shareext@Sport Plus",ArenaSport 6 HR 
-http://ottshow.net:80/Jakub1222/Jakub1222/37928 
-#EXTINF:-1 tvg-id="arena-sport-7-hr" tvg-name="Arena Sport 7 HR " tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport7hrhd.gif" group-title="Shareext@Sport Plus",ArenaSport 7 HR  
-http://ottshow.net:80/Jakub1222/Jakub1222/35185 
-#EXTINF:-1 tvg-id="arena-sport-8-hr" tvg-name="Arena Sport 8 HR " tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport8hrhd.gif" group-title="Shareext@Sport Plus",ArenaSport 8 HR  
-http://ottshow.net:80/Jakub1222/Jakub1222/35186 
-#EXTINF:-1 tvg-id="arena-sport-9-hr" tvg-name="Arena Sport 9 HR" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport9hrhd.gif" group-title="Shareext@Sport Plus",ArenaSport 9 HR 
-http://ottshow.net:80/Jakub1222/Jakub1222/35187 
-#EXTINF:-1 tvg-id="arena-sport-10-hr" tvg-name="Arena Sport 10 HR " tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport10hrhd.gif" group-title="Shareext@Sport Plus",ArenaSport 10 HR  
-http://ottshow.net:80/Jakub1222/Jakub1222/35188
-#EXTINF:-1 tvg-id="arena-esport" tvg-name="Arena ESport" tvg-logo="http://repo.ottshow.net/pikoni/sport/Arena%20ESport.gif" group-title="Shareext@Sport Plus",Arena ESport 
-http://ottshow.net:80/Jakub1222/Jakub1222/36410 
-#EXTINF:-1 tvg-id="arena-sport-1x2" tvg-name="Arena Sport 1x2" tvg-logo="https://repo.ottshow.net/pikoni/sport/arena1x2.gif" group-title="Shareext@Sport Plus",ArenaSport 1x2 
-http://ottshow.net:80/Jakub1222/Jakub1222/66260 
-#EXTINF:-1 tvg-id="sport-tv-1" tvg-name="Sport SLO 1" tvg-logo="http://repo.ottshow.net/pikoni/sport/Sport1slo.gif" group-title="Shareext@Sport Plus",Sport SLO 1 
-http://ottshow.net:80/Jakub1222/Jakub1222/206 
-#EXTINF:-1 tvg-id="sport-tv-2" tvg-name="Sport SLO 2" tvg-logo="http://repo.ottshow.net/pikoni/sport/spotslo2.gif" group-title="Shareext@Sport Plus",Sport SLO 2 
-http://ottshow.net:80/Jakub1222/Jakub1222/207 
-#EXTINF:-1 tvg-id="stv3" tvg-name="Sport SLO 3" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportslo3.gif" group-title="Shareext@Sport Plus",Sport SLO 3 
-http://ottshow.net:80/Jakub1222/Jakub1222/208 
-#EXTINF:-1 tvg-id="maxsport-1" tvg-name="MAXSport 1 SD" tvg-logo="https://repo.ottshow.net/pikoni/ikone/maxsport.gif" group-title="Shareext@Sport Plus",MAXSport 1 SD
-http://ottshow.net:80/Jakub1222/Jakub1222/71739 
-#EXTINF:-1 tvg-id="maxsport-1" tvg-name="MAXSport 1 " tvg-logo="https://repo.ottshow.net/pikoni/ikone/maxsport.gif" group-title="Shareext@Sport Plus",MAXSport 1  
-http://ottshow.net:80/Jakub1222/Jakub1222/2496 
-#EXTINF:-1 tvg-id="maxsport-2" tvg-name="MAXSport 2 " tvg-logo="https://repo.ottshow.net/pikoni/ikone/maxsport2.gif" group-title="Shareext@Sport Plus",MAXSport 2  
-http://ottshow.net:80/Jakub1222/Jakub1222/61224 
-#EXTINF:-1 tvg-id="" tvg-name="Nova Sport " tvg-logo="http://repo.ottshow.net/pikoni/sport/novasporthd.gif" group-title="Shareext@Sport Plus",Nova Sport  
-http://ottshow.net:80/Jakub1222/Jakub1222/25463 
-#EXTINF:-1 tvg-id="city-tv" tvg-name="City TV" tvg-logo="http://repo.ottshow.net/pikoni/sport/citytv.gif" group-title="Shareext@Sport Plus",City TV 
-http://ottshow.net:80/Jakub1222/Jakub1222/29606 
-#EXTINF:-1 tvg-id="sportska-televizija" tvg-name="SPTV" tvg-logo="http://repo.ottshow.net/pikoni/sport/sptv.gif" group-title="Shareext@Sport Plus",SPTV 
-http://ottshow.net:80/Jakub1222/Jakub1222/12622 
-#EXTINF:-1 tvg-id="sos" tvg-name="SOS Kanal" tvg-logo="http://repo.ottshow.net/pikoni/sport/sostv.gif" group-title="Shareext@Sport Plus",SOS Kanal
-http://ottshow.net:80/Jakub1222/Jakub1222/204 
-#EXTINF:-1 tvg-id="" tvg-name="Zvezda Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/zvezda-tv.gif" group-title="Shareext@Sport Plus",Zvezda Tv 
-http://ottshow.net:80/Jakub1222/Jakub1222/69875 
-#EXTINF:-1 tvg-id="htv1" tvg-name="Tv Partizan" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/partizan-tv.gif" group-title="Shareext@Sport Plus",Tv Partizan 
-http://ottshow.net:80/Jakub1222/Jakub1222/69874 
-#EXTINF:-1 tvg-id="fight-klub-hd" tvg-name="Sport Klub Golf" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/skgolf.gif" group-title="Shareext@Sport Plus",SportKlub Golf 
-http://ottshow.net:80/Jakub1222/Jakub1222/68481 
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub Fight" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/skfight.gif" group-title="Shareext@Sport Plus",SportKlub Fight 
-http://ottshow.net:80/Jakub1222/Jakub1222/68480
-#EXTINF:-1 tvg-id="arena-fight" tvg-name="Arena Fight" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenafight.gif" group-title="Shareext@Sport Plus",Arena Fight 
-http://ottshow.net:80/Jakub1222/Jakub1222/30491 
-#EXTINF:-1 tvg-id="fight-network" tvg-name="Fight Network" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/fightnettwork.gif" group-title="Shareext@Sport Plus",Fight Network 
-http://ottshow.net:80/Jakub1222/Jakub1222/61 
-#EXTINF:-1 tvg-id="eurosport-de" tvg-name="Eurosport 1" tvg-logo="http://repo.ottshow.net/pikoni/sportde/eurosport1de.gif" group-title="Shareext@Sport Plus",Eurosport 1 Denmark
-http://ottshow.net:80/Jakub1222/Jakub1222/3420 
-#EXTINF:-1 tvg-id="eurosport2-de" tvg-name="Eurosport 2" tvg-logo="http://repo.ottshow.net/pikoni/sportde/eurosport2de.gif" group-title="Shareext@Sport Plus",Eurosport 2 Denmark
-http://ottshow.net:80/Jakub1p222/Jakub1222/4096 
-#EXTINF:-1 tvg-id="dazn-1-de" tvg-name="Dazn 1 SD" tvg-logo="http://repo.ottshow.net/pikoni/sportde/dazn1.gif" group-title="Shareext@Sport Plus",Dazn 1 SD
-http://ottshow.net:80/Jakub1222/Jakub1222/76836 
-#EXTINF:-1 tvg-id="dazn-1-de" tvg-name="DAZN 1" tvg-logo="http://repo.ottshow.net/pikoni/sportde/dazn1.gif" group-title="Shareext@Sport Plus",DAZN 1 Denmark 
-http://ottshow.net:80/Jakub1222/Jakub1222/25971 
-#EXTINF:-1 tvg-id="dazn-2-de" tvg-name="DAZN 2" tvg-logo="http://repo.ottshow.net/pikoni/sportde/dazn2.gif" group-title="Shareext@Sport Plus",DAZN 2 Denmark 
-http://ottshow.net:80/Jakub1222/Jakub1222/12615
-
-
-
-#EXTINF:-1 tvg-ID="espnhd-ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="SHAREEXT@LIVE||SPORTS",ESPN HD 🇦🇷
-http://190.61.43.117:45000/play/a01l
-#EXTINF:-1 tvg-ID="espnhd2-ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="SHAREEXT@LIVE||SPORTS",ESPN 2 HD 🇦🇷
-http://190.61.43.117:45000/play/a053
-#EXTINF:-1 tvg-ID="espn3hd-ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="SHAREEXT@LIVE||SPORTS",ESPN 3 HD 🇦🇷
-http://190.61.43.117:45000/play/a051
-#EXTINF:-1 tvg-ID="espn4-ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="SHAREEXT@LIVE||SPORTS",ESPN 4 🇦🇷
-http://38.43.140.97:8000/play/a01o/index.m3u8
-#EXTINF:-1 tvg-ID="espn-extra" tvg-logo="https://th.bing.com/th/id/OIP.7GUT9_yRXyQlb8q88vT5cAHaFw?pid=ImgDet&rs=1" group-title="SHAREEXT@LIVE||SPORTS",ESPN Extra HD 
-http://38.43.140.97:8000/play/a016/index.m3u8
-#EXTINF:-1 tvg-ID="fox-sports" tvg-logo="https://th.bing.com/th/id/OIP.IWzN4UZLMlbvv__YxaTJegHaEb?pid=ImgDet&rs=1" group-title="SHAREEXT@LIVE||SPORTS",FOX Sports HD 🇦🇷
-http://190.108.85.20:9999/play/a011
-#EXTINF:-1 tvg-ID="fox-sports-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="SHAREEXT@LIVE||SPORTS",Fox Sports 2 HD 🇦🇷
-http://190.61.43.117:45000/play/a01g
-#EXTINF:-1 tvg-ID="fox-sports-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="SHAREEXT@LIVE||SPORTS",FOX SPORTS 3 HD
+#EXTINF:-1 tvg-ID="fox-sports-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="SHAREEXT@LIVE||SPORTS",ESPN 6 HD
 http://45.166.92.22:58001/play/a01j/index.m3u8
 #EXTINF:-1 tvg-ID="rmtv" tvg-logo="https://comunidad.movistar.es/t5/image/serverpage/image-id/116745iC79D86FD3EB914B8?v=v2" group-title="SHAREEXT@LIVE||SPORTS",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-id="62d816fcf24d280008762ee9" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="SHAREEXT@LIVE||SPORTS" ,La Liga Premier | Paramount+
-https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",One•Soccer
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/135810.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Root•Sports
@@ -4401,8 +3988,6 @@ http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167748.ts
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167749.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",ELEVEN•5_PT
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167750.ts
-
-
 
 #EXTINF:-1 tvg-id="ATG.se" tvg-logo="https://i.imgur.com/5CdW62M.png" group-title="SHAREEXT@LIVE||SPORTS",ATG(432p)
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
@@ -4446,6 +4031,8 @@ https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="I593.103808.schedulesdirect.org" tvg-name="" tvg-logo="https://static.epg.best/gb/HorseAndCountry.uk.png" group-title="SHAREEXT@LIVE||SPORTS", Horse & Country
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+
+
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg"  group-title="SHAREEXT@GLOBAL_SPORTS",xsport.
 http://iptv.prosto.tv:7000/ch110/video.m3u8
@@ -5841,6 +5428,15 @@ https://maper.info/Celestial_shareext
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",AEC_🇲🇾
 https://maper.info/AEC_shareext
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES",HBO (xtv)
+http://xtv.ooo:8080/MansoorWapda/258741/350955
+#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES",HBO Family (xtv)
+http://xtv.ooo:8080/MansoorWapda/258741/350956
+#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES",HBO Hits (xtv)
+http://xtv.ooo:8080/MansoorWapda/258741/350957
+#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES",HBO Signature (xtv)
+http://xtv.ooo:8080/MansoorWapda/258741/350958
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="Shareext@MOVIES",HBO~
 http://iptvtree.net:8080/F14995/a84c0963/197972
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="Shareext@MOVIES",HBO Family~
@@ -5915,66 +5511,27 @@ http://iptvtree.net:8080/F14995/a84c0963/157594
 http://iptvtree.net:8080/F14995/a84c0963/157584
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="Shareext@MOVIES",FLIK~
 http://iptvtree.net:8080/F14995/a84c0963/165095
-
-#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://asiagrandiptv.us/logo/hbo.png" group-title="Shareext@MOVIES",HBO_🇹🇼
-http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU" group-title="Shareext@MOVIES",HBO•FAMILY_🇹🇼
-http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
-#EXTINF:-1 tvg-id="" tvg-name="MY: HBO HITS" tvg-logo="https://asiagrandiptv.us/logo/hbohits.png" group-title="Shareext@MOVIES",HBO•HITS_🇹🇼
-http://198.16.100.90:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
-#EXTINF:-1 tvg-id="" tvg-name="MY: HBO SIGNATURE" tvg-logo="https://asiagrandiptv.us/logo//hbosignature.png" group-title="Shareext@MOVIES",HBO•SIGNATURE_🇹🇼
-http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-#EXTINF:-1 tvg-id="" tvg-name="MY: CINEMAX" tvg-logo="https://asiagrandiptv.us/logo/cinemax.png" group-title="Shareext@MOVIES",CINEMAX_🇹🇼
-http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU" group-title="Shareext@MOVIES",HOLLYWOOD•MOVIES_🇹🇼
-http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Sony.pick
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",myTimeMovies
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇮🇩CelestialClassicMovies
 http://rr3.dens.tv/s/s31/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇮🇩CelestialMovies Indonesia
-http://rr1.dens.tv/h/h14/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇮🇩Cinema Europe
 http://rr.dens.tv/h/h18/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇮🇩Cinema World
-http://rr.dens.tv/h/h04/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇮🇩KIX
-http://rr1.dens.tv/h/h07/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇮🇩Kplus
 http://rr.dens.tv/h/h08/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇮🇩My Cinema
-http://210.210.155.35:80/uq2663/h/h192/index.m3u8
-http://rr3.dens.tv/h/h192/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇮🇩My Cinema Asia
 http://rr3.dens.tv/h/h193/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇮🇩My Family Channel
 http://rr3.dens.tv/h/h194/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇮🇩My Kidz
 http://rr3.dens.tv/h/h191/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇮🇩Rock Entertainment
-http://rr1.dens.tv/h/h16/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇮🇩Rock Action
-http://rr1.dens.tv/h/h15/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇮🇩Thrill
 http://rr3.dens.tv/s/s34/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇮🇩ToonMax
 http://rr3.dens.tv/s/s50/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇮🇩TVN Movies Indonesia
-http://rr1.dens.tv/h/h21/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇮🇩TVN Premium Indonesia
-http://rr1.dens.tv/h/h20/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇮🇩Xing Kong TV
-http://rr3.dens.tv/s/s94/index2.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Family Flix
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",RedBox Spotlight
-https://spotlight-redbox.amagi.tv:443/playlist240p.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",RedBox Comedy
-https://comedy-redbox.amagi.tv:443/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",My time Movies Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",FilmRise Family
@@ -6132,31 +5689,41 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png?download=true" group-title="SHAREEXT@MPD_MOVIES",HBO Family (MAX)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png?download=true" group-title="SHAREEXT@MPD_MOVIES",HBO Hits (MAX)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png?download=true" group-title="SHAREEXT@MPD_MOVIES",HBO Signature (MAX)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="SHAREEXT@MPD_MOVIES", Cinemax (MAX)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
