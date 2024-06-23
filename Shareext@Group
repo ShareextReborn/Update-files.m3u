@@ -347,6 +347,10 @@ https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="ShareExt@PREMIUM✓SPORTS" , FIFA+ 6
 https://i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8
 
+
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="ShareExt@PREMIUM✓SPORTS",StarSports 1 HD
 http://103.120.172.74:4600
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="ShareExt@PREMIUM✓SPORTS",StarSports 2
@@ -364,60 +368,6 @@ http://103.120.172.74:5300
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="ShareExt@PREMIUM✓SPORTS",Sports 18 1 HD
 http://103.120.172.74:5500
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", BT Sport 1 UK
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/2505/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", BT Sport 2 UK
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/2506/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", PREMIERSPORTS UK
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6555/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", SKYSPORTS PREMIER LEAGUE UK
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/7335/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", SKYSPORTS FOOTBALL UK
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/7336/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", SKYSPORTS MAIN EVENT UK
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/7337/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", SKYSPORTS ARENA UK
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/7338/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", SKYSPORTS MIX UK
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/7339/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", SkySports Action HD UK
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/7340/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", SKYSPORTS RACING UK
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/7341/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", SKYSPORTS F1 UK
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/7342/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", SKYSPORTS CRICKET UK
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/7343/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", SKYSPORTS GOLF UK
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/7344/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", SkySports Action FHD UK
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/7345/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", Setanta Eurasia HD
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/15183/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", Setanta Eurasia+
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/15184/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", Eurosport HD DE
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/15179/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", Eurosport 1 HD
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/228/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", Eurosport 2 North-East HD
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/234/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", UFC ТВ
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/2000/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", SetantaSports HD
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/271/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", SetantaSports 2
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/270/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", SetantaSports Ukraine HD
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/272/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", Setanta Qazaqstan HD
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/2399/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", Fastnfunbox
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/15231/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", Fightbox
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/15232/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", TENNIS HD US
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6096/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="SHAREEXT@UEFA~EURO~2024",EURO 2024- 1
@@ -4812,34 +4762,6 @@ http://iptvtree.net:8080/F14995/a84c0963/11635
 http://iptvtree.net:8080/F14995/a84c0963/11636
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",LIVE 1
-https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",LIVE 2
-https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",LIVE 3
-https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",LIVE 4
-https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",Event 1
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",Event 2 
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",Event 3 
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",Event 4
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL004/HLS/TL004.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",Event 5_mpd 
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0129/DASH/V0129.mpd 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",Event 6_mpd
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",Event 7_mpd
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",Event 8_mpd
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@⚽EVENT_ONLY⚽",Event 9_mpd
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",TV 1
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1734
@@ -6995,20 +6917,6 @@ http://43.128.40.42:198/虎牙直播/huya.php?id=23863818
 
 
 
-#EXTINF:-1 group-title="SHAREEXT@Hindi Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png", SONY MAX HD
-https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-#EXTINF:-1 group-title="SHAREEXT@Hindi Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png", SONY MAX 2
-https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
-#EXTINF:-1 group-title="SHAREEXT@Hindi Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png", SONY TV HD
-https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
-#EXTINF:-1 group-title="SHAREEXT@Hindi Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-198-j5fsr7mw-v2/imageContent-198-j5fsr7mw-m3.png", SONY WAH
-https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
-#EXTINF:-1 group-title="SHAREEXT@Hindi Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png", SONY SAB HD
-https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
-#EXTINF:-1 group-title="SHAREEXT@Hindi Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png", SONY PIX HD
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-#EXTINF:-1 group-title="SHAREEXT@Hindi Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png", SONY YAY
-https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CKWBHZJ/67d902f2-c127-464a-94c4-2226a1feb655.png" group-title="SHAREEXT@Hindi Movies", Shemaroo Bollywood 
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bs1Q0bx/Picsart-24-02-29-19-06-41-393.png" group-title="SHAREEXT@Hindi Movies",Classic Bollywood HD
@@ -8917,39 +8825,6 @@ https://ytlive.iptvhub.workers.dev/stream/NewsStateTV/index.m3u8
 https://ytlive.iptvhub.workers.dev/stream/ddindia/index.m3u8
 #EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9000-j7rkz0m0-v1/imageContent-9000-j7rkz0m0-m1.png", WION NEWS
 https://news.udx.workers.dev/wion/index.m3u8
-#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(6).png", TRTWORLD NEWS
-https://tv-trtworld.live.trt.com.tr/master.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Colors•tv
-http://170.254.18.107/COLORS/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Sony•max 
-http://170.254.18.107/SONYMAX/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Zee•cinema 
-http://170.254.18.107/ZEECINEMA/index.m3u8
-#EXTINF:-1 tvg-id="1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SHAREEXT@TEVE•INDIA",SET HD
-https://dai.google.com/ssai/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
-#EXTINF:-1 tvg-id="1000009248" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SHAREEXT@TEVE•INDIA",Sony SAB HD
-https://dai.google.com/ssai/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
-#EXTINF:-1 tvg-id="1000009273" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SHAREEXT@TEVE•INDIA",Sony PAL
-https://dai.google.com/ssai/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
-#EXTINF:-1 tvg-id="1000001971" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SHAREEXT@TEVE•INDIA",Sony YAY
-https://dai.google.com/ssai/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
-#EXTINF:-1 tvg-id="1000009255" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="SHAREEXT@TEVE•INDIA",Sony AATH
-https://dai.google.com/ssai/event/j-YEIDwORxubtP_967VcZg/master.m3u8
-#EXTINF:-1 tvg-id="1000009259" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="SHAREEXT@TEVE•INDIA",Sony Marathi
-https://dai.google.com/ssai/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
-#EXTINF:-1 tvg-id="1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SHAREEXT@TEVE•INDIA",Sony BBC Earth HD
-https://dai.google.com/ssai/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
-#EXTINF:-1 tvg-id="1000009258" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SHAREEXT@TEVE•INDIA",Sony PIX HD
-https://dai.google.com/ssai/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="SHAREEXT@TEVE•INDIA",Sony WAH
-https://dai.google.com/ssai/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
-#EXTINF:-1 tvg-id="1000009249" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="SHAREEXT@TEVE•INDIA",Sony MAX
-https://dai.google.com/ssai/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
-#EXTINF:-1 tvg-id="1000009247" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SHAREEXT@TEVE•INDIA",Sony MAX HD
-https://dai.google.com/ssai/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-#EXTINF:-1 tvg-id="1000044878" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="SHAREEXT@TEVE•INDIA",Sony MAX2
-https://dai.google.com/ssai/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" group-title="SHAREEXT@TEVE•INDIA",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
