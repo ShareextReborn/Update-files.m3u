@@ -5,13 +5,14 @@ https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
 https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",PSJ TV_🇲🇨
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",FOXSPORTS_LIVE SOCCER
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",FS-1_(LIVE-only)_euro/america cup
 https://katanaboss.online/chunklist/hlsch1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",SKYSPORTS_TNT_F1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",F1-(LIVE-only)
 https://katanaboss.online/chunklist/hlsch2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",FIGHT_PREMIERSPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",UFC-FIGHT_(LIVE-only)
 https://katanaboss.online/chunklist/hlsch3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",TNT_SPORTS 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",TNT_SPORTS(LIVE-only)
 https://katanaboss.online/chunklist/hlsch4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",Arena 1
@@ -240,6 +241,8 @@ http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar.video.mytv
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar.ott
+http://extraott.com/live/7921751389/6097373662/45098.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar.play
 https://s.id/indosiar_play_shareext-xs
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar(denstv)
@@ -648,22 +651,6 @@ http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/609321
 #EXTINF:-1  tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF√SUPERSPORTS",SuperSport Variety 04
 http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/609320
 
-
-
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="SHAREEXT@UEFA~EURO~2024",EURO 2024- 1
-https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12585
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="SHAREEXT@UEFA~EURO~2024",EURO 2024- 2
-https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12586
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="SHAREEXT@UEFA~EURO~2024",EURO 2024- 3
-https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12587
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="SHAREEXT@UEFA~EURO~2024",EURO 2024- 4
-https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12588
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="SHAREEXT@UEFA~EURO~2024",EURO 2024- 5
-https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12589
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="SHAREEXT@UEFA~EURO~2024",EURO 2024- 6
-https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12590
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="SHAREEXT@UEFA~EURO~2024",EURO 2024- 7
-https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12591
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SPORTS_Replay",Sports Replay 1 ᴴᴰ
