@@ -640,6 +640,52 @@ http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/609321
 http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/609320
 
 
+
+
+#EXTINF:-1 group-title="SHAREEXT@⚽️ EURO 2024 ⚽️" tvg-id="ITV1" tvg-logo="https://imgur.com/5g26UzU.png", SONY 1
+http://watchindia.net:8880/live/30631/24314/2215.ts
+#EXTINF:-1 group-title="SHAREEXT@⚽️ EURO 2024 ⚽️" tvg-id="ITV1" tvg-logo="https://imgur.com/5g26UzU.png", SONY 2
+http://watchindia.net:8880/live/30631/24314/1757.t
+#EXTINF:-1 group-title="SHAREEXT@⚽️ EURO 2024 ⚽️" tvg-id="ITV1" tvg-logo="https://imgur.com/5g26UzU.png", SONY 3
+http://watchindia.net:8880/live/30631/24314/1758.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️",SONY Jiotv
+https://madplay.live/hls/jiotv/stream.php?id=523&e=.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-logo="https://imgur.com/5g26UzU.png" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️", TRT 1
+https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
+#EXTINF:-1 group-title="SHAREEXT@⚽️ EURO 2024 ⚽️" tvg-id="sonyten3.in" tvg-logo="https://imgur.com/5g26UzU.png", La 2
+http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/117156
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️", SPORT TV1
+http://cafenegro.uk:80/live/Rafaluque/9dnjaRRe9E63/88871.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️", CCTV5
+https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️", CCTV5plus
+https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://static.vecteezy.com/system/resources/previews/001/204/023/original/soccer-png.png" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️",EUROCOPA LA1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://static.vecteezy.com/system/resources/previews/001/204/023/original/soccer-png.png" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️",EUROCOPA LA2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main.m3u8
+
+#EXTINF:-1 tvg-name="Soccer 01: 12:00 PM (E.T) | Eslovaquia vs Rumania | EUROCOPA" tvg-logo="https://static.vecteezy.com/system/resources/previews/001/204/023/original/soccer-png.png" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️",Soccer 01: 12:00 PM (E.T) | Eslovaquia vs Rumania | EUROCOPA
+http://zuiowy.net:8080/Paola2023/7ThHZTUFn8ze/135029
+#EXTINF:-1 tvg-name="Soccer 02: 12:00 PM (E.T) | Ucrania vs Belgica | EUROCOPA" tvg-logo="https://static.vecteezy.com/system/resources/previews/001/204/023/original/soccer-png.png" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️",Soccer 02: 12:00 PM (E.T) | Ucrania vs Belgica | EUROCOPA
+http://zuiowy.net:8080/Paola2023/7ThHZTUFn8ze/135030
+#EXTINF:-1 tvg-name="Soccer 03: 03:00 PM (E.T) | Republica Checa vs Turquia | EUROCOPA" tvg-logo="https://static.vecteezy.com/system/resources/previews/001/204/023/original/soccer-png.png" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️",Soccer 03: 03:00 PM (E.T) | Republica Checa vs Turquia | EUROCOPA
+http://zuiowy.net:8080/Paola2023/7ThHZTUFn8ze/135031
+#EXTINF:-1 tvg-name="Soccer 04: 03:00 PM (E.T) | Georgia vs Portugal | EUROCOPA" tvg-logo="https://static.vecteezy.com/system/resources/previews/001/204/023/original/soccer-png.png" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️",Soccer 04: 03:00 PM (E.T) | Georgia vs Portugal | EUROCOPA
+http://zuiowy.net:8080/Paola2023/7ThHZTUFn8ze/135032
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gJ9ZBwM/tv360.jpg" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️",tv360plus1
+https://tth.vn/tv360plus1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gJ9ZBwM/tv360.jpg" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️",tv360plus2
+https://tth.vn/tv360plus2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gJ9ZBwM/tv360.jpg" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️",tv360plus3
+https://tth.vn/tv360plus3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gJ9ZBwM/tv360.jpg" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️",tv360plus4
+https://tth.vn/tv360plus4
 #EXTINF:-1 tvg-id="" tvg-name="Switzerland vs Italy | Saturday 17:00" tvg-logo="https://ichef.bbci.co.uk/news/976/cpsprodpb/667a/live/6e987240-327d-11ef-a044-9d4367d5b599.png.webp" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️",Switzerland vs Italy | Saturday 17:00
 http://sulu.xyz:2086/ashleigh/ashleigh/36094
 #EXTINF:-1 tvg-id="" tvg-name="Germany vs Denmark | Saturday 20:00" tvg-logo="https://ichef.bbci.co.uk/news/976/cpsprodpb/ada8/live/a0f1a040-33bd-11ef-a044-9d4367d5b599.png.webp" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️",Germany vs Denmark | Saturday 20:00
@@ -657,6 +703,23 @@ http://sulu.xyz:2086/ashleigh/ashleigh/36088
 #EXTINF:-1 tvg-id="" tvg-name="Austria vs Turkey | Tuesday 20:00" tvg-logo="https://ichef.bbci.co.uk/news/976/cpsprodpb/ede1/live/d858fe50-3400-11ef-90be-b75b34b0bbb2.png.webp" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️",Austria vs Turkey | Tuesday 20:00
 http://sulu.xyz:2086/ashleigh/ashleigh/36087
 
+
+
+
+#EXTINF:-1 group-title="SHAREEXT@⚽️ COPA AMERICA ⚽️" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", TV8 CANLI
+https://hw1.jemtv.com/app/tv85/chunks.m3u8
+#EXTINF:-1 group-title="SHAREEXT@⚽️ COPA AMERICA ⚽️" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", LIVE
+https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@⚽️ COPA AMERICA ⚽️" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", RPC
+http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/11315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Max Canal 9 (PA)(R)" tvg-logo="https://imgur.com/Xa8tEbU.png" group-title="SHAREEXT@⚽️ COPA AMERICA ⚽️",TV Max Canal 9
+http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/166784.m3u8
+#EXTINF:-1 group-title="SHAREEXT@⚽️ COPA AMERICA ⚽️" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", TYC SPORTS
+http://cafenegro.uk:80/live/Rafaluque/9dnjaRRe9E63/88864.ts
+#EXTINF:-1 group-title="SHAREEXT@⚽️ COPA AMERICA ⚽️" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", Win Sports+
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
+#EXTINF:-1 group-title="SHAREEXT@⚽️ COPA AMERICA ⚽️" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", Sportv
+http://cafenegro.uk:80/live/Rafaluque/9dnjaRRe9E63/88866.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="⚽️ COPA GROUP A ⚽️" tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg" group-title="SHAREEXT@⚽️ COPA AMERICA ⚽️",⚽️ COPA GROUP A ⚽️
 http://sulu.xyz:2086/ashleigh/ashleigh/19501
