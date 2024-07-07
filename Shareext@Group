@@ -3482,21 +3482,6 @@ http://iptvtree.net:8080/F14995/a84c0963/35340
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.geocities.ws/alvaro8/Premier_League.jpeg" group-title="SHAREEXT@EPL",PREMIER|LEAGUE_peacok_MPD(OTT.NAVIGATOR)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.geocities.ws/alvaro8/Premier_League.jpeg" group-title="SHAREEXT@EPL",FIFA TV
-https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.geocities.ws/alvaro8/Premier_League.jpeg" group-title="SHAREEXT@EPL",PREMIER~LEAGUE_pluto
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-
-
-
 #EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@OLAHRAGA•ASIAN",MY:Astro Premier 1
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/71026
 #EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@OLAHRAGA•ASIAN",MY:sukan
@@ -3569,16 +3554,7 @@ http://14.102.154.164:5021/live/409.ts
 
 
 
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",PPV:Triller / Fite 24/7
-http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/601452
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",PPV:Mike Tyson 24/7
-http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/601453
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",PPV:UFC FIGHT PASS 24/7
-http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/601454
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",PPV:WWE Network (Peacock)
-http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/601455
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",PPV:WWE Network (PPV)
-http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/601456
+
 
 #EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",FITE.24/7
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
@@ -3830,6 +3806,17 @@ http://iptvtree.net:8080/F14995/a84c0963/1052
 
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.geocities.ws/alvaro8/Premier_League.jpeg" group-title="SHAREEXT@LIVE||SPORTS",PREMIER|LEAGUE_peacok_MPD(OTT.NAVIGATOR)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.geocities.ws/alvaro8/Premier_League.jpeg" group-title="SHAREEXT@LIVE||SPORTS",FIFA TV
+https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@LIVE||SPORTS",FS-1_(LIVE-only)_euro/america cup
 https://katanaboss.online/chunklist/hlsch1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@LIVE||SPORTS",F1-(LIVE-only)
@@ -4228,52 +4215,6 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ccdnblck.xyz:80/images/8453b8a9c642d058df65283132b0464c.png" group-title="SHAREEXT@BRAZILIA ➾ Sports",Canal do Inter (720p)
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", All Sports HD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610403
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="https://imgur.com/0OZ0ReM.png" group-title="SHAREEXT@BRAZILIA ➾ Sports",BR:Band Sports HD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610427
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD" tvg-logo="http://ccdnblck.xyz:80/images/b7bd64e2ba0016809276c61cbebdb20d.png" group-title="SHAREEXT@BRAZILIA ➾ Sports",BR:Combate HD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610493
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN HD" tvg-logo="http://ccdnblck.xyz:80/images/8453b8a9c642d058df65283132b0464c.png" group-title="SHAREEXT@BRAZILIA ➾ Sports",BR:ESPN Brasil HD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610561
-#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2 HD" tvg-logo="http://ccdnblck.xyz:80/images/d0ce8c3a6f4897955f710461fc61deba.png" group-title="SHAREEXT@BRAZILIA ➾ Sports",BR:ESPN 2 FHD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610553
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3 HD" tvg-logo="http://ccdnblck.xyz:80/images/7ffcedf0b67b7cbebf6a51420a99dc6d.png" group-title="SHAREEXT@BRAZILIA ➾ Sports",BR:ESPN 3 HD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610554
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 HD" tvg-logo="http://ccdnblck.xyz:80/images/7ffcedf0b67b7cbebf6a51420a99dc6d.png" group-title="SHAREEXT@BRAZILIA ➾ Sports",BR:ESPN 4 HD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610557
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 HD" tvg-logo="http://ccdnblck.xyz:80/images/7ffcedf0b67b7cbebf6a51420a99dc6d.png" group-title="SHAREEXT@BRAZILIA ➾ Sports",BR:ESPN Extra HD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610565
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", BR:SporTV HD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610932
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", BR:SporTV 2 HD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610923
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", BR:SporTV 3 HD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610927
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", BR:SporTV 4 HD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610930
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", BR:Estadio TNT Sports HD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610572
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", BR:FoxSports 2 HD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610592
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", DAZN 1 HD (Event Only)
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610515
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", DAZN 2 HD (Event Only)
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610516
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", DAZN 3 HD (Event Only)
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610517
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", DAZN 4 HD (Event Only) 
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610518
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", HBO Max Champions League 1 HD (Event Only)
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610759
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", HBO Max Champions League 2 HD (Event Only)
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610760
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", HBO Max Champions League 3 HD (Event Only)
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610761
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", HBO Max Champions League 4 HD (Event Only)
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610762
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", HBO Max Champions League 5 HD (Event Only)
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610763
 
 
 
@@ -5294,58 +5235,11 @@ https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="Shareext@MOVIES", BIOSKOP ACTION
-https://s.id/bios_action_shareext-xs
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="Shareext@MOVIES", BIOSKOP THRILLER
-https://s.id/bios_thriller_shareext-xs
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="Shareext@MOVIES", BIOSKOP CHINA
-https://s.id/bios_china_shareext-xs
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="Shareext@MOVIES", BIOSKOP BOOLYWOOD
-https://s.id/bios_boolywood_shareext-xs
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="Shareext@MOVIES", BIOSKOP DRAMA FAMILY
-https://s.id/bios_drama_shareext-xs
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="Shareext@MOVIES", BIOSKOP HORROR
-https://s.id/bios_horror_shareext-xs
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="Shareext@MOVIES", BIOSKOP INDONESIA
-https://s.id/bios_indo_shareext-xs
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="Shareext@MOVIES", HBOO
-https://s.id/hboo_shareext-xs
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="Shareext@MOVIES", HBOO HITS
-https://s.id/hboohits_shareext-xs
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="Shareext@MOVIES", HBOO SIGNATURE
-https://s.id/hboo_sig_shareext-xs
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="Shareext@MOVIES", HBO FAMILY
-https://s.id/hboo_family_shareext-xs
 
 #EXTINF:-1 group-title="Shareext@MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg",ช่อง Lotus TV Macau
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC41/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",BOO_🇲🇾
-https://maper.info/BOO_shareext
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",CINEMAX_🇲🇾
-https://maper.info/CINEMAX_shareext
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",AOD_🇲🇾
-https://maper.info/AOD_shareext
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",HUA_HE_TAI_🇲🇾
-https://maper.info/HUAHETAI_shareext
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",WAH_LAI_TOI_🇲🇾
-https://maper.info/WAHLAITOI_shareext
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",QUAN_CIA_🇲🇾
-https://maper.info/QUANCIA_shareext
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",SCM_🇲🇾
-https://maper.info/SCM_shareext
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",XIAO_TAI_YANG_🇲🇾
-https://maper.info/XIAOTAIYANG_shareext
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",IQYI_🇲🇾
-https://maper.info/IQYI_shareext
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",XING_HE_🇲🇾
-https://maper.info/XINGHE_shareext
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",CCM_🇲🇾
-https://maper.info/CCM_shareext
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",CELESTIAL_MOVIE_🇲🇾
-https://maper.info/Celestial_shareext
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",AEC_🇲🇾
-https://maper.info/AEC_shareext
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES",HBO (xtv)
 http://xtv.ooo:8080/MansoorWapda/258741/350955
@@ -5984,42 +5878,6 @@ http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1
 http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448707&extension=ts&play_token=NxoZkHOLIr
 #EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",THE PURGE MOVIE
 http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448721&extension=ts&play_token=G1aCM6mPx4
-
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BRAZILIA✓ENTERTAINMENT", CineSky 1 HD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610478
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BRAZILIA✓ENTERTAINMENT", CineSky 2 HD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610479
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BRAZILIA✓ENTERTAINMENT", CineSky 3 HD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610480
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BRAZILIA✓ENTERTAINMENT", CineSky 4 HD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610481
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BRAZILIA✓ENTERTAINMENT", CineSky 5 HD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610482
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BRAZILIA✓ENTERTAINMENT", CineSky 6 HD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610483
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BRAZILIA✓ENTERTAINMENT", CineSky 7 HD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610484
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BRAZILIA✓ENTERTAINMENT", HBO HD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610785
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BRAZILIA✓ENTERTAINMENT", HBO 2 HD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610753
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BRAZILIA✓ENTERTAINMENT", HBO Family HD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610756
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BRAZILIA✓ENTERTAINMENT", HBO Mundi HD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610765
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BRAZILIA✓ENTERTAINMENT", HBO Pop HD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610769
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BRAZILIA✓ENTERTAINMENT", HBO Signature HD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610772
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BRAZILIA✓ENTERTAINMENT", HBO Xtreme HD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610776
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BRAZILIA✓ENTERTAINMENT", HBO+ HD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610780
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BRAZILIA✓ENTERTAINMENT", Star Channel HD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610936
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@BRAZILIA✓ENTERTAINMENT", Star Hits HD
-http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610943
 
 
 
@@ -7048,144 +6906,6 @@ http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/66710
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv-4k
-http://guot55.serv00.net/ysp2.php?id=cctv4k
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv-8k
-http://guot55.serv00.net/ysp2.php?id=cctv8k
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv1
-http://guot55.serv00.net/ysp2.php?id=cctv1
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv2
-http://guot55.serv00.net/ysp2.php?id=cctv2
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv3(vip)
-http://guot55.serv00.net/ysp2.php?id=cctv3
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv4
-http://guot55.serv00.net/ysp2.php?id=cctv4
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv5
-http://guot55.serv00.net/ysp2.php?id=cctv5
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv5+
-http://guot55.serv00.net/ysp2.php?id=cctv5p
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv6(vip)
-http://guot55.serv00.net/ysp2.php?id=cctv6
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv7
-http://guot55.serv00.net/ysp2.php?id=cctv7
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv8(vip)
-http://guot55.serv00.net/ysp2.php?id=cctv8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv9
-http://guot55.serv00.net/ysp2.php?id=cctv9
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV10
-http://guot55.serv00.net/ysp2.php?id=cctv10
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV11
-http://guot55.serv00.net/ysp2.php?id=cctv11
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV12
-http://guot55.serv00.net/ysp2.php?id=cctv12
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV13
-http://guot55.serv00.net/ysp2.php?id=cctv13
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV14
-http://guot55.serv00.net/ysp2.php?id=cctv14
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV15
-http://guot55.serv00.net/ysp2.php?id=cctv15
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV16
-http://guot55.serv00.net/ysp2.php?id=cctv16
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV16-4k(vip)
-http://guot55.serv00.net/ysp2.php?id=cctv16-4k
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV17
-http://guot55.serv00.net/ysp2.php?id=cctv17
-
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV兵器科技(vip)
-http://guot55.serv00.net/ysp2.php?id=bqkj
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV第一剧场(vip)
-http://guot55.serv00.net/ysp2.php?id=dyjc
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV怀旧剧场(vip)
-http://guot55.serv00.net/ysp2.php?id=hjjc
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV风云剧场(vip)
-http://guot55.serv00.net/ysp2.php?id=fyjc
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV风云音乐(vip)
-http://guot55.serv00.net/ysp2.php?id=fyyy
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV风云足球(vip)
-http://guot55.serv00.net/ysp2.php?id=fyzq
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV电视指南(vip)
-http://guot55.serv00.net/ysp2.php?id=dszn
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV女性时尚(vip)
-http://guot55.serv00.net/ysp2.php?id=nxss
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV央视文化精品(vip)
-http://guot55.serv00.net/ysp2.php?id=whjp
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV世界地理(vip)
-http://guot55.serv00.net/ysp2.php?id=sjdl
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV高尔夫网球(vip)
-http://guot55.serv00.net/ysp2.php?id=gefwq
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV央视台球(vip)
-http://guot55.serv00.net/ysp2.php?id=ystq
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV卫生健康(vip)
-http://guot55.serv00.net/ysp2.php?id=wsjk
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CGTN
-http://guot55.serv00.net/ysp2.php?id=cgtn
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CGTN纪录
-http://guot55.serv00.net/ysp2.php?id=cgtnjl
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CGTN西语
-http://guot55.serv00.net/ysp2.php?id=cgtne
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CGTN法语
-http://guot55.serv00.net/ysp2.php?id=cgtnf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CGTN阿语
-http://guot55.serv00.net/ysp2.php?id=cgtna
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CGTN俄语
-http://guot55.serv00.net/ysp2.php?id=cgtnr
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",北京卫视
-http://guot55.serv00.net/ysp2.php?id=bjws
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",东方卫视
-http://guot55.serv00.net/ysp2.php?id=dfws
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",天津卫视
-http://guot55.serv00.net/ysp2.php?id=tjws
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",重庆卫视
-http://guot55.serv00.net/ysp2.php?id=cqws
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",黑龙江卫视
-http://guot55.serv00.net/ysp2.php?id=hljws
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",辽宁卫视
-http://guot55.serv00.net/ysp2.php?id=lnws
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",河北卫视
-http://guot55.serv00.net/ysp2.php?id=hbws
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",山东卫视
-http://guot55.serv00.net/ysp2.php?id=sdws
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",安徽卫视
-http://guot55.serv00.net/ysp2.php?id=ahws
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",河南卫视
-http://guot55.serv00.net/ysp2.php?id=hnws
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",湖北卫视
-http://guot55.serv00.net/ysp2.php?id=hubws
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",湖南卫视
-http://guot55.serv00.net/ysp2.php?id=hunws
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",江西卫视
-http://guot55.serv00.net/ysp2.php?id=jxws
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",江苏卫视
-http://guot55.serv00.net/ysp2.php?id=jsws
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",浙江卫视
-http://guot55.serv00.net/ysp2.php?id=zjws
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",东南卫视
-http://guot55.serv00.net/ysp2.php?id=dnws
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",广东卫视
-http://guot55.serv00.net/ysp2.php?id=gdws
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",深圳卫视
-http://guot55.serv00.net/ysp2.php?id=szws
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",广西卫视
-http://guot55.serv00.net/ysp2.php?id=gxws
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",贵州卫视
-http://guot55.serv00.net/ysp2.php?id=gzws
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",四川卫视
-http://guot55.serv00.net/ysp2.php?id=scws
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",新疆卫视
-http://guot55.serv00.net/ysp2.php?id=xjws
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",海南卫视
-http://guot55.serv00.net/ysp2.php?id=hinws
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",石家庄都市
-http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",石家庄生活
-http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",石家庄娱乐
-http://pluslive1.sjzntv.cn/yule/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",邯郸科教
 https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",邯郸新闻
