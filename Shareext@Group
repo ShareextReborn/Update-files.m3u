@@ -39,6 +39,10 @@ http://gmlive.ddns.net:5000/kun5g/kun5g2024/112
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/19
 #EXTINF:-1 tvg-id="" tvg-name="VTV 5HD-Test" tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",VTV 5HD-Test
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/38
+#EXTINF:-1 tvg-logo="https://imgur.com/5g26UzU.png" group-title="ShareExt@Relax", CCTV5
+https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5g26UzU.png" group-title="ShareExt@Relax", CCTV5plus
+https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",BILLIARD TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
@@ -464,62 +468,8 @@ http://103.120.172.74:1140
 http://103.120.172.74:5300
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="ShareExt@PREMIUM✓SPORTS",Sports 18 1 HD
 http://103.120.172.74:5500
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️",SONY Jiotv
+#EXTINF:-1 tvg-logo="https://imgur.com/5g26UzU.png" group-title="ShareExt@PREMIUM✓SPORTS",SONY Jiotv
 https://madplay.live/hls/jiotv/stream.php?id=523&e=.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-logo="https://imgur.com/5g26UzU.png" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️", TRT 1
-https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
-#EXTINF:-1 group-title="SHAREEXT@⚽️ EURO 2024 ⚽️" tvg-id="sonyten3.in" tvg-logo="https://imgur.com/5g26UzU.png", La 2
-http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/117156
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️", SPORT TV1
-http://cafenegro.uk:80/live/Rafaluque/9dnjaRRe9E63/88871.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️", CCTV5
-https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️", CCTV5plus
-https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://static.vecteezy.com/system/resources/previews/001/204/023/original/soccer-png.png" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️",EUROCOPA LA1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://static.vecteezy.com/system/resources/previews/001/204/023/original/soccer-png.png" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️",EUROCOPA LA2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main.m3u8
-
-#EXTINF:-1 tvg-name="Soccer 01: 12:00 PM (E.T) | Eslovaquia vs Rumania | EUROCOPA" tvg-logo="https://static.vecteezy.com/system/resources/previews/001/204/023/original/soccer-png.png" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️",Soccer 01: 12:00 PM (E.T) | Eslovaquia vs Rumania | EUROCOPA
-http://zuiowy.net:8080/Paola2023/7ThHZTUFn8ze/135029
-#EXTINF:-1 tvg-name="Soccer 02: 12:00 PM (E.T) | Ucrania vs Belgica | EUROCOPA" tvg-logo="https://static.vecteezy.com/system/resources/previews/001/204/023/original/soccer-png.png" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️",Soccer 02: 12:00 PM (E.T) | Ucrania vs Belgica | EUROCOPA
-http://zuiowy.net:8080/Paola2023/7ThHZTUFn8ze/135030
-#EXTINF:-1 tvg-name="Soccer 03: 03:00 PM (E.T) | Republica Checa vs Turquia | EUROCOPA" tvg-logo="https://static.vecteezy.com/system/resources/previews/001/204/023/original/soccer-png.png" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️",Soccer 03: 03:00 PM (E.T) | Republica Checa vs Turquia | EUROCOPA
-http://zuiowy.net:8080/Paola2023/7ThHZTUFn8ze/135031
-#EXTINF:-1 tvg-name="Soccer 04: 03:00 PM (E.T) | Georgia vs Portugal | EUROCOPA" tvg-logo="https://static.vecteezy.com/system/resources/previews/001/204/023/original/soccer-png.png" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️",Soccer 04: 03:00 PM (E.T) | Georgia vs Portugal | EUROCOPA
-http://zuiowy.net:8080/Paola2023/7ThHZTUFn8ze/135032
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gJ9ZBwM/tv360.jpg" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️",tv360plus1
-https://tth.vn/tv360plus1
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gJ9ZBwM/tv360.jpg" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️",tv360plus2
-https://tth.vn/tv360plus2
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gJ9ZBwM/tv360.jpg" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️",tv360plus3
-https://tth.vn/tv360plus3
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gJ9ZBwM/tv360.jpg" group-title="SHAREEXT@⚽️ EURO 2024 ⚽️",tv360plus4
-https://tth.vn/tv360plus4
-
-
-
-
-#EXTINF:-1 group-title="SHAREEXT@⚽️ COPA AMERICA ⚽️" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", TV8 CANLI
-https://hw1.jemtv.com/app/tv85/chunks.m3u8
-#EXTINF:-1 group-title="SHAREEXT@⚽️ COPA AMERICA ⚽️" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", LIVE
-https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
-#EXTINF:-1 group-title="SHAREEXT@⚽️ COPA AMERICA ⚽️" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", RPC
-http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/11315.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Max Canal 9 (PA)(R)" tvg-logo="https://imgur.com/Xa8tEbU.png" group-title="SHAREEXT@⚽️ COPA AMERICA ⚽️",TV Max Canal 9
-http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/166784.m3u8
-#EXTINF:-1 group-title="SHAREEXT@⚽️ COPA AMERICA ⚽️" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", TYC SPORTS
-http://cafenegro.uk:80/live/Rafaluque/9dnjaRRe9E63/88864.ts
-#EXTINF:-1 group-title="SHAREEXT@⚽️ COPA AMERICA ⚽️" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", Win Sports+
-http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
-#EXTINF:-1 group-title="SHAREEXT@⚽️ COPA AMERICA ⚽️" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", Sportv
-http://cafenegro.uk:80/live/Rafaluque/9dnjaRRe9E63/88866.ts
 
 
 
@@ -3710,52 +3660,6 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/60896d5647a23d1949
 https://director.streaming.telia.com/tvm-packager-prod/group2/60ae45e51522bd66f469461b/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",ESPN 1 HD 
-http://protv.fun:80/dc3f0e91fd/295e7e9a64ec/460917 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",ESPN 2 HD 
-http://protv.fun:80/dc3f0e91fd/295e7e9a64ec/460916 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",RACING 240 
-http://protv.fun:80/dc3f0e91fd/295e7e9a64ec/1445688 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",SUPERSPORT LIGA HD 
-http://protv.fun:80/dc3f0e91fd/295e7e9a64ec/144410 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",SUPERSPORT PSL HD
-http://protv.fun:80/dc3f0e91fd/295e7e9a64ec/144411 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",SUPERSPORT PL HD 
-http://protv.fun:80/dc3f0e91fd/295e7e9a64ec/144412 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",SUPERSPORT GRANDSTAND HD 
-http://protv.fun:80/dc3f0e91fd/295e7e9a64ec/144413 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",SUPERSPORT VARIETY 1 HD 
-http://protv.fun:80/dc3f0e91fd/295e7e9a64ec/144415 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",SUPERSPORT VARIETY 2 HD 
-http://protv.fun:80/dc3f0e91fd/295e7e9a64ec/144414 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",SUPERSPORT VARIETY 3 HD 
-http://protv.fun:80/dc3f0e91fd/295e7e9a64ec/144419 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",SUPERSPORT VARIETY 4 HD 
-http://protv.fun:80/dc3f0e91fd/295e7e9a64ec/1112857 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",SUPERSPORT MOTORSPORT HD 
-http://protv.fun:80/dc3f0e91fd/295e7e9a64ec/144416 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",SUPERSPORT FOOTBALL FHD 
-http://protv.fun:80/dc3f0e91fd/295e7e9a64ec/144417 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",SUPERSPORT RUGBY HD 
-http://protv.fun:80/dc3f0e91fd/295e7e9a64ec/144420 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",SUPERSPORT CRICKET FHD 
-http://protv.fun:80/dc3f0e91fd/295e7e9a64ec/144421 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",SUPERSPORT BLITZ HD 
-http://protv.fun:80/dc3f0e91fd/295e7e9a64ec/554982 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",SUPERSPORTS ACTION HD 
-http://protv.fun:80/dc3f0e91fd/295e7e9a64ec/1173913 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",SUPERSPORT PLAY HD 
-http://protv.fun:80/dc3f0e91fd/295e7e9a64ec/554968
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",SUPERSPORT OTT  
-http://protv.fun:80/dc3f0e91fd/295e7e9a64ec/741701
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",SUPERSPORT GOLF 
-http://protv.fun:80/dc3f0e91fd/295e7e9a64ec/1112196 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",SUPERSPORT TENNIS
-http://protv.fun:80/dc3f0e91fd/295e7e9a64ec/1112195 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF_SUPERSPORTS",ZA.SUPER SPORTS RUGBY FHD 
-http://protv.fun:80/dc3f0e91fd/295e7e9a64ec/317720
-
-
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM",LFC TV.(server.1)
 http://iptvtree.net:8080/paulthom01/fb97ea32/4721
@@ -4994,6 +4898,28 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ccdnblck.xyz:80/images/8453b8a9c642d058df65283132b0464c.png" group-title="SHAREEXT@BRAZILIA ➾ Sports",Canal do Inter (720p)
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/5g26UzU.png" group-title="SHAREEXT@BRAZILIA ➾ Sports", TRT 1
+https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
+#EXTINF:-1 group-title="SHAREEXT@BRAZILIA ➾ Sports" tvg-logo="https://imgur.com/5g26UzU.png", La 2
+http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/117156
+#EXTINF:-1 tvg-logo="https://imgur.com/5g26UzU.png" group-title="SHAREEXT@BRAZILIA ➾ Sports", SPORT TV1
+http://cafenegro.uk:80/live/Rafaluque/9dnjaRRe9E63/88871.ts
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/001/204/023/original/soccer-png.png" group-title="SHAREEXT@BRAZILIA ➾ Sports",Soccer-EUROCOPA 1
+http://zuiowy.net:8080/Paola2023/7ThHZTUFn8ze/135029
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/001/204/023/original/soccer-png.png" group-title="SHAREEXT@BRAZILIA ➾ Sports",Soccer-EUROCOPA 2
+http://zuiowy.net:8080/Paola2023/7ThHZTUFn8ze/135030
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/001/204/023/original/soccer-png.png" group-title="SHAREEXT@BRAZILIA ➾ Sports",Soccer-EUROCOPA 3
+http://zuiowy.net:8080/Paola2023/7ThHZTUFn8ze/135031
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/001/204/023/original/soccer-png.png" group-title="SHAREEXT@BRAZILIA ➾ Sports",Soccer-EUROCOPA 4
+http://zuiowy.net:8080/Paola2023/7ThHZTUFn8ze/135032
+#EXTINF:-1 tvg-logo="https://imgur.com/Xa8tEbU.png" group-title="SHAREEXT@BRAZILIA ➾ Sports",TV Max Canal 9
+http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/166784.m3u8
+#EXTINF:-1 group-title="SHAREEXT@BRAZILIA ➾ Sports" tvg-logo="https://imgur.com/Xa8tEbU.png", Win Sports+
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
+#EXTINF:-1 group-title="SHAREEXT@BRAZILIA ➾ Sports" tvg-logo="https://imgur.com/Xa8tEbU.png", Sportv
+http://cafenegro.uk:80/live/Rafaluque/9dnjaRRe9E63/88866.ts
+
 
 
 
