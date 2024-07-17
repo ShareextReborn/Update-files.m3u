@@ -3879,47 +3879,101 @@ http://thevdm.xyz:25461/Jennifer/Year!/20161
 
 
 
+#EXTINF:-1 tvg-id="Astro SuperSport HD" tvg-name="ASTRO: SS 1" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-my.png" group-title="SHAREEXT@Astro SS / SuperSport  ",ASTRO: SS 1
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103623
+#EXTINF:-1 tvg-id="Astro SuperSport 2 HD" tvg-name="ASTRO: SS 2" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-2-my.png" group-title="SHAREEXT@Astro SS / SuperSport  ",ASTRO: SS 2
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103624
+#EXTINF:-1 tvg-id="Astro SuperSport 3 HD" tvg-name="ASTRO: SS 3" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-3-my.png" group-title="SHAREEXT@Astro SS / SuperSport  ",ASTRO: SS 3
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103625
+#EXTINF:-1 tvg-id="Astro SuperSport 4 HD" tvg-name="ASTRO: SS 4" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-4-my.png" group-title="SHAREEXT@Astro SS / SuperSport  ",ASTRO: SS 4
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103626
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO: SS 5" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro_superssport_5.png" group-title="SHAREEXT@Astro SS / SuperSport  ",ASTRO: SS 5
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/110275
+#EXTINF:-1 tvg-id="ACTION" tvg-name="SuperSport Action" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-action-za.png" group-title="SHAREEXT@Astro SS / SuperSport  ",SuperSport Action
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70938
+#EXTINF:-1 tvg-id="BLITZ" tvg-name="SuperSport Blitz" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-blitz-za.png" group-title="SHAREEXT@Astro SS / SuperSport  ",SuperSport Blitz
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70932
+#EXTINF:-1 tvg-id="CRICKET" tvg-name="SuperSport Cricket" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="SHAREEXT@Astro SS / SuperSport  ",SuperSport Cricket
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/102200
+#EXTINF:-1 tvg-id="FOOTBALL" tvg-name="SuperSport Football" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-football-za.png" group-title="SHAREEXT@Astro SS / SuperSport  ",SuperSport Football
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70936
+#EXTINF:-1 tvg-id="GOLF" tvg-name="SuperSport Golf" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-golf-za.png" group-title="SHAREEXT@Astro SS / SuperSport  ",SuperSport Golf
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70939
+#EXTINF:-1 tvg-id="GRANDSTAND" tvg-name="SuperSport GrandStand" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-grandstand-za.png" group-title="SHAREEXT@Astro SS / SuperSport  ",SuperSport GrandStand
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/102201
+#EXTINF:-1 tvg-id="LA LIGA" tvg-name="SuperSport La Liga" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-la-liga-za.png" group-title="SHAREEXT@Astro SS / SuperSport  ",SuperSport La Liga
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70937
+#EXTINF:-1 tvg-id="MOTORSPORT" tvg-name="SuperSport Motorsport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-motorsport-za.png" group-title="SHAREEXT@Astro SS / SuperSport  ",SuperSport Motorsport
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/102202
+#EXTINF:-1 tvg-id="EPL" tvg-name="SuperSport Premier League" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-premier-league-za.png" group-title="SHAREEXT@Astro SS / SuperSport  ",SuperSport Premier League
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70934
+#EXTINF:-1 tvg-id="PSL" tvg-name="SuperSport PSL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-psl-za.png" group-title="SHAREEXT@Astro SS / SuperSport  ",SuperSport PSL
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70933
+#EXTINF:-1 tvg-id="RUGBY" tvg-name="SuperSport Rugby" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-rugby-za.png" group-title="SHAREEXT@Astro SS / SuperSport  ",SuperSport Rugby
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/102199
+#EXTINF:-1 tvg-id="TENNIS" tvg-name="SuperSport Tennis" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-tennis-za.png" group-title="SHAREEXT@Astro SS / SuperSport  ",SuperSport Tennis
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70935
+#EXTINF:-1 tvg-id="VARIETY 1" tvg-name="SuperSport Variety 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-1-za.png" group-title="SHAREEXT@Astro SS / SuperSport  ",SuperSport Variety 1
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70928
+#EXTINF:-1 tvg-id="VARIETY 2" tvg-name="SuperSport Variety 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-2-za.png" group-title="SHAREEXT@Astro SS / SuperSport  ",SuperSport Variety 2
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70929
+#EXTINF:-1 tvg-id="VARIETY 3" tvg-name="SuperSport Variety 3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-3-za.png" group-title="SHAREEXT@Astro SS / SuperSport  ",SuperSport Variety 3
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70930
+#EXTINF:-1 tvg-id="VARIETY 4" tvg-name="SuperSport Variety 4" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-4-za.png" group-title="SHAREEXT@Astro SS / SuperSport  ",SuperSport Variety 4
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70931
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@HUB_PREMIER|HK_NOWSPORTS",HUB PREMIER 1 FHD
+
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-my.png" group-title="SHAREEXT@EPL~FOOTBALL",Astro EPL 01(Events Only)
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/110276
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-2-my.png" group-title="SHAREEXT@EPL~FOOTBALL",Astro EPL 02(Events Only)
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/110277
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-3-my.png" group-title="SHAREEXT@EPL~FOOTBALL",Astro EPL 03(Events Only)
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/110278
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-4-my.png" group-title="SHAREEXT@EPL~FOOTBALL",Astro EPL 04(Events Only)
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/110279
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro_superssport_5.png" group-title="SHAREEXT@EPL~FOOTBALL",Astro EPL 05(W SPORTS)
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/110280
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL~FOOTBALL",NOW PREMIER 1(Events Only)
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1110622&extension=ts&play_token=7pY8UHAipV
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL~FOOTBALL",NOW SPORTS 1
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1110615&extension=ts&play_token=7pY8UHAipV
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL~FOOTBALL",NOW SPORTS 2
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1110616&extension=ts&play_token=7pY8UHAipV
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL~FOOTBALL",NOW SPORTS 3
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1110617&extension=ts&play_token=7pY8UHAipV
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL~FOOTBALL",NOW SPORTS 4
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1110618&extension=ts&play_token=7pY8UHAipV
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL~FOOTBALL",NOW SPORTS 5
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1110619&extension=ts&play_token=7pY8UHAipV
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL~FOOTBALL",NOW SPORTS 6
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1110620&extension=ts&play_token=7pY8UHAipV
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL~FOOTBALL",NOW SPORTS 7
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1110621&extension=ts&play_token=7pY8UHAipV
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL~FOOTBALL",HUB PREMIER 1 FHD(Events Only)
 http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032529&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@HUB_PREMIER|HK_NOWSPORTS",HUB PREMIER 2 FHD
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL~FOOTBALL",HUB PREMIER 2 FHD(Events Only)
 http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032528&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@HUB_PREMIER|HK_NOWSPORTS",HUB PREMIER 3 FHD
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL~FOOTBALL",HUB PREMIER 3 FHD(Events Only)
 http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032527&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@HUB_PREMIER|HK_NOWSPORTS",HUB PREMIER 4 FHD
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL~FOOTBALL",HUB PREMIER 4 FHD(Events Only)
 http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032526&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@HUB_PREMIER|HK_NOWSPORTS",HUB PREMIER 5 FHD
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL~FOOTBALL",HUB PREMIER 5 FHD(Events Only)
 http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032525&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@HUB_PREMIER|HK_NOWSPORTS",HUB PREMIER 6 FHD
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL~FOOTBALL",HUB PREMIER 6 FHD(Events Only)
 http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032524&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@HUB_PREMIER|HK_NOWSPORTS",HUB PREMIER 7 FHD
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL~FOOTBALL",HUB PREMIER 7 FHD(Events Only)
 http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032523&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@HUB_PREMIER|HK_NOWSPORTS",HUB PREMIER 8 FHD
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL~FOOTBALL",HUB PREMIER 8 FHD(Events Only)
 http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032522&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@HUB_PREMIER|HK_NOWSPORTS",HUB PREMIER 9 FHD
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL~FOOTBALL",HUB PREMIER 9 FHD(Events Only)
 http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032521&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@HUB_PREMIER|HK_NOWSPORTS",HUB PREMIER 10 FHD
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL~FOOTBALL",HUB PREMIER 10 FHD(Events Only)
 http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032520&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@HUB_PREMIER|HK_NOWSPORTS",HUB PREMIER 11 FHD
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL~FOOTBALL",HUB PREMIER 11 FHD(Events Only)
 http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032519&extension=ts&play_token=7pY8UHAipV
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@HUB_PREMIER|HK_NOWSPORTS",NOW PREMIER 1
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1110622&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@HUB_PREMIER|HK_NOWSPORTS",NOW SPORTS 1
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1110615&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@HUB_PREMIER|HK_NOWSPORTS",NOW SPORTS 2
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1110616&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@HUB_PREMIER|HK_NOWSPORTS",NOW SPORTS 3
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1110617&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@HUB_PREMIER|HK_NOWSPORTS",NOW SPORTS 4
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1110618&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@HUB_PREMIER|HK_NOWSPORTS",NOW SPORTS 5
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1110619&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@HUB_PREMIER|HK_NOWSPORTS",NOW SPORTS 6
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1110620&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@HUB_PREMIER|HK_NOWSPORTS",NOW SPORTS 7
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1110621&extension=ts&play_token=7pY8UHAipV
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="SHAREEXT@FITE_TV",FITE 24/7
