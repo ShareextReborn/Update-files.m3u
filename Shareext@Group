@@ -7703,6 +7703,44 @@ http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/66710
 
 
 
+
+#EXTINF:-1 tvg-name="CCTV 1 FHD CN"  tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv1.jpg" group-title"SHAREEXT@CHINA_STATION/央视频道",CCTV 1 FHD
+https://node3.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV 2 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv2.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 2 FHD
+https://node3.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV 3 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv3.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 3 FHD 
+https://node3.olelive.com:6443/live/CCTV3HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV 4 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv4.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 4 FHD
+https://node3.olelive.com:6443/live/CCTV4HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV 6 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv5.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 5 FHD 
+https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV 6 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv5plus.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 5 PLUS FHD
+https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV 6 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv6.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 6 FHD 
+https://node3.olelive.com:6443/live/CCTV6HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV 7 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv7.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 7 FHD 
+https://node3.olelive.com:6443/live/CCTV7HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV 8 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv8.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 8 FHD
+https://node3.olelive.com:6443/live/CCTV8HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV 9 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv9.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 9 FHD 
+https://node3.olelive.com:6443/live/CCTV9HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV 10 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv10.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 10 FHD 
+https://node3.olelive.com:6443/live/CCTV10HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV 11 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv11.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 11 FHD 
+https://node3.olelive.com:6443/live/CCTV11HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV 12 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv12.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 12 FHD 
+https://node3.olelive.com:6443/live/CCTV12HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV 13 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv13.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 13 FHD 
+https://node3.olelive.com:6443/live/CCTV13HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV 14 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv14.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 14 FHD 
+https://node3.olelive.com:6443/live/CCTV14HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV 15 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv15.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 15 FHD 
+https://node3.olelive.com:6443/live/CCTV15HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV 17 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv16.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 16 FHD
+https://node3.olelive.com:6443/live/CCTV16HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV 17 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv17.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 17 FHD
+https://node3.olelive.com:6443/live/CCTV17HD/hls.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",缙云综合频道
 http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed
 #EXTINF:-1  tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",龙泉新闻综合
