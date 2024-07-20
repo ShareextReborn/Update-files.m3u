@@ -438,18 +438,8 @@ http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="ShareExt@PREMIUM✓SPORTS", Fifa+ 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="ShareExt@PREMIUM✓SPORTS", Fifa+ 
 https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="ShareExt@PREMIUM✓SPORTS", Fifa+ 2
-https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="ShareExt@PREMIUM✓SPORTS", Fifa+ 3
-https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="ShareExt@PREMIUM✓SPORTS", Fifa+ 4
-https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="ShareExt@PREMIUM✓SPORTS", Fifa+ 5
-https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="ShareExt@PREMIUM✓SPORTS" , FIFA+ 6
-https://i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg" group-title="ShareExt@PREMIUM✓SPORTS",StarSports 1 HD
 http://103.120.172.74:4600
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg" group-title="ShareExt@PREMIUM✓SPORTS",StarSports 2
@@ -3948,7 +3938,8 @@ http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1
 #EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL~FOOTBALL",NOW SPORTS 7
 http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1110621&extension=ts&play_token=7pY8UHAipV
 #EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL~FOOTBALL",HUB PREMIER 1 FHD(Events Only)
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032529&extension=ts&play_token=7pY8UHAipV
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/148158.ts
+#http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032529&extension=ts&play_token=7pY8UHAipV
 #EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL~FOOTBALL",HUB PREMIER 2 FHD(Events Only)
 http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032528&extension=ts&play_token=7pY8UHAipV
 #EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EPL~FOOTBALL",HUB PREMIER 3 FHD(Events Only)
@@ -4161,6 +4152,78 @@ http://iptvtree.net:8080/F14995/a84c0963/35338
 http://iptvtree.net:8080/F14995/a84c0963/35340
 
 
+
+
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",Spotv_🇲🇨
+http://xtv.ooo:8080/live/83212539/43153928/351034.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",Spotv 2_🇲🇨
+http://xtv.ooo:8080/live/83212539/43153928/351035.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",SCTV_🇲🇨
+http://xtv.ooo:8080/live/83212539/43153928/351030.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",RCTI_🇲🇨
+http://xtv.ooo:8080/live/83212539/43153928/351023.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",TVRI.SPORTS_🇲🇨
+http://xtv.ooo:8080/live/83212539/43153928/351052.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",SPORTSTARS_3_🇲🇨
+http://xtv.ooo:8080/live/83212539/43153928/350995.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",Hub.Premier.1 Fhd
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/148158.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",ASTRO SUPERSPORTS 1 HD 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5480.ts 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",ASTRO SUPERSPORTS 2 HD 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5481.ts 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",ASTRO SUPERSPORTS 3 HD 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5482.ts 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",ASTRO SUPERSPORTS 4 HD 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5483.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",T SPORTS 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/52500.ts 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",IN:Sports18  (4K) 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/128843.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",STARZPLAY CricLife 1 (FHD) 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/122979.ts 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",STARZPLAY CricLife 2 FHD 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/122980.ts 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",STARZPLAY CricLife 3 HD 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/158897.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",PTV SPORTS 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/89.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",A Sports ARY 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/43444.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",GEO SUPER 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/101.ts 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",TEN SPORTS 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/98.ts 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",TEN CRICKET 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9886.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",STARSPORT 1 HD 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/148.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",STARSPORTS 2 HD 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/239.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",STARSPORTS HINDI HD 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/211.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",STARSPORTS SELECT 1 HD 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/238.ts 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",STARSPORTS SELECT 2 HD 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/148801.ts 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",STARSPORTS TAMIL 1 HD 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9722.ts 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",STARSPORTS TELUGU 1 HD 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/177843.ts 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",STARSPORTS 3 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/1080.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",RTA Sports 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/1039.ts 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",SONY.TEN 1 HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",SONY.Ten 2 HD. 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.ts 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",SONY.TEN 3 HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",SONY.TEN 4 (FHD) 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",SONY.5 HD 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@OLAHRAGA•ASIAN",MY:Astro Premier 1
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/71026
