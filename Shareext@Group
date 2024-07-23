@@ -237,6 +237,9 @@ http://xtv.ooo:8080/live/83212539/43153928/350972.ts
 http://xtv.ooo:8080/359052742/470428329/350972
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar|xtv
 http://xtv.ooo:8080/MansoorWapda/258741/350972
+#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax", INDOSIAR••™
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://108.181.132.217:8070/live/e9cd5f24/079fd2c9/162138.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar~~
 http://iptvtree.net:8080/e891d265/89d742c3/162138
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar|hdd
