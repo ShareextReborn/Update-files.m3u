@@ -356,6 +356,39 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="SHAREEXT@OLYmpic|Live",OLYMPIC LIVE 1
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582448.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="SHAREEXT@OLYmpic|Live",OLYMPIC LIVE 2
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582459.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="SHAREEXT@OLYmpic|Live",OLYMPIC LIVE 3
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582449.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="SHAREEXT@OLYmpic|Live",OLYMPIC LIVE 4
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582450.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="SHAREEXT@OLYmpic|Live",OLYMPIC LIVE 5
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582451.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="SHAREEXT@OLYmpic|Live",OLYMPIC LIVE 6
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582452.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="SHAREEXT@OLYmpic|Live",OLYMPIC LIVE 7
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582453.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="SHAREEXT@OLYmpic|Live",OLYMPIC LIVE 8
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582445.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="SHAREEXT@OLYmpic|Live",OLYMPIC LIVE 9
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582446.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="SHAREEXT@OLYmpic|Live",OLYMPIC LIVE 10
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582454.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="SHAREEXT@OLYmpic|Live",OLYMPIC LIVE 11
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582455.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="SHAREEXT@OLYmpic|Live",OLYMPIC LIVE 12
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582456.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="SHAREEXT@OLYmpic|Live",OLYMPIC LIVE 13
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582447.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="SHAREEXT@OLYmpic|Live",OLYMPIC LIVE 14
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582457.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="SHAREEXT@OLYmpic|Live",OLYMPIC LIVE 15
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582460.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="SHAREEXT@OLYmpic|Live",OLYMPIC LIVE 16
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582458.ts
+
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",Astro Arena 
 http://filex.tv:8080/paramjeetsingh/002818/303495 
@@ -8566,6 +8599,36 @@ https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
 https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
 
 
+#EXTINF:-1 tvg-id="DaAi1.tw" tvg-name="大愛一臺" tvg-logo="http://www.daai.tv/images/logo.png" group-title="SHAREEXT@TAIWAN~大爱电视",大爱1_daaitv 2
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-id="DaAi2.tw" tvg-name="大愛二臺" tvg-logo="https://www.cns.net.tw/web/upload/20141017171303RmzVY9Z.png" group-title="SHAREEXT@TAIWAN~大爱电视",大爱2_daaitv 2
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@TAIWAN~大爱电视",人間衛視 
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@TAIWAN~大爱电视",東森美洲 
+http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@TAIWAN~大爱电视",東森美洲 HD 
+http://38.64.72.148:80/hls/modn/list/2026/chunklist1.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@TAIWAN~大爱电视",TVBS-Asia 
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@TAIWAN~大爱电视",華語電視1 
+http://38.64.72.148:80/hls/modn/list/4001/chunklist1.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@TAIWAN~大爱电视",華語電視2 
+http://38.64.72.148:80/hls/modn/list/4002/chunklist1.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@TAIWAN~大爱电视",華語電視3 
+http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@TAIWAN~大爱电视",新唐人大?台 
+http://cnhls.ntdtv.com/cn/live800/playlist.m3u8  
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@TAIWAN~大爱电视",TVBS新聞 
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@TAIWAN~大爱电视",台視新聞 
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@TAIWAN~大爱电视",華語電視 
+http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@TAIWAN~大爱电视",華語電視 
+http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@TAIWAN~大爱电视",民視新聞 
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png" group-title="ShareExt@GoodTVtaiwan",GoodTv1(setAuto)
@@ -8700,85 +8763,58 @@ https://code.vthanhtivi.pw/getlink/kbs/N96/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KRBD1400001ED" tvg-chno="501" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20230524T004408SQUARE.png_20230524004408.png" group-title="SHAREEXT@Television_South Korea" , 연합뉴스TV
 https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
 #EXTINF:-1 tvg-id="KRBC8000128W" tvg-chno="502" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC8000128W_20230524T004357SQUARE.png_20230524004358.png" group-title="SHAREEXT@Television_South Korea" , tvN 뿅뿅 지구오락실
 https://d18izuz3xw10qm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7d2zn3pthct37-ssai-prd/68bf80a2_aec4_494d_b2ef_63779ed40809/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC8000128W
-
 #EXTINF:-1 tvg-id="KRBB42000061Z" tvg-chno="506" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB42000061Z_20230524T004349SQUARE.png_20230524004350.png" group-title="SHAREEXT@Television_South Korea" , SBS 낭만닥터 김사부 시즌2
 https://d2yx6lvhcftzo5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3dcxhnnfoe8vt-prod/hls-harvester2-1293-prod/us-east-1/cc-3dcxhnnfoe8vt/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
 #EXTINF:-1 tvg-id="KRBC5000016BM" tvg-chno="509" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000016BM_20230524T004330SQUARE.png_20230524004330.png" group-title="SHAREEXT@Television_South Korea" , JTBC 아는형님
 https://d39o9ct24vg5rr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-iz74ur8nyyt8f/FC00000013.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
 #EXTINF:-1 tvg-id="KRBC20000418" tvg-chno="510" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000418_20230614T012838SQUARE.png_20230614012839.png" group-title="SHAREEXT@Television_South Korea" , MBC 아빠! 어디가?
 https://dtdgcbd6j2fak.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n4zydfj68vgn1-prod/Channel_MBC_9.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
 #EXTINF:-1 tvg-id="KRBC3200013UR" tvg-chno="511" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200013UR_20230426T013732SQUARE.png_20230426013732.png" group-title="SHAREEXT@Television_South Korea" , tvN 응답하라 1997
 https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200013UR
-
 #EXTINF:-1 tvg-id="KRBC3200032ZM" tvg-chno="512" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200032ZM_20230426T013730SQUARE.png_20230426013730.png" group-title="SHAREEXT@Television_South Korea" , tvN 응답하라 1994
 https://d1ttfbptd053sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m5y15fbf80yi9-ssai-prd/151248c2_45a2_45a5_a31f_bb9fc72969dd/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200032ZM
-
 #EXTINF:-1 tvg-id="KRBC3200014XZ" tvg-chno="513" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200014XZ_20230426T013728SQUARE.png_20230426013729.png" group-title="SHAREEXT@Television_South Korea" , tvN 응답하라 1988
 https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200014XZ
-
 #EXTINF:-1 tvg-id="KRBC32000248R" tvg-chno="515" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000248R_20230426T013722SQUARE.png_20230426013722.png" group-title="SHAREEXT@Television_South Korea" , tvN 신서유기8
 https://dp9vqmqe1b62.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqup1fpzurgqx-ssai-prd/dc942d76_e776_4c34_8e0c_f09008912455/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000248R
-
 #EXTINF:-1 tvg-id="KRBC32000156C" tvg-chno="516" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000156C_20230426T013713SQUARE.png_20230426013713.png" group-title="SHAREEXT@Television_South Korea" , tvN 대탈출
 https://d2mtknivycr9zl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ndbnpcfczvjbq-ssai-prd/b32caf42_751e_4035_8904_b2cded676be7/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000156C
-
 #EXTINF:-1 tvg-id="KRBC3200016H1" tvg-chno="517" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200016H1_20230426T013718SQUARE.png_20230426013719.png" group-title="SHAREEXT@Television_South Korea" , tvN 삼시세끼 어촌편5
 https://d2mecmy93314jg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ysoihaaolxdeo-ssai-prd/8774f2b9_200a_41a9_b741_0882edc4765b/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200016H1
-
 #EXTINF:-1 tvg-id="KRBB4200009C3" tvg-chno="518" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200009C3_20230510T011442SQUARE.png_20230510011443.png" group-title="SHAREEXT@Television_South Korea" , SBS 오 마이 베이비
 https://d2c6t9pg1qq2i.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xk9ndm117p4tj-prod/hls-harvester2-1293-prod/us-east-1/cc-xk9ndm117p4tj/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
 #EXTINF:-1 tvg-id="KRBC4600004BQ" tvg-chno="519" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4600004BQ_20230614T012831SQUARE.png_20230614012832.png" group-title="SHAREEXT@Television_South Korea" , JTBC SKY캐슬
 https://d1jkdzl8fxsn4u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-78wsn9flpkj0j/FC00000006.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
 #EXTINF:-1 tvg-id="KRBC46000173Y" tvg-chno="524" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000173Y_20230510T011433SQUARE.png_20230510011434.png" group-title="SHAREEXT@Television_South Korea" , JTBC 뉴스
 https://d1b3dy6n8f9nao.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5d713eamqk50x/FC00000003.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
 #EXTINF:-1 tvg-id="KRBC3200017JQ" tvg-chno="525" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200017JQ_20230524T004412SQUARE.png_20230524004413.png" group-title="SHAREEXT@Television_South Korea" , 🎶 뿅뿅 지구오락실 댄스 모음.Zip
 https://dcqm3yrmhgffm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kl2somy43z7lq-ssai-prd/afb160a1_1669_46f6_aba5_e55f48c7b2ca/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200017JQ
-
 #EXTINF:-1 tvg-id="KRBC3200018FU" tvg-chno="526" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20230524T004414SQUARE.png_20230524004415.png" group-title="SHAREEXT@Television_South Korea" , 📁 뿅뿅 지구오락실 게임 모음.Zip
 https://d2hzd84ca9i22o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccmcyhv2wdcxb-ssai-prd/eaa13423_ab8c_4fde_9fc7_5268a971ff22/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200018FU
-
 #EXTINF:-1 tvg-id="KRBB5000073UD" tvg-chno="527" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000073UD_20230524T004334SQUARE.png_20230524004335.png" group-title="SHAREEXT@Television_South Korea" , MBC 그녀는 예뻤다
 https://d3olsdkvjaij5t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr45ydzp0qwbr-prod/Channel_MBC_5.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
 #EXTINF:-1 tvg-id="KRBC50000228B" tvg-chno="528" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC50000228B_20230524T004327SQUARE.png_20230524004328.png" group-title="SHAREEXT@Television_South Korea" , JTBC 멜로가 체질
 https://dcvuq39z8e7yl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3xi1mq5v8z9kb/FC00000015.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
 #EXTINF:-1 tvg-id="KRBC3200030BO" tvg-chno="529" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200030BO_20230524T004354SQUARE.png_20230524004355.png" group-title="SHAREEXT@Television_South Korea" , tvN 김비서가 왜 그럴까
 https://dmnsygceaez9z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kugwkm0rtsyfv-ssai-prd/89a2b732_7d4e_4098_9b82_f8e829ab07f0/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200030BO
-
 #EXTINF:-1 tvg-id="KRBB50000711L" tvg-chno="530" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000711L_20230524T004339SQUARE.png_20230524004340.png" group-title="SHAREEXT@Television_South Korea" , MBC 심야괴담회
 https://d33jr5ezct2aqw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-doq9g5envaarv-prod/Channel_MBC_3.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
 #EXTINF:-1 tvg-id="KRBB4200005CK" tvg-chno="531" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200005CK_20230111T005228SQUARE.png_20230111005228.png" group-title="SHAREEXT@Television_South Korea" , SBS 순옥명작관
 https://d1ye6lj5le5dh0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ert8sa2q2i3fz-prod/hls-harvester2-1293-prod/us-east-1/cc-ert8sa2q2i3fz/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
 #EXTINF:-1 tvg-id="KRBC3200031KO" tvg-chno="532" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200031KO_20230524T004356SQUARE.png_20230524004356.png" group-title="SHAREEXT@Television_South Korea" , tvN 비밀의 숲
 https://d2hbbjdi2lggii.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbr4a75paq6du-ssai-prd/080e7b54_ab07_49c8_b8e3_8811cf63fde2/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200031KO
-
 #EXTINF:-1 tvg-id="KRBB5000070U4" tvg-chno="533" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000070U4_20230614T012835SQUARE.png_20230614012836.png" group-title="SHAREEXT@Television_South Korea" , MBC 검법남녀2
 https://d13bfaug2ipt96.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49ujgh90ynpdw-prod/Channel_MBC_2.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
 #EXTINF:-1 tvg-id="KRBD2000001BN" tvg-chno="534" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2000001BN_20230524T004403SQUARE.png_20230524004404.png" group-title="SHAREEXT@Television_South Korea" , 뽀요TV
 https://d1swewhk80ueaz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nxx9rtluo0681/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
 #EXTINF:-1 tvg-id="KRBB420000180" tvg-chno="535" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420000180_20230419T005746SQUARE.png_20230419005747.png" group-title="SHAREEXT@Television_South Korea" , SBS 그해 우리는
 https://d3qf0zy79zrp4j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jku0o3d6cdg6d-prod/hls-harvester2-1293-prod/us-east-1/cc-jku0o3d6cdg6d/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
 #EXTINF:-1 tvg-id="KRBC4400002AO" tvg-chno="536" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400002AO_20230222T043321SQUARE.png_20230222043322.png" group-title="SHAREEXT@Television_South Korea" , KBS 왕가네 식구들
 https://d2t9x9riiebgk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yit6fxy36rin1-ssai-prod/hls-harvester2-1293-prod-apnortheast2/ap-northeast-2/cc-yit6fxy36rin1/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
 #EXTINF:-1 tvg-id="KRBC20000347" tvg-chno="538" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000347_20230614T012841SQUARE.png_20230614012841.png" group-title="SHAREEXT@Television_South Korea" , MBC 오자룡이 간다
 https://d386gkzosr3i38.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fm713l3q6ryzr-prod/Channel_MBC_8.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
 #EXTINF:-1 tvg-id="KRBC4400001TZ" tvg-chno="544" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400001TZ_20230308T013155SQUARE.png_20230308013156.png" group-title="SHAREEXT@Television_South Korea" , KBS 넝쿨째 굴러온 당신
 https://dxu4wvtv4p1ec.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0b62ma21bqfqg-ssai-prod/hls-harvester2-1293-prod-apnortheast2/ap-northeast-2/cc-0b62ma21bqfqg/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
