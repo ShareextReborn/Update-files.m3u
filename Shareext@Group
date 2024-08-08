@@ -390,6 +390,14 @@ http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/110278
 http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/110279
 #EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS",HUB PREMIER FHD(Events Only)
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/148158.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS",EuroSport HD_1_latin
+http://edge02.odtv.az/o7/eurosport/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS",EuroSport HD_2_latin
+http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS",EuroSport HD.1_usa 
+http://185.189.225.157/EuroSport1/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS",EuroSport HD.2_usa
+http://185.189.225.157/EuroSport2/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",Astro Arena 
 http://filex.tv:8080/paramjeetsingh/002818/303495 
@@ -744,6 +752,53 @@ https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.co
 #EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.postimg.cc/8CyTM6g2/download-2024-01-19-T210600-559.png",Drama Hebat_MPD~OttNavigator
 https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
 
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",TV1~~
+https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png",TV2~~
+https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3~~
+https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png",Okey Tv~~
+https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv6.png",TV6~~
+https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png",DidikTv KPM~~
+https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8tv.png",8TV~~
+https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9~~
+https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png",BERITA RTM~~
+https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png",SUKAN RTM~~
+https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Bernama.png",Bernama Tv~~
+https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/bernama/live.m3u8
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg",TVS~~
+https://mifntechnology.github.io/siaranMy/channels/Tvs/index.m3u8
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png", TV Ikim~~
+https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png", Astro Awani~~
+https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png", Dunia Sinema~~
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png", Tv Alhijrah~~
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://mifntechnology.github.io/siaranMy/channels/TvAlhijrah/index.m3u8
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png ",Dewan Rakyat~~
+https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",DewanNegara~~
+https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/CN.png",CartoonNetwork~~
+https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidiDanFriends.png",DidiDanFriends~~
+https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/DidiDanFriends/live.m3u8
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Nickelodeon.png",Nickelodeon Bahasa~~
+https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/Spongebob/live.m3u8
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DisneyJr.png",DisneyJr~~
+https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/DisneyJr/live.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", RTM TV 1
 http://iptvtree.net:8080/F18819/6eb39c7d/158357
 #EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", RTM TV 2
@@ -923,6 +978,73 @@ https://flv.intechmedia.net/live/ch113.m3u8|user-agent=Mozilla/5.0
 https://flv.intechmedia.net/live/ch114.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", Rtv_intec
 https://flv.intechmedia.net/live/ch115.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",TV1O(P)
+http://103.237.32.213:9981/stream/channelid/606094233?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",METRO TV HD(P)
+http://103.237.32.213:9981/stream/channelid/1475621416?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",JITV(P)
+http://103.237.32.213:9981/stream/channelid/1117451157?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",BN CHANNEL(P)
+http://103.237.32.213:9981/stream/channelid/695468932?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",VTV HD(P)
+http://103.237.32.213:9981/stream/channelid/757539105?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",TVONE  HD(P)
+http://103.237.32.213:9981/stream/channelid/303387948?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",NET.HD(P)
+http://103.237.32.213:9981/stream/channelid/58782178?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",JOGJA TV(P)
+http://103.237.32.213:9981/stream/channelid/2043253364?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",E CHANNEL(P)
+http://103.237.32.213:9981/stream/channelid/562129238?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",BTV HD(P)
+http://103.237.32.213:9981/stream/channelid/1134603900?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",ANTV HD(P)
+http://103.237.32.213:9981/stream/channelid/787526729?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",SCTV HD(P)
+http://103.237.32.213:9981/stream/channelid/2075096037?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",RTV HD(P)
+http://103.237.32.213:9981/stream/channelid/1843224228?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",MOJI HD(P)
+http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",MENTARI HD(P)
+http://103.237.32.213:9981/stream/channelid/1253294058?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",KOMPASTV HD(P)
+http://103.237.32.213:9981/stream/channelid/958311693?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",INDOSIAR HD(P)
+http://103.237.32.213:9981/stream/channelid/1888111875?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",MTA TV(P)
+http://103.237.32.213:9981/stream/channelid/992056661?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",TVRI World(P)
+http://103.237.32.213:9981/stream/channelid/2087137957?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",TVRI Sport(P)
+http://103.237.32.213:9981/stream/channelid/2132584701?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",TVRI Nasional HD(P)
+http://103.237.32.213:9981/stream/channelid/455417035?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",TVRI Jateng(P)
+http://103.237.32.213:9981/stream/channelid/1786844649?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",TVRI JOGJA HD(P)
+http://103.237.32.213:9981/stream/channelid/1656129049?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",SANGAJI TV(P)
+http://103.237.32.213:9981/stream/channelid/613163410?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",TA TV(P)
+http://103.237.32.213:9981/stream/channelid/782484923?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",Nusantara TV(P)
+http://103.237.32.213:9981/stream/channelid/1256118101?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",NET HD(P)
+http://103.237.32.213:9981/stream/channelid/1836125181?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",GARUDA TV(P)
+http://103.237.32.213:9981/stream/channelid/1129506846?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",ADITV(P)
+http://103.237.32.213:9981/stream/channelid/442538027?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",GTV HD(P)
+http://103.237.32.213:9981/stream/channelid/60098242?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",iNews HD(P)
+http://103.237.32.213:9981/stream/channelid/577841529?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",RCTI HD(P)
+http://103.237.32.213:9981/stream/channelid/1365658651?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",MNCTV HD(P)
+http://103.237.32.213:9981/stream/channelid/1397747788?profile=pass
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID", RCTI (R+)
 #EXTVLCOPT:http-user-agent=android-R+
