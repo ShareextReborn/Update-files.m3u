@@ -3,9 +3,18 @@
 https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
 #EXTINF:-1   tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax",WELCOME@_SHAREEXT@!!!!
 https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",PSJ TV_🇲🇨
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~Football•🇲🇨	
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~Sport~1•🇲🇨	
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~Sport~2•🇲🇨	
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~Sport~3•🇲🇨	
+https://dsgtq5sngxkde.cloudfront.net/live/eds/mncsport3/sa_hls/mncsport3.m3u8?c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~Sport~4•🇲🇨	
+https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8?c
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR_Gen
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR__x
@@ -356,6 +365,31 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",Nature
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="SHAREEXT@OLYmpic|Live",SS PSL
+https://webufffit.mizhls.ru/lb/eplayerSuperSportPSL/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="SHAREEXT@OLYmpic|Live",SS ACTION
+https://webufffit.mizhls.ru/lb/eplayerSuperSportAction/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="SHAREEXT@OLYmpic|Live",SS TENNIS
+https://webufffit.mizhls.ru/lb/eplayerSuperSportTennis/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="SHAREEXT@OLYmpic|Live",SS CRICKET
+https://webufffit.mizhls.ru/lb/eplayerSuperSportCricket/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="SHAREEXT@OLYmpic|Live",SS GRANDSTAND
+https://top1.mizhls.ru:443/top1/eplayerSupersportGrandstand/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="SHAREEXT@OLYmpic|Live",SS GOLF
+https://webufffit.mizhls.ru/lb/eplayerSuperSportGolf/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="SHAREEXT@OLYmpic|Live",SS RUGBY
+https://webufffit.mizhls.ru/lb/eplayerSuperSportRugby/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="SHAREEXT@OLYmpic|Live",SS OLYMPIC 3
+https://webufffit.mizhls.ru/lb/eplayerSuperSportFootball/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="SHAREEXT@OLYmpic|Live",SS OLYMPIC 4
+https://top1.mizhls.ru:443/top1/eplayerSuperSportVariety1/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="SHAREEXT@OLYmpic|Live",SS OLYMPIC 5
+https://top1.mizhls.ru:443/top1/eplayerSuperSportVariety2/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="SHAREEXT@OLYmpic|Live",SS OLYMPIC 6
+https://top1.mizhls.ru:443/top1/eplayerSuperSportVariety3/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="SHAREEXT@OLYmpic|Live",SS OLYMPIC 7
+https://webufffit.mizhls.ru/lb/eplayerSuperSportVariety4/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="SHAREEXT@OLYmpic|Live",Eurosport
 http://ua-iptv.com:8080/1mgrady85@gmail.com/aMkL3fQq6k/928497
