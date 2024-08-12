@@ -5659,47 +5659,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",TyC Sports HD
-http://45.232.148.101:8000/play/a07n/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",Win Sports HD
-http://45.232.148.101:8000/play/a072/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",Win Sports+ HD
-http://45.232.148.101:8000/play/a087/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",TNT SPORTS HD_PY
-http://45.232.148.101:8000/play/a06z/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",GOLPERU HD
-http://45.232.148.101:8000/play/a07o/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",Fox Sports 1 HD_PY
-http://45.232.148.101:8000/play/a06i/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",FOX Sports 2 HD_PY
-http://45.232.148.101:8000/play/a08j/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",Fox Sports 3 HD_PY
-http://45.232.148.101:8000/play/a09t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",ElCanaldelFutbol HD
-http://45.232.148.101:8000/play/a07p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",ESPORTS MAX
-http://45.232.148.101:8000/play/a0c0/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",ESPN HD_PY
-http://45.232.148.101:8000/play/a078/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",ESPN FOOTBALL HD
-http://45.232.148.101:8000/play/a07f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",ESPN 2 HD_CHILE
-http://45.232.148.101:8000/play/a05v/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",ESPN 3 HD_PY
-http://45.232.148.101:8000/play/a05t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",ESPN 4 HD_PY
-http://45.232.148.101:8000/play/a08i/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",ESPN EXTRA HD
-http://45.232.148.101:8000/play/a07x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",Claro Sports_COLOMBIA
 http://200.60.124.19:29000/play/a01v
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",GolTV HD_COLOMBIA
-http://200.60.124.19:29000/play/a007
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",Movistar Deportes
-http://200.60.124.19:29000/play/a092
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",ESPN_colombia
-http://200.60.124.19:29000/play/a09g
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",ESPN 2 Latin
 http://200.60.124.19:29000/play/a015
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Canais de Esportes",ESPN 3_colombia
