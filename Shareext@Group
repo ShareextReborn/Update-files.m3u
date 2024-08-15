@@ -663,7 +663,42 @@ https://madplay.live/hls/jiotv/stream.php?id=523&e=.m3u8
 
 
 
-
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", BOO(m)
+https://maper.info/BOO_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", HBO(m)
+https://maper.info/HBO_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", HBO.FAMILY(m)
+https://maper.info/HBOfamily_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", HBO.HITS(m)
+https://maper.info/HBOhits_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", CINEMAX(m)
+https://maper.info/CINEMAX_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", TAADA-A(m)
+https://maper.info/TADAA_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", SHOWCASE.MOVIES(m)
+https://maper.info/Showcase_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", IQYI(m)
+https://maper.info/IQYI_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", AOD.351(m)
+https://maper.info/AOD351_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", AOD.352(m)
+https://maper.info/AOD352_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", AOD.353(m)
+https://maper.info/AOD353_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", PHOENIX.CHINES.CH(m)
+https://maper.info/PhoenixCC_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", TVB.CLASSIC(m)
+https://maper.info/TVBclassic_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", CHUTTI.TV(m)
+https://maper.info/ChuttiTv_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", OASIS(m)
+https://maper.info/OASIS_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", AURA(m)
+https://maper.info/AURA_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", RANIA(m)
+https://maper.info/RANIA_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", TVB.XINGHE(m)
+https://maper.info/TVBxinghe_shareext-xs
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.postimg.cc/wBFj2rLb/download-2024-01-19-T210746-192.png",Travel&Taste_MPD~OttNavigator 
