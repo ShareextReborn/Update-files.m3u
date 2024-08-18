@@ -6211,19 +6211,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Shareext@MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg",ช่อง Lotus TV Macau
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC41/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",BOO_🇲🇾
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES",HBO (xtv)
-http://xtv.ooo:8080/MansoorWapda/258741/350955
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES",HBO Family (xtv)
-http://xtv.ooo:8080/MansoorWapda/258741/350956
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES",HBO Hits (xtv)
-http://xtv.ooo:8080/MansoorWapda/258741/350957
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES",HBO Signature (xtv)
-http://xtv.ooo:8080/MansoorWapda/258741/350958
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="Shareext@MOVIES",HBO~
 http://iptvtree.net:8080/F14995/a84c0963/197972
@@ -7884,37 +7872,37 @@ http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/66710
 
 
 #EXTINF:-1 tvg-name="CCTV 1 FHD CN"  tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv1.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 1 FHD
-http://nnth.7766.org:85//tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV 2 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv2.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 2 FHD
-http://nnth.7766.org:85//tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV 3 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv3.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 3 FHD 
-http://nnth.7766.org:85//tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV 4 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv4.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 4 FHD
-http://nnth.7766.org:85//tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV 5 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv5.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 5 FHD 
-http://nnth.7766.org:85//tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV 5plus FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv5plus.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 5 PLUS FHD
 
 #EXTINF:-1 tvg-name="CCTV 6 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv6.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 6 FHD 
-http://nnth.7766.org:85//tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV 7 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv7.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 7 FHD 
-http://nnth.7766.org:85//tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV 8 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv8.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 8 FHD
-http://nnth.7766.org:85//tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV 9 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv9.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 9 FHD 
-http://nnth.7766.org:85//tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV 10 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv10.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 10 FHD 
-http://nnth.7766.org:85//tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV 11 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv11.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 11 FHD 
-http://nnth.7766.org:85//tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV 12 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv12.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 12 FHD 
-http://nnth.7766.org:85//tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV 13 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv13.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 13 FHD 
-http://nnth.7766.org:85//tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV 14 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv14.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 14 FHD 
-http://nnth.7766.org:85//tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV 15 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv15.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 15 FHD 
-http://nnth.7766.org:85//tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV 16 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv16.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 16 FHD
 
 #EXTINF:-1 tvg-name="CCTV 17 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv17.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 17 FHD
