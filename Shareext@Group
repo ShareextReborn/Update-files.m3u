@@ -22,6 +22,8 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_hls/VplusLiveRpl
 https://proji.glitch.me/https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR(live)
 http://108.181.132.217:8070/live/12915223/fc28dfb6/162138.ts
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR(aflax)
+http://aflaxtv.xyz:8080/live/F21312/b9181c9b/162138.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR_Gen
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR__x
@@ -397,6 +399,32 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 https://gameslive.akamaized.net/hls/live-97eee134-2b19-4781-b794-04d3490229e4_720p2800kbs/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS", QAZ Sport 
 https://proji.glitch.me/https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS", Willow_Cricket(B)
+http://tv.cloudcdn.me/live.ts?channelId=287&uid=5563&deviceMac=00:1A:79:A7:35:8B
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS", Starsports hindi(B)
+http://tv.cloudcdn.me/live.ts?channelId=288&uid=5563&deviceMac=00:1A:79:A7:35:8B
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS", Starsports tamil(B)
+http://tv.cloudcdn.me/live.ts?channelId=295&uid=5563&deviceMac=00:1A:79:A7:35:8B
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS", Sony sports 1(B)
+http://tv.cloudcdn.me/live.ts?channelId=289&uid=5563&deviceMac=00:1A:79:A7:35:8B
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS", Sony sports 2(B)
+http://tv.cloudcdn.me/live.ts?channelId=290&uid=5563&deviceMac=00:1A:79:A7:35:8B
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS", Sony sports 3(B)
+http://tv.cloudcdn.me/live.ts?channelId=291&uid=5563&deviceMac=00:1A:79:A7:35:8B
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS", FOX 501(B)
+http://tv.cloudcdn.me/live.ts?channelId=292&uid=5563&deviceMac=00:1A:79:A7:35:8B
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS", FOX 502(B)
+http://tv.cloudcdn.me/live.ts?channelId=294&uid=5563&deviceMac=00:1A:79:A7:35:8B
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg" group-title="ShareExt@PREMIUM✓SPORTS",StarSports 1 HD
+http://103.120.172.74:4600
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg" group-title="ShareExt@PREMIUM✓SPORTS",StarSports Select 1
+http://103.120.172.74:1030
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg" group-title="ShareExt@PREMIUM✓SPORTS",StarSports Select 2
+http://103.120.172.74:4700
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="ShareExt@PREMIUM✓SPORTS",SonySports Ten 5
+http://103.120.172.74:5300
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="ShareExt@PREMIUM✓SPORTS",Sports 18 1 HD
+http://103.120.172.74:5500
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",UK-SkySports Action 
 http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/53705 
@@ -674,25 +702,8 @@ http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="ShareExt@PREMIUM✓SPORTS", Fifa+ 
 https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg" group-title="ShareExt@PREMIUM✓SPORTS",StarSports 1 HD
-http://103.120.172.74:4600
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg" group-title="ShareExt@PREMIUM✓SPORTS",StarSports 2
-http://103.120.172.74:4500
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg" group-title="ShareExt@PREMIUM✓SPORTS",StarSports Select 1
-http://103.120.172.74:1030
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg" group-title="ShareExt@PREMIUM✓SPORTS",StarSports Select 2
-http://103.120.172.74:4700
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png" group-title="ShareExt@PREMIUM✓SPORTS",SonySports Ten 1 HD
-http://103.120.172.74:1140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="ShareExt@PREMIUM✓SPORTS",SonySports Ten 5
-http://103.120.172.74:5300
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="ShareExt@PREMIUM✓SPORTS",Sports 18 1 HD
-http://103.120.172.74:5500
-#EXTINF:-1 tvg-logo="https://imgur.com/5g26UzU.png" group-title="ShareExt@PREMIUM✓SPORTS",SONY Jiotv
-https://madplay.live/hls/jiotv/stream.php?id=523&e=.m3u8
 
 
 
