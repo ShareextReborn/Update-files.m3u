@@ -357,6 +357,22 @@ https://maper.info/SportStart2_shareext|User-Agent=Shareext/2.2.0
 https://maper.info/SPOTV_shareext_ts|User-Agent=Shareext/2.2.0
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SPOTV_2_🇲🇨
 https://maper.info/SPOTV_2_shareext_ts|User-Agent=Shareext/2.2.0
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SSC 1 HD_🇸🇦
+http://shareext@21tv.net/play/live.php?mac=00%3A1A%3A79%3A00%3A00%3A01&stream=62940&extension=ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SSC 2 HD_🇸🇦
+http://shareext@21tv.net/play/live.php?mac=00%3A1A%3A79%3A00%3A00%3A01&stream=248870&extension=ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SSC 3 HD_🇸🇦
+http://shareext@21tv.net/play/live.php?mac=00%3A1A%3A79%3A00%3A00%3A01&stream=248872&extension=ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SSC 4 HD_🇸🇦
+http://shareext@21tv.net/play/live.php?mac=00%3A1A%3A79%3A00%3A00%3A01&stream=248875&extension=ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SSC 5 HD_🇸🇦
+http://shareext@21tv.net/play/live.php?mac=00%3A1A%3A79%3A00%3A00%3A01&stream=248878&extension=ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SSC EXTRA 1_🇸🇦
+http://shareext@21tv.net/play/live.php?mac=00%3A1A%3A79%3A00%3A00%3A01&stream=248881&extension=ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SSC EXTRA 2_🇸🇦
+http://shareext@21tv.net/play/live.php?mac=00%3A1A%3A79%3A00%3A00%3A01&stream=62934&extension=ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SSC EXTRA 3_🇸🇦
+http://shareext@21tv.net/play/live.php?mac=00%3A1A%3A79%3A00%3A00%3A01&stream=248888&extension=ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg"  group-title="ShareExt@PREMIUM✓SPORTS", SPOTV_mpd(ott nav)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
