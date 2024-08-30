@@ -348,6 +348,14 @@ https://maper.info/SPOTV_2_shareext_ts|User-Agent=Shareext/2.2.0
 https://maper.info/BRIliga1_shareext-xs|User-Agent=Shareext/2.2.0
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",PRO LIGA_(maper)
 https://maper.info/PROliga_shareext-xs|User-Agent=Shareext/2.2.0
+
+#EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" group-title="ShareExt@PREMIUM✓SPORTS" tvg-logo="https://iptv36.my.to/logo/tsports.png",T Sports 7_TH
+https://edge2a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="PPTV HD" group-title="ShareExt@PREMIUM✓SPORTS" tvg-logo="https://iptv36.my.to/logo/pptv.png",PPTV HD_TH
+https://edge2a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ThairathTV32.th" tvg-name="Thairath TV" group-title="ShareExt@PREMIUM✓SPORTS" tvg-logo="https://iptv36.my.to/logo/thairath.png",Thairath TV_TH
+https://edge2a.v2h-cdn.com/thairathhd/thairathHD.stream/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SPOTV_MY_(maper)
 https://maper.info/SPOTVmy_shareext-xs|User-Agent=Shareext/2.2.0
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SPOTV 2_MY_(maper)
