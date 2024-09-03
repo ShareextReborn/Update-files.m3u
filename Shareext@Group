@@ -440,18 +440,6 @@ http://tv.cloudcdn.me/live.ts?channelId=291&uid=5563&deviceMac=00:1A:79:A7:35:8B
 http://tv.cloudcdn.me/live.ts?channelId=292&uid=5563&deviceMac=00:1A:79:A7:35:8B
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS", FOX 502(B)
 http://tv.cloudcdn.me/live.ts?channelId=294&uid=5563&deviceMac=00:1A:79:A7:35:8B
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg" group-title="ShareExt@PREMIUM✓SPORTS",StarSports 1 HD
-http://103.120.172.74:4600
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg" group-title="ShareExt@PREMIUM✓SPORTS",StarSports 2 HD
-http://103.120.172.74:4200
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg" group-title="ShareExt@PREMIUM✓SPORTS",StarSports Select 1
-http://103.120.172.74:1030
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg" group-title="ShareExt@PREMIUM✓SPORTS",StarSports Select 2
-http://103.120.172.74:4700
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="ShareExt@PREMIUM✓SPORTS",SonySports Ten 5
-http://103.120.172.74:5300
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="ShareExt@PREMIUM✓SPORTS",Sports 18 1 HD
-http://103.120.172.74:5500
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",HubSports 1 HD 
 http://alpha5-bx.me:80/play/live.php?mac=00:1A:79:00:04:10&stream=941573&extension=m3u8
@@ -475,15 +463,6 @@ http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554975&extensio
 http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554974&extension=m3u8 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",HubPremier 8 
 http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554973&extension=m3u8
-
-#EXTINF:-1  group-title="ShareExt@PREMIUM✓SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png", beIN Sports HD 
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:EE:05:1A&extension=ts&stream=941569 
-#EXTINF:-1 group-title="ShareExt@PREMIUM✓SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png", beINSports 2 
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:EE:05:1A&extension=ts&stream=941568 
-#EXTINF:-1 group-title="ShareExt@PREMIUM✓SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png", beIN Sports 3 
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:EE:05:1A&extension=ts&stream=941567 
-#EXTINF:-1 group-title="ShareExt@PREMIUM✓SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png", PremierSports 
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:EE:05:1A&extension=ts&stream=571253
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",UK-SkySports Action 
 http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/53705 
