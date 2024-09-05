@@ -350,10 +350,6 @@ https://edge2a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ThairathTV32.th" tvg-name="Thairath TV" group-title="ShareExt@PREMIUM✓SPORTS" tvg-logo="https://iptv36.my.to/logo/thairath.png",Thairath TV_TH
 https://edge2a.v2h-cdn.com/thairathhd/thairathHD.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SPOTV_MY_(maper)
-https://maper.info/SPOTVmy_shareext-xs|User-Agent=Shareext/2.2.0
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SPOTV 2_MY_(maper)
-https://maper.info/SPOTV2my_shareext-xs|User-Agent=Shareext/2.2.0
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",ASTRO ARENA 1_MY_(maper)
 https://maper.info/ARENA1_shareext-xs|User-Agent=Shareext/2.2.0
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",ASTRO ARENA 2_MY_(maper)
@@ -370,12 +366,6 @@ https://maper.info/ASSP4_shareext-xs|User-Agent=Shareext/2.2.0
 https://maper.info/Rtm_Sukan_shareext|User-Agent=Shareext/2.2.0
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",OKAY_MY_(maper)
 https://maper.info/OKEY_shareext|User-Agent=Shareext/2.2.0
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SONY SPORTS 1_(maper)
-https://maper.info/TEN1_shareext-xs|User-Agent=Shareext/2.2.0
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SONY SPORTS 2_(maper)
-https://maper.info/TEN2_shareext-xs|User-Agent=Shareext/2.2.0
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SONY SPORTS 3_(maper)
-https://maper.info/TEN3_shareext-xs|User-Agent=Shareext/2.2.0
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SSC 1 HD_🇸🇦
 http://shareext@21tv.net/play/live.php?mac=00%3A1A%3A79%3A00%3A00%3A01&stream=62940&extension=ts
@@ -4490,22 +4480,6 @@ https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Телеканал Футбол.®
 http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",🏆XSPORT Plus HD UA
-http://tinyurl.com/TvZaTako/XSportHD/video.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",🏆Мир баскетбола
-http://stream.rutvportal.com:8085/MirBasketbola/video.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",🏆SPORT 1
-http://80.245.93.242:9030/play/a00i/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",🏆SPORT 2
-http://80.245.93.242:9030/play/a00v/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",🏆Eurosport 1 HD
-http://80.245.93.242:9030/play/a01q/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",🏆Viasat Sport
-http://80.245.93.242:9030/play/a021/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",🏆WE SPORT TV HD
-http://80.245.93.242:9030/play/a043/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",🏆МАТЧ! ПЛАНЕТА 
-http://80.245.93.242:9030/play/a01u/index.m3u8
 #EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-logo="https://static.g-cdn.app/streams/match-futbol1-hd.png",Суспільне Спорт
 http://cdnua03.hls.tv/476/hls/c4a7acbb4f6a85595a117f7aa2099d65/4856/stream.m3u8
 #EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-id="equalympic" tvg-name="Equalympic HD" tvg-logo="https://picon.pp.ua/equalympic.png",EQUALYMPIC HD
@@ -5283,6 +5257,88 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Rakuten Action Movies
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Movies TV ENGLISH
+https://linear-797.frequency.stream/mt/studio/797/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Movies channel English
+https://linear-796.frequency.stream/mt/studio/796/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Movies 1080p English
+https://linear-798.frequency.stream/mt/studio/798/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one hits action
+https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one comedie
+https://linear-818.frequency.stream/mt/studio/818/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one series comedie
+https://linear-819.frequency.stream/mt/studio/819/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one Favoris
+https://linear-820.frequency.stream/mt/studio/820/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one exitos
+https://linear-832.frequency.stream/mt/studio/832/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one s&c
+https://linear-831.frequency.stream/mt/studio/831/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one thriller
+https://linear-821.frequency.stream/mt/studio/821/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one blaclist
+https://linear-822.frequency.stream/mt/studio/822/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one film
+https://linear-823.frequency.stream/mt/studio/823/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one film d
+https://linear-824.frequency.stream/mt/studio/824/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one serie
+https://linear-825.frequency.stream/mt/studio/825/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one pop
+https://linear-826.frequency.stream/mt/studio/826/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one serie Thirll
+https://linear-827.frequency.stream/mt/studio/827/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one shark tank
+https://linear-828.frequency.stream/mt/studio/828/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one thriller Tv
+https://linear-816.frequency.stream/mt/studio/816/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one best of
+https://linear-815.frequency.stream/mt/studio/815/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one hits action
+https://linear-829.frequency.stream/mt/studio/829/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one  hits comedie
+https://linear-830.frequency.stream/mt/studio/830/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one comedy tv
+https://linear-814.frequency.stream/mt/studio/814/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one comedy hits
+https://linear-813.frequency.stream/mt/studio/813/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one action hits
+https://linear-812.frequency.stream/mt/studio/812/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one dragons den
+https://linear-811.frequency.stream/mt/studio/811/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one dragons den 1
+https://linear-810.frequency.stream/mt/studio/810/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one thriller tv
+https://linear-809.frequency.stream/mt/studio/809/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one thriller
+https://linear-808.frequency.stream/mt/studio/808/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one faves
+https://linear-807.frequency.stream/mt/studio/807/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one faves 1
+https://linear-806.frequency.stream/mt/studio/806/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one comedy tv
+https://linear-805.frequency.stream/mt/studio/805/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one comedy tv 2
+https://linear-804.frequency.stream/mt/studio/804/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one comedy hits 2
+https://linear-803.frequency.stream/mt/studio/803/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one comedy hits 3
+https://linear-802.frequency.stream/mt/studio/802/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one action hits 2
+https://linear-801.frequency.stream/mt/studio/801/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one action hits 3
+https://linear-800.frequency.stream/mt/studio/800/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",West tv
+https://linear-799.frequency.stream/mt/studio/799/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Movies 1080p English
+https://linear-795.frequency.stream/mt/studio/795/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one s&t
+https://linear-833.frequency.stream/mt/studio/833/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one blacklist
+https://linear-834.frequency.stream/mt/studio/834/hls/master/playlist.m3u8
 
 
 
