@@ -299,6 +299,45 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", HK:NOW PREMIER.SPORTS
 http://185.243.7.141/play/live.php?mac=00:1A:79:14:61:4C&stream=1032487&extension=ts&play_token=kvYN0h96Wl
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",NowSports (EPL) UHD/4K
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/843222
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",NBC Sports UHD/4K
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/843220
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@PREMIUM✓SPORTS",MY:SPO TV
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856907
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@PREMIUM✓SPORTS",MY:SPOTV2
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856908
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@PREMIUM✓SPORTS",MY:Astro Supersport 1
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856822
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@PREMIUM✓SPORTS",MY:Astro Supersport 2
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856823
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@PREMIUM✓SPORTS",MY:Astro Supersport 2 (B)
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856824
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@PREMIUM✓SPORTS",MY:Astro Supersport 3
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856826
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@PREMIUM✓SPORTS",MY:Astro Supersport 4
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856829
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@PREMIUM✓SPORTS",MY:Astro Supersport 4 (B)
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856830
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@PREMIUM✓SPORTS",MY:W SPORTS
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856832
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@PREMIUM✓SPORTS",MY:Astro Cricket
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856815
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@PREMIUM✓SPORTS",MY:beINSports
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856845
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@PREMIUM✓SPORTS",MY:beINSports 2
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856846
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@PREMIUM✓SPORTS",MY:beINSports 3
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856848
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@PREMIUM✓SPORTS",MY:beINSports 4
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856850
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@PREMIUM✓SPORTS",MY:beINSports 5
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856851
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@PREMIUM✓SPORTS",MY:Eurosport
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856875
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@PREMIUM✓SPORTS",MY:WWE Network
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856931
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SCTV_MPD(OTT.PLAYER)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -697,6 +736,134 @@ https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/DidiDanFr
 https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/Spongebob/live.m3u8
 #EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DisneyJr.png",DisneyJr~~
 https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/DisneyJr/live.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", BOO
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856856
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Showcase Movies
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856905
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", CCTV4
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856857
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Celestial
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856858
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Celestial Classic Movies
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856859
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", HBO Family
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856881
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", HBO Hits
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856882
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", HBO Signature
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856883
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Cinemax
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856861
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Hits
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856885
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Hits Movies
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856886
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", K+
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856888
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", One
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856899
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", tvN
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856927
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", tvN Movies
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856928
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", TVS
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856929
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Warner TV
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856930
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Paramount
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856900
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Phoenix
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856901
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Phoenix News
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856902
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", TVB Classic
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856920
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", TVB E News
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856921
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", TVB Jade
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856922
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", TVB News
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856923
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", TVB Xing He
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856924
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", TVBS Asia
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856925
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", TVBS News
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856926
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Adithya
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856803
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Vellithirai
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856839
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Colors Tamil
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856864
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", ZEE Tamil
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856933
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Aura
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856812
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Awani
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856813
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Oasis
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856817
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Astro Premier 1
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856818
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Astro Premier 2
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856819
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Rania
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856820
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Awesome TV
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856842
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", AXN
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856843
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Bernama
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856853
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Bisnet Adventure
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856854
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Bloomberg TV
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856855
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", CTI Asia
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856866
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", DISCOVERY ASIA
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856867
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Discovery Asia
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856868
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Discovery Channel
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856869
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Discovery Science
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856870
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Disney Junior
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856871
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Dmax
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856872
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Dream Works
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856873
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", DW
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856874
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", KBS World
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856890
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", KTV
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856891
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Lifetime
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856892
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Love Nature
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856893
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Moonbug Kids
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856894
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Nick JR
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856896
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Nickelodeon
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856897
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", TV2
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856917
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", TV3
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856918
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", TV9
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856919
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", NTV7
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856898
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", TV Okey
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/856916
+
 
 
 
@@ -3876,22 +4043,6 @@ https://director.streaming.telia.com/tvm-packager-prod/group2/60ae45e51522bd66f4
 
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", LFC TV HD(server.2)
-http://46944425230613072.ofds0328.xyz:80/play/fe916183/tDENfQ5bGAy/613072.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", MUTV HD(server.2)
-http://46944425230679299.ofds0328.xyz:80/play/fe916183/tDENfQ5bGAy/679299.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", ESPN 2 HD(server.2)
-http://46944425230694765.ofds0328.xyz:80/play/fe916183/tDENfQ5bGAy/694765.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", ESPN 3 HD(server.2)
-http://46944425230694767.ofds0328.xyz:80/play/fe916183/tDENfQ5bGAy/694767.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", BT SPORT 1 FHD 50FPS FHD(server.2)
-http://46944425230306387.ofds0328.xyz:80/play/fe916183/tDENfQ5bGAy/306387.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", BT SPORT 2  FHD 50FPS FHD(server.2)
-http://46944425230306390.ofds0328.xyz:80/play/fe916183/tDENfQ5bGAy/306390.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", BT SPORT 3 FHD 50FPS FHD(server.2)
-http://46944425230306394.ofds0328.xyz:80/play/fe916183/tDENfQ5bGAy/306394.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SUKAN|UNITED|KINGDOM", BT SPORT ESPN FHD(server.2)
-http://46944425230290608.ofds0328.xyz:80/play/fe916183/tDENfQ5bGAy/290608.ts
 
 
 
@@ -4169,6 +4320,16 @@ http://14.102.154.164:5021/live/409.ts
 
 
 
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",PPV:Fite 24/7
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/851449
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",PPV:MikeTyson 24/7
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/851450
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",PPV:UFC FIGHTPASS 24/7
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/851451
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",PPV:WWE Network (Peacock)
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/851452
+#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",PPV:WWE Network (PPV)
+http://ua-iptv.com:8080/tucknew@gmail.com/tRhSk9bbed/851453
 
 #EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",FITE.24/7
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
@@ -4773,6 +4934,22 @@ http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/345675.ts
 #EXTINF:-1 tvg-ID="" tvg-name="UK: Premier Sports 2 HD 50 UK" tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",PremierSports 2 HD 
 http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/345676.ts
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SPORTS~ENGLISH", LFC TV HD(server.2)
+http://46944425230613072.ofds0328.xyz:80/play/fe916183/tDENfQ5bGAy/613072.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SPORTS~ENGLISH", MUTV HD(server.2)
+http://46944425230679299.ofds0328.xyz:80/play/fe916183/tDENfQ5bGAy/679299.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SPORTS~ENGLISH", ESPN 2 HD(server.2)
+http://46944425230694765.ofds0328.xyz:80/play/fe916183/tDENfQ5bGAy/694765.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SPORTS~ENGLISH", ESPN 3 HD(server.2)
+http://46944425230694767.ofds0328.xyz:80/play/fe916183/tDENfQ5bGAy/694767.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SPORTS~ENGLISH", BT SPORT 1 FHD 50FPS FHD(server.2)
+http://46944425230306387.ofds0328.xyz:80/play/fe916183/tDENfQ5bGAy/306387.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SPORTS~ENGLISH", BT SPORT 2  FHD 50FPS FHD(server.2)
+http://46944425230306390.ofds0328.xyz:80/play/fe916183/tDENfQ5bGAy/306390.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SPORTS~ENGLISH", BT SPORT 3 FHD 50FPS FHD(server.2)
+http://46944425230306394.ofds0328.xyz:80/play/fe916183/tDENfQ5bGAy/306394.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@SPORTS~ENGLISH", BT SPORT ESPN FHD(server.2)
+http://46944425230290608.ofds0328.xyz:80/play/fe916183/tDENfQ5bGAy/290608.ts
 
 
 
