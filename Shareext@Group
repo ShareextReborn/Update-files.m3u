@@ -293,9 +293,32 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
 
-
-
-
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", SPOTV_🇲🇨
+https://s.id/SPOTV_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", SPOTV_2_🇲🇨
+https://s.id/SPOTV2_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", RCTI_🇲🇨
+https://s.id/RCTI_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", INDOSIAR_🇲🇨
+https://s.id/indosiar_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", SCTV_🇲🇨
+https://s.id/SCTV_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", MNCTV_🇲🇨
+https://s.id/MNCTV__shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", MNCTV.2_🇲🇨
+https://s.id/mnctvv_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", INEWS_🇲🇨
+https://s.id/iNews_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", MOJI_🇲🇨
+https://s.id/MOJI_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", TVRI_SPORTS_🇲🇨
+https://s.id/TVRIsports_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", TRANS7_🇲🇨
+https://s.id/TRANS7_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", TRANSTV_🇲🇨
+https://s.id/TRANSTV_shareext-xs
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", TVONE_🇲🇨
+https://s.id/TVONE_shareext-xs
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", HK:NOW PREMIER.SPORTS
 http://185.243.7.141/play/live.php?mac=00:1A:79:14:61:4C&stream=1032487&extension=ts&play_token=kvYN0h96Wl
