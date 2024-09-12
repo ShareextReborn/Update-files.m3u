@@ -5161,32 +5161,18 @@ http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/104794.ts
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/5858.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 HD" tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",∆~BEİNSPORTS 4 HD
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/5861.ts
-
 #EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TRTSpor.tr" tvg-logo="https://i.ibb.co/GFP51yN/trt-spor.png" group-title="SHAREEXT@Turkey ➾ Sports",TRT SPOR~
 https://bozztv.com/inim03/live1/trtspor/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TRTSpor.tr" tvg-logo="https://i.ibb.co/GFP51yN/trt-2-spor.png" group-title="SHAREEXT@Turkey ➾ Sports",TRT 2 SPOR~
 https://bozztv.com/inim03/live1/trtspor2/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TRTSpor.tr" tvg-logo="https://i.ibb.co/GFP51yN/trt-3-spor.png" group-title="SHAREEXT@Turkey ➾ Sports",TRT 3 SPOR~
 https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS HABER" tvg-id="beINSportsHaber.tr" tvg-id="beIN SPORTS HABER" tvg-logo="https://i.ibb.co/GdkQ5mY/bein-sports-haber.png" group-title="SHAREEXT@Turkey ➾ Sports",beIN SPORTS HABER~
-https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/beinsportshaber.m3u8
-#EXTINF:-1 tvg-name="TV 8.5" tvg-id="TV85.tr" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" group-title="SHAREEXT@Turkey ➾ Sports",TV 8.5~
-https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
-#EXTINF:-1 tvg-name="A SPOR" tvg-id="ASpor.tr" tvg-logo="https://i.ibb.co/rwnrgFV/a-spor.png" group-title="SHAREEXT@Turkey ➾ Sports",A SPOR~
-https://github.com/rideordie16/YouTube/raw/main/spor/aspor.m3u8
-#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-id="TRTSporYildiz.tr" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" group-title="SHAREEXT@Turkey ➾ Sports",TRT SPOR YILDIZ~
-https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="SPORTS TV" tvg-id="SportsTV.tr" tvg-logo="https://i.ibb.co/R3q43dk/sportstv.png" group-title="SHAREEXT@Turkey ➾ Sports",SPORTS TV~
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://sportstv.blutv.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-name="GS TV HD" tvg-id="GSTV.tr" tvg-logo="https://i.ibb.co/6RqMpGT/gs-tv.png" group-title="SHAREEXT@Turkey ➾ Sports",GS TV HD~
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
-#EXTINF:-1 tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="SHAREEXT@Turkey ➾ Sports",TJK TV~
-http://tjktv.ercdn.net/tjktv_1080p.m3u8
-#EXTINF:-1 tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="SHAREEXT@Turkey ➾ Sports",TJK TV YURT DISI`
-https://tjktv-live.tjk.org/tjktv2_1080p.m3u8
-#EXTINF:-1 tvg-name="TAY TV" tvg-id="TAYTV.tr" tvg-logo="https://i.ibb.co/J3Pb4qv/tay-tv.png" group-title="SHAREEXT@Turkey ➾ Sports",TAY TV~
-https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/taytv.m3u8
+
 
 
 
@@ -5947,150 +5933,6 @@ https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.m
 
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",ANT MAN MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448708&extension=ts&play_token=5YrFyiX2GN
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",CAPTAIN AMERICA MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448710&extension=ts&play_token=afAuHlIORC
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",DOKTOR STRANGER MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448711&extension=ts&play_token=FXkKXI95lz
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",GUARDIAN OF T GALAXY MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448712&extension=ts&play_token=g82aNClf6u
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",IRON MAN MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448713&extension=ts&play_token=dYjKuaxQnO
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",AVENGERS MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448720&extension=ts&play_token=YTMJL9Vydv
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",THOR MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448723&extension=ts&play_token=SEuY3N9SJ8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Brucelee movies
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559547&extension=ts&play_token=m736SlMQeb
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Jason Bourne 
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559544&extension=ts&play_token=m736SlMQeb
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",James bond
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559542&extension=ts&play_token=m736SlMQeb
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Tom Hardy
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1187717&extension=ts&play_token=2bpH5DZUci
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Jason Statham
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1180209&extension=ts&play_token=2bpH5DZUci
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Superman
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=978702&extension=ts&play_token=WnFpnbvLJu
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Twilight
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=976606&extension=ts&play_token=j9V07B7yBi
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Transformer
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=976605&extension=ts&play_token=Pd7lrSO9ks
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Transporter
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=976608&extension=ts&play_token=2gsi8b8UB4
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",The Hobbit
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=976604&extension=ts&play_token=qlXZLw5jpR
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Mission impossible
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=976598&extension=ts&play_token=FqMyAsf10Z
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Jumanji
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=976596&extension=ts&play_token=PAB54cBIzW
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Scorpion
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=976567&extension=ts&play_token=wGKpAyiUMI
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Jim Carrey
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559545&extension=ts&play_token=PvzoroNDzX
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Rambo
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559546&extension=ts&play_token=EFdYJav31d
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Steven seagel
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=478620&extension=ts&play_token=py1pSm73iu
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Arnold swagzenger
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=478577&extension=ts&play_token=otgMbH7DcO
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Mr Bean
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559543&extension=ts&play_token=L27JpEGtWU
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Rocky
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559578&extension=ts&play_token=7ZCe5eogXP
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Aliens movie
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559576&extension=ts&play_token=8R7aaNvnG2
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Pirates carribean
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559574&extension=ts&play_token=qEkbTfCxCq
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",English movie
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559573&extension=ts&play_token=f3Fz1tFAlc
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Lord of the ring
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559570&extension=ts&play_token=WMvZluuqQx
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Friday elm the street(Jason)
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559569&extension=ts&play_token=D8Aj5Yvyp4
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Harry Potter
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559565&extension=ts&play_token=FIvSOAj0AB
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Blade movie
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559562&extension=ts&play_token=nSTYPOY5jW
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Batman movie
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=478579&extension=ts&play_token=S43vSxseOQ
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Home Alone movie
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433541&extension=ts&play_token=fSWOYHWLCs
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",SHREK MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433536&extension=ts&play_token=S8OXcwAiaX
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",MADAGASCAR MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433537&extension=ts&play_token=RHylf5FBcr
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",How t train dragon 
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433540&extension=ts&play_token=fYJHneLj9N
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",ICE AGE MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433539&extension=ts&play_token=VraFJ6WSdM
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Kungfu panda movie
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433538&extension=ts&play_token=djbA4WS9zi
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",X-MEN MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433495&extension=ts&play_token=87pFguob5B
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",WRONG TURN MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433496&extension=ts&play_token=5K8YH3FIe7
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",UNDER WORLD MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433497&extension=ts&play_token=hMrqextirm
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",TERMINATOR MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433498&extension=ts&play_token=IEC5rhzBOL
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",THE MAZE RUNNER MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433499&extension=ts&play_token=thFk5S0r67
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",LETHAL WEAPON MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433500&extension=ts&play_token=zdNAY0PlLw
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",JOHN WICK MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433501&extension=ts&play_token=fRLoha4qmM
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",T HUNGER GAME MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433502&extension=ts&play_token=pZC4YPpEJw
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",FAST FURIOUS MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433505&extension=ts&play_token=j02ctaiHv9
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",THE EXPENDABLE MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433506&extension=ts&play_token=W5qpMO44JN
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",STAR STREK MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433510&extension=ts&play_token=enihFRLC24
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",STAR WARS MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433509&extension=ts&play_token=FSbyQnKGh0
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",SPIDERMAN MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433512&extension=ts&play_token=f7HQd0k3dm
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",SCREAM MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433513&extension=ts&play_token=gExGNv1ykr
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",SCARY MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433514&extension=ts&play_token=XJWUeklCRa
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",SAW X MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433515&extension=ts&play_token=9P3Qeg6IdH
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",RUSH HOUR MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433516&extension=ts&play_token=c0iPSvto7c
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",RESIDENT EVIL MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433517&extension=ts&play_token=BMHUL2nsdM
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",PLANET OF T APES MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433518&extension=ts&play_token=RHL7CxOcbd
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",MORTAL KOMBAT MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433521&extension=ts&play_token=4ANrZrsHMK
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",MEN IN BLACK MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433522&extension=ts&play_token=vytHQW26aH
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",JCVD MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433526&extension=ts&play_token=epcAZwgEJn
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",MATRIX MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433523&extension=ts&play_token=uQoPnXEzvD
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",TOMB HARDY MOVIES
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433524&extension=ts&play_token=qhLfA3AiyN
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",JURASSIC PARK MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433525&extension=ts&play_token=LWNTAIX7iP
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",INDIANA JONES MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433528&extension=ts&play_token=9f0NzyiCB9
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",INSIDIOUS MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433527&extension=ts&play_token=RElGeNDNhh
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",GHOST BUSTER MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433529&extension=ts&play_token=41k1c0sBGj
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",CHUCKY MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433531&extension=ts&play_token=QK9GcXLqyG
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",CHARLIE ANGEL MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433532&extension=ts&play_token=F39m2vqQl6
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",ANABELLE MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448707&extension=ts&play_token=NxoZkHOLIr
-#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",THE PURGE MOVIE
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448721&extension=ts&play_token=G1aCM6mPx4
 
 
 
