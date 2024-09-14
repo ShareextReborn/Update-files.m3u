@@ -320,6 +320,27 @@ https://s.id/TRANSTV_shareext-xs
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", TVONE_🇲🇨
 https://s.id/TVONE_shareext-xs
 
+#EXTINF:-1 tvg-id="NowSports1.hk" tvg-name="HK Now Sports 1" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="ShareExt@PREMIUM✓SPORTS",HK|Now>Sports.1(live.event)
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/425329
+#EXTINF:-1 tvg-id="beINNowSports2.hk" tvg-name="HK Now Sports 2" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="ShareExt@PREMIUM✓SPORTS",HK|Now>Sports 2
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/425328
+#EXTINF:-1 tvg-id="NowSports3.hk" tvg-name="HK Now Sports 3" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="ShareExt@PREMIUM✓SPORTS",HK|Now>Sports 3
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/425327
+#EXTINF:-1 tvg-id="NowSports4.hk" tvg-name="HK Now Sports 4" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="ShareExt@PREMIUM✓SPORTS",HK|Now>Sports 4
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/425326
+#EXTINF:-1 tvg-id="NowSports5.hk" tvg-name="HK Now Sports 5" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="ShareExt@PREMIUM✓SPORTS",HK|Now>Sports 5
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/425325
+#EXTINF:-1 tvg-id="NowSports6.hk" tvg-name="HK Now Sports 6" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="ShareExt@PREMIUM✓SPORTS",HK|Now>Sports 6
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/425324
+#EXTINF:-1 tvg-id="NowSports7.hk" tvg-name="HK Now Sports 7" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="ShareExt@PREMIUM✓SPORTS",HK|Now>Sports 7
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/425323
+#EXTINF:-1 tvg-id="NowSportsPremierLeague1.hk" tvg-name="HK Now Premier Sports 1" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="ShareExt@PREMIUM✓SPORTS",HK|Now>Premier Sports 1
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/425332
+#EXTINF:-1 tvg-id="NowSportsPremierLeague2.hk" tvg-name="HK Now Premier Sports 2" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="ShareExt@PREMIUM✓SPORTS",HK|Now>Premier Sports 2(live.event)
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/425333
+#EXTINF:-1 tvg-id="NowSportsPremierLeague3.hk" tvg-name="HK Now Premier Sports 3" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="ShareExt@PREMIUM✓SPORTS",HK|Now>Premier Sports 3[live event]
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/425334
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", SONYSPORTS TEN 1 HD_@@
 http://ekdilhai.pro/SPTEN1HD/mpegts?token=d53bcd0976c324e9a8c5ea39f0b9bb68
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", SONYSPORTS TEN 2 HD_@@
@@ -4638,6 +4659,18 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 https://strm.yandex.ru/kal/start/start0.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="IL039:YES SPORT 2 HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Sports~Israel",YESSPORT 2 HD
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/61794
+#EXTINF:-1 tvg-id="" tvg-name="IL045:YES SPORT 4 HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Sports~Israel",YESSPORT 4 HD
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/61800
+#EXTINF:-1 tvg-id="" tvg-name="IL046:YES SPORT 5 PLUS" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Sports~Israel",YESSPORT 5 PLUS
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/61801
+#EXTINF:-1 tvg-id="" tvg-name="IL038:YES SPORT 5 STARES FHD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Sports~Israel",YESSPORT 5 STARS FHD
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/61793
+#EXTINF:-1 tvg-id="" tvg-name="IL027:YES SPORT 5 HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Sports~Israel",YESSPORT 5 HD
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/61758
+#EXTINF:-1 tvg-id="" tvg-name="IL028:YES SPORT 5 GOLD HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Sports~Israel",YESSPORT 5 GOLD HD
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/61759
 
 
 
@@ -4956,7 +4989,107 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 https://stream.urbantv.com.br/urbantvsports/video.m3u8
 
 
+#EXTINF:-1 tvg-id="rai.sport.1.it" tvg-name="IT057:RAI SPORT 1 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT057Rai1.png" group-title="SHAREEXT@ITALIA Sports",RAISPORT 1 
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2715
+#EXTINF:-1 tvg-id="rai.sport.1.dtt.it" tvg-name="IT058:RAI SPORT+ " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT058Rai2.png" group-title="SHAREEXT@ITALIA Sports",RAISPORT+ 
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2714
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-name="IT084:SKY SPORT ARENA " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT084SuperTennis.png" group-title="SHAREEXT@ITALIA Sports",SKYSPORT ARENA 
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2688
+#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-name="IT085:SKY SPORT CALCIO " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT085SkyAtlantic.png" group-title="SHAREEXT@ITALIA Sports",SKYSPORT CALCIO 
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2687
+#EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-name="IT086:SKY SPORT F1 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT08" group-title="SHAREEXT@ITALIA Sports",SKYSPORT F1 
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2686
+#EXTINF:-1 tvg-id="sky.sport.football.it" tvg-name="IT087:SKY SPORT FOOTBALL " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT087History.png" group-title="SHAREEXT@ITALIA Sports",SKYSPORT FOOTBALL 
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2685
+#EXTINF:-1 tvg-id="sky.sport.golf.it" tvg-name="IT088:SKY SPORT GOLF " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT088TopCrime.png" group-title="SHAREEXT@ITALIA Sports",SKYSPORT GOLF 
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2684
+#EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-name="IT089:SKY SPORT MOTOGP " tvg-logo="" group-title="SHAREEXT@ITALIA Sports",SKYSPORT MOTOGP 
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/28473
+#EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-name="IT090:SKY SPORT NBA " tvg-logo="" group-title="SHAREEXT@ITALIA Sports",SKYSPORT NBA 
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/28472
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="IT093:SPORT ITALIA +24 " tvg-logo="" group-title="SHAREEXT@ITALIA Sports",SPORT ITALIA +24
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/28469
+#EXTINF:-1 tvg-id="sky.sport.it" tvg-name="IT094:SPORT ITALIA SOLO CALCIO" tvg-logo="" group-title="SHAREEXT@ITALIA Sports",SPORT ITALIA SOLO CALCIO
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/28468
+#EXTINF:-1 tvg-id="supertennis.it" tvg-name="IT095:SUPER TENNIS " tvg-logo="" group-title="SHAREEXT@ITALIA Sports",SUPER TENNIS 
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/28467
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="IT098:TG COM 24 " tvg-logo="" group-title="SHAREEXT@ITALIA Sports",TG COM 24 
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/28464
+#EXTINF:-1 tvg-id="gambero.rosso.it" tvg-name="IT023:DAZN 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT023Italia2.png" group-title="SHAREEXT@ITALIA Sports",DAZN 1
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2749
+#EXTINF:-1 tvg-id="zona.dazn.2.it" tvg-name="IT009:DAZN SPORT 2 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/" group-title="SHAREEXT@ITALIA Sports",DAZN SPORT 2 
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2763
+#EXTINF:-1 tvg-id="motor.trend.it" tvg-name="IT116:MOTOR TREND" tvg-logo="" group-title="SHAREEXT@ITALIA Sports",MOTOR TREND
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/28439
+#EXTINF:-1 tvg-id="" tvg-name="IT117:MS MOTOR TV" tvg-logo="" group-title="SHAREEXT@ITALIA Sports",MS MOTOR TV
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/28438
+#EXTINF:-1 tvg-id="inter.it" tvg-name="IT027:INTER CHANNEL " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT027MediasetExtra.png" group-title="SHAREEXT@ITALIA Sports",INTER CHANNEL
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2745
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="IT028:ITALIAN FISHING TV " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT028MediasetIris.png" group-title="SHAREEXT@ITALIA Sports",ITALIAN FISHING TV 
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2744
+#EXTINF:-1 tvg-id="rai.1.it" tvg-name="IT047:RAI 1 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT047PremiumSport2.png" group-title="SHAREEXT@ITALIA Sports",RAI 1 
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2725
+#EXTINF:-1 tvg-id="rai.2.it" tvg-name="IT048:RAI 2 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT048PremiumSport1.png" group-title="SHAREEXT@ITALIA Sports",RAI 2 
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2724
+#EXTINF:-1 tvg-id="rai.3.it" tvg-name="IT049:RAI 3 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT049PremiumStories.png" group-title="SHAREEXT@ITALIA Sports",RAI 3 
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2723
+#EXTINF:-1 tvg-id="rai.4.it" tvg-name="IT050:RAI 4 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT050PremiumStudioUniversal.png" group-title="SHAREEXT@ITALIA Sports",RAI 4 
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2722
+#EXTINF:-1 tvg-id="rai.5.it" tvg-name="IT051:RAI 5 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT051RaiGulp.png" group-title="SHAREEXT@ITALIA Sports",RAI 5 
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2721
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport SELECT" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_news.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",NZ:SKYSport SELECT
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/560112
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport 1" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",NZ:SKYSport 1
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/560121
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport 2" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_2_logo_stack_rgb.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",NZ:SKYSport 2
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/560120
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport 3" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",NZ:SKYSport 3
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/560119
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport 4" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_4_logo_stack_rgb.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",NZ:SKYSport 4
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/560118
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport 5" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_5_logo_stack_rgb.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",NZ:SKYSport 5
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/560117
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport 6" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_6_logo_stack_rgb.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",NZ:SKYSport 6
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/560116
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport 7" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_7_logo_stack_rgb.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",NZ:SKYSport 7
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/560115
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport 8" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_8_logo_stack_rgb.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",NZ:SKYSport 8
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/560114
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport 9" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_9_logo_stack_rgb.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",NZ:SKYSport 9
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/560113
+#EXTINF:-1 tvg-id="" tvg-name="World Sky Sport Austria HD AUT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GDJ-World-Flags-Globe.svg/1047px-GDJ-World-Flags-Globe.svg.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",AUT:SkySport Austria HD
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/214143
+#EXTINF:-1 tvg-id="" tvg-name="AU: ESPN 1" tvg-logo="http://www.pngplay.com/wp-content/uploads/6/Australia-Map-Flag-3D-PNG.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",AU:ESPN 1
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/605594
+#EXTINF:-1 tvg-id="" tvg-name="AU: ESPN 2" tvg-logo="http://www.pngplay.com/wp-content/uploads/6/Australia-Map-Flag-3D-PNG.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",AU:ESPN 2
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/605593
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 501" tvg-logo="http://www.pngplay.com/wp-content/uploads/6/Australia-Map-Flag-3D-PNG.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",AU:FoxSports 501
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/605601
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 502 FHD" tvg-logo="http://www.pngplay.com/wp-content/uploads/6/Australia-Map-Flag-3D-PNG.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",AU:FoxSports 502 FHD
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/605602
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 503" tvg-logo="http://www.pngplay.com/wp-content/uploads/6/Australia-Map-Flag-3D-PNG.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",AU:FoxSports 503
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/605599
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 504 FHD" tvg-logo="http://www.pngplay.com/wp-content/uploads/6/Australia-Map-Flag-3D-PNG.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",AU:FoxSports 504 FHD
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/605606
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 505" tvg-logo="http://www.pngplay.com/wp-content/uploads/6/Australia-Map-Flag-3D-PNG.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",AU:FoxSports 505
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/605597
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 506" tvg-logo="http://www.pngplay.com/wp-content/uploads/6/Australia-Map-Flag-3D-PNG.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",AU:FoxSports 506
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/605596
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 507" tvg-logo="http://www.pngplay.com/wp-content/uploads/6/Australia-Map-Flag-3D-PNG.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",AU:FoxSports 507
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/605595
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports News" tvg-logo="http://www.pngplay.com/wp-content/uploads/6/Australia-Map-Flag-3D-PNG.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",AU:FoxSports News
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/605591
+#EXTINF:-1 tvg-id="" tvg-name="AU: Racing.com" tvg-logo="http://www.pngplay.com/wp-content/uploads/6/Australia-Map-Flag-3D-PNG.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",AU:Racing.com
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/605590
+#EXTINF:-1 tvg-id="" tvg-name="AU: Redbull TV" tvg-logo="http://www.pngplay.com/wp-content/uploads/6/Australia-Map-Flag-3D-PNG.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",AU:Redbull TV
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/605470
+#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Racing 1" tvg-logo="http://www.pngplay.com/wp-content/uploads/6/Australia-Map-Flag-3D-PNG.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",AU:Sky Racing 1
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/605586
+#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Racing 2" tvg-logo="http://www.pngplay.com/wp-content/uploads/6/Australia-Map-Flag-3D-PNG.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",AU:Sky Racing 2
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/605587
 
 
 
