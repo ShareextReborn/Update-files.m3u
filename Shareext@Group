@@ -362,6 +362,12 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", A SPORTS HD_@@
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", Sports18 Khel
+http://172.105.123.238:18002/play/a00r
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", DD.SPORTS
+http://172.105.123.238:18002/play/a02b
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", DD SPORTS HD
+http://172.105.123.238:18002/play/a03d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", SUPERSPORTS LALIGA(bd)
 https://sports.bdixtv24.com/m3u8.php/superlaliga.m3u8
@@ -995,6 +1001,8 @@ https://allcutv.rctiplus.id/gtv2023.m3u8
 https://allcutv.rctiplus.id/mnctv2023.m3u8
 #EXTINF:-1 tvg-id="RCTI.Id" tvg-logo=" https://i.ibb.co.com/dM0SYrN/rcti.png" group-title="Shareext@LOKAL_ID",RCTI+
 https://allcutv.rctiplus.id/rcti2023.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",INEWS+
+https://allcutv.rctiplus.id/inews2023.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="Shareext@LOKAL_ID",Moji (FMX)_mpd(ott.player)
 https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
