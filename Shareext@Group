@@ -5596,6 +5596,52 @@ http://rr3.dens.tv/h/h191/index.m3u8
 http://rr3.dens.tv/s/s34/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇮🇩ToonMax
 http://rr3.dens.tv/s/s50/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨 .Etv Bioskop 01 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412140.m3u8 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨 .Etv Bioskop 02 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412141.m3u8 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨.Etv Bioskop 03 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412142.m3u8
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨.Galaxy 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412148.m3u8 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨.Galaxy Premium 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412149.m3u8 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨.GEM 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412150.m3u8
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨.Chinese Drama 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412118.m3u8  
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨.CinemaWorld 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412119.m3u8 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨.HBO 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412152.m3u8 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨.HBO Family 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412153.m3u8 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨.HBO Hits 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412154.m3u8 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨.HBO Signature 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412155.m3u8
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨.Cinemax 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412120.m3u8 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨.Citra Bioskop 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412121.m3u8
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨.Citra Drama 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412123.m3u8 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨.Citra Entertainment 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412124.m3u8
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨.Vision Prime 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412251.m3u8 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨.Warner TV
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412252.m3u8 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨.Zee Bioskop 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412253.m3u8
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨.Rock Action 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412220.m3u8 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨.Rock Entertaiment 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412221.m3u8 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨.Rock.Extreme 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412222.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇬🇧 My time Movies Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇬🇧 FilmRise Family
