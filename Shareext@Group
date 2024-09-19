@@ -32,6 +32,26 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/165054
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax",ID|TVRI Sport
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/166686
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax",🇭🇰 NOW SPORTS 1 
+http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/802488.ts 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax",🇭🇰 NOW SPORTS 2 
+http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/802487.ts 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax",🇭🇰 NOW SPORTS 3 
+http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/802486.ts 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax",🇭🇰 NOW SPORTS 4 
+http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/802485.ts 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax",🇭🇰 NOW SPORTS 5 
+http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/802484.ts 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax",🇭🇰 NOW SPORTS 6 
+http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/802483.ts 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax",🇭🇰 NOW SPORTS 7  
+http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/802482.ts 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax",🇵🇭 PBA RUSH 
+http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/718642.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax",🇵🇭 ONE SPORTS 
+http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/1035112.ts
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro.Sports.1.(dd)
 https://mhdtv.co.in/daddy/stream.m3u8?id=123|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro.Sports.2.(dd)
@@ -300,8 +320,12 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
 
-
-
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",🇹🇭 True PremiereFootball 1 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/415522.m3u8 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",🇹🇭 True PremiereFootball 2 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/415524.m3u8 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@PREMIUM✓SPORTS",🇹🇭 TrueSport 4 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/415526.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", SPOTV_🇲🇨
 https://s.id/SPOTV_shareext-xs
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", SPOTV_2_🇲🇨
@@ -850,6 +874,33 @@ https://allcutv.rctiplus.id/mnctv2023.m3u8
 https://allcutv.rctiplus.id/rcti2023.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",INEWS+
 https://allcutv.rctiplus.id/inews2023.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 1" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@LOKAL_ID", Spotv 1.✓
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412100.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 3" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@LOKAL_ID", Spotv 2.✓
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@LOKAL_ID", SCTV.✓ 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID: RCTI" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@LOKAL_ID", RCTI.✓ 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@LOKAL_ID", Indosiar.✓ 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412169.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="ID: INews" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@LOKAL_ID", INews.✓ 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID: MNC TV" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@LOKAL_ID", MNCTV.✓ 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412192.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Sport" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@LOKAL_ID", TVRI Sport.✓ 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@LOKAL_ID", Moji.✓ 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID: Mentari TV" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@LOKAL_ID", Mentari TV.✓ 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID: TV One" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@LOKAL_ID", TV One.✓ 
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412238.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID: Trans 7" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@LOKAL_ID", Trans 7.✓
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412235.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="ID: Trans TV" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@LOKAL_ID", TransTV.✓
+http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412236.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="Shareext@LOKAL_ID",Moji (FMX)_mpd(ott.player)
 https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
