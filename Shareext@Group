@@ -3817,6 +3817,33 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 https://strm.yandex.ru/kal/start/start0.m3u8
 
 
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="IL ▎SPORT 1 HD" tvg-logo="https://img.logo-cdn.cc/sport1.png" group-title="SHAREEXT@Sports~Israel",IL ▎SPORT 1 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/97259
+#EXTINF:-1 tvg-ID="" tvg-name="IL ▎SPORT 2 HD" tvg-logo="https://img.logo-cdn.cc/sport2.png" group-title="SHAREEXT@Sports~Israel",IL ▎SPORT 2 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/97258
+#EXTINF:-1 tvg-ID="" tvg-name="IL ▎SPORT 3 HD" tvg-logo="https://img.logo-cdn.cc/sport3.png" group-title="SHAREEXT@Sports~Israel",IL ▎SPORT 3 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/97257
+#EXTINF:-1 tvg-ID="" tvg-name="IL ▎SPORT 4" tvg-logo="https://img.logo-cdn.cc/sport4.png" group-title="SHAREEXT@Sports~Israel",IL ▎SPORT 4
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/97256
+#EXTINF:-1 tvg-ID="" tvg-name="IL ▎SPORT 5" tvg-logo="https://img.logo-cdn.cc/sport5.png" group-title="SHAREEXT@Sports~Israel",IL ▎SPORT 5
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/97255
+#EXTINF:-1 tvg-ID="" tvg-name="IL ▎SPORT 5 HD" tvg-logo="https://img.logo-cdn.cc/sport5.png" group-title="SHAREEXT@Sports~Israel",IL ▎SPORT 5 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/97245
+#EXTINF:-1 tvg-ID="" tvg-name="IL ▎SPORT 5 LIVE HD" tvg-logo="https://img.logo-cdn.cc/sport5live.png" group-title="SHAREEXT@Sports~Israel",IL ▎SPORT 5 LIVE HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/97244
+#EXTINF:-1 tvg-ID="" tvg-name="IL ▎YES SPORT 5 GOLD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Sports~Israel",IL ▎YES SPORT 5 GOLD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1373340
+#EXTINF:-1 tvg-ID="" tvg-name="IL ▎YES ONE - 1 SPORT" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Sports~Israel",IL ▎YES ONE - 1 SPORT
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1373341
+#EXTINF:-1 tvg-ID="" tvg-name="IL ▎YES ONE - 2 SPORT " tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Sports~Israel",IL ▎YES ONE - 2 SPORT 
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/97248
+#EXTINF:-1 tvg-ID="" tvg-name="IL ▎YES EUROSPORT 1 HD" tvg-logo="https://img.logo-cdn.cc/eurosport1.png" group-title="SHAREEXT@Sports~Israel",IL ▎YES EUROSPORT 1 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1373342
+#EXTINF:-1 tvg-ID="" tvg-name="IL ▎YES EUROSPORT 2 HD" tvg-logo="https://img.logo-cdn.cc/eurosport2.png" group-title="SHAREEXT@Sports~Israel",IL ▎YES EUROSPORT 2 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1373343
+
 #EXTINF:-1 tvg-id="" tvg-name="IL039:YES SPORT 2 HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Sports~Israel",YESSPORT 2 HD
 http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/61794
 #EXTINF:-1 tvg-id="" tvg-name="IL045:YES SPORT 4 HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Sports~Israel",YESSPORT 4 HD
@@ -4167,6 +4194,34 @@ http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2721
 
 
 
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="AU ▎OPTUS SPORT 1 HD" tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",OPTUS SPORT 1 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/733114
+#EXTINF:-1 tvg-ID="" tvg-name="AU ▎OPTUS SPORT 2 HD" tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",OPTUS SPORT 2 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/733115
+#EXTINF:-1 tvg-ID="" tvg-name="AU ▎OPTUS SPORT 3 HD" tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",OPTUS SPORT 3 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/733116
+#EXTINF:-1 tvg-ID="" tvg-name="AU ▎TEN SPORTS" tvg-logo="https://img.logo-cdn.cc/tensports.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",AU ▎TEN SPORTS
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/113655
+#EXTINF:-1 tvg-ID="" tvg-name="AU ▎BEIN SPORTS 1 HD" tvg-logo="https://img.logo-cdn.cc/beinsports1.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",BEINSPORTS 1 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/113659
+#EXTINF:-1 tvg-ID="" tvg-name="AU ▎BEIN SPORTS 2 HD" tvg-logo="https://img.logo-cdn.cc/beinsports2.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",BEINSPORTS 2 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/113660
+#EXTINF:-1 tvg-ID="" tvg-name="AU ▎BEIN SPORTS 3 HD" tvg-logo="https://img.logo-cdn.cc/beinsports3.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",BEINSPORTS 3 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/113661
+#EXTINF:-1 tvg-ID="" tvg-name="AU ▎ESPN 1 HD" tvg-logo="https://img.logo-cdn.cc/espn.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",AU ▎ESPN 1 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/113662
+#EXTINF:-1 tvg-ID="" tvg-name="AU ▎ESPN 2 HD" tvg-logo="https://img.logo-cdn.cc/espn2.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",AU ▎ESPN 2 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/113663
+#EXTINF:-1 tvg-ID="" tvg-name="AU ▎STAN EVENT 1 " tvg-logo="https://img.logo-cdn.cc/stanevent.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",AU ▎STAN EVENT 1
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/554129
+#EXTINF:-1 tvg-ID="" tvg-name="AU ▎STAN EVENT 2 " tvg-logo="https://img.logo-cdn.cc/stanevent.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",AU ▎STAN EVENT 2
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/554130
+#EXTINF:-1 tvg-ID="" tvg-name="AU ▎STAN EVENT 3 " tvg-logo="https://img.logo-cdn.cc/stanevent.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",AU ▎STAN EVENT 3
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/554131
+
 #EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport SELECT" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_news.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",NZ:SKYSport SELECT
 http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/560112
 #EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport 1" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",NZ:SKYSport 1
@@ -4303,6 +4358,28 @@ https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1631301541452718080/Zx60yrrT_400x400.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", ..Esportes Brasília HD!!
 https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8|user-agent=Shareext/2.2.1
    
+#EXTINF:-1 tvg-ID="sportv.br" tvg-name="BR ▎SPORTV HD" tvg-logo="https://img.logo-cdn.cc/sportv.png" group-title="SHAREEXT@BRAZILIA ➾ Sports",SPORTV HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/101739
+#EXTINF:-1 tvg-ID="sportv2.br" tvg-name="BR ▎SPORTV 2 HD" tvg-logo="https://img.logo-cdn.cc/sportv2.png" group-title="SHAREEXT@BRAZILIA ➾ Sports",SPORTV 2 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/101737
+#EXTINF:-1 tvg-ID="sportv3.br" tvg-name="BR ▎SPORTV 3 HD" tvg-logo="https://img.logo-cdn.cc/sportv3.png" group-title="SHAREEXT@BRAZILIA ➾ Sports",SPORTV 3 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/101738
+#EXTINF:-1 tvg-ID="foxsports.br" tvg-name="BR ▎FOX SPORTS HD" tvg-logo="https://img.logo-cdn.cc/foxsports.png" group-title="SHAREEXT@BRAZILIA ➾ Sports",FOX SPORTS HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/101672
+#EXTINF:-1 tvg-ID="espn.br" tvg-name="BR ▎ESPN HD" tvg-logo="https://img.logo-cdn.cc/espn.png" group-title="SHAREEXT@BRAZILIA ➾ Sports",ESPN HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/101664
+#EXTINF:-1 tvg-ID="espnextra.br" tvg-name="BR ▎ESPN EXTRA HD" tvg-logo="https://img.logo-cdn.cc/espnextra.png" group-title="SHAREEXT@BRAZILIA ➾ Sports",ESPN EXTRA HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/101663
+#EXTINF:-1 tvg-ID="espn2.br" tvg-name="BR ▎ESPN 2 HD" tvg-logo="https://img.logo-cdn.cc/espn2.png" group-title="SHAREEXT@BRAZILIA ➾ Sports",ESPN 2 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/101660
+#EXTINF:-1 tvg-ID="espnbrasil.br" tvg-name="BR ▎ESPN BRASIL HD" tvg-logo="https://img.logo-cdn.cc/espn.png" group-title="SHAREEXT@BRAZILIA ➾ Sports",ESPN BRASIL HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/101662
+#EXTINF:-1 tvg-ID="combate.br" tvg-name="BR ▎COMBATE HD" tvg-logo="https://img.logo-cdn.cc/combate.png" group-title="SHAREEXT@BRAZILIA ➾ Sports",COMBATE HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/101643
+#EXTINF:-1 tvg-ID="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://img.logo-cdn.cc/bandsports.png" group-title="SHAREEXT@BRAZILIA ➾ Sports",BAND SPORTS HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/102625
+
+
 
 
 
@@ -4387,7 +4464,14 @@ http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/361712.ts
 
 
 
-
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/championsleague.png" group-title="SHAREEXT@SPORTS~ENGLISH",TNT SPORTS 1 HD [UK]
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1461005
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/championsleague.png" group-title="SHAREEXT@SPORTS~ENGLISH",TNT SPORTS 2 HD [UK]
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1461006
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/championsleague.png" group-title="SHAREEXT@SPORTS~ENGLISH",TNT SPORTS 3 HD [UK]
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1462040
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/championsleague.png" group-title="SHAREEXT@SPORTS~ENGLISH",TNT SPORTS 4 HD [UK]
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1462041
 
 #EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",SkySPORTS MAINEVENT (xyz)
 http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/243192 
