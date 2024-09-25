@@ -13,6 +13,8 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportst
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~Spotv•🇲🇨	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR(vd)
+https://tv.burhansyam.com/api/vd.m3u8?ch=indosiar&t=666|user-agent=Mozilla/5.0
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
@@ -45,6 +47,8 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157579
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/165054
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax",ID|Moji
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax",Moji(vd)
+https://tv.burhansyam.com/api/vd.m3u8?ch=moji&t=666|user-agent=Mozilla/5.0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax",ID|TVRI Sport
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/166686
 
@@ -4202,6 +4206,35 @@ http://14.102.154.164:5021/live/409.ts
 
 
 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",PPV:Fite 24/7 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/851449 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",MikeTyson 24/7 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/851450 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",UFC FIGHTPASS 24/7 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/851451 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",WWE Network (Peacock) 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/851452
+#EXTINF:-1   tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",WWE Network (PPV) 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/851453
+#EXTINF:-1   tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",24/7:WWE Legends House
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/881786
+#EXTINF:-1   tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",24/7:WWE Money in the Bank
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/701267
+#EXTINF:-1   tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",24/7:WWE Rivals
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/881787
+#EXTINF:-1   tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",24/7:WWE Royal Rumble
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/701268
+#EXTINF:-1   tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",24/7:WWE SummerSlam
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/701269
+#EXTINF:-1   tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",24/7:WWE This Is Awesome
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/881789
+#EXTINF:-1   tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",24/7:WWE Untold
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/881790
+#EXTINF:-1   tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",24/7:WWE WrestleMania
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/701270
+#EXTINF:-1   tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",24/7:WWEs Most Wanted Treasures
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/881788
+
 #EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",FITE.24/7
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",IMPACT! Wrestling
@@ -4210,7 +4243,7 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 http://14.102.154.164:5021/live/408.ts
 #EXTINF:-1   tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",UFC_24/7
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/146291.ts
-#EXTINF:-1   tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",UFC_network
+#EXTINF:-1   tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",UFC_2|24/7
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/146293.ts
 #EXTINF:-1   tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",WWE•_usa
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/11645.ts
