@@ -14,7 +14,9 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sports
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~Spotv•🇲🇨	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR(vd)
-https://tv.burhansyam.com/api/vd.m3u8?ch=indosiar&t=666|user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10
+https://tv.burhansyam.com/api/vd.m3u8?ch=indosiar&t=666|user-agent=VidioPlayer/6.26.10
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
@@ -5013,6 +5015,69 @@ http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1462040
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/championsleague.png" group-title="SHAREEXT@SPORTS~ENGLISH",TNT SPORTS 4 HD [UK]
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1462041
 
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:Eurosport 1 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/755394 
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:Eurosport 2 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/755395
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:Fight Sports
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/755396
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:FreeSports
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/755397
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:LaLiga TV
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/845672
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:LFC TV
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/755398
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:MUTV
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/755399
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:PREMIER SPORTS 1
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/755402
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:PREMIER SPORTS 2
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/755403
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:Racing TV
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/755404
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:SKY SPORTS Action/NFL
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/755405
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:SKY SPORTS Arena
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/755406
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:SKY SPORTS Cricket
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/755408
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:SKY SPORTS F1
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/755409
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:SKY SPORTS Football
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/755410
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:SKY SPORTS Golf
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/755411
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:SKY SPORTS Main Event
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/755412
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:SKY SPORTS Mix
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/755413
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:Sky Sports News
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/755414
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:SKY SPORTS Premier League
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/755415
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:SKY SPORTS Racing
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/755416
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:TNT SPORTS  1
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/755417
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:TNT SPORTS 2
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/755418
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:TNT SPORTS 3
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/755419
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:TNT SPORTS 4
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/755420
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:TNT SPORTS 5
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/755421
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:TNT SPORTS 6
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/755422
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:TNT SPORTS 7
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/755423
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:TNT SPORTS 8
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/755424
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:TNT SPORTS 9
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/755425
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",UK:TNT SPORTS 10 HD
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/845673
+
 #EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",SkySPORTS MAINEVENT (xyz)
 http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/243192 
 #EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",SKYSPORTS PREMIERLEAGUE (xyz)
@@ -6003,6 +6068,81 @@ http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60856
 http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60857
 #EXTINF:-1 tvg-id="" tvg-name="24/7 084:HARRY POTTER" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",HARRY POTTER
 http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60858
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Jaws Movies 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/700653
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",John Wick Movies 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/700657
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Kung Fu (1972) 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/700676 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Kung Fu Panda Legends of Awesomeness 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/881031 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Kung Fu Panda Movies 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/700677 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Kung Fu Panda The Dragon Knight 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/881032
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Mike Tyson 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/881099
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Men In Black Movies 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/700747
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Mission Impossible 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/700755 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Mission Impossible Movies 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/700756
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Pirates of the Caribbean Movies 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/700831
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Planet of the Apes Movies 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/700834
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",RoboCop Movies 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/700874
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Spartacus 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/700939
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Sonic the Hedgehog 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/700933
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Spider Man Movies
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/700941
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Star Trek Movies 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/700949
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Superman Movies 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/700976
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Terminator Movies
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/700998 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Terminator The Sarah Connor Chronicles 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/700999
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",The Adventures of Superman 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/701009 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",The Adventures of Tintin 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/701010 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",The Adventures of Young Indiana Jones 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/701011
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",The Avengers 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/701018
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",.The Incredible Hulk 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/701066
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",The Hobbit Movies
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/701063
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",The Librarian Movies 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/701079
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",The Legend of Korra 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/881529 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",The Legend of Prince Valiant 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/881530 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",The Legend of Tarzan 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/881531 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",The Legend of Vox Machina 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/881532 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",The Lord of the Rings Movies 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/701084
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",The Matrix Movies
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/701091
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",The Mummy Movies 
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/701097
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Van Helsing
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/701227
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",Zorro
+http://ua-iptv.com:8080/eelise75@yahoo.com/YmdYg3q5qm/701286
+
+
 
 
 
