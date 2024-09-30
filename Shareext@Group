@@ -13,10 +13,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportst
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~Spotv•🇲🇨	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR(vd)
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10
-https://tv.burhansyam.com/api/vd.m3u8?ch=indosiar&t=666|user-agent=VidioPlayer/6.26.10
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
@@ -49,8 +45,6 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157579
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/165054
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax",ID|Moji
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax",Moji(vd)
-https://tv.burhansyam.com/api/vd.m3u8?ch=moji&t=666|user-agent=Mozilla/5.0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax",ID|TVRI Sport
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/166686
 
@@ -68,10 +62,6 @@ http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/802484.ts
 http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/802483.ts 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax",🇭🇰 NOW SPORTS 7  
 http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/802482.ts 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax",🇵🇭 PBA RUSH 
-http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/718642.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax",🇵🇭 ONE SPORTS 
-http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/1035112.ts
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro.Sports.1.(dd)
 https://mhdtv.co.in/daddy/stream.m3u8?id=123|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
