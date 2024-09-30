@@ -14,6 +14,8 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sports
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~Spotv•🇲🇨	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(cdn)
+http://tv.cloudcdn.me/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg", INDOSIAR_mpd(0tt/tivimate)
@@ -49,19 +51,12 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/166686
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax",🇭🇰 NOW SPORTS 1 
-http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/802488.ts 
+http://185.243.7.141/play/live.php?mac=00:1A:79:14:61:4C&stream=1032487&extension=ts&play_token=kvYN0h96Wl
+#http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/802488.ts 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax",🇭🇰 NOW SPORTS 2 
 http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/802487.ts 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax",🇭🇰 NOW SPORTS 3 
 http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/802486.ts 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax",🇭🇰 NOW SPORTS 4 
-http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/802485.ts 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax",🇭🇰 NOW SPORTS 5 
-http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/802484.ts 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax",🇭🇰 NOW SPORTS 6 
-http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/802483.ts 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax",🇭🇰 NOW SPORTS 7  
-http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/802482.ts 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro.Sports.1.(dd)
 https://mhdtv.co.in/daddy/stream.m3u8?id=123|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
@@ -321,32 +316,6 @@ https://www.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8|user-agent=M
 https://www.livedoomovies.com:4432/02_2sporthd5_720p/chunklist.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1  tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="ShareExt@PREMIUM✓SPORTS",TH:TRUE SPORT 7
 https://www.livedoomovies.com:4432/02_2sporthd7_720p/chunklist.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1  tvg-logo="https://i.namu.wiki/i/oQOlX2mPOBE-a1B9lnn7f9OnQOlE5P0253dJq_pwpH3mStV73pjc-LhJHhEv_uXWsypY4V8S HuOKdTuURC5LC6fUgHmWor1EIW2ITP71u5tmBSdxLhXMjkW_vLr_1RAqLRY2AMuM_Ial35NS251rqGouZhHK7AWs03sK_zyN-OM.svg" group-title="ShareExt@PREMIUM✓SPORTS",KR:SKYSPORTS
-https://z88.ubtvfans.com/live/rx3/2352/b171978e7b8f035e22f3b66a5277fa40/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.namu.wiki/i/oQOlX2mPOBE-a1B9lnn7f989xG1qEwMQDlcargYx5HlTzdKWzZ2dfo8Uf2hNUKgS-yPgD0cnLu9yCoFqvweaXUv1W-91d6NH52TYzPYY13DonjsnOzrdqRGkxj16fzlQiqZi1BUw7onIITF_rlfsBr67HfvMyxDWQoGJObmbJwE.svg" group-title="ShareExt@PREMIUM✓SPORTS",KR:SBS SPORTS
-https://z88.ubtvfans.com/live/rx3/2354/6555f7be5acc837c1d54ce718f7ba0fc/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.namu.wiki/i/oQOlX2mPOBE-a1B9lnn7f3T80yLoR6OrTcPoT8_Woi9IhCfd088HyZYbKqY-_yKUtHsawAbc1LwgqJReRA7k460QDHTvxvUb_UzS-NlQu2-ad8bBl43IKx8Y5tVmuCSeOAlXwjfoHEGpI3MeLfJzHOPLa4kjLVPVbmoVx8bNBVs.svg" group-title="ShareExt@PREMIUM✓SPORTS",KR:MBC SPORTS
-https://z88.ubtvfans.com/live/rx2/3174/bf6c378d2a26a26b066571089ffff070/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.namu.wiki/i/oQOlX2mPOBE-a1B9lnn7f-mcCb8Vn2hVsMOoV1OMbdKevg8SU7QjwT1oFL66SQqB-yeFJI41pXLA0gwLDZ7Ko8_Dl4kvY36yqt_7JJYoXICQFNpF6Duf7KsJ2kuzJYQ41LEiaE9vwEVN7hlVDj55DwBRZeAcD3y9Mbi0QZimMiU.svg" group-title="ShareExt@PREMIUM✓SPORTS",KR:KBS N SPORTS
-https://z88.ubtvfans.com/live/rx2/174/f021cba099403644d620723c5f4c46f1/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.namu.wiki/i/oQOlX2mPOBE-a1B9lnn7f3_QbMpImPItr-rJ78-Z_d5JaqjaIvJ1RYyDDqr4daVCalGZ4qYnViSAyg6gE__flJEaDQ3U4_hnlDPReY_Cdt1KOyD0GR0VX-iGffxcANd1X_QZVi_vwPIF6zMh8As2LNam7QYukPPWuKaRINiOETc.svg" group-title="ShareExt@PREMIUM✓SPORTS",KR:TVN SPORTS
-https://z88.ubtvfans.com/live/rx3/2931/b5f5636d01d91997de849d87e530f67f/index.m3u8
-#EXTINF:-1  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="ShareExt@PREMIUM✓SPORTS",MLY:ASTRO SUPERSPORT
-https://z88.ubtvfans.com/live/rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8
-#EXTINF:-1  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="ShareExt@PREMIUM✓SPORTS",MLY:ASTRO SUPERSPORT 2
-https://z88.ubtvfans.com/live/rx3/1071/2e6f0c8a9ed4d441be34ad70bc40d5ed/index.m3u8
-#EXTINF:-1  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="ShareExt@PREMIUM✓SPORTS",MLY:ASTRO SUPERSPORT 3
-https://z88.ubtvfans.com/live/rx3/1072/c67b9eaba4040f95114b5ab2e813b322/index.m3u8
-#EXTINF:-1  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="ShareExt@PREMIUM✓SPORTS",MLY:ASTRO SUPERSPORT 4
-https://z88.ubtvfans.com/live/rx3/3234/5016da2dd917732ed971bddb4cefd646/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Premier_Sports.png" group-title="ShareExt@PREMIUM✓SPORTS",UK:PREMIER SPORTS 1
-https://z88.ubtvfans.com/live/rx3/1411/5b143685850adfe910301ac9f9bdbbf3/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/7e2lv21502554825.png" group-title="ShareExt@PREMIUM✓SPORTS",UK:SKYSPORTS PREMIERLEAGUE
-https://z88.ubtvfans.com/live/rx3/2783/09a0960767adcd947954d242971951e8/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/mp44981502554837.png" group-title="ShareExt@PREMIUM✓SPORTS",UK:SKYSPORTS MAIN EVENT
-https://z88.ubtvfans.com/live/rx3/2787/540958cfc667da8028df5cba48468db7/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Sky_Sport_Uno.png" group-title="ShareExt@PREMIUM✓SPORTS",ITA:SKYSPORTS UNO
-https://z88.ubtvfans.com/live/rx3/1597/4969c926b3543d36620d428e3e77bb9b/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", SPOTV_🇲🇨
 https://s.id/SPOTV_shareext-xs
@@ -408,21 +377,8 @@ http://172.105.123.238:18002/play/a00r
 http://172.105.123.238:18002/play/a02b
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", DD SPORTS HD
 http://172.105.123.238:18002/play/a03d
-
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", HK:NOW PREMIER.SPORTS
 http://185.243.7.141/play/live.php?mac=00:1A:79:14:61:4C&stream=1032487&extension=ts&play_token=kvYN0h96Wl
-#EXTINF:-1 tvg-id="" tvg-name="MY151:sukan" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@PREMIUM✓SPORTS", sukan.RTM🇲🇾
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/71123
-#EXTINF:-1 tvg-id="" tvg-name="MY039:Arena2" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@PREMIUM✓SPORTS", ASTRO.Arena2🇲🇾
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1696
-#EXTINF:-1 tvg-id="" tvg-name="MY040:ASTRO ASSP HD" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@PREMIUM✓SPORTS", ASSP HD🇲🇾
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/59220
-#EXTINF:-1 tvg-id="" tvg-name="MY041:ASTRO ASSP2 HD" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@PREMIUM✓SPORTS", ASSP2 HD🇲🇾
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/59219
-#EXTINF:-1 tvg-id="" tvg-name="MY042:ASTRO ASSP3 HD" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@PREMIUM✓SPORTS", ASSP3 HD🇲🇾
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/59218
-#EXTINF:-1 tvg-id="" tvg-name="MY043:ASTRO ASSP4 HD" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@PREMIUM✓SPORTS", ASSP4 HD🇲🇾
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/59217
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/RNKm9pK/Video-Share-Ext-Group.jpg" group-title="ShareExt@PREMIUM✓SPORTS",SCTV_MPD(OTT.PLAYER)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -706,7 +662,8 @@ https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 
 
 
-
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",LOTUS MACAU
+http://tv.cloudcdn.me/live.ts?channelId=129287&uid=14505&deviceMac=00:1A:79:A7:53:75
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.postimg.cc/wBFj2rLb/download-2024-01-19-T210746-192.png",Travel&Taste_MPD~OttNavigator 
 https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
@@ -4351,18 +4308,6 @@ http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1373342
 #EXTINF:-1 tvg-ID="" tvg-name="IL ▎YES EUROSPORT 2 HD" tvg-logo="https://img.logo-cdn.cc/eurosport2.png" group-title="SHAREEXT@Sports~Israel",IL ▎YES EUROSPORT 2 HD
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1373343
 
-#EXTINF:-1 tvg-id="" tvg-name="IL039:YES SPORT 2 HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Sports~Israel",YESSPORT 2 HD
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/61794
-#EXTINF:-1 tvg-id="" tvg-name="IL045:YES SPORT 4 HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Sports~Israel",YESSPORT 4 HD
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/61800
-#EXTINF:-1 tvg-id="" tvg-name="IL046:YES SPORT 5 PLUS" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Sports~Israel",YESSPORT 5 PLUS
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/61801
-#EXTINF:-1 tvg-id="" tvg-name="IL038:YES SPORT 5 STARES FHD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Sports~Israel",YESSPORT 5 STARS FHD
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/61793
-#EXTINF:-1 tvg-id="" tvg-name="IL027:YES SPORT 5 HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Sports~Israel",YESSPORT 5 HD
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/61758
-#EXTINF:-1 tvg-id="" tvg-name="IL028:YES SPORT 5 GOLD HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@Sports~Israel",YESSPORT 5 GOLD HD
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/61759
 
 
 
@@ -4645,57 +4590,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF: -1 tvg-id="UrbantvSports.br" tvg-name="Urban Sports HD" tvg-chno="037" tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/channel/13/thumb_sports-1662477364.png" group-title="SHAREEXT@Canais de Esportes", Urban Sports HD
 https://stream.urbantv.com.br/urbantvsports/video.m3u8
-
-
-#EXTINF:-1 tvg-id="rai.sport.1.it" tvg-name="IT057:RAI SPORT 1 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT057Rai1.png" group-title="SHAREEXT@ITALIA Sports",RAISPORT 1 
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2715
-#EXTINF:-1 tvg-id="rai.sport.1.dtt.it" tvg-name="IT058:RAI SPORT+ " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT058Rai2.png" group-title="SHAREEXT@ITALIA Sports",RAISPORT+ 
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2714
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-name="IT084:SKY SPORT ARENA " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT084SuperTennis.png" group-title="SHAREEXT@ITALIA Sports",SKYSPORT ARENA 
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2688
-#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-name="IT085:SKY SPORT CALCIO " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT085SkyAtlantic.png" group-title="SHAREEXT@ITALIA Sports",SKYSPORT CALCIO 
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2687
-#EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-name="IT086:SKY SPORT F1 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT08" group-title="SHAREEXT@ITALIA Sports",SKYSPORT F1 
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2686
-#EXTINF:-1 tvg-id="sky.sport.football.it" tvg-name="IT087:SKY SPORT FOOTBALL " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT087History.png" group-title="SHAREEXT@ITALIA Sports",SKYSPORT FOOTBALL 
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2685
-#EXTINF:-1 tvg-id="sky.sport.golf.it" tvg-name="IT088:SKY SPORT GOLF " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT088TopCrime.png" group-title="SHAREEXT@ITALIA Sports",SKYSPORT GOLF 
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2684
-#EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-name="IT089:SKY SPORT MOTOGP " tvg-logo="" group-title="SHAREEXT@ITALIA Sports",SKYSPORT MOTOGP 
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/28473
-#EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-name="IT090:SKY SPORT NBA " tvg-logo="" group-title="SHAREEXT@ITALIA Sports",SKYSPORT NBA 
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/28472
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="IT093:SPORT ITALIA +24 " tvg-logo="" group-title="SHAREEXT@ITALIA Sports",SPORT ITALIA +24
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/28469
-#EXTINF:-1 tvg-id="sky.sport.it" tvg-name="IT094:SPORT ITALIA SOLO CALCIO" tvg-logo="" group-title="SHAREEXT@ITALIA Sports",SPORT ITALIA SOLO CALCIO
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/28468
-#EXTINF:-1 tvg-id="supertennis.it" tvg-name="IT095:SUPER TENNIS " tvg-logo="" group-title="SHAREEXT@ITALIA Sports",SUPER TENNIS 
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/28467
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="IT098:TG COM 24 " tvg-logo="" group-title="SHAREEXT@ITALIA Sports",TG COM 24 
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/28464
-#EXTINF:-1 tvg-id="gambero.rosso.it" tvg-name="IT023:DAZN 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT023Italia2.png" group-title="SHAREEXT@ITALIA Sports",DAZN 1
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2749
-#EXTINF:-1 tvg-id="zona.dazn.2.it" tvg-name="IT009:DAZN SPORT 2 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/" group-title="SHAREEXT@ITALIA Sports",DAZN SPORT 2 
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2763
-#EXTINF:-1 tvg-id="motor.trend.it" tvg-name="IT116:MOTOR TREND" tvg-logo="" group-title="SHAREEXT@ITALIA Sports",MOTOR TREND
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/28439
-#EXTINF:-1 tvg-id="" tvg-name="IT117:MS MOTOR TV" tvg-logo="" group-title="SHAREEXT@ITALIA Sports",MS MOTOR TV
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/28438
-#EXTINF:-1 tvg-id="inter.it" tvg-name="IT027:INTER CHANNEL " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT027MediasetExtra.png" group-title="SHAREEXT@ITALIA Sports",INTER CHANNEL
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2745
-#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="IT028:ITALIAN FISHING TV " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT028MediasetIris.png" group-title="SHAREEXT@ITALIA Sports",ITALIAN FISHING TV 
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2744
-#EXTINF:-1 tvg-id="rai.1.it" tvg-name="IT047:RAI 1 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT047PremiumSport2.png" group-title="SHAREEXT@ITALIA Sports",RAI 1 
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2725
-#EXTINF:-1 tvg-id="rai.2.it" tvg-name="IT048:RAI 2 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT048PremiumSport1.png" group-title="SHAREEXT@ITALIA Sports",RAI 2 
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2724
-#EXTINF:-1 tvg-id="rai.3.it" tvg-name="IT049:RAI 3 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT049PremiumStories.png" group-title="SHAREEXT@ITALIA Sports",RAI 3 
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2723
-#EXTINF:-1 tvg-id="rai.4.it" tvg-name="IT050:RAI 4 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT050PremiumStudioUniversal.png" group-title="SHAREEXT@ITALIA Sports",RAI 4 
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2722
-#EXTINF:-1 tvg-id="rai.5.it" tvg-name="IT051:RAI 5 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT051RaiGulp.png" group-title="SHAREEXT@ITALIA Sports",RAI 5 
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/2721
-
 
 
 
@@ -5626,61 +5520,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="Shareext@MOVIES",🇲🇾 Lotus Macau
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
-#EXTINF:-1 tvg-id="MY38WSBK.us" tvg-name="MY038:BOO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Shareext@MOVIES",🇲🇾 BOO
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1697
-#EXTINF:-1 tvg-id="" tvg-name="MY024:HBO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Shareext@MOVIES",🇲🇾 HBO
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1711
-#EXTINF:-1 tvg-id="" tvg-name="MY028:HBO Family" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Shareext@MOVIES",🇲🇾 HBO Family
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1707
-#EXTINF:-1 tvg-id="" tvg-name="MY059:HBO Hits" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Shareext@MOVIES",🇲🇾 HBO Hits
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/71037
-#EXTINF:-1 tvg-id="" tvg-name="MY084:Hits Movies HD" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Shareext@MOVIES",🇲🇾 Hits Movies HD
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/71056
-#EXTINF:-1 tvg-id="" tvg-name="MY086:Cinemax HD" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Shareext@MOVIES",🇲🇾 Cinemax HD
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/71058
-#EXTINF:-1 tvg-id="" tvg-name="MY087:TVN Movies" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Shareext@MOVIES",🇲🇾 TVN Movies
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/71059
-#EXTINF:-1 tvg-id="" tvg-name="MY007:QUAN JIA" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Shareext@MOVIES",🇲🇾 QUAN JIA
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1728
-#EXTINF:-1 tvg-id="" tvg-name="MY009:Wah Lai Toi" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Shareext@MOVIES",🇲🇾 Wah Lai Toi
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1726
-#EXTINF:-1 tvg-id="" tvg-name="MY010:HUA HEE DAI" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Shareext@MOVIES",🇲🇾 HUA HEE DAI
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1725
-#EXTINF:-1 tvg-id="" tvg-name="MY011:AOD" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Shareext@MOVIES",🇲🇾 AOD
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1724
-#EXTINF:-1 tvg-id="" tvg-name="MY012:AEC" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Shareext@MOVIES",🇲🇾 AEC
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1723
-#EXTINF:-1 tvg-id="" tvg-name="MY067:TVB JADE" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Shareext@MOVIES",🇲🇾 TVB JADE
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/71040
-#EXTINF:-1 tvg-id="" tvg-name="MY071:TVB XING HE HD" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Shareext@MOVIES",🇲🇾 TVB XING HE HD
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/71044
-#EXTINF:-1 tvg-id="" tvg-name="MY072:TVBS ASIA HD" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Shareext@MOVIES",🇲🇾 TVBS ASIA HD
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/71045
-#EXTINF:-1 tvg-id="" tvg-name="MY169:SETi Chinese" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Shareext@MOVIES",🇲🇾 SETi Chinese
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/71139
-#EXTINF:-1 tvg-id="" tvg-name="MY073:CCM" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Shareext@MOVIES",🇲🇾 CCM
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/71046
-#EXTINF:-1 tvg-id="" tvg-name="MY048:Astro Premier 1" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Shareext@MOVIES",🇲🇾 Astro Premier 1
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/71026
-#EXTINF:-1 tvg-id="" tvg-name="MY133:Astro Premier 2" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Shareext@MOVIES",🇲🇾 Astro Premier 2
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/71105
-#EXTINF:-1 tvg-id="" tvg-name="MY029:WARNA" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Shareext@MOVIES",🇲🇾 WARNA
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1706
-#EXTINF:-1 tvg-id="" tvg-name="MY033:PRIMA" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Shareext@MOVIES",🇲🇾 PRIMA
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1702
-#EXTINF:-1 tvg-id="" tvg-name="MY034:OASIS" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Shareext@MOVIES",🇲🇾 OASIS
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1701
-#EXTINF:-1 tvg-id="" tvg-name="MY036:Singapore Vasantham" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Shareext@MOVIES",🇲🇾 Vasantham
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1699
-#EXTINF:-1 tvg-id="" tvg-name="MY053:ASTRO Adithya" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Shareext@MOVIES",🇲🇾 Adithya
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/71031
-#EXTINF:-1 tvg-id="" tvg-name="MY055:Star Vijay Super" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Shareext@MOVIES",🇲🇾 Star Vijay Super
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/71033
-#EXTINF:-1 tvg-id="" tvg-name="MY056:ASTRO Star Vijay" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Shareext@MOVIES",🇲🇾 Star Vijay
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/71034
-#EXTINF:-1 tvg-id="" tvg-name="MY044:Rania" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Shareext@MOVIES",🇲🇾 Rania
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/71022
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="Shareext@MOVIES",🇮🇳 ZEE CINEMA HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="Shareext@MOVIES",🇮🇳 & PICTURES HD
@@ -5861,112 +5700,6 @@ https://linear-834.frequency.stream/mt/studio/834/hls/master/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 077:BRUCE LEE MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",BRUCE LEE MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60865
-#EXTINF:-1 tvg-id="" tvg-name="24/7 169:JET LI MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",JET LI MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60172
-#EXTINF:-1 tvg-id="" tvg-name="24/7 225:INCREDIBLE HULK" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",INCREDIBLE HULK
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60086
-#EXTINF:-1 tvg-id="" tvg-name="24/7 145:ACTION MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",ACTION MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60207
-#EXTINF:-1 tvg-id="" tvg-name="24/7 142:A NIGHTMARE ON ELM STREET" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",A NIGHTMARE ON ELM STREET
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60211
-#EXTINF:-1 tvg-id="" tvg-name="24/7 111:STEVEN SEAGAL" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",STEVEN SEAGAL
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60258
-#EXTINF:-1 tvg-id="" tvg-name="24/7 112:SUPERHERO MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",SUPERHERO MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60257
-#EXTINF:-1 tvg-id="" tvg-name="24/7 120:VAMPIRE MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",VAMPIRE MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60248
-#EXTINF:-1 tvg-id="" tvg-name="24/7 121:WAR MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",WAR MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60247
-#EXTINF:-1 tvg-id="" tvg-name="24/7 115:THE HANGOVER" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",THE HANGOVER
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60254
-#EXTINF:-1 tvg-id="" tvg-name="24/7 116:THRILLER MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",THRILLER MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60253
-#EXTINF:-1 tvg-id="" tvg-name="24/7 117:TRANSFORMERS" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",TRANSFORMERS
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60252
-#EXTINF:-1 tvg-id="" tvg-name="24/7 118:TRANSPORTER" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",TRANSPORTER
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60251
-#EXTINF:-1 tvg-id="" tvg-name="24/7 119:TWILIGHT" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",TWILIGHT
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60250
-#EXTINF:-1 tvg-id="" tvg-name="24/7 100:PREDATOR/ALIEN MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",PREDATOR/ALIEN MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60842
-#EXTINF:-1 tvg-id="" tvg-name="24/7 099:PLANET OF THE APES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",PLANET OF THE APES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60843
-#EXTINF:-1 tvg-id="" tvg-name="24/7 098:PIRATES OF THE CARIBBEAN" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",PIRATES OF THE CARIBBEAN
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60844
-#EXTINF:-1 tvg-id="" tvg-name="24/7 097:TEXAS CHAINSAW MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",TEXAS CHAINSAW MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60845
-#EXTINF:-1 tvg-id="" tvg-name="24/7 096:MEN IN BLACK" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",MEN IN BLACK
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60846
-#EXTINF:-1 tvg-id="" tvg-name="24/7 095:MATRIX" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",MATRIX
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60847
-#EXTINF:-1 tvg-id="" tvg-name="24/7 094:LORD OF THE RINGS" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",LORD OF THE RINGS
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60848
-#EXTINF:-1 tvg-id="" tvg-name="24/7 093:LETHAL WEAPON" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",LETHAL WEAPON
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60849
-#EXTINF:-1 tvg-id="" tvg-name="24/7 092:FRIDAY THE 13TH" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",FRIDAY THE 13TH
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60850
-#EXTINF:-1 tvg-id="" tvg-name="24/7 091:JURASSIC PARK" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",JURASSIC PARK
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60851
-#EXTINF:-1 tvg-id="" tvg-name="24/7 090:JIM CARREY" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",JIM CARREY
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60852
-#EXTINF:-1 tvg-id="" tvg-name="24/7 089:JCVD MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",JCVD MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60853
-#EXTINF:-1 tvg-id="" tvg-name="24/7 088:JASON BOURNE" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",JASON BOURNE
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60854
-#EXTINF:-1 tvg-id="" tvg-name="24/7 087:JAMES BOND" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",JAMES BOND
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60855
-#EXTINF:-1 tvg-id="" tvg-name="24/7 113:THE AVENGERS" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",THE AVENGERS
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60256
-#EXTINF:-1 tvg-id="" tvg-name="24/7 110:STAR WARS" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",STAR WARS
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60832
-#EXTINF:-1 tvg-id="" tvg-name="24/7 109:STAR TREK MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",STAR TREK MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60833
-#EXTINF:-1 tvg-id="" tvg-name="24/7 108:SPORTS MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",SPORTS MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60834
-#EXTINF:-1 tvg-id="" tvg-name="24/7 107:QUENTIN TARANTINO MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",QUENTIN TARANTINO MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60835
-#EXTINF:-1 tvg-id="" tvg-name="24/7 106:SCIFI MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",SCIFI MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60836
-#EXTINF:-1 tvg-id="" tvg-name="24/7 105:RUSH HOUR" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",RUSH HOUR
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60837
-#EXTINF:-1 tvg-id="" tvg-name="24/7 104:ROMANCE MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",ROMANCE MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60838
-#EXTINF:-1 tvg-id="" tvg-name="24/7 103:ROCKY" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",ROCKY
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60839
-#EXTINF:-1 tvg-id="" tvg-name="24/7 102:RAMBO" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",RAMBO
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60840
-#EXTINF:-1 tvg-id="" tvg-name="24/7 172:DINOSAURS" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",DINOSAURS
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60169
-#EXTINF:-1 tvg-id="" tvg-name="24/7 048:SCI-FI MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",SCI-FI MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60894
-#EXTINF:-1 tvg-id="" tvg-name="24/7 047:SPIDERMAN" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",SPIDERMAN
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60895
-#EXTINF:-1 tvg-id="" tvg-name="24/7 067:ROB ZOMBIE MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",ROB ZOMBIE MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60875
-#EXTINF:-1 tvg-id="" tvg-name="24/7 071:ARNOLD SCHWARZENEGGER" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",ARNOLD SCHWARZENEGGER
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60871
-#EXTINF:-1 tvg-id="" tvg-name="24/7 075:BOXING MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",BOXING MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60867
-#EXTINF:-1 tvg-id="" tvg-name="24/7 074:BLADE MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",BLADE MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60868
-#EXTINF:-1 tvg-id="" tvg-name="24/7 073:BATMAN MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",BATMAN MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60869
-#EXTINF:-1 tvg-id="" tvg-name="24/7 081:FAST AND FURIOUS" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",FAST AND FURIOUS
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60861
-#EXTINF:-1 tvg-id="" tvg-name="24/7 080:FAMILY MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",FAMILY MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60862
-#EXTINF:-1 tvg-id="" tvg-name="24/7 079:DIE HARD" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",DIE HARD
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60863
-#EXTINF:-1 tvg-id="" tvg-name="24/7 078:CRIME MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",CRIME MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60864
-#EXTINF:-1 tvg-id="" tvg-name="24/7 086:INDIANA JONES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",INDIANA JONES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60856
-#EXTINF:-1 tvg-id="" tvg-name="24/7 085:HORROR MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",HORROR MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60857
-#EXTINF:-1 tvg-id="" tvg-name="24/7 084:HARRY POTTER" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",HARRY POTTER
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60858
 
 
 
@@ -6732,136 +6465,6 @@ http://43.128.40.42:198/虎牙直播/huya.php?id=23728674
 http://43.128.40.42:198/虎牙直播/huya.php?id=23863818
 
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="IN001:&pictures" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN0015AABPunjabi.png" group-title="SHAREEXT@Hindi Movies",&pictures
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1964
-#EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="IN002:& PRIVE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN0029XJalwa.png" group-title="SHAREEXT@Hindi Movies",& PRIVE
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1963
-#EXTINF:-1 tvg-id="" tvg-name="IN003:&TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN0039xTashanPunjabi.png" group-title="SHAREEXT@Hindi Movies",&TV
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1962
-#EXTINF:-1 tvg-id="" tvg-name="IN009:&FLIX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN009AndTV.png" group-title="SHAREEXT@Hindi Movies",&FLIX
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1956
-#EXTINF:-1 tvg-id="" tvg-name="IN014:ZOOM TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN014ZOOMTV.png" group-title="SHAREEXT@Hindi Movies",ZOOM TV
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1951
-#EXTINF:-1 tvg-id="Colors.in" tvg-name="IN019:ASIANET MOVIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN019ColorsHD.png" group-title="SHAREEXT@Hindi Movies",ASIANET MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1946
-#EXTINF:-1 tvg-id="FoodFood.in" tvg-name="IN023:B4U MOVIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN023FoodFood.png" group-title="SHAREEXT@Hindi Movies",B4U MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1942
-#EXTINF:-1 tvg-id="GeminiComedy.in" tvg-name="IN024:B4U PLUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN024GeminiComedyTelugu.png" group-title="SHAREEXT@Hindi Movies",B4U PLUS
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1941
-#EXTINF:-1 tvg-id="" tvg-name="IN026:BOLLYWOOD NOW" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN026GeminiTelugu.png" group-title="SHAREEXT@Hindi Movies",BOLLYWOOD NOW
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1939
-#EXTINF:-1 tvg-id="" tvg-name="IN029:BOLLYWOOD CLASSIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN029JayaTamil.png" group-title="SHAREEXT@Hindi Movies",BOLLYWOOD CLASSIC
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1936
-#EXTINF:-1 tvg-id="InTV.al" tvg-name="IN030:BOOGLE BOLLYWOOD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN030KTVTamil.png" group-title="SHAREEXT@Hindi Movies",BOOGLE BOLLYWOOD
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1935
-#EXTINF:-1 tvg-id="MoviesOK.in" tvg-name="IN034:COLORS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN034MoviesOK.png" group-title="SHAREEXT@Hindi Movies",COLORS
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1931
-#EXTINF:-1 tvg-id="" tvg-name="IN035:COLORS BANGLA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN035HBO.png" group-title="SHAREEXT@Hindi Movies",COLORS BANGLA
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1930
-#EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="IN036:COLORS CINEPLEX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN036MusicIndia.png" group-title="SHAREEXT@Hindi Movies",COLORS CINEPLEX
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1929
-#EXTINF:-1 tvg-id="NDTV24x7.in" tvg-name="IN037:COLORS EUROPE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN037NDTV24x7.png" group-title="SHAREEXT@Hindi Movies",COLORS EUROPE
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1928
-#EXTINF:-1 tvg-id="NDTVIndia.in" tvg-name="IN038:COLORS GUJARATI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN038NDTVIndia.png" group-title="SHAREEXT@Hindi Movies",COLORS GUJARATI
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1927
-#EXTINF:-1 tvg-id="" tvg-name="IN039:COLORS KANNADA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN039ZeeTV.png" group-title="SHAREEXT@Hindi Movies",COLORS KANNADA
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1926
-#EXTINF:-1 tvg-id="ZeeKannada.in" tvg-name="IN040:COLORS MARATHI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN040ZeeKannada.png" group-title="SHAREEXT@Hindi Movies",COLORS MARATHI
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1925
-#EXTINF:-1 tvg-id="PolimerNews.in" tvg-name="IN041:COLORS RISHTEY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN041PolimerNewsTamil.png" group-title="SHAREEXT@Hindi Movies",COLORS RISHTEY
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1924
-#EXTINF:-1 tvg-id="CineSony.us" tvg-name="IN065:GEMINI MOVIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN065S" group-title="SHAREEXT@Hindi Movies",GEMINI MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1900
-#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="IN069:HBO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN069StarMovies.png" group-title="SHAREEXT@Hindi Movies",HBO
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1896
-#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="IN073:MAHA MOVIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN073StarSports2.png" group-title="SHAREEXT@Hindi Movies",MAHA MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1892
-#EXTINF:-1 tvg-id="" tvg-name="IN074:HUM TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN074SunTamil.png" group-title="SHAREEXT@Hindi Movies",HUM TV
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1891
-#EXTINF:-1 tvg-id="ZeeMarathi.in" tvg-name="IN088:MANORANJAN MOVIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN088ZeeMarathi.png" group-title="SHAREEXT@Hindi Movies",MANORANJAN MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1877
-#EXTINF:-1 tvg-id="ZeeStudio.in" tvg-name="IN091:MBC BOLLYWOOD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN091ZeeStudio.png" group-title="SHAREEXT@Hindi Movies",MBC BOLLYWOOD
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1874
-#EXTINF:-1 tvg-id="" tvg-name="IN093:MOVIES NOW" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN093StarWorldHD.png" group-title="SHAREEXT@Hindi Movies",MOVIES NOW
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55360
-#EXTINF:-1 tvg-id="" tvg-name="IN114:RISHTEY CINEPLEX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN134ZEEBANGLA.png" group-title="SHAREEXT@Hindi Movies",RISHTEY CINEPLEX
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55319
-#EXTINF:-1 tvg-id="" tvg-name="IN131:SONY MOVIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN148" group-title="SHAREEXT@Hindi Movies",SONY MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55305
-#EXTINF:-1 tvg-id="" tvg-name="IN121:SONY ACTION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN161CVRHealth.png" group-title="SHAREEXT@Hindi Movies",SONY ACTION
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55292
-#EXTINF:-1 tvg-id="" tvg-name="IN122:SONY PIX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN162PuthuYugam.png" group-title="SHAREEXT@Hindi Movies",SONY PIX
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55291
-#EXTINF:-1 tvg-id="" tvg-name="IN123:SONY SAB" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN163SonyBBCEarthHD.png" group-title="SHAREEXT@Hindi Movies",SONY SAB
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55290
-#EXTINF:-1 tvg-id="" tvg-name="IN124:SONY SAB UK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN164AnimalPlanetHD.png" group-title="SHAREEXT@Hindi Movies",SONY SAB UK
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55289
-#EXTINF:-1 tvg-id="" tvg-name="IN141:STAR PLUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN179dw.png" group-title="SHAREEXT@Hindi Movies",STAR PLUS
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55274
-#EXTINF:-1 tvg-id="" tvg-name="IN147:SONY MAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN185ETVAbhiruchi.png" group-title="SHAREEXT@Hindi Movies",SONY MAX
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55268
-#EXTINF:-1 tvg-id="" tvg-name="IN148:SONY MAX 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN189ETVCinema.png" group-title="SHAREEXT@Hindi Movies",SONY MAX 2
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55264
-#EXTINF:-1 tvg-id="" tvg-name="IN149:SONY MIX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN190PolimerNews.png" group-title="SHAREEXT@Hindi Movies",SONY MIX
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55263
-#EXTINF:-1 tvg-id="" tvg-name="IN150:SONY PAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN191ETVKannadaNews.png" group-title="SHAREEXT@Hindi Movies",SONY PAL
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55262
-#EXTINF:-1 tvg-id="" tvg-name="IN151:SONY YAY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN192ETVMP.png" group-title="SHAREEXT@Hindi Movies",SONY YAY
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55261
-#EXTINF:-1 tvg-id="" tvg-name="IN153:STAR BHARAT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN195ETVPlus.png" group-title="SHAREEXT@Hindi Movies",STAR BHARAT
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55258
-#EXTINF:-1 tvg-id="" tvg-name="IN154:STAR GOLD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN196ETVRAJASTHAN.png" group-title="SHAREEXT@Hindi Movies",STAR GOLD
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55257
-#EXTINF:-1 tvg-id="" tvg-name="IN155:STAR GOLD SELECT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN197ETVTelangana.png" group-title="SHAREEXT@Hindi Movies",STAR GOLD SELECT
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55256
-#EXTINF:-1 tvg-id="" tvg-name="IN156:STAR JALSHA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN198ETVTelugu.png" group-title="SHAREEXT@Hindi Movies",STAR JALSHA
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55255
-#EXTINF:-1 tvg-id="" tvg-name="IN157:STAR MAA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN199ETVUP.png" group-title="SHAREEXT@Hindi Movies",STAR MAA
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55254
-#EXTINF:-1 tvg-id="" tvg-name="IN158:STAR MOVIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN201StarJalsha.png" group-title="SHAREEXT@Hindi Movies",STAR MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55252
-#EXTINF:-1 tvg-id="" tvg-name="IN161:SURYA MOVIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN205France24.png" group-title="SHAREEXT@Hindi Movies",SURYA MOVIES
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55248
-#EXTINF:-1 tvg-id="" tvg-name="IN174:UTSAV BHARAT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN226StarSports1HINDI.png" group-title="SHAREEXT@Hindi Movies",UTSAV BHARAT
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55227
-#EXTINF:-1 tvg-id="" tvg-name="IN175:UTSAV PLUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN228StarSports3HD.png" group-title="SHAREEXT@Hindi Movies",UTSAV PLUS
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55225
-#EXTINF:-1 tvg-id="" tvg-name="IN178:UTSAV GOLD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN232INNewsMP.png" group-title="SHAREEXT@Hindi Movies",UTSAV GOLD
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55221
-#EXTINF:-1 tvg-id="" tvg-name="IN182:ZEE ACTION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN236INTV.png" group-title="SHAREEXT@Hindi Movies",ZEE ACTION
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55217
-#EXTINF:-1 tvg-id="" tvg-name="IN183:ZEE BANGLA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN237WIONTV.png" group-title="SHAREEXT@Hindi Movies",ZEE BANGLA
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55216
-#EXTINF:-1 tvg-id="" tvg-name="IN184:ZEE BANGLA CINEMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN240IshwarTV.png" group-title="SHAREEXT@Hindi Movies",ZEE BANGLA CINEMA
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55213
-#EXTINF:-1 tvg-id="" tvg-name="IN185:ZEE BOLLYWOOD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN241" group-title="SHAREEXT@Hindi Movies",ZEE BOLLYWOOD
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55212
-#EXTINF:-1 tvg-id="" tvg-name="IN186:ZEE CINEMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN243JaihindTV.png" group-title="SHAREEXT@Hindi Movies",ZEE CINEMA
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55210
-#EXTINF:-1 tvg-id="" tvg-name="IN187:ZEE CINEMA USA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN244JanamTV.png" group-title="SHAREEXT@Hindi Movies",ZEE CINEMA USA
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55209
-#EXTINF:-1 tvg-id="" tvg-name="IN188:ZEE ETC BOLLYWOOD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN245JayaMax.png" group-title="SHAREEXT@Hindi Movies",ZEE ETC BOLLYWOOD
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55208
-#EXTINF:-1 tvg-id="" tvg-name="IN189:ZEE SALAAM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN246JayaPlus.png" group-title="SHAREEXT@Hindi Movies",ZEE SALAAM
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55207
-#EXTINF:-1 tvg-id="" tvg-name="IN190:ZEE MARATHI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN275KTVHD.png" group-title="SHAREEXT@Hindi Movies",ZEE MARATHI
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55178
-EXTINF:-1 tvg-id="" tvg-name="IN194:ZEE TAMIL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN295MazhavilManorama.png" group-title="SHAREEXT@Hindi Movies",ZEE TAMIL
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55158
-#EXTINF:-1 tvg-id="" tvg-name="IN195:ZEE TELUGU" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN436SuryaHD.png" group-title="SHAREEXT@Hindi Movies",ZEE TELUGU
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/55017
-#EXTINF:-1 tvg-id="" tvg-name="IN196:ZEE TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN478TENGolfHD.png" group-title="SHAREEXT@Hindi Movies",ZEE TV
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/54975
-#EXTINF:-1 tvg-id="" tvg-name="IN197:ZING" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@Hindi Movies",ZING
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/66707
-#EXTINF:-1 tvg-id="" tvg-name="IN198:ZING INDIA" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@Hindi Movies",ZING INDIA
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/66708
-#EXTINF:-1 tvg-id="" tvg-name="IN199:ZOOM" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@Hindi Movies",ZOOM
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/66709
-#EXTINF:-1 tvg-id="" tvg-name="IN200:ZEE (KANNADA)" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@Hindi Movies",ZEE (KANNADA)
-http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/66710
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CKWBHZJ/67d902f2-c127-464a-94c4-2226a1feb655.png" group-title="SHAREEXT@Hindi Movies", Shemaroo Bollywood 
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
