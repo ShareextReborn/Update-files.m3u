@@ -246,6 +246,21 @@ https://www.livedoomovies.com:4432/02_2sporthd5_720p/chunklist.m3u8|user-agent=M
 #EXTINF:-1  tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="ShareExt@PREMIUM✓SPORTS",TH:TRUE SPORT 7
 https://www.livedoomovies.com:4432/02_2sporthd7_720p/chunklist.m3u8|user-agent=Mozilla/5.0
 
+#EXTINF:-1 tvg-id="" tvg-name="PH: TAP Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/a5fb7457f89a0ba8f978cfbcf777af83.png" group-title="ShareExt@PREMIUM✓SPORTS",PH: TAP Sports
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/299945
+#EXTINF:-1 tvg-id="" tvg-name="PH: One Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/1a5a6455992a466b4c14a8b7ff1ebe11.png" group-title="ShareExt@PREMIUM✓SPORTS",PH: One Sports
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/299947
+#EXTINF:-1 tvg-id="" tvg-name="PH: One Sports +" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/aa72ca0d8a5e61e9837c52901b14ee0e.png" group-title="ShareExt@PREMIUM✓SPORTS",PH: One Sports +
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/290365
+#EXTINF:-1 tvg-id="" tvg-name="PH: PBA Rush" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/7c7aeee2dbed0093c5c1c3c2bada1d8f.png" group-title="ShareExt@PREMIUM✓SPORTS",PH: PBA Rush
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/299950
+#EXTINF:-1 tvg-id="" tvg-name="PH: Premier Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/eeae95849f20e46f51df7d31083b3b2f.png" group-title="ShareExt@PREMIUM✓SPORTS",PH: Premier Sports
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/299965
+#EXTINF:-1 tvg-id="" tvg-name="PH: Premier Tennis" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/06863d46f1e6641d28f2bc9615cfec97.png" group-title="ShareExt@PREMIUM✓SPORTS",PH: Premier Tennis
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/276599
+#EXTINF:-1 tvg-id="" tvg-name="PH: beIN Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43bbde4fc0ae1f73eaa8e63f96c0a975.png" group-title="ShareExt@PREMIUM✓SPORTS",PH: beIN Sports 1
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/282772
+
 #EXTINF:-1 tvg-id="NowSports1.hk" tvg-name="HK Now Sports 1" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="ShareExt@PREMIUM✓SPORTS",HK|Now>Sports.1(live.event)
 http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/425329
 #EXTINF:-1 tvg-id="beINNowSports2.hk" tvg-name="HK Now Sports 2" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="ShareExt@PREMIUM✓SPORTS",HK|Now>Sports 2
@@ -551,6 +566,90 @@ http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="ShareExt@PREMIUM✓SPORTS", Fifa+ 
 https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HK: Now HK Premier Sports 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@NOW||HUB~SPORTS",HK:Now PremierSports 1
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304092
+#EXTINF:-1 tvg-id="" tvg-name="HK: Now HK Premier Sports 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@NOW||HUB~SPORTS",HK:Now PremierSports 2
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304091
+#EXTINF:-1 tvg-id="" tvg-name="HK: Now HK Premier Sports 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@NOW||HUB~SPORTS",HK:Now PremierSports 4
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304090
+#EXTINF:-1 tvg-id="" tvg-name="HK: Now HK Premier Sports 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@NOW||HUB~SPORTS",HK:Now PremierSports 5
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304086
+#EXTINF:-1 tvg-id="" tvg-name="HK: Now HK Premier Sports 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@NOW||HUB~SPORTS",HK:Now PremierSports 6
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304087
+#EXTINF:-1 tvg-id="" tvg-name="HK: Now HK Premier Sports 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@NOW||HUB~SPORTS",HK: Now PremierSports 7
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/305453
+#EXTINF:-1 tvg-id="" tvg-name="HK: Now HK Sports 4K 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@NOW||HUB~SPORTS",HK:NowSports 4K 1
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304101
+#EXTINF:-1 tvg-id="" tvg-name="HK: Now HK Sports Prime" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@NOW||HUB~SPORTS",HK:NowSports Prime
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304088
+#EXTINF:-1 tvg-id="" tvg-name="HK: Now Sports 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@NOW||HUB~SPORTS",HK:NowSports 1
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304099
+#EXTINF:-1 tvg-id="" tvg-name="HK: Now Sports 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@NOW||HUB~SPORTS",HK:NowSports 2
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304098
+#EXTINF:-1 tvg-id="" tvg-name="HK: Now Sports 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@NOW||HUB~SPORTS",HK:NowSports 3
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304097
+#EXTINF:-1 tvg-id="" tvg-name="HK: Now Sports 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@NOW||HUB~SPORTS",HK:NowSports 4
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304096
+#EXTINF:-1 tvg-id="" tvg-name="HK: Now Sports 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@NOW||HUB~SPORTS",HK:NowSports 5
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304095
+#EXTINF:-1 tvg-id="" tvg-name="HK: Now Sports 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@NOW||HUB~SPORTS",HK:NowSports 6
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304094
+#EXTINF:-1 tvg-id="" tvg-name="HK: Now Sports 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@NOW||HUB~SPORTS",HK:NowSports 7
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304093
+#EXTINF:-1 tvg-id="" tvg-name="HK: Now Sports PL 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@NOW||HUB~SPORTS",HK:NowSports PL 1
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304467
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: Hub Premier 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@NOW||HUB~SPORTS", Hub Premier 1
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/305270
+#EXTINF:-1 tvg-id="" tvg-name="UK: Hub Premier 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@NOW||HUB~SPORTS",Hub Premier 2
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/305271
+#EXTINF:-1 tvg-id="" tvg-name="UK: Hub Premier 2 UHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@NOW||HUB~SPORTS",Hub Premier 2 UHD
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/305502
+#EXTINF:-1 tvg-id="" tvg-name="UK: Hub Premier 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@NOW||HUB~SPORTS",Hub Premier 3
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/305272
+#EXTINF:-1 tvg-id="" tvg-name="UK: Hub Premier 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@NOW||HUB~SPORTS",Hub Premier 4
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/305273
+#EXTINF:-1 tvg-id="" tvg-name="UK: Hub Premier 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@NOW||HUB~SPORTS",Hub Premier 5
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/305274
+#EXTINF:-1 tvg-id="" tvg-name="UK: Hub Premier 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@NOW||HUB~SPORTS",Hub Premier 6
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/305275
+#EXTINF:-1 tvg-id="" tvg-name="UK: Hub Premier 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@NOW||HUB~SPORTS",Hub Premier 7
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/305276
+
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 1 (Sony Ten 1)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f7ec94d2b4c2e3b83bda0bae7c00ebc6.png" group-title="SHAREEXT@India ➾ Sports",SonySports Ten 1
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/16622
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 2 (Sony Ten 2)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/66d71926201b36679fa69b5ad6fa8a7a.png" group-title="SHAREEXT@India ➾ Sports",SonySports Ten 2
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/16621
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 3 (Sony Ten 3)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/aeb289d5fd8b53e456a0f84e884a97ed.jpg" group-title="SHAREEXT@India ➾ Sports",SonySports Ten 3
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/56191
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 4 (Sony Ten 4)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/ab50261b4778357fe5faacdeb64661c8.png" group-title="SHAREEXT@India ➾ Sports",SonySports Ten 4
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/302357
+EXTINF:-1 tvg-id="" tvg-name="IN: DD Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/774c4049df9ead1fff6c94e3c6f7a117.png" group-title="SHAREEXT@India ➾ Sports",DD Sports
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/56153
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/67b5b20cb871eb0a1d91bedb8be826ff.png" group-title="SHAREEXT@India ➾ Sports",StarSports 1
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/3630
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8d83db120afcaa7b2d4ef5422fb3ace5.png" group-title="SHAREEXT@India ➾ Sports",StarSports 2
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/3631
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cb6f86b5373ecc7840bd3b57967f37bc.png" group-title="SHAREEXT@India ➾ Sports",StarSports 3
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/62584
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2d7119865b2ca6df10a38de08a4d6644.png" group-title="SHAREEXT@India ➾ Sports",StarSports Select 1
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/82628
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c82b1ed84b02cbae99a2a741355dd041.png" group-title="SHAREEXT@India ➾ Sports",StarSports Select 2
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/16619
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ten Cricket" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/f89c11d0bc8b653f20ba4b37ba95d7c4.png" group-title="SHAREEXT@India ➾ Sports",Ten Cricket
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/302356
+#EXTINF:-1 tvg-id="" tvg-name="IN: Willow" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b8b56a633aad6900e1565ed87811f342.png" group-title="SHAREEXT@India ➾ Sports",Willow
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/165776
+#EXTINF:-1 tvg-id="" tvg-name="PK: A Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/36b1e05b6eb2eb6025d277c5cd42bdbd.png" group-title="SHAREEXT@India ➾ Sports", A Sports
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/295025
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7990c9248d459185d9b92ea4665bad06.png" group-title="SHAREEXT@India ➾ Sports", PTV Sports
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/16633
+#EXTINF:-1 tvg-id="" tvg-name="PK: Ten Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/08e18c0bf31fe58fccc4040f4467b062.png" group-title="SHAREEXT@India ➾ Sports", Ten Sports
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/151863
 
 
 
@@ -4361,7 +4460,56 @@ http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/217837
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Action" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c01edd9028bd637cc5bdc8527acc3353.png" group-title="SHAREEXT@South Africa ➾ Sports", SuperSport Action
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/194354
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Blitz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-10/0a52ab66352a2b8d466ccdb407570cad.jpg" group-title="SHAREEXT@South Africa ➾ Sports", SuperSport Blitz
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/281536
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Cricket" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5b9d9ddbf95526d59c2fdd6725253646.png" group-title="SHAREEXT@South Africa ➾ Sports", SuperSport Cricket
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/11637
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Football" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8dab62dd2c2faa3d66261a2a5afa6260.png" group-title="SHAREEXT@South Africa ➾ Sports", SuperSport Football
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/38575
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a20c92d13ce602ec324ff03b209ed0c2.png" group-title="SHAREEXT@South Africa ➾ Sports", SuperSport Golf
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/11641
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Grandstand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a8f0bee8d482364f261394bf7678fa0e.png" group-title="SHAREEXT@South Africa ➾ Sports", SuperSport Grandstand
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/194353
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport LaLiga" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png" group-title="SHAREEXT@South Africa ➾ Sports", SuperSport LaLiga
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/194358
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Maximo 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/488fd8d34ea146bfaf82c12331f4223e.png" group-title="SHAREEXT@South Africa ➾ Sports", SuperSport Maximo 1
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/38572
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Motorsport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="SHAREEXT@South Africa ➾ Sports", SuperSport Motorsport
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/11638
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport OTT 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@South Africa ➾ Sports", SuperSport OTT 1
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/197704
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport OTT 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@South Africa ➾ Sports", SuperSport OTT 2
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304120
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport OTT 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@South Africa ➾ Sports", SuperSport OTT 3
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304121
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport OTT 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@South Africa ➾ Sports", SuperSport OTT 4
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304122
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport OTT 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@South Africa ➾ Sports", SuperSport OTT 5
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304123
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport OTT 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@South Africa ➾ Sports", SuperSport OTT 6
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304124
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport OTT 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@South Africa ➾ Sports", SuperSport OTT 7
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304125
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Play" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@South Africa ➾ Sports", SuperSport Play
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/201121
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Premier League" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2f8f23e2a35d5a4e9ea336d7b51fd98f.png" group-title="SHAREEXT@South Africa ➾ Sports", SuperSport Premier League
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/11642
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport PSL" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/b113905d39622090910a766c75af759d.png" group-title="SHAREEXT@South Africa ➾ Sports", SuperSport PSL
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/11643
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Rugby" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/55a7ac3c8cdd7718d94d29b8ebc99f2e.png" group-title="SHAREEXT@South Africa ➾ Sports", SuperSport Rugby
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/11639
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Tennis" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b51cde8be3defead0ca307c5be0c9453.png" group-title="SHAREEXT@South Africa ➾ Sports", SuperSport Tennis
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/15200
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5440da812326351c34541cb82f6aac9e.png" group-title="SHAREEXT@South Africa ➾ Sports", SuperSport Variety 1
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/11633
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/65bb8b6586b7fa25553a450811acce40.png" group-title="SHAREEXT@South Africa ➾ Sports", SuperSport Variety 2
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/11634
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/712a4054a884ffbeb3cac1bd3d4700da.png" group-title="SHAREEXT@South Africa ➾ Sports", SuperSport Variety 3
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/11635
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7816729fca81dcee05b869f633b8a84d.png" group-title="SHAREEXT@South Africa ➾ Sports", SuperSport Variety 4
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/11636
 
 
 
@@ -6073,6 +6221,136 @@ http://43.128.40.42:198/虎牙直播/huya.php?id=23728674
 http://43.128.40.42:198/虎牙直播/huya.php?id=23863818
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: & flix" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/20ea2b784d36366ef591d0ab565160f2.png" group-title="SHAREEXT@India ➾ Movie",IN: & flix
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/45506
+#EXTINF:-1 tvg-id="" tvg-name="IN: & pictures" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a1f81b40485819fec3ef445eb88d0557.png" group-title="SHAREEXT@India ➾ Movie",IN: & pictures
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/16958
+#EXTINF:-1 tvg-id="" tvg-name="IN: & prive" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b40ff3919913006ac66e477829eeab35.png" group-title="SHAREEXT@India ➾ Movie",IN: & prive
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/49557
+#EXTINF:-1 tvg-id="" tvg-name="IN: & TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6892a0ecf005c94f596ff86d2956689e.png" group-title="SHAREEXT@India ➾ Movie",IN: & TV
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/16964
+#EXTINF:-1 tvg-id="" tvg-name="IN: Amrita TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e7b871d58eee5896236fbfb246ba64ad.png" group-title="SHAREEXT@India ➾ Movie",IN: Amrita TV
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/82497
+#EXTINF:-1 tvg-id="" tvg-name="IN: Asianet" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/08bc2d3365bf4d2a63baee707fb7d929.png" group-title="SHAREEXT@India ➾ Movie",IN: Asianet
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/82579
+#EXTINF:-1 tvg-id="" tvg-name="IN: Asianet Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/40dc04d8126e441dff6e15e17312b881.png" group-title="SHAREEXT@India ➾ Movie",IN: Asianet Movies
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/157463
+#EXTINF:-1 tvg-id="" tvg-name="IN: Asianet Plus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/358ea3acad1502aa48965437a61f05b7.png" group-title="SHAREEXT@India ➾ Movie",IN: Asianet Plus
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/193206
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Bhojpuri" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/0f5508081cc2c517112b30c0951d0834.png" group-title="SHAREEXT@India ➾ Movie",IN: B4U Bhojpuri
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/197946
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Kadak" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d393d6a8252315c0897d68975f024a0d.png" group-title="SHAREEXT@India ➾ Movie",IN: B4U Kadak
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/49556
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/91625361b83e16f929b69d33fb9e52d5.png" group-title="SHAREEXT@India ➾ Movie",IN: B4U Movies
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/1369
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Plus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c7a7a719272833e9c9c605b35c6c6c5d.png" group-title="SHAREEXT@India ➾ Movie",IN: B4U Plus
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/1367
+#EXTINF:-1 tvg-id="" tvg-name="IN: Bhojpuri Cinema" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/9d0c0d68ce86162f94862b8ed9d0b533.png" group-title="SHAREEXT@India ➾ Movie",IN: Bhojpuri Cinema
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/193007
+#EXTINF:-1 tvg-id="" tvg-name="IN: Big Magic" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/033d5b2035f8a221a263600badd4a9b5.png" group-title="SHAREEXT@India ➾ Movie",IN: Big Magic
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/49548
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3b706945ff908d5911a0be1eafffb46f.png" group-title="SHAREEXT@India ➾ Movie",IN: Colors
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/1366
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors Bangla" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/22132696b5c83d7204c4a3a571abae44.png" group-title="SHAREEXT@India ➾ Movie",IN: Colors Bangla
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/247530
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors Cineplex" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/3065653535cdfa318a8185d152607846.png" group-title="SHAREEXT@India ➾ Movie",IN: Colors Cineplex
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/19741
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors Cineplex Bollywood" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/a02b489d0f1f2f3f6e2dae8afb82e9f5.png" group-title="SHAREEXT@India ➾ Movie",IN: Colors Cineplex Bollywood
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/49550
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors Cineplex SuperHits" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/9760dec7d949fba63f24b4735de6d5c9.jpeg" group-title="SHAREEXT@India ➾ Movie",IN: Colors Cineplex SuperHits
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/299844
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors Gujarati" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/77c35a2586cb05de8134d259139e67a1.png" group-title="SHAREEXT@India ➾ Movie",IN: Colors Gujarati
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/145645
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors Infinity" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-07/8bdd468a30bc32f9bb60cba7a880f4f3.png" group-title="SHAREEXT@India ➾ Movie",IN: Colors Infinity
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/145644
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors Kannada" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/783cbfb3051d12d7992f82ae4f7c91fa.png" group-title="SHAREEXT@India ➾ Movie",IN: Colors Kannada
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/192203
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors Marathi" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/744bdecf60935c49e1fac6c0feabcc6e.png" group-title="SHAREEXT@India ➾ Movie",IN: Colors Marathi
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/82642
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors Rishtey" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/57698714035590a5681e1ddf715be5f9.png" group-title="SHAREEXT@India ➾ Movie",IN: Colors Rishtey
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/49547
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dabangg" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8b2e82fcc2cd0febeaaa1878b8d8d20c.png" group-title="SHAREEXT@India ➾ Movie",IN: Dabangg
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/165800
+#EXTINF:-1 tvg-id="" tvg-name="IN: ETV Cinema" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/84adffd962d7f13f987d21b2a197600e.png" group-title="SHAREEXT@India ➾ Movie",IN: ETV Cinema
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/193198
+#EXTINF:-1 tvg-id="" tvg-name="IN: Gemini" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/20eb1b856dcb42d4ab6fe53ffe66d399.png" group-title="SHAREEXT@India ➾ Movie",IN: Gemini
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/165794
+#EXTINF:-1 tvg-id="" tvg-name="IN: Gemini Comedy" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/500f78e5e4d1ff8d19a5ccce912f6383.png" group-title="SHAREEXT@India ➾ Movie",IN: Gemini Comedy
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/264710
+#EXTINF:-1 tvg-id="" tvg-name="IN: Gemini Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/35607ed908e3e3c442d6eb7715ceebf0.png" group-title="SHAREEXT@India ➾ Movie",IN: Gemini Movies
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/297557
+#EXTINF:-1 tvg-id="" tvg-name="IN: J Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/54261b1eb32c2c663d1fa73f199707f2.png" group-title="SHAREEXT@India ➾ Movie",IN: J Movie
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/145638
+#EXTINF:-1 tvg-id="" tvg-name="IN: Jaihind TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/389f63f321444b6fbff169ad8f8abe42.png" group-title="SHAREEXT@India ➾ Movie",IN: Jaihind TV
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/192073
+#EXTINF:-1 tvg-id="" tvg-name="IN: Jaya TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/890a415b468e25966bc1ae8849f0f6c5.png" group-title="SHAREEXT@India ➾ Movie",IN: Jaya TV
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/145637
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kalaignar Murasu TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1efefaa2a497665d3a31b9220cad0ea9.png" group-title="SHAREEXT@India ➾ Movie",IN: Kalaignar Murasu TV
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/286966
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kaumudy TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/bbf82ab62d2953ab1a2fcbff2c442202.png" group-title="SHAREEXT@India ➾ Movie",IN: Kaumudy TV
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/82530
+#EXTINF:-1 tvg-id="" tvg-name="IN: KTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/0d3df8c6dfe55cd074bea2f3aa0ecfaf.png" group-title="SHAREEXT@India ➾ Movie",IN: KTV
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/36442
+#EXTINF:-1 tvg-id="" tvg-name="IN: Maha Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/602546944f49e8e68e99d2b28c9fca36.png" group-title="SHAREEXT@India ➾ Movie",IN: Maha Movie
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/82608
+#EXTINF:-1 tvg-id="" tvg-name="IN: Manoranjan Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/4d290d8192b583a769fc516091066be3.png" group-title="SHAREEXT@India ➾ Movie",IN: Manoranjan Movies
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/192200
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mazhavil Manorama" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6152d276473cb4c4f893ddb43ad27b0b.png" group-title="SHAREEXT@India ➾ Movie",IN: Mazhavil Manorama
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/193067
+#EXTINF:-1 tvg-id="" tvg-name="IN: Movies Now" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/69bb66af12863716385b18e213052d11.png" group-title="SHAREEXT@India ➾ Movie",IN: Movies Now
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/169118
+#EXTINF:-1 tvg-id="" tvg-name="IN: PTC Punjabi Gold" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/91001736b2d462cea90da390437c9cc1.png" group-title="SHAREEXT@India ➾ Movie",IN: PTC Punjabi Gold
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/197742
+#EXTINF:-1 tvg-id="" tvg-name="IN: Raj Digital Plus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/6849dca5be9a96ef2d8ef39ef0f25c67.jpg" group-title="SHAREEXT@India ➾ Movie",IN: Raj Digital Plus
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/60418
+#EXTINF:-1 tvg-id="" tvg-name="IN: Raj TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ec7f998fae0b66db9bc6d14e2f5b09f8.png" group-title="SHAREEXT@India ➾ Movie",IN: Raj TV
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/193125
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony (Set India)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2daad44a19ed90aa9e2a090fa3f91aa1.png" group-title="SHAREEXT@India ➾ Movie",IN: Sony (Set India)
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/281867
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Aath" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/76be466f6b2faa53cdae4ebf0ed727ec.png" group-title="SHAREEXT@India ➾ Movie",IN: Sony Aath
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/17005
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-07/d6fae95f10269888c84688065ac06a2b.png" group-title="SHAREEXT@India ➾ Movie",IN: Sony Max
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/303614
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d4975f023a98c9cebea516a4fd98482c.png" group-title="SHAREEXT@India ➾ Movie",IN: Sony Max 2
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/4862
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Pal" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/f0733abb9bd97980d7b9118cb0c01419.png" group-title="SHAREEXT@India ➾ Movie",IN: Sony Pal
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/193645
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Pix" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/148794467c949eb960c3369577370edd.png" group-title="SHAREEXT@India ➾ Movie",IN: Sony Pix
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/49539
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony SAB" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d12a683a9883989c1528fa718dd63775.png" group-title="SHAREEXT@India ➾ Movie",IN: Sony SAB
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/1073
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TV Asia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/0c02c389fbb51238d2b2352837ebe4cd.png" group-title="SHAREEXT@India ➾ Movie",IN: Sony TV Asia
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/4867
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Wah" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/30d1081aa39520113f25151752ed6040.png" group-title="SHAREEXT@India ➾ Movie",IN: Sony Wah
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/165801
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Yay!" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2c50667949c8e4b2fbfa9d65dd550d7f.png" group-title="SHAREEXT@India ➾ Movie",IN: Sony Yay!
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/1355
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sooriyan Tamil TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@India ➾ Movie",IN: Sooriyan Tamil TV
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304017
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Bharat" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/7fbcc6b2ef6f2a7b6879fd5c4f1fea93.png" group-title="SHAREEXT@India ➾ Movie",IN: Star Bharat
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/284583
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e24f29dada0a4a69bd8ad11788801df2.png" group-title="SHAREEXT@India ➾ Movie",IN: Star Gold
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/1070
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/39e4ba0feeb32d7265b5d927f3b7c668.png" group-title="SHAREEXT@India ➾ Movie",IN: Star Gold 2
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/43919
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold Select" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/30af3c510bcfdb3845c56a67a1c3bd61.png" group-title="SHAREEXT@India ➾ Movie",IN: Star Gold Select
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/297547
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold Thrills" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/b7ebcf168560c1def8cc023ddae303bb.png" group-title="SHAREEXT@India ➾ Movie",IN: Star Gold Thrills
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304877
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Jalsha" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/48fa95424d644ec81854b1a89085ee7c.jpg" group-title="SHAREEXT@India ➾ Movie",IN: Star Jalsha
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/12979
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Maa Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/22ea7346e31774969f5c338e4bb68bf5.png" group-title="SHAREEXT@India ➾ Movie",IN: Star Maa Movies
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/82624
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/2b63b056fd9c98e0a0aaa86efa251838.png" group-title="SHAREEXT@India ➾ Movie",IN: Star Movies
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/11511
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Movies Select" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/6f5c18aa458d112cd8a4475e6243aabd.png" group-title="SHAREEXT@India ➾ Movie",IN: Star Movies Select
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/267542
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Plus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/21b51dfaef0b2ddf2a74e44b62289f40.png" group-title="SHAREEXT@India ➾ Movie",IN: Star Plus
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/16091
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Pravah" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/d1a684c9e9f048d6c727b98eb0d8f41e.png" group-title="SHAREEXT@India ➾ Movie",IN: Star Pravah
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/193149
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CKWBHZJ/67d902f2-c127-464a-94c4-2226a1feb655.png" group-title="SHAREEXT@India ➾ Movie", Shemaroo Bollywood 
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
