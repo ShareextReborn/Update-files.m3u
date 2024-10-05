@@ -14,11 +14,10 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sports
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~Spotv•🇲🇨	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 
-
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax", Indosiar.(3)
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/162138
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax", Indosiar.(mp)
-https://maper.info/INDOSIAR_shareext-php
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax", Indosiar.(go)
+https://play-gachor.online/tv_948372/73tG5fyUkK/5
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(cdn)
 http://tv.cloudcdn.me/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -38,9 +37,10 @@ http://103.183.10.7:9900/stream/channelid/1783520043?profile=pass
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="ShareExt@Relax", SCTV.(3)
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/162141
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="ShareExt@Relax", SCTV.(mp)
-https://maper.info/SCTV_shareext-php
-
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="ShareExt@Relax", SCTV.(go)
+https://play-gachor.online/tv_948372/73tG5fyUkK/6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID-Liga.volley
+https://play-gachor.online/tv_948372/73tG5fyUkK/305
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro.Sports.1.(dd)
 https://mhdtv.co.in/daddy/stream.m3u8?id=123|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro.Sports.2.(dd)
