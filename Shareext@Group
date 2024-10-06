@@ -2947,6 +2947,151 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 
 
 
+
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png" group-title="SHAREEXT@MPD SPORT",🇲🇨  Allplay Ent
+https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:-1 tvg-id="beINSports" group-title="SHAREEXT@MPD SPORT" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png", beINSports 1 (VISION+) 
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:-1 tvg-id="beINSports2" group-title="SHAREEXT@MPD SPORT" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png", beINSports 2 (VISION+) 
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:-1 tvg-id="beINSports3" group-title="SHAREEXT@MPD SPORT" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png", beINSports 3 (VISION+) 
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:-1 tvg-id="beINSports4" group-title="SHAREEXT@MPD SPORT" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png", beINSports 4 (VISION+) 
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:-1 tvg-id="beINSports5" group-title="SHAREEXT@MPD SPORT" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beINSports 5 (VISION+) 
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+#EXTINF:-1 tvg-id="Eurosport" group-title="SHAREEXT@MPD SPORT" tvg-logo="https://iili.io/JmozxBR.png",Eurosport Asia
+https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-id="eleven.pt" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/dazn1.png",DAZN 1 Direto
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-id="eleven.pt" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/dazn2.png",DAZN 2 Direto
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-id="eleven.pt" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/dazn3.png",DAZN 3 Direto
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/tnt1.png" group-title="SHAREEXT@MPD SPORT",TNT SPORTS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/tnt2.png" group-title="SHAREEXT@MPD SPORT",TNT SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+ 
+#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-id="btsport3.uk" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/tnt3.png",TNT SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-id="TNTSports4.uk" tvg-logo="https://i.ibb.co.com/8dp6MYR/TNT-SPORT-4.png",TNT SPORTS 4 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png",Arena 1 Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png",Arena 2 Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png",Arena 3 Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png",Arena Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-logo="https://iptvboss.xyz/logos/Bosnia/Arenasport1x2.bh.png",Arena Sport 1x2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport2.bh.png",Arena Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport3.bh.png",Arena Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport4.bh.png",Arena Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport5.bh.png",Arena Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@MPD SPORT" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport6.bh.png",Arena Sport 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
+
 #EXTINF:-1 tvg-name="Premiere Clubes.br" group-title="SHAREEXT@MPD SPORT" tvg-logo="https://i.ibb.co/F0jTVwQ/premierebr.png", PREMIERE 1 馃嚙馃嚪
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3926,28 +4071,14 @@ https://stream.ads.ottera.tv/cl/29fmbD4wgol0FelXaMeAw/854x480_550000_3_f.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Беларусь 5.®
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Setanta Qazaqstan.®
-https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Eurosport 1°HD
-http://edge02.odtv.az/o7/eurosport/q_1/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Eurosport 2°HD
-http://45.93.46.27:8887/8163/video.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Удар HD.®
-https://bkm.beetv.kz/btv/live/hls/000007802.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Матч! Планета.®
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Viasat Sport.®
-https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Телеканал Футбол.®
 http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
-#EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-logo="https://static.g-cdn.app/streams/match-futbol1-hd.png",Суспільне Спорт
-http://cdnua03.hls.tv/476/hls/c4a7acbb4f6a85595a117f7aa2099d65/4856/stream.m3u8
 #EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-id="equalympic" tvg-name="Equalympic HD" tvg-logo="https://picon.pp.ua/equalympic.png",EQUALYMPIC HD
 http://cdnua03.hls.tv/476/hls/c4a7acbb4f6a85595a117f7aa2099d65/4779/stream.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Sports Grid 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",MATCH !
-http://194.143.148.28:8080/MatchHD/mpegts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",MATCH APENA
 http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",TYGON~1~FUTbol
@@ -3962,8 +4093,6 @@ https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Nash~1
 https://stream-msk-14.ott.tricolor.tv:443/dtv/id794_MSKSG-PVR-1--Nash_khokkey1/01/plst.m3u8 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",ALL SPORTS TV 
-http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Futbol TVHorizon Sports 
 https://dai.google.com/linear/hls/event/onG023gQQ22Tjm14B5yg1w/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="SHAREEXT@RUSIA_Спортивні",Матч! Футбол 1 HD
@@ -3978,12 +4107,8 @@ http://31.148.48.15:80/Match_Futbol_2_HD/index.m3u8?token=test
 http://31.148.48.15:80/Match_Futbol_3_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-id="xsport" tvg-name="XSport" tvg-logo="https://static.g-cdn.app/streams/xsport.png",XSport
 http://iptv.prosto.tv:7000/ch110/video.m3u8
-#EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-id="equalympic" tvg-name="Equalympic HD" tvg-logo="https://picon.pp.ua/equalympic.png",Equalympic HD
-http://cdnua03.hls.tv/476/hls/c4a7acbb4f6a85595a117f7aa2099d65/4779/stream.m3u8
 #EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-logo="https://i.imgur.com/BKaEtqL.png" group-title="SHAREEXT@RUSIA_Спортивні",Астрахань.Ru Sport (720p)
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-#EXTINF:-1 tvg-id="Start.ru" tvg-logo="https://i.imgur.com/VBqVkno.png" group-title="SHAREEXT@RUSIA_Спортивні",Старт (1080p)
-https://strm.yandex.ru/kal/start/start0.m3u8
 
 
 
@@ -4377,6 +4502,83 @@ http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/605470
 http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/605586
 #EXTINF:-1 tvg-id="" tvg-name="AU: Sky Racing 2" tvg-logo="http://www.pngplay.com/wp-content/uploads/6/Australia-Map-Flag-3D-PNG.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",AU:Sky Racing 2
 http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/605587
+
+
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/c44034500f012d8de75ae9ec5aa242a0.png" group-title="SHAREEXT@Italy ➾ Sports",IACI Sport TV
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/298813
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/694e22fd374b5c45094824abf80013ef.png" group-title="SHAREEXT@Italy ➾ Sports", Bike
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/22709
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/baa66dbafc4be9ec7a5a6a232996a468.jpg" group-title="SHAREEXT@Italy ➾ Sports", DAZN 1
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/79220
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/13f7be80a31515955c38a5834584d138.jpg" group-title="SHAREEXT@Italy ➾ Sports", DAZN 2
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/39497
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/426ce2325be2e503a274c96fc8886fc3.png" group-title="SHAREEXT@Italy ➾ Sports", Eurosport 1
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/995
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@Italy ➾ Sports", EuroSport 1 TimVision
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304887
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c98551542cf8982297c36a788a9f188f.png" group-title="SHAREEXT@Italy ➾ Sports", Eurosport 2
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/1040
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@Italy ➾ Sports", EuroSport 3 TimVision
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304888
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@Italy ➾ Sports", EuroSport 4 TimVision
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304889
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@Italy ➾ Sports", EuroSport 5 TimVision
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304890
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@Italy ➾ Sports", EuroSport 6 TimVision
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304891
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/1a6dc82ecd83521d041ad308113de84b.png" group-title="SHAREEXT@Italy ➾ Sports", Inter TV
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/1041
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-07/749b778553c8182b181816a5576a80b0.png" group-title="SHAREEXT@Italy ➾ Sports", Milan TV
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304043
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/7987271234bb216fdf62c1db2e086b41.png" group-title="SHAREEXT@Italy ➾ Sports", Motortrend
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/75151
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/633d5a18cae483ea6626145274f2cb82.png" group-title="SHAREEXT@Italy ➾ Sports", MS Motor TV
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/158715
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/656ac05b7c17f067a65253e268e8dde8.png" group-title="SHAREEXT@Italy ➾ Sports", Rai Sport
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/1042
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/21392a7fea3217a159aff86d98651770.png" group-title="SHAREEXT@Italy ➾ Sports", RTV Sport
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/174221
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@Italy ➾ Sports", Sky Sport
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/9542
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/24b6324c3989f35d6f05c126fcc7fdcc.png" group-title="SHAREEXT@Italy ➾ Sports",Sky Sport 24
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/2535
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ead553af854c718ab5dd049c915379b1.png" group-title="SHAREEXT@Italy ➾ Sports",Sky Sport Arena
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/2541
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/24daa976b558fb05e4e7d3896a4933c4.png" group-title="SHAREEXT@Italy ➾ Sports",Sky Sport Calcio
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/84505
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/275e92bab2c838ab3dfc18abf3bf2e48.png" group-title="SHAREEXT@Italy ➾ Sports",Sky Sport F1
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/2542
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/8e67c3691e6ffef411537888e56d609b.svg" group-title="SHAREEXT@Italy ➾ Sports",Sky Sport Football
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/2543
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/c261a5ce9a1cba8b6aaea018f04dcf84.png" group-title="SHAREEXT@Italy ➾ Sports",Sky Sport Golf
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/147371
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/88d17c77b3415cf758005d5c5aa20fa5.png" group-title="SHAREEXT@Italy ➾ Sports", Sky Sport Max
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304195
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/315342075960cced608a1efca076d775.png" group-title="SHAREEXT@Italy ➾ Sports",Sky Sport Moto GP
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/9880
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/3f7f2cd64d280944ee2f73aae9520c43.png" group-title="SHAREEXT@Italy ➾ Sports", Sky Sport NBA
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/1047
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cf338efcc816a54a527c44294c1b44c1.png" group-title="SHAREEXT@Italy ➾ Sports", Sky Sport Serie A
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/2546
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/a927d7f92a83a11a455602f67606407b.png" group-title="SHAREEXT@Italy ➾ Sports", Sky Sport Tennis
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304258
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/b74c3e05bb91e8b110f53c1916902b0e.png" group-title="SHAREEXT@Italy ➾ Sports", Sky Sport Uno
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/278706
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/36efad06b3949a5a8ec2debd35c9293c.png" group-title="SHAREEXT@Italy ➾ Sports", Sportitalia Plus
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/1008
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/f3f5615d6ff3e1e22c6b0bb292833ddd.svg" group-title="SHAREEXT@Italy ➾ Sports", Sportitalia SoloCalcio
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/299524
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/bdefcae800980ed5e3bf454b7552b79c.png" group-title="SHAREEXT@Italy ➾ Sports", Super Tennis
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/285535
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c28c7e4580a3271cced9e317d3fa4733.png" group-title="SHAREEXT@Italy ➾ Sports", Tennis Channel
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/1052
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/256493b71391b5d91a9d6cee70f99b64.png" group-title="SHAREEXT@Italy ➾ Sports", TGCom 24
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/1007
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/1bfa8d48f1b877bb0320a75bb9417eed.png" group-title="SHAREEXT@Italy ➾ Sports", Top Calcio 24
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/264571
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/e2c6c34703a44377c8eedccc50157eca.png" group-title="SHAREEXT@Italy ➾ Sports", Zona Dazn
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304198
+
 
 
 
