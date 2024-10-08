@@ -6924,6 +6924,42 @@ https://dai.google.com/linear/hls/event/1FTmFXC8Q5qFG7CZ0oaJXA/master.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv1.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 1 
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000018602/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000018602
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv2.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 2 
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000023315/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000023315
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv3.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 3
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000013682/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000013682
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv4.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 4 
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031102/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031102
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 5 
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000025222/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000025222
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 5+
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031127/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031127
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv6.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 6 
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001737/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv7.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 7
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000024341/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000024341
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv8.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 8
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000003736/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000003736
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv9.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 9 
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000014583/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000014583
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv10.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 10 
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000023734/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000023734
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv11.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 11 
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031106/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031106
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv12.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 12 
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000032494/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000032494
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv13.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 13
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031108/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031108
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv14.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 14 
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000008170/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000008170
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv15.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 15 
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031109/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031109
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv16.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 16
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv17.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 17 
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000268004/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000268004
 
 #EXTINF:-1 tvg-name="CCTV 1 FHD CN"  tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv1.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV 1 FHD
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV1HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
@@ -7626,6 +7662,57 @@ https://cdn-live.dltv.ac.th/dltv13.m3u8
 https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-id="DLTV15.th" tvg-logo="https://i.imgur.com/onJi2b6.png" group-title="SHAREEXT@THAiLandTv",DLTV 15
 https://cdn-live.dltv.ac.th/dltv15.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://iptv36.my.to/logo/nbt.png",NBT
+https://edge6a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://iptv36.my.to/logo/thaipbs.png",Thai PBS
+https://edge6a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://iptv36.my.to/logo/altv.png",ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://iptv36.my.to/logo/tv5.png",TV5HD
+https://edge6a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://i.imgur.com/NNxzCPk.png",ASTV News 1
+http://news1.live14.com/stream/news1.m3u8
+#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://iptv36.my.to/logo/tsports.png",T Sports 7
+https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://iptv36.my.to/logo/tptv.png",TPTV
+https://edge6a.v2h-cdn.com/tptv/tptv.stream/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://i.imgur.com/8hYQIxS.png",NBT 11 Central
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR
+#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://imgur.com/XTFVUkP.png",NBT 11 North
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunklist_w695610859_b2128000.m3u8
+#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://imgur.com/4kwV5Sy.png",NBT 11 Northeast
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/chunklist_w579192591_b2128000.m3u8
+#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://imgur.com/4K22fqQ.png",NBT 11 South
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8
+#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://i.imgur.com/S9SQm3Y.png",Channel 8 (1080p)
+http://vip.login.in.th:1935/ch8/ch8/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://iptv36.my.to/logo/tnn16.png",TNN16
+https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://iptv36.my.to/logo/jkn18.png",JKN 18
+https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://dl.dropbox.com/s/wgd3zgpi68gasbr/coolchannel.png?dl=0",Cool Channel
+https://live-iptv.cool-channel.com/cool/live-720P.m3u8
+#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://iptv36.my.to/logo/true4u.png",True4U
+https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://iptv36.my.to/logo/gmm25.png",GMM 25
+https://edge6a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://i.imgur.com/GhboFGt.png",Police TV
+https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://iptv36.my.to/logo/ch8.png",CH8
+https://edge6a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://iptv36.my.to/logo/mono29.png",MONO29
+https://edge6a.v2h-cdn.com/mono/mono.stream/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://iptv36.my.to/logo/mcot.png",MCOT HD
+https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png",Cable Channel 37
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://iptv36.my.to/logo/topnews.png",Top News
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
+#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://i.imgur.com/uOfb3y1.png" ,Thai Chaiyo
+https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
+#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://iptv36.my.to/logo/tvb.png",TVB Thai
+https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv",News1
 http://news1.live14.com/stream/news1.m3u8
