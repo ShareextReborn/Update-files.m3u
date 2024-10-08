@@ -264,6 +264,26 @@ http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1720.ts
 http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1719
 #EXTINF:-1 tvg-id="815" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="ShareExt@PREMIUM✓SPORTS",ASTRO SUPERSPORT 4(B)
 http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1719.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@PREMIUM✓SPORTS", 🇭🇰 NOW.PL.SPORTS
+http://shareext@15.235.181.35/live.ts?channelId=129136&uid=14505&deviceMac=00:1A:79:A7:53:75&id=nowprem1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@PREMIUM✓SPORTS", 🇭🇰 NOW.SPORTS.2
+http://shareext@15.235.181.35/live.ts?channelId=129129&uid=14505&deviceMac=00:1A:79:A7:53:75&id=nowsports2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@PREMIUM✓SPORTS", 🇭🇰 NOW.SPORTS.3
+http://shareext@15.235.181.35/live.ts?channelId=129130&uid=14505&deviceMac=00:1A:79:A7:53:75&id=nowsports3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@PREMIUM✓SPORTS", 🇭🇰 NOW.SPORTS.4
+http://shareext@15.235.181.35/live.ts?channelId=129131&uid=14505&deviceMac=00:1A:79:A7:53:75&id=nowsports4
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@PREMIUM✓SPORTS", 🇭🇰 NOW.SPORTS.5
+http://shareext@15.235.181.35/live.ts?channelId=129132&uid=14505&deviceMac=00:1A:79:A7:53:75&id=nowsports5
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@PREMIUM✓SPORTS", 🇭🇰 NOW.SPORTS.6
+http://shareext@15.235.181.35/live.ts?channelId=129133&uid=14505&deviceMac=00:1A:79:A7:53:75&id=nowsports6
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@PREMIUM✓SPORTS", 🇭🇰 NOW.SPORTS.7
+http://shareext@15.235.181.35/live.ts?channelId=129134&uid=14505&deviceMac=00:1A:79:A7:53:75&id=nowsports7
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="ShareExt@PREMIUM✓SPORTS",🇨🇳 CCTV 5 FHD
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000025222/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000025222
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="ShareExt@PREMIUM✓SPORTS",🇨🇳 CCTV 5 + FHD
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031127/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031127
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv16.jpg" group-title="ShareExt@PREMIUM✓SPORTS",🇨🇳 CCTV 16 FHD
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254
 
 #EXTINF:-1 tvg-id="" tvg-name="PH: TAP Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/a5fb7457f89a0ba8f978cfbcf777af83.png" group-title="ShareExt@PREMIUM✓SPORTS",PH: TAP Sports
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/299945
@@ -275,6 +295,27 @@ http://iptvtree.net:8080/Luctv2024/c6b6031eb1/290365
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/299950
 #EXTINF:-1 tvg-id="" tvg-name="PH: Premier Tennis" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/06863d46f1e6641d28f2bc9615cfec97.png" group-title="ShareExt@PREMIUM✓SPORTS",PH: Premier Tennis
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/276599
+
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/7d8ca02d8a1abfbf18a1993f8ed669f1.png" group-title="ShareExt@PREMIUM✓SPORTS", SSC 1
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/280132
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/e0ea981e0a90f7ddf716f269154d3925.png" group-title="ShareExt@PREMIUM✓SPORTS", SSC 2
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/280137
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/b3fd86edcadc219abf9e193c44d4daa0.png" group-title="ShareExt@PREMIUM✓SPORTS", SSC 3
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/280134
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/dd5b9adc01f4d38a7291c8e042ef6199.png" group-title="ShareExt@PREMIUM✓SPORTS", SSC 4
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/280133
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/0dfbee45bdbdde5a0fe41c43b15098f3.png" group-title="ShareExt@PREMIUM✓SPORTS", SSC 5
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/280135
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC Extra 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/f53327d1f338988a04f24537da4e8e6f.png" group-title="ShareExt@PREMIUM✓SPORTS", SSC Extra 1
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/280136
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC Extra 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/69228f4aa2e4d1b1fdc80d6d99720b00.png" group-title="ShareExt@PREMIUM✓SPORTS", SSC Extra 2
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/281462
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC Extra 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/797ca4ea5c06b01acd35f5309e54dbc8.png" group-title="ShareExt@PREMIUM✓SPORTS", SSC Extra 3
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/299730
+#EXTINF:-1 tvg-id="" tvg-name="BHR: Bahrain Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/4f426fd13780a71ff829685a7feac5d1.png" group-title="ShareExt@PREMIUM✓SPORTS", Bahrain Sports 1
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/121097
+#EXTINF:-1 tvg-id="" tvg-name="BHR: Bahrain Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/1f001aea9dba05cfea661783c99d649c.png" group-title="ShareExt@PREMIUM✓SPORTS", Bahrain Sports 2
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/145860
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", TEN SPORTS HD_@@
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
@@ -413,6 +454,26 @@ http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554975&extensio
 http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554974&extension=m3u8 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS",HubPremier 8 
 http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554973&extension=m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",🇬🇧 EUROSPORTS
+http://shareext@15.235.181.35/live.ts?channelId=271&uid=14505&deviceMac=00:1A:79:A7:53:75&id=espn
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",🇬🇧 ESPN_1
+http://shareext@15.235.181.35/live.ts?channelId=272&uid=14505&deviceMac=00:1A:79:A7:53:75&id=eurosports1
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",🇬🇧 ESPN_2
+http://shareext@15.235.181.35/live.ts?channelId=273&uid=14505&deviceMac=00:1A:79:A7:53:75&id=eurosports2
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",🇬🇧 TNT_SPORTS_1
+http://shareext@15.235.181.35/live.ts?channelId=267&uid=14505&deviceMac=00:1A:79:A7:53:75&id=tntsports1
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",🇬🇧 TNT_SPORTS_2
+http://shareext@15.235.181.35/live.ts?channelId=268&uid=14505&deviceMac=00:1A:79:A7:53:75&id=tntsports2
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",🇬🇧 TNT_SPORTS_3
+http://shareext@15.235.181.35/live.ts?channelId=269&uid=14505&deviceMac=00:1A:79:A7:53:75&id=tntsports3
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",🇬🇧 TNT_SPORTS_4
+http://shareext@15.235.181.35/live.ts?channelId=270&uid=14505&deviceMac=00:1A:79:A7:53:75&id=tntsports4
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",🇬🇧 SKYSPORTS_NFL
+http://shareext@15.235.181.35/live.ts?channelId=280&uid=14505&deviceMac=00:1A:79:A7:53:75&id=skysportnfl
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",🇬🇧 SKYSPORTS_CRICKET
+http://shareext@15.235.181.35/live.ts?channelId=281&uid=14505&deviceMac=00:1A:79:A7:53:75&id=skysportcricket
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",🇬🇧 SKYSPORTS_F1
+http://shareext@15.235.181.35/live.ts?channelId=282&uid=14505&deviceMac=00:1A:79:A7:53:75&id=skysportf1
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@PREMIUM✓SPORTS",UK-SkySports Action 
 http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/53705 
@@ -627,6 +688,32 @@ http://iptvtree.net:8080/Luctv2024/c6b6031eb1/305275
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/305276
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",VISION_SPORTS
+http://shareext@15.235.181.35/live.ts?channelId=132401&uid=14505&deviceMac=00:1A:79:A7:53:75&id=visionsports
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",LIVE_KABADDI
+http://shareext@15.235.181.35/live.ts?channelId=276&uid=14505&deviceMac=00:1A:79:A7:53:75&id=livekabaddi
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",18_SPORTS_KHELL
+http://shareext@15.235.181.35/live.ts?channelId=102478&uid=14505&deviceMac=00:1A:79:A7:53:75&id=18sportskhell
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",18_SPORTS_1
+http://shareext@15.235.181.35/live.ts?channelId=102479&uid=14505&deviceMac=00:1A:79:A7:53:75&id=18sports1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",18_SPORTS_2
+http://shareext@15.235.181.35/live.ts?channelId=132373&uid=14505&deviceMac=00:1A:79:A7:53:75&id=18sports2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",18_SPORTS_3
+http://shareext@15.235.181.35/live.ts?channelId=132374&uid=14505&deviceMac=00:1A:79:A7:53:75&id=18sports3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",5_KABADDI
+http://shareext@15.235.181.35/live.ts?channelId=277&uid=14505&deviceMac=00:1A:79:A7:53:75&id=5kabaddi
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",GEO_SUPER
+http://shareext@15.235.181.35/live.ts?channelId=274&uid=14505&deviceMac=00:1A:79:A7:53:75&id=geosuper
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",PTV_HIGHTLIGHT
+http://shareext@15.235.181.35/live.ts?channelId=278&uid=14505&deviceMac=00:1A:79:A7:53:75&id=ptvhightlight
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",PTV_SPORTS_HD
+http://shareext@15.235.181.35/live.ts?channelId=279&uid=14505&deviceMac=00:1A:79:A7:53:75&id=ptvsportshd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",STAR_SPORTS_TAMIL
+http://shareext@15.235.181.35/live.ts?channelId=275&uid=14505&deviceMac=00:1A:79:A7:53:75&id=starsports1tamil
+
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 1 (Sony Ten 1)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f7ec94d2b4c2e3b83bda0bae7c00ebc6.png" group-title="SHAREEXT@India ➾ Sports",SonySports Ten 1
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/16622
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 2 (Sony Ten 2)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/66d71926201b36679fa69b5ad6fa8a7a.png" group-title="SHAREEXT@India ➾ Sports",SonySports Ten 2
@@ -660,6 +747,7 @@ http://iptvtree.net:8080/Luctv2024/c6b6031eb1/151863
 
 
 
+
 #EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",LOTUS MACAU
 http://tv.cloudcdn.me/live.ts?channelId=129287&uid=14505&deviceMac=00:1A:79:A7:53:75
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Hypp_Inspirasi_HD.png" group-title="SHAREEXT@Television/MY/ASTRO",INSPIRASI-mpd(ott.nav)
@@ -670,6 +758,8 @@ http://tv.cloudcdn.me/live.ts?channelId=129287&uid=14505&deviceMac=00:1A:79:A7:5
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 #EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",RIA..
 http://vo01.mohdtv.com:8880/voby5324/62119828/1705
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",OASIS..
+http://shareext@15.235.181.35/live.ts?channelId=93735&uid=14505&deviceMac=00:1A:79:A7:53:75&id=oasis
 #EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",BOO_(n)
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37457
 #EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",PrimeTime_(n)
