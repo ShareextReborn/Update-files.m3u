@@ -4758,6 +4758,27 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 
+#EXTINF:-1 tvg-name="Sky Sport 1 NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",SkySport 1 NZ
+https://mhdtv.co.in/daddy/stream.m3u8?id=588|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky Sport 2 NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",SkySport 2 NZ
+https://mhdtv.co.in/daddy/stream.m3u8?id=589|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky Sport 3 NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",SkySport 3 NZ
+https://mhdtv.co.in/daddy/stream.m3u8?id=590|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky Sport 4 NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",SkySport 4 NZ
+https://mhdtv.co.in/daddy/stream.m3u8?id=591|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky Sport 5 NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",SkySport 5 NZ
+https://mhdtv.co.in/daddy/stream.m3u8?id=592|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky Sport 6 NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",SkySport 6 NZ
+https://mhdtv.co.in/daddy/stream.m3u8?id=593|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky Sport 7 NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",SkySport 7 NZ
+https://mhdtv.co.in/daddy/stream.m3u8?id=594|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky Sport 8 NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",SkySport 8 NZ
+https://mhdtv.co.in/daddy/stream.m3u8?id=595|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky Sport 9 NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",SkySport 9 NZ
+https://mhdtv.co.in/daddy/stream.m3u8?id=596|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky Sport Select NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",SkySport Select NZ
+https://mhdtv.co.in/daddy/stream.m3u8?id=587|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+
 #EXTINF:-1 tvg-ID="" tvg-name="AU ▎OPTUS SPORT 1 HD" tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",OPTUS SPORT 1 HD
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/733114
 #EXTINF:-1 tvg-ID="" tvg-name="AU ▎OPTUS SPORT 2 HD" tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",OPTUS SPORT 2 HD
