@@ -6204,6 +6204,8 @@ https://linear-834.frequency.stream/mt/studio/834/hls/master/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="SHAREEXT@24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg", The LEGEND Of BRUCE LEE
+http://ky-iptv.com:80/HSrkzmekGs/NECJHrN6ZK/1356032.ts
 #EXTINF:-1 group-title="SHAREEXT@24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg", Jim Carrey
 http://cord-cutter.net:8080/51169911/51169911/215359
 #EXTINF:-1 group-title="SHAREEXT@24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg", Johnny Depp
@@ -8021,7 +8023,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1649997259_b384
 #EXTINF:-1 group-title="SHAREEXT@MYANMAR|LAOS|TELEVISION" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Lao Heritage Foundation TV
 https://livefta.malimarcdn.com/ftaedge00/laoheritagetv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="SHAREEXT@MYANMAR|LAOS|TELEVISION" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Lao Net TV
-https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8
+
 #EXTINF:-1 group-title="SHAREEXT@MYANMAR|LAOS|TELEVISION" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Lao SV TV
 https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
 #EXTINF:-1 group-title="SHAREEXT@MYANMAR|LAOS|TELEVISION" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Lao-Thai US TV
