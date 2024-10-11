@@ -906,6 +906,44 @@ https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-logo="http://103.183.10.7:9900/imagecache/72" group-title="Shareext@LOKAL_ID", GARUDA TV_play2
+http://103.183.10.7:9900/stream/channelid/1330666867?profile=pass
+#EXTINF:-1 tvg-logo="http://103.183.10.7:9900/imagecache/73" group-title="Shareext@LOKAL_ID", JawaPos TV_play2
+http://103.183.10.7:9900/stream/channelid/2005629558?profile=pass
+#EXTINF:-1 tvg-logo="http://103.183.10.7:9900/imagecache/74" group-title="Shareext@LOKAL_ID", JTV_play2
+http://103.183.10.7:9900/stream/channelid/1936404613?profile=pass
+#EXTINF:-1 tvg-logo="http://103.183.10.7:9900/imagecache/75" group-title="Shareext@LOKAL_ID", SAKTI TV_play2
+http://103.183.10.7:9900/stream/channelid/2063586109?profile=pass
+#EXTINF:-1 tvg-logo="http://103.183.10.7:9900/imagecache/76" group-title="Shareext@LOKAL_ID", METRO TV HD_play2
+http://103.183.10.7:9900/stream/channelid/1334190776?profile=pass
+#EXTINF:-1 tvg-logo="http://103.183.10.7:9900/imagecache/77" group-title="Shareext@LOKAL_ID", SCTV HD_play2
+http://103.183.10.7:9900/stream/channelid/1783520043?profile=pass
+#EXTINF:-1 tvg-logo="http://103.183.10.7:9900/imagecache/78" group-title="Shareext@LOKAL_ID", INDOSIAR HD_play2
+http://103.183.10.7:9900/stream/channelid/1440209200?profile=pass
+#EXTINF:-1 tvg-logo="http://103.183.10.7:9900/imagecache/79" group-title="Shareext@LOKAL_ID", RCTI HD_play2
+http://103.183.10.7:9900/stream/channelid/1966224095?profile=pass
+#EXTINF:-1 tvg-logo="http://103.183.10.7:9900/imagecache/80" group-title="Shareext@LOKAL_ID", MNCTV HD_play2
+http://103.183.10.7:9900/stream/channelid/517529917?profile=pass
+#EXTINF:-1 tvg-logo="http://103.183.10.7:9900/imagecache/81" group-title="Shareext@LOKAL_ID", GTV HD_play2
+http://103.183.10.7:9900/stream/channelid/2129957639?profile=pass
+#EXTINF:-1 tvg-logo="http://103.183.10.7:9900/imagecache/82" group-title="Shareext@LOKAL_ID", iNews HD_play2
+http://103.183.10.7:9900/stream/channelid/380771214?profile=pass
+#EXTINF:-1 tvg-logo="http://103.183.10.7:9900/imagecache/83" group-title="Shareext@LOKAL_ID", MAGNA CHANNEL_play2
+http://103.183.10.7:9900/stream/channelid/1791397489?profile=pass
+#EXTINF:-1 tvg-logo="http://103.183.10.7:9900/imagecache/84" group-title="Shareext@LOKAL_ID", BN CHANNEL_play2
+http://103.183.10.7:9900/stream/channelid/2085074503?profile=pass
+#EXTINF:-1 tvg-logo="http://103.183.10.7:9900/imagecache/85" group-title="Shareext@LOKAL_ID", NET. SD_play2
+http://103.183.10.7:9900/stream/channelid/1784831501?profile=pass
+#EXTINF:-1 tvg-logo="http://103.183.10.7:9900/imagecache/86" group-title="Shareext@LOKAL_ID", MOJI HD_play2
+http://103.183.10.7:9900/stream/channelid/206949723?profile=pass
+#EXTINF:-1 tvg-logo="http://103.183.10.7:9900/imagecache/87" group-title="Shareext@LOKAL_ID", MENTARI HD_play2
+http://103.183.10.7:9900/stream/channelid/1115009601?profile=pass
+#EXTINF:-1 tvg-logo="http://103.183.10.7:9900/imagecache/88" group-title="Shareext@LOKAL_ID", KOMPASTV_play2
+http://103.183.10.7:9900/stream/channelid/1670293890?profile=pass
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo-sctv-big1.png" group-title="Shareext@LOKAL_ID", SCTV_play
 http://103.160.205.142:9999/stream/channelid/7308616?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo-indosiar-big1.png" group-title="Shareext@LOKAL_ID", Indosiar_play
