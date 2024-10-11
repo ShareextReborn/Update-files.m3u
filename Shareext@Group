@@ -14,6 +14,25 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sports
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~Spotv•🇲🇨	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_spotv_ver1.png" group-title="ShareExt@Relax",SPOTV_play
+http://103.160.205.142:9999/stream/channelid/1042437438?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_spotv2_ver1.png" group-title="ShareExt@Relax",SPOTV 2_play
+http://103.160.205.142:9999/stream/channelid/1140196012?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_fightsport_ver1.png" group-title="ShareExt@Relax",Fight Sport_play
+http://103.160.205.142:9999/stream/channelid/940256866?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_champ5_HD.png" group-title="ShareExt@Relax",CHAMPIONS TV5_play
+http://103.160.205.142:9999/stream/channelid/1994754257?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_champ6_HD.png" group-title="ShareExt@Relax",CHAMPIONS TV6_play
+http://103.160.205.142:9999/stream/channelid/1459944935?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_nba_ver1.png" group-title="ShareExt@Relax",NBA TV_play
+http://103.160.205.142:9999/stream/channelid/290318848?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/volitv.png" group-title="ShareExt@Relax",Voli TV_play
+http://103.160.205.142:9999/stream/channelid/593394479?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/w-sport.png" group-title="ShareExt@Relax",WSport_play
+http://103.160.205.142:9999/stream/channelid/99959099?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_horizonsport_ver1.png" group-title="ShareExt@Relax",Horizon Sports_play
+http://103.160.205.142:9999/stream/channelid/1964983963?profile=pass
+
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(z)
 https://zozotv.xyz:443/live/lisshomestay/@1212/45.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(ktv)
@@ -887,8 +906,178 @@ https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo-sctv-big1.png" group-title="Shareext@LOKAL_ID", SCTV_play
+http://103.160.205.142:9999/stream/channelid/7308616?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo-indosiar-big1.png" group-title="Shareext@LOKAL_ID", Indosiar_play
+http://103.160.205.142:9999/stream/channelid/678789371?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo-antv-big1.png" group-title="Shareext@LOKAL_ID", ANTV_play
+http://103.160.205.142:9999/stream/channelid/2109986031?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo-transtv-big1.png" group-title="Shareext@LOKAL_ID", Trans TV_play
+http://103.160.205.142:9999/stream/channelid/1829676263?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo-trans7-big1.png" group-title="Shareext@LOKAL_ID", Trans 7_play
+http://103.160.205.142:9999/stream/channelid/33997894?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_tvri_big1.png" group-title="Shareext@LOKAL_ID", TVRI_play
+http://103.160.205.142:9999/stream/channelid/365315311?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo-metrotv.png" group-title="Shareext@LOKAL_ID", Metro TV_play
+http://103.160.205.142:9999/stream/channelid/1360611176?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_cnnindonesia_big1.png" group-title="Shareext@LOKAL_ID", CNN Indonesia_play
+http://103.160.205.142:9999/stream/channelid/1408164073?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo-tvone-big1.png" group-title="Shareext@LOKAL_ID", TV One_play
+http://103.160.205.142:9999/stream/channelid/1076844350?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo-kompastv-big1.png" group-title="Shareext@LOKAL_ID", Kompas TV_play
+http://103.160.205.142:9999/stream/channelid/1826417428?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_inews_big.png" group-title="Shareext@LOKAL_ID", iNews_play
+http://103.160.205.142:9999/stream/channelid/1885698931?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_net_big1.png" group-title="Shareext@LOKAL_ID", Net TV_play
+http://103.160.205.142:9999/stream/channelid/1890403692?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo-rtv-big1.png" group-title="Shareext@LOKAL_ID", RTV_play
+http://103.160.205.142:9999/stream/channelid/1837241089?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_ochannel_big.png" group-title="Shareext@LOKAL_ID", Moji_play
+http://103.160.205.142:9999/stream/channelid/1339882017?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_nusantaratv_big.png" group-title="Shareext@LOKAL_ID", Nusantara TV_play
+http://103.160.205.142:9999/stream/channelid/1542794943?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_rri_big1.png" group-title="Shareext@LOKAL_ID", RRI Net_play
+http://103.160.205.142:9999/stream/channelid/834158169?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_Jowo_channel.png" group-title="Shareext@LOKAL_ID", Jowo_play
+http://103.160.205.142:9999/stream/channelid/2052522550?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_indonesiana_big.png" group-title="Shareext@LOKAL_ID", Indonesiana TV_play
+http://103.160.205.142:9999/stream/channelid/580054994?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/useemozaik.png" group-title="Shareext@LOKAL_ID", Mozaik Channel_play
+http://103.160.205.142:9999/stream/channelid/892879497?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_idtv.png" group-title="Shareext@LOKAL_ID", IDTV_play
+http://103.160.205.142:9999/stream/channelid/1330308318?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_insert_big1.png" group-title="Shareext@LOKAL_ID", Insert_play
+http://103.160.205.142:9999/stream/channelid/579061981?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_idx_big.png" group-title="Shareext@LOKAL_ID", IDX Channel_play
+http://103.160.205.142:9999/stream/channelid/561103002?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_daaitv_big1.png" group-title="Shareext@LOKAL_ID", Daai TV_play
+http://103.160.205.142:9999/stream/channelid/1360528516?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo-atv-big1.png" group-title="Shareext@LOKAL_ID", ATV_play
+http://103.160.205.142:9999/stream/channelid/2039157435?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_balitv_big1.png" group-title="Shareext@LOKAL_ID", Bali TV_play
+http://103.160.205.142:9999/stream/channelid/572026440?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_jtv_big1.png" group-title="Shareext@LOKAL_ID", JTV_play
+http://103.160.205.142:9999/stream/channelid/513348617?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_antara_big1.png" group-title="Shareext@LOKAL_ID", Antara_play
+http://103.160.205.142:9999/stream/channelid/1892526838?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_davinci_big1.png" group-title="Shareext@LOKAL_ID", Da Vinci_play
+http://103.160.205.142:9999/stream/channelid/832980634?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_nickelodeon_big.png" group-title="Shareext@LOKAL_ID", Nickelodeon_play
+http://103.160.205.142:9999/stream/channelid/1547964064?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_nickjr_big.png" group-title="Shareext@LOKAL_ID", Nick Junior_play
+http://103.160.205.142:9999/stream/channelid/1473765820?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_cartoonnetwork_big.png" group-title="Shareext@LOKAL_ID", Cartoon Network_play
+http://103.160.205.142:9999/stream/channelid/1122028315?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_cartoonitoSD.png" group-title="Shareext@LOKAL_ID", CARTOONITO_play
+http://103.160.205.142:9999/stream/channelid/1309322254?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_dreamworks_big1.png" group-title="Shareext@LOKAL_ID", Dream Work_play
+http://103.160.205.142:9999/stream/channelid/1290628969?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_moonbug_ver1HD.png" group-title="Shareext@LOKAL_ID", Moonbug Kids_play
+http://103.160.205.142:9999/stream/channelid/514979214?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_duniaanak_big1.png" group-title="Shareext@LOKAL_ID", Dunia Anak_play
+http://103.160.205.142:9999/stream/channelid/1924332851?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_mykids_big.png" group-title="Shareext@LOKAL_ID", MY KIDZ_play
+http://103.160.205.142:9999/stream/channelid/409126966?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/FUNPLANET-OTT-88.png" group-title="Shareext@LOKAL_ID", Fun Planet_play
+http://103.160.205.142:9999/stream/channelid/1558401663?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_horee_big.png" group-title="Shareext@LOKAL_ID", Horee!_play
+http://103.160.205.142:9999/stream/channelid/1457960756?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_mentaritv_big.png" group-title="Shareext@LOKAL_ID", Mentari TV_play
+http://103.160.205.142:9999/stream/channelid/2010820494?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_mtvlive_big.png" group-title="Shareext@LOKAL_ID", MTV Live_play
+http://103.160.205.142:9999/stream/channelid/1200823943?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_musikindo_big.png" group-title="Shareext@LOKAL_ID", Musik Indonesia_play
+http://103.160.205.142:9999/stream/channelid/2017016895?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_prambors_big1.png" group-title="Shareext@LOKAL_ID", Prambors_play
+http://103.160.205.142:9999/stream/channelid/1144477182?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_ikonser_big.png" group-title="Shareext@LOKAL_ID", i Konser_play
+http://103.160.205.142:9999/stream/channelid/356503381?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_citradangdut_big.png" group-title="Shareext@LOKAL_ID", Citra Dangdut_play
+http://103.160.205.142:9999/stream/channelid/669841361?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_abcaustralia_big.png" group-title="Shareext@LOKAL_ID", ABC Australia_play
+http://103.160.205.142:9999/stream/channelid/955856226?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_euronews_big1.png" group-title="Shareext@LOKAL_ID", Euronews_play
+http://103.160.205.142:9999/stream/channelid/970148805?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_cnninternational_big.png" group-title="Shareext@LOKAL_ID", CNN_play
+http://103.160.205.142:9999/stream/channelid/387203096?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_bloomberg_big1.png" group-title="Shareext@LOKAL_ID", Bloomberg_play
+http://103.160.205.142:9999/stream/channelid/258913787?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_cnbcasias_big.png" group-title="Shareext@LOKAL_ID", CNBC Asia_play
+http://103.160.205.142:9999/stream/channelid/897371210?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_newsasia_big1.png" group-title="Shareext@LOKAL_ID", Channel News Asia_play
+http://103.160.205.142:9999/stream/channelid/1003382872?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_france24_big.png" group-title="Shareext@LOKAL_ID", France24_play
+http://103.160.205.142:9999/stream/channelid/459407850?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_nhkworld_big.png" group-title="Shareext@LOKAL_ID", NHK World Japan_play
+http://103.160.205.142:9999/stream/channelid/1252846653?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_dwtv_big.png" group-title="Shareext@LOKAL_ID", DW_play
+http://103.160.205.142:9999/stream/channelid/687896206?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_tvbsnews_big.png" group-title="Shareext@LOKAL_ID", TVBS News_play
+http://103.160.205.142:9999/stream/channelid/205094572?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_alquran_big1.png" group-title="Shareext@LOKAL_ID", AlQuran Karim_play
+http://103.160.205.142:9999/stream/channelid/237078519?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_rodjatv_big1.png" group-title="Shareext@LOKAL_ID", Rodja TV_play
+http://103.160.205.142:9999/stream/channelid/2007132808?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_mqtv_big1.png" group-title="Shareext@LOKAL_ID", MQTV_play
+http://103.160.205.142:9999/stream/channelid/394914517?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_tv9_big1.png" group-title="Shareext@LOKAL_ID", TV9_play
+http://103.160.205.142:9999/stream/channelid/1815730639?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_muhammadiyahtv_big1.png" group-title="Shareext@LOKAL_ID", tvMu_play
+http://103.160.205.142:9999/stream/channelid/109305364?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_tawaftvbaru_big.png" group-title="Shareext@LOKAL_ID", Tawaf TV_play
+http://103.160.205.142:9999/stream/channelid/768607471?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_tvmui_big1.png" group-title="Shareext@LOKAL_ID", TV MUI_play
+http://103.160.205.142:9999/stream/channelid/1796034730?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/hope.png" group-title="Shareext@LOKAL_ID", Hope_play
+http://103.160.205.142:9999/stream/channelid/318831328?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_uchannel_big1.png" group-title="Shareext@LOKAL_ID", U Channel_play
+http://103.160.205.142:9999/stream/channelid/1317850155?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/ANIMALPLANETHD.png" group-title="Shareext@LOKAL_ID", Animal Planet_play
+http://103.160.205.142:9999/stream/channelid/1426589845?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/crimeinvestigation.png" group-title="Shareext@LOKAL_ID", Crime & Investigation_play
+http://103.160.205.142:9999/stream/channelid/1340297714?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_cgtndocumentary_big1.png" group-title="Shareext@LOKAL_ID", CGTN Documentary_play
+http://103.160.205.142:9999/stream/channelid/1727634864?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_history_big.png" group-title="Shareext@LOKAL_ID", History Channel_play
+http://103.160.205.142:9999/stream/channelid/1021254054?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/pandatv.png" group-title="Shareext@LOKAL_ID", Panda TV_play
+http://103.160.205.142:9999/stream/channelid/319528596?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_discovery_big.png" group-title="Shareext@LOKAL_ID", Discovery_play
+http://103.160.205.142:9999/stream/channelid/1197759473?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_lingua_big.png" group-title="Shareext@LOKAL_ID", Lingua_play
+http://103.160.205.142:9999/stream/channelid/545785059?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_new-techstorm_big.png" group-title="Shareext@LOKAL_ID", TechStorm_play
+http://103.160.205.142:9999/stream/channelid/2143652360?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/DISCOVERYASIAHD.png" group-title="Shareext@LOKAL_ID", Discovery Asia_play
+http://103.160.205.142:9999/stream/channelid/220005537?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/LOVENATUREHD.png" group-title="Shareext@LOKAL_ID", Love Nature_play
+http://103.160.205.142:9999/stream/channelid/1611043385?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_tlc_ver1.png" group-title="Shareext@LOKAL_ID", TLC_play
+http://103.160.205.142:9999/stream/channelid/806861904?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_hgtv_big.png" group-title="Shareext@LOKAL_ID", HGTV_play
+http://103.160.205.142:9999/stream/channelid/1501406911?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_animax_big.png" group-title="Shareext@LOKAL_ID", Animax_play
+http://103.160.205.142:9999/stream/channelid/1225107608?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_seru_big.png" group-title="Shareext@LOKAL_ID", Seru!_play
+http://103.160.205.142:9999/stream/channelid/937721447?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_lifetime_big.png" group-title="Shareext@LOKAL_ID", Lifetime_play
+http://103.160.205.142:9999/stream/channelid/1832150603?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_tv5monde_big1.png" group-title="Shareext@LOKAL_ID", TV5Monde_play
+http://103.160.205.142:9999/stream/channelid/969876322?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_aniplus_big1.png" group-title="Shareext@LOKAL_ID", Aniplus_play
+http://103.160.205.142:9999/stream/channelid/19886602?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_nhkworld_big1.png" group-title="Shareext@LOKAL_ID", NHK World Premium_play
+http://103.160.205.142:9999/stream/channelid/752767269?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_dunialain_big.png" group-title="Shareext@LOKAL_ID", Dunia Lain_play
+http://103.160.205.142:9999/stream/channelid/1758070940?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_arirang_big.png" group-title="Shareext@LOKAL_ID", Arirang_play
+http://103.160.205.142:9999/stream/channelid/2034936054?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_cctv4_big1.png" group-title="Shareext@LOKAL_ID", CCTV4_play
+http://103.160.205.142:9999/stream/channelid/1902858471?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/Zhejiang-Television.png" group-title="Shareext@LOKAL_ID", Zhejiang International_play
+http://103.160.205.142:9999/stream/channelid/1740137229?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/Shenzen-Television.png" group-title="Shareext@LOKAL_ID", Shenzen International_play
+http://103.160.205.142:9999/stream/channelid/496505686?profile=pass
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/xFHPJSQ/gfsh.png" group-title="Shareext@LOKAL_ID",NET.(z)
 https://zozotv.xyz:443/live/lisshomestay/@1212/50.ts
@@ -5901,18 +6090,78 @@ https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/873
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇲🇨 Cinemax
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/2156
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_blueantext_big.png" group-title="Shareext@MOVIES", Rock Action_play
+http://103.160.205.142:9999/stream/channelid/1395581491?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_sone_big.png" group-title="Shareext@MOVIES", One_play
+http://103.160.205.142:9999/stream/channelid/888053109?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/hbo.png" group-title="Shareext@MOVIES", HBO_play
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/hbosignature.png" group-title="Shareext@MOVIES", HBO Signature_play
+http://103.160.205.142:9999/stream/channelid/70011866?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/cinemax.png" group-title="Shareext@MOVIES", Cinemax_play
+http://103.160.205.142:9999/stream/channelid/61839487?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/hbohits.png" group-title="Shareext@MOVIES", HBO Hits_play
+http://103.160.205.142:9999/stream/channelid/412045953?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/hbofamily.png" group-title="Shareext@MOVIES", HBO Family_play
+http://103.160.205.142:9999/stream/channelid/881035868?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_hitsmovie_ver1.png" group-title="Shareext@MOVIES", Hits Movies_play
+http://103.160.205.142:9999/stream/channelid/1739299626?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_thrill_big.png" group-title="Shareext@MOVIES", Thrill_play
+http://103.160.205.142:9999/stream/channelid/902369831?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/celectial.png" group-title="Shareext@MOVIES", Celestial Movie_play
+http://103.160.205.142:9999/stream/channelid/932233433?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_mycinema_ver1.png" group-title="Shareext@MOVIES", My Cinema_play
+http://103.160.205.142:9999/stream/channelid/670055226?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_tvnmovies_ver1.png" group-title="Shareext@MOVIES", TVN Movie_play
+http://103.160.205.142:9999/stream/channelid/1130596325?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_zbioskop_big1.png" group-title="Shareext@MOVIES", Z Bioskop_play
+http://103.160.205.142:9999/stream/channelid/2126118992?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/cinemaworld.png" group-title="Shareext@MOVIES", Cinema World_play
+http://103.160.205.142:9999/stream/channelid/1475601552?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_myfamily_ver1.png" group-title="Shareext@MOVIES", My Family Channel_play
+http://103.160.205.142:9999/stream/channelid/662066863?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_galaxy_big1.png" group-title="Shareext@MOVIES", Galaxy_play
+http://103.160.205.142:9999/stream/channelid/1680672437?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_bioskopindonesia_big1.png" group-title="Shareext@MOVIES", Bioskop Indonesia_play
+http://103.160.205.142:9999/stream/channelid/856950329?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_flik_big1.png" group-title="Shareext@MOVIES", Flik_play
+http://103.160.205.142:9999/stream/channelid/1727313314?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_imc_big.png" group-title="Shareext@MOVIES", IMC_play
+http://103.160.205.142:9999/stream/channelid/2146465952?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_galaxypremium_big.png" group-title="Shareext@MOVIES", Galaxy Prenium_play
+http://103.160.205.142:9999/stream/channelid/1870168068?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_new-mycinemaasia_big.png" group-title="Shareext@MOVIES", My Cinema Asia_play
+http://103.160.205.142:9999/stream/channelid/1188853172?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dramakorealbs_big.png" group-title="Shareext@MOVIES", Drama Korea LBS_play
+http://103.160.205.142:9999/stream/channelid/1014345169?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_blueantextreme_ver1.png" group-title="Shareext@MOVIES", Rock Action_play
+http://103.160.205.142:9999/stream/channelid/334911547?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_kix_big.png" group-title="Shareext@MOVIES", KIX_play
+http://103.160.205.142:9999/stream/channelid/67640739?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_hits_ver1.png" group-title="Shareext@MOVIES", Hits_play
+http://103.160.205.142:9999/stream/channelid/257768875?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_warner_big.png" group-title="Shareext@MOVIES", Warner_play
+http://103.160.205.142:9999/stream/channelid/1447515629?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_axn_big.png" group-title="Shareext@MOVIES", AXN_play
+http://103.160.205.142:9999/stream/channelid/974575193?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_blueant_big.png" group-title="Shareext@MOVIES", Rock Entertaiment_play
+http://103.160.205.142:9999/stream/channelid/1326284203?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_tvn_big.png" group-title="Shareext@MOVIES", TVN_play
+http://103.160.205.142:9999/stream/channelid/1534964178?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/kbsworld.png" group-title="Shareext@MOVIES", KBS World_play
+http://103.160.205.142:9999/stream/channelid/2013775560?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_kplus_big1.png" group-title="Shareext@MOVIES", K+_play
+http://103.160.205.142:9999/stream/channelid/1289706951?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_citradrama_big.png" group-title="Shareext@MOVIES", Citra Drama_play
+http://103.160.205.142:9999/stream/channelid/337466608?profile=pass
+
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Shareext@MOVIES",🇲🇨 .HBO(ktv2)
 http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101113
-
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Shareext@MOVIES",🇲🇨 .HBO Hits(ktv2)
 http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101115
-
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Shareext@MOVIES",🇲🇨 .HBO Family(ktv2)
 http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101114
-
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Shareext@MOVIES",🇲🇨 .HBO Signature(ktv2)
 http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101116
-
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Shareext@MOVIES",🇲🇨 .Cinemax(ktv2)
 http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101079
 
