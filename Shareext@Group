@@ -44,8 +44,6 @@ http://xtv.ooo:8080/0966717777/0966717777/350972
 http://xtv.ooo:8080/live/83212539/43153928/350972.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar|xtv_~
 http://xtv.ooo:8080/359052742/470428329/350972
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar.video.mytv
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar.(indihome)
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",MOJI_(opx)
@@ -60,12 +58,8 @@ https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",TRANS7(indihome)
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",RCTI_+_🇲🇨
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200742.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",🇲🇨 RCTI(ktv2)
 http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101181
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",INEWS_+_🇮🇩
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200744.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",🇲🇨 INEWS(ktv2)
 http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101132
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",🇲🇨 MNCTV(ktv2)
@@ -4237,14 +4231,6 @@ http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 
 
 
-#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",SCTV_🇲🇨
-http://xtv.ooo:8080/live/83212539/43153928/351030.ts
-#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",RCTI_🇲🇨
-http://xtv.ooo:8080/live/83212539/43153928/351023.ts
-#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",TVRI.SPORTS_🇲🇨
-http://xtv.ooo:8080/live/83212539/43153928/351052.ts
-#EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",SPORTSTARS_3_🇲🇨
-http://xtv.ooo:8080/live/83212539/43153928/350995.ts
 #EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",Hub.Premier.1 Fhd
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/148158.ts
 #EXTINF:-1   tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@OLAHRAGA•ASIAN",ASTRO SUPERSPORTS 1 HD 
@@ -4910,6 +4896,93 @@ http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/10389
 http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/66783
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="SHAREEXT@CANADA ➾ Sports",CA TSN 5 HD  
 http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/16131
+
+
+
+#EXTINF:-1 tvg-name="Sky Sports Football UK" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@SKY SPORT",Sky Sports Football UK
+https://mhdtv.co.in/daddy/stream.m3u8?id=35|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky Sports Arena UK" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@SKY SPORT",Sky Sports Arena UK
+https://mhdtv.co.in/daddy/stream.m3u8?id=36|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky Sports Action UK" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@SKY SPORT",Sky Sports Action UK
+https://mhdtv.co.in/daddy/stream.m3u8?id=37|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@SKY SPORT",Sky Sports Main Event
+https://mhdtv.co.in/daddy/stream.m3u8?id=38|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky sports Premier League" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@SKY SPORT",Sky sports Premier League
+https://mhdtv.co.in/daddy/stream.m3u8?id=130|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@SKY SPORT",Sky Sports F1 UK
+https://mhdtv.co.in/daddy/stream.m3u8?id=60|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky Sports Cricket" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@SKY SPORT",Sky Sports Cricket
+https://mhdtv.co.in/daddy/stream.m3u8?id=65|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky Sports Golf UK" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@SKY SPORT",Sky Sports Golf UK
+https://mhdtv.co.in/daddy/stream.m3u8?id=70|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky Sports Golf Italy" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@SKY SPORT",Sky Sports Golf Italy
+https://mhdtv.co.in/daddy/stream.m3u8?id=574|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky Sport MotoGP Italy" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@SKY SPORT",Sky Sport MotoGP Italy
+https://mhdtv.co.in/daddy/stream.m3u8?id=575|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky Sport Tennis Italy" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@SKY SPORT",Sky Sport Tennis Italy
+https://mhdtv.co.in/daddy/stream.m3u8?id=576|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky Sport F1 Italy" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@SKY SPORT",Sky Sport F1 Italy
+https://mhdtv.co.in/daddy/stream.m3u8?id=577|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky Sports News UK" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@SKY SPORT",Sky Sports News UK
+https://mhdtv.co.in/daddy/stream.m3u8?id=366|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky Sports MIX UK" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@SKY SPORT",Sky Sports MIX UK
+https://mhdtv.co.in/daddy/stream.m3u8?id=449|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky Sport Top Event DE" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@SKY SPORT",Sky Sport Top Event DE
+https://mhdtv.co.in/daddy/stream.m3u8?id=556|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky Sport Mix DE" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@SKY SPORT",Sky Sport Mix DE
+https://mhdtv.co.in/daddy/stream.m3u8?id=557|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 1 HD" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@SKY SPORT",Sky Sport Bundesliga 1 HD
+https://mhdtv.co.in/daddy/stream.m3u8?id=558|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky Sport Austria 1 HD" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@SKY SPORT",Sky Sport Austria 1 HD
+https://mhdtv.co.in/daddy/stream.m3u8?id=559|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="SportsNet New York (SNY)" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@SKY SPORT",SportsNet New York (SNY)
+https://mhdtv.co.in/daddy/stream.m3u8?id=759|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky Sport Football Italy" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@SKY SPORT",Sky Sport Football Italy
+https://mhdtv.co.in/daddy/stream.m3u8?id=460|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky Sport UNO Italy" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@SKY SPORT",Sky Sport UNO Italy
+https://mhdtv.co.in/daddy/stream.m3u8?id=461|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky Sport Arena Italy" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@SKY SPORT",Sky Sport Arena Italy
+https://mhdtv.co.in/daddy/stream.m3u8?id=462|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky Sports Racing UK" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@SKY SPORT",Sky Sports Racing UK
+https://mhdtv.co.in/daddy/stream.m3u8?id=554|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="Sky UNO Italy" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="SHAREEXT@SKY SPORT",Sky UNO Italy
+https://mhdtv.co.in/daddy/stream.m3u8?id=881|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+
+
+
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/b113905d39622090910a766c75af759d.png" group-title="SHAREEXT@SUPERSPORT",SS PSL
+https://mhdtv.co.in/daddy/stream.m3u8?id=413|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c01edd9028bd637cc5bdc8527acc3353.png" group-title="SHAREEXT@SUPERSPORT",SS ACTION
+https://mhdtv.co.in/daddy/stream.m3u8?id=420|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b51cde8be3defead0ca307c5be0c9453.png" group-title="SHAREEXT@SUPERSPORT",SS TENNIS
+https://mhdtv.co.in/daddy/stream.m3u8?id=423|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5b9d9ddbf95526d59c2fdd6725253646.png" group-title="SHAREEXT@SUPERSPORT",SS CRICKET
+https://mhdtv.co.in/daddy/stream.m3u8?id=368|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a8f0bee8d482364f261394bf7678fa0e.png" group-title="SHAREEXT@SUPERSPORT",SS GRANDSTAND
+https://mhdtv.co.in/daddy/stream.m3u8?id=412|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a20c92d13ce602ec324ff03b209ed0c2.png" group-title="SHAREEXT@SUPERSPORT",SS GOLF
+https://mhdtv.co.in/daddy/stream.m3u8?id=422|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/55a7ac3c8cdd7718d94d29b8ebc99f2e.png" group-title="SHAREEXT@SUPERSPORT",SS RUGBY
+https://mhdtv.co.in/daddy/stream.m3u8?id=421|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5440da812326351c34541cb82f6aac9e.png" group-title="SHAREEXT@SUPERSPORT",SS Football
+https://mhdtv.co.in/daddy/stream.m3u8?id=56|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/65bb8b6586b7fa25553a450811acce40.png" group-title="SHAREEXT@SUPERSPORT",SS Variety 1
+https://mhdtv.co.in/daddy/stream.m3u8?id=416|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/65bb8b6586b7fa25553a450811acce40.png" group-title="SHAREEXT@SUPERSPORT",SS Variety 2
+https://mhdtv.co.in/daddy/stream.m3u8?id=417|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/712a4054a884ffbeb3cac1bd3d4700da.png" group-title="SHAREEXT@SUPERSPORT",SS Variety 3
+https://mhdtv.co.in/daddy/stream.m3u8?id=418|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7816729fca81dcee05b869f633b8a84d.png" group-title="SHAREEXT@SUPERSPORT",SS Variety 4
+https://mhdtv.co.in/daddy/stream.m3u8?id=419|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="SuperSport LaLiga" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png" group-title="SHAREEXT@SUPERSPORT",SS LaLiga
+https://mhdtv.co.in/daddy/stream.m3u8?id=415|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="SuperSport Premier league" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2f8f23e2a35d5a4e9ea336d7b51fd98f.png" group-title="SHAREEXT@SUPERSPORT",SS Premier league
+https://mhdtv.co.in/daddy/stream.m3u8?id=414|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="SuperSport MaXimo 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/488fd8d34ea146bfaf82c12331f4223e.png" group-title="SHAREEXT@SUPERSPORT",SS MaXimo 1
+https://mhdtv.co.in/daddy/stream.m3u8?id=572|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+#EXTINF:-1 tvg-name="SuperSport Motorsport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="SHAREEXT@SUPERSPORT",SS Motorsport
+https://mhdtv.co.in/daddy/stream.m3u8?id=424|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+
 
 
 
