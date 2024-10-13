@@ -107,6 +107,30 @@ http://103.183.10.7:9900/stream/channelid/1783520043?profile=pass
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/162141
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="ShareExt@Relax",🇲🇨 SCTV.(ktv2)
 http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101188
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",TH: TruePremiere Football 1_TH
+http://filex.tv:8080/tahirbutt/003092/302733
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",TH: TruePremiere Football 2_TH
+http://filex.tv:8080/tahirbutt/003092/302734
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",TH: TrueSport 3_TH
+http://filex.tv:8080/tahirbutt/003092/302735
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",TH: TrueSport 4_TH
+http://filex.tv:8080/tahirbutt/003092/302736
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",TH: Thairath TV 32_TH
+http://filex.tv:8080/tahirbutt/003092/302732
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",PPTV HD 36_TH
+http://filex.tv:8080/tahirbutt/003092/302726
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",Astro SuperSport_MY
+http://filex.tv:8080/tahirbutt/003092/303503
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",Astro SuperSport 2_MY
+http://filex.tv:8080/tahirbutt/003092/303504
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",Astro SuperSport 3_MY
+http://filex.tv:8080/tahirbutt/003092/303505
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",Astro SuperSport 4
+http://filex.tv:8080/tahirbutt/003092/303506
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",Astro Arena_MY
+http://filex.tv:8080/tahirbutt/003092/303495
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",Astro Arena 2_MY
+http://filex.tv:8080/tahirbutt/003092/303496
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",BILLIARD TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
