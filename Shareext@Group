@@ -131,6 +131,38 @@ http://filex.tv:8080/tahirbutt/003092/303506
 http://filex.tv:8080/tahirbutt/003092/303495
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",Astro Arena 2_MY
 http://filex.tv:8080/tahirbutt/003092/303496
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",NOW.SPORTS-1_HK
+http://shareext@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=419538&extension=ts&play_
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",NOW.SPORTS-2_HK
+http://shareext@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=419539&extension=ts&play_
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",NOW.SPORTS-3_HK
+http://shareext@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=419540&extension=ts&play_
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",NOW.SPORTS-4_HK
+http://shareext@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=419541&extension=ts&play_
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",NOW.SPORTS-5_HK
+http://shareext@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=419542&extension=ts&play_
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",NOW.SPORTS-6_HK
+http://shareext@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=419543&extension=ts&play_
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",NOW.SPORTS-7_HK
+http://shareext@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=419544&extension=ts&play_
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",NOW.SPORTS-PRIME_HK
+http://shareext@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=419545&extension=ts&play_
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",NOW_PL_1
+http://shareext@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=419548&extension=ts&play_nowPL1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",NOW_PL_2
+http://shareext@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=419549&extension=ts&play_nowPL2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",NOW_PL_3
+http://shareext@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=419550&extension=ts&play_nowPL3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="ShareExt@Relax",SSC_1
+http://shareext@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=493108&extension=ts&play_ssc1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="ShareExt@Relax",SSC_4
+http://shareext@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=493105&extension=ts&play_ssc4
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="ShareExt@Relax",SSC_5
+http://shareext@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=493104&extension=ts&play_ssc5
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="ShareExt@Relax",SSC_EXT.2
+http://shareext@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=493110&extension=ts&play_ssc_extra2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="ShareExt@Relax",SSC_EXT.3
+http://shareext@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=493109&extension=ts&play_ssc_extra3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",BILLIARD TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
