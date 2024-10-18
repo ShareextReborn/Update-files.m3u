@@ -28,6 +28,8 @@ http://extraott.com/live/6945574629/7169628753/400200727.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",SPOTV_2.(ext)
 http://extraott.com/live/6945574629/7169628753/400200726.ts
 
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",ID:INDOSIAR-HD(ktp)
+http://ktpremium.xyz:2095/live/yv2268/22681081/73617.m3u8
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",ID:INDOSIAR-HD(filex2)
 http://filex.tv:8080/live/home007/1234/302264.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(filex)
@@ -75,6 +77,8 @@ https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",TRANS7(indihome)
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="ShareExt@Relax", RCTI.HD.(ktp)
+http://ktpremium.xyz:2095/live/yv2268/22681081/73606.m3u8
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="ShareExt@Relax", RCTI.HD.(ext)
 http://extraott.com/live/6945574629/7169628753/400200742.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="ShareExt@Relax", RCTI.SD.(ext)
@@ -89,6 +93,8 @@ http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101181
 http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101132
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",🇲🇨 INEWS(filex)
 http://filex.tv:8080/live/tahirbutt/003092/302265.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",🇲🇨 MNCTV HD(ktp)
+http://ktpremium.xyz:2095/live/yv2268/22681081/73616.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",🇲🇨 MNCTV(ext)
 http://extraott.com/live/6945574629/7169628753/400200743.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",🇲🇨 MNCTV(filex)
@@ -99,6 +105,8 @@ http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101155
 http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101112
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",🇲🇨 GTV(filex)
 http://filex.tv:8080/live/tahirbutt/003092/302247.ts
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="ShareExt@Relax",SCTV-HD_(ktp)
+http://ktpremium.xyz:2095/live/yv2268/22681081/73607.m3u8
 #EXTINF:-1  tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="ShareExt@Relax",SCTV-HD_(filex)
 http://filex.tv:8080/live/tahirbutt/003092/302301.ts
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="ShareExt@Relax",🇲🇨 SCTV.(3)
@@ -802,6 +810,27 @@ http://shareext@15.235.181.35/live.ts?channelId=278&uid=14505&deviceMac=00:1A:79
 http://shareext@15.235.181.35/live.ts?channelId=279&uid=14505&deviceMac=00:1A:79:A7:53:75&id=ptvsportshd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",STAR_SPORTS_TAMIL
 http://shareext@15.235.181.35/live.ts?channelId=275&uid=14505&deviceMac=00:1A:79:A7:53:75&id=starsports1tamil
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",MAO_TV_HD(cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=292&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",SONY SPORTS_1_HD(cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",SONY SPORTS_2_HD(cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",SONY SPORTS_3_HD(cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",STARSPORTS_1__TAMIL_HD(cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=295&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",STARSPORTS_1_HD(cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=293&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",STARSPORTS_2_HD(cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=298&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",STARSPORTS_SELECT_1_HD(cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=299&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",STARSPORTS_SELECT_2_HD(cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",TEN_SPORTS_HD(cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=301&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 1 (Sony Ten 1)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f7ec94d2b4c2e3b83bda0bae7c00ebc6.png" group-title="SHAREEXT@India ➾ Sports",SonySports Ten 1
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/16622
