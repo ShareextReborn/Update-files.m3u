@@ -28,6 +28,35 @@ http://extraott.com/live/6945574629/7169628753/400200727.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",SPOTV_2.(ext)
 http://extraott.com/live/6945574629/7169628753/400200726.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ASTRO BADMINTON 1 (ktp)
+http://ktpremium.xyz:2095/live/yv2268/22681081/1010678.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ASTRO BADMINTON 2 (ktp)
+http://ktpremium.xyz:2095/live/yv2268/22681081/1010679.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",TW: ELTRA SPORTS 1 (ktp)
+http://ktpremium.xyz:2095/live/yv2268/22681081/879250.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",TW: ELTRA SPORTS 2 (ktp)
+http://ktpremium.xyz:2095/live/yv2268/22681081/879251.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",TW: ELTRA SPORTS 3 (ktp)
+http://ktpremium.xyz:2095/live/yv2268/22681081/898411.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",TW: ELEVEN/DAZN 1 (ktp)
+http://ktpremium.xyz:2095/live/yv2268/22681081/910889.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",TW: ELEVEN/DAZN 2 (ktp)
+http://ktpremium.xyz:2095/live/yv2268/22681081/910890.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ASTRO FOOTBALL (ktp)
+http://ktpremium.xyz:2095/live/yv2268/22681081/26315.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ASTRO ARENA (ktp)
+http://ktpremium.xyz:2095/live/yv2268/22681081/913178.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ASTRO ARENA 2 (ktp)
+http://ktpremium.xyz:2095/live/yv2268/22681081/26306.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ARENA BOLA (ktp)
+http://ktpremium.xyz:2095/live/yv2268/22681081/912889.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ARENA BOLA 2 (ktp)
+http://ktpremium.xyz:2095/live/yv2268/22681081/912890.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ASTRO PREMIER LEAGUE (ktp)
+http://ktpremium.xyz:2095/live/yv2268/22681081/26312.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ASTRO PREMIER LEAGUE 2 (ktp)
+http://ktpremium.xyz:2095/live/yv2268/22681081/26313.m3u8
+
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",ID:INDOSIAR-HD(ktp)
 http://ktpremium.xyz:2095/live/yv2268/22681081/73617.m3u8
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",ID:INDOSIAR-HD(filex2)
@@ -874,6 +903,17 @@ http://tv.cloudcdn.me/live.ts?channelId=129287&uid=14505&deviceMac=00:1A:79:A7:5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/unifitv/inspirasi/
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
+
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",BOO (ktp)
+http://ktpremium.xyz:2095/live/yv2268/22681081/26011.m3u8
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",CERIA (ktp)
+http://ktpremium.xyz:2095/live/yv2268/22681081/26238.m3u8
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",AURA (ktp)
+http://ktpremium.xyz:2095/live/yv2268/22681081/908357.m3u8
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",WARNA (ktp)
+http://ktpremium.xyz:2095/live/yv2268/22681081/25867.m3u8
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",PRIMA (ktp)
+http://ktpremium.xyz:2095/live/yv2268/22681081/25862.m3u8
 
 #EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",BOO (Malay).(z)
 https://zozotv.xyz:443/live/lisshomestay/@1212/408.ts
