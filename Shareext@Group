@@ -5243,6 +5243,63 @@ http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1436449
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1436451
 
 
+#EXTINF:-1 tvg-ID="nova.bg" tvg-name="|BG| Nova Sport ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BULGARIA/NOVASPORT.png" group-title="SHAREEXT@BULGARIA || SPORTS", Nova Sport ᴴᴰ 
+http://521156237784.cdn-eag.com:8080/d0:d0:03:48:72:00/fxahfqidzx/30551 
+#EXTINF:-1 tvg-ID="diemasport.bg" tvg-name="|BG| Diema Sport" tvg-logo="http://138.199.27.237:8080/BULGARIA/DIEMASPORT.png" group-title="SHAREEXT@BULGARIA || SPORTS", Diema Sport 
+http://521156237784.cdn-eag.com:8080/d0:d0:03:48:72:00/fxahfqidzx/30559 
+#EXTINF:-1 tvg-ID="diemasport2.bg" tvg-name="|BG| Diema Sport 2" tvg-logo="http://138.199.27.237:8080/BULGARIA/DIEMASPORT2.png" group-title="SHAREEXT@BULGARIA || SPORTS", Diema Sport 2 
+http://521156237784.cdn-eag.com:8080/d0:d0:03:48:72:00/fxahfqidzx/30558 
+#EXTINF:-1 tvg-ID="" tvg-name="|BG| Diema Sport 3" tvg-logo="http://138.199.27.237:8080/BULGARIA/DIEMASPORT.png" group-title="SHAREEXT@BULGARIA || SPORTS", Diema Sport 3 
+http://521156237784.cdn-eag.com:8080/d0:d0:03:48:72:00/fxahfqidzx/883113 
+#EXTINF:-1 tvg-ID="" tvg-name="|BG| Auto Motor Sport ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Auto_motor_sport_channel_logo.png" group-title="SHAREEXT@BULGARIA || SPORTS", Auto Motor Sport ᴴᴰ 
+http://521156237784.cdn-eag.com:8080/d0:d0:03:48:72:00/fxahfqidzx/31728 
+#EXTINF:-1 tvg-ID="eurosport1.bg" tvg-name="|BG| Eurosport 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BULGARIA/EUROSPORT.png" group-title="SHAREEXT@BULGARIA || SPORTS", Eurosport 1 ᴴᴰ 
+http://521156237784.cdn-eag.com:8080/d0:d0:03:48:72:00/fxahfqidzx/31773 
+#EXTINF:-1 tvg-ID="eurosport2.bg" tvg-name="|BG| Eurosport 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BULGARIA/EUROSPORT2.png" group-title="SHAREEXT@BULGARIA || SPORTS", Eurosport 2 ᴴᴰ 
+http://521156237784.cdn-eag.com:8080/d0:d0:03:48:72:00/fxahfqidzx/31774 
+#EXTINF:-1 tvg-ID="maxsport1.bg" tvg-name="|BG| MAX Sport 1 ᴴᴰ" tvg-logo="https://maxsport.live/css/es_demo/maxsport/img/max-sport-1-logo-290x80px.png" group-title="SHAREEXT@BULGARIA || SPORTS", MAX Sport 1 ᴴᴰ 
+http://521156237784.cdn-eag.com:8080/d0:d0:03:48:72:00/fxahfqidzx/31801 
+#EXTINF:-1 tvg-ID="maxsport2.bg" tvg-name="|BG| MAX Sport 2 ᴴᴰ" tvg-logo="https://maxsport.live/css/es_demo/maxsport/img/max-sport-2-logo-290x80px.png" group-title="SHAREEXT@BULGARIA || SPORTS", MAX Sport 2 ᴴᴰ 
+http://521156237784.cdn-eag.com:8080/d0:d0:03:48:72:00/fxahfqidzx/31802 
+#EXTINF:-1 tvg-ID="maxsport3.bg" tvg-name="|BG| MAX Sport 3 ᴴᴰ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Max-sport-3-new-logo.png/revision/latest/scale-to-width-down/340?cb=20201123063959" group-title="SHAREEXT@BULGARIA || SPORTS", MAX Sport 3 ᴴᴰ 
+http://521156237784.cdn-eag.com:8080/d0:d0:03:48:72:00/fxahfqidzx/31803 
+#EXTINF:-1 tvg-ID="maxsport4.bg" tvg-name="|BG| MAX Sport 4 ᴴᴰ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Max-sport-4-new-logo.png/revision/latest/scale-to-width-down/340?cb=20201123064105" group-title="SHAREEXT@BULGARIA || SPORTS", MAX Sport 4 ᴴᴰ 
+http://521156237784.cdn-eag.com:8080/d0:d0:03:48:72:00/fxahfqidzx/31804 
+#EXTINF:-1 tvg-ID="" tvg-name="|BG| SPORT Plus ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BULGARIA/SPORTPLUS.png" group-title="SHAREEXT@BULGARIA || SPORTS", SPORT Plus ᴴᴰ 
+http://521156237784.cdn-eag.com:8080/d0:d0:03:48:72:00/fxahfqidzx/31814
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="IC| EUROSPORT" tvg-logo="http://138.199.27.237:8080/SCANDINAVIAN/EUROSPORT1HD.png" group-title="SHAREEXT@ICELAND || SPORTS", EUROSPORT 
+http://521156237784.cdn-eag.com:8080/d0:d0:03:48:72:00/fxahfqidzx/453438 
+#EXTINF:-1 tvg-ID="" tvg-name="IC| EUROSPORT 2" tvg-logo="http://138.199.27.237:8080/SCANDINAVIAN/EUROSPORT2.png" group-title="SHAREEXT@ICELAND || SPORTS", EUROSPORT 2 
+http://521156237784.cdn-eag.com:8080/d0:d0:03:48:72:00/fxahfqidzx/453439
+#EXTINF:-1 tvg-ID="stod2esport.is" tvg-name="IC| STÖÐ2 ESPORT" tvg-logo="https://2f3486c-az-westeurope-fsly.cdn.redbee.live/imagescaler002/nova/assets/f6a17354_2F3486c/posters/fe6c82cf60d7d88ccbcbcb7f425ae94d/fe6c82cf60d7d88ccbcbcb7f425ae94d.png?format=webp&w=600" group-title="SHAREEXT@ICELAND || SPORTS", STÖÐ2 ESPORT 
+http://521156237784.cdn-eag.com:8080/d0:d0:03:48:72:00/fxahfqidzx/453447
+#EXTINF:-1 tvg-ID="stod2sport2.is" tvg-name="IC| STÖÐ2 SPORT FHD" tvg-logo="https://2f3486c-az-westeurope-fsly.cdn.redbee.live/imagescaler002/nova/assets/f6a17354_2F3486c/posters/fe6c82cf60d7d88ccbcbcb7f425ae94d/fe6c82cf60d7d88ccbcbcb7f425ae94d.png?format=webp&w=600" group-title="SHAREEXT@ICELAND || SPORTS", STÖÐ2 SPORT FHD
+http://521156237784.cdn-eag.com:8080/d0:d0:03:48:72:00/fxahfqidzx/453441 
+#EXTINF:-1 tvg-ID="stod2sport2.is" tvg-name="IC| STÖÐ2 SPORT 2 FHD" tvg-logo="https://2f3486c-az-westeurope-fsly.cdn.redbee.live/imagescaler002/nova/assets/f6a17354_2F3486c/posters/fe6c82cf60d7d88ccbcbcb7f425ae94d/fe6c82cf60d7d88ccbcbcb7f425ae94d.png?format=webp&w=600" group-title="SHAREEXT@ICELAND || SPORTS", STÖÐ2 SPORT 2 FHD 
+http://521156237784.cdn-eag.com:8080/d0:d0:03:48:72:00/fxahfqidzx/453443 
+#EXTINF:-1 tvg-ID="stod2sport3.is" tvg-name="IC| STÖÐ2 SPORT 3 FHD" tvg-logo="https://2f3486c-az-westeurope-fsly.cdn.redbee.live/imagescaler002/nova/assets/262fccce_2F3486c/posters/1cc22a6a39a7906a9a0de1d0a09afada/1cc22a6a39a7906a9a0de1d0a09afada.png?format=webp&w=600" group-title="SHAREEXT@ICELAND || SPORTS", STÖÐ2 SPORT 3 FHD 
+http://521156237784.cdn-eag.com:8080/d0:d0:03:48:72:00/fxahfqidzx/453444 
+#EXTINF:-1 tvg-ID="stod2sport4.is" tvg-name="IC| STÖÐ2 SPORT 4 FHD" tvg-logo="https://2f3486c-az-westeurope-fsly.cdn.redbee.live/imagescaler002/nova/assets/d15bfcb4_2F3486c/posters/9a7cffc4df9d68ab1a9b556cd88e93b3/9a7cffc4df9d68ab1a9b556cd88e93b3.png?format=webp&w=600" group-title="SHAREEXT@ICELAND || SPORTS", STÖÐ2 SPORT 4 FHD 
+http://521156237784.cdn-eag.com:8080/d0:d0:03:48:72:00/fxahfqidzx/453445 
+#EXTINF:-1 tvg-ID="cula4.ie" tvg-name="IC| STÖÐ2 SPORT 5 FHD" tvg-logo="https://2f3486c-az-westeurope-fsly.cdn.redbee.live/imagescaler002/nova/assets/e64c1e3d_2F3486c/posters/36546604e8a29698dca34cfb1e7519fa/36546604e8a29698dca34cfb1e7519fa.png?format=webp&w=600" group-title="SHAREEXT@ICELAND || SPORTS", STÖÐ2 SPORT 5 FHD 
+http://521156237784.cdn-eag.com:8080/d0:d0:03:48:72:00/fxahfqidzx/453446 
+#EXTINF:-1 tvg-ID="stod2sport.is" tvg-name="IC| STÖÐ2 SPORT KYNNING" tvg-logo="https://varnish.tv.c.is/images/dbe3634870d20f18d04699b36b3e99ccd42c9908.png" group-title="SHAREEXT@ICELAND || SPORTS", STÖÐ2 SPORT KYNNING 
+http://521156237784.cdn-eag.com:8080/d0:d0:03:48:72:00/fxahfqidzx/453442  
+#EXTINF:-1 tvg-ID="siminnsport.is" tvg-name="IC| SÍMINN SPORT" tvg-logo="https://2f3486c-az-westeurope-fsly.cdn.redbee.live/imagescaler002/nova/assets/7eddc413_2F3486c/posters/f1bc60c8bc9149d1316e649acc35456e/f1bc60c8bc9149d1316e649acc35456e.jpg?format=webp&w=600" group-title="SHAREEXT@ICELAND || SPORTS", SÍMINN SPORT 
+http://521156237784.cdn-eag.com:8080/d0:d0:03:48:72:00/fxahfqidzx/453448 
+#EXTINF:-1 tvg-ID="siminnsport2.is" tvg-name="IC| SÍMINN SPORT 2" tvg-logo="https://2f3486c-az-westeurope-fsly.cdn.redbee.live/imagescaler002/nova/assets/bf199d51_2F3486c/posters/e9f413d213aaa44313e32b94cf62155c/e9f413d213aaa44313e32b94cf62155c.jpg?format=webp&w=600" group-title="SHAREEXT@ICELAND || SPORTS", SÍMINN SPORT 2 
+http://521156237784.cdn-eag.com:8080/d0:d0:03:48:72:00/fxahfqidzx/453449
+#EXTINF:-1 tvg-ID="siminnsport3.is" tvg-name="IC| SÍMINN SPORT 3" tvg-logo="https://2f3486c-az-westeurope-fsly.cdn.redbee.live/imagescaler002/nova/assets/e73fb419_2F3486c/posters/ea3efd5761defd2a5257a159adfbf58b/ea3efd5761defd2a5257a159adfbf58b.jpg?format=webp&w=600" group-title="SHAREEXT@ICELAND || SPORTS", SÍMINN SPORT 3 
+http://521156237784.cdn-eag.com:8080/d0:d0:03:48:72:00/fxahfqidzx/453450 
+#EXTINF:-1 tvg-ID="siminnsport4.is" tvg-name="IC| SÍMINN SPORT 4" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ICELAND || SPORTS", SÍMINN SPORT 4 
+http://521156237784.cdn-eag.com:8080/d0:d0:03:48:72:00/fxahfqidzx/453451
+#EXTINF:-1 tvg-ID="" tvg-name="IC| VODAFONE SPORT" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ICELAND || SPORTS", VODAFONE SPORT 
+http://521156237784.cdn-eag.com:8080/d0:d0:03:48:72:00/fxahfqidzx/453440
+
+
 
 #EXTINF:-1 tvg-ID="" tvg-name="ARG ▎FOX SPORT" tvg-logo="https://img.logo-cdn.cc/foxsportshd.png" group-title="SHAREEXT@SPORTS ▎▎ARGENTINA",FOX SPORT
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/101306
