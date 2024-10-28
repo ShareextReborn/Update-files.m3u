@@ -4695,14 +4695,14 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1365
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1364
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",Astro SuperSport 4 HD MY
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1161
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",ASTRO SUPERSPORTS 1 FHD MY
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/18623
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",ASTRO SUPERSPORTS 2 FHD MY
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/18622
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",ASTRO SUPERSPORTS 3 FHD MY
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/18621
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",ASTRO SUPERSPORTS 4 FHD MY
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/18620
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",ASTRO.SUPERSPORTS.1.FHD 
+http://exm3u.123tv.to:8080/live/PsV8ILRBYZ/XVPZxk62WC/18623.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",ASTRO.SUPERSPORTS.2.FHD 
+http://exm3u.123tv.to:8080/live/PsV8ILRBYZ/XVPZxk62WC/18622.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",ASTRO.SUPERSPORTS.3.FHD 
+http://exm3u.123tv.to:8080/live/PsV8ILRBYZ/XVPZxk62WC/18621.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",ASTRO.SUPERSPORTS.4.FHD 
+http://exm3u.123tv.to:8080/live/PsV8ILRBYZ/XVPZxk62WC/18620.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",SuperSport Kosova 1 FHD VIP AL
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/19449
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",SuperSport Kosova 2 FHD VIP AL
