@@ -5730,6 +5730,21 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",TRANS7_detik
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@DENS_TV" tvg-logo="https://www.dens.tv/images/channel-logo/118.jpg", .TVRI Sport
+http://op-group1-swiftservehd-1.dens.tv/h/h238/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TVRI_Sport|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+#EXTINF:-1 group-title="SHAREEXT@DENS_TV" tvg-logo="https://www.dens.tv/images/channel-logo/133.jpg", .KBS Korea (Free Trial)
+http://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KBS_Korea_Free_Trial-|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+#EXTINF:-1 group-title="SHAREEXT@DENS_TV" tvg-logo="https://www.dens.tv/images/channel-logo/134.jpg", .KBS World (Free Trial)
+http://op-group1-swiftservehd-1.dens.tv/h/h243/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KBS_World_Free_Trial-|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+#EXTINF:-1 group-title="SHAREEXT@DENS_TV" tvg-logo="https://www.dens.tv/images/channel-logo/130.jpg", .Dance TV
+http://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Dance_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+#EXTINF:-1 group-title="SHAREEXT@DENS_TV" tvg-logo="https://www.dens.tv/images/channel-logo/98.jpg", .Motorvision+
+http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Motorvision%2B|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+#EXTINF:-1 group-title="SHAREEXT@DENS_TV" tvg-logo="https://www.dens.tv/images/channel-logo/120.jpg", .MotoRRacing TV
+http://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=MotoRRacing_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+#EXTINF:-1 group-title="SHAREEXT@DENS_TV" tvg-logo="https://www.dens.tv/images/channel-logo/104.jpg", .FREEDOM
+http://op-group1-swiftservehd-1.dens.tv/h/h101/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FREEDOM|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",JAKTV_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservehd-1.dens.tv/h/h200/S4/mnf.m3u8
@@ -5928,6 +5943,23 @@ https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/29604
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/29899
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇲🇨 Drama Korea LBS
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/35769
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="Shareext@MOVIES",MY: BOO
+http://jmrk.xyz:3050/scott_olson@hotmail.com/2p7Ks4SPxP/605290
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="Shareext@MOVIES",MY: CCTV4
+http://jmrk.xyz:3050/scott_olson@hotmail.com/2p7Ks4SPxP/605292
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="Shareext@MOVIES",MY: Celestial
+http://jmrk.xyz:3050/scott_olson@hotmail.com/2p7Ks4SPxP/605293
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="Shareext@MOVIES",MY: Celestial Classic Movies
+http://jmrk.xyz:3050/scott_olson@hotmail.com/2p7Ks4SPxP/605291
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="Shareext@MOVIES",MY: HBO Family
+http://jmrk.xyz:3050/scott_olson@hotmail.com/2p7Ks4SPxP/605314
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="Shareext@MOVIES",MY: HBO Hits
+http://jmrk.xyz:3050/scott_olson@hotmail.com/2p7Ks4SPxP/605315
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="Shareext@MOVIES",MY: HBO Signature
+http://jmrk.xyz:3050/scott_olson@hotmail.com/2p7Ks4SPxP/605298
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="Shareext@MOVIES",MY: Showcase Movies
+http://jmrk.xyz:3050/scott_olson@hotmail.com/2p7Ks4SPxP/605340
 
 #EXTINF:-1 tvg-ID="" tvg-name="|ID|  Cinemachi Xtra HD" tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES",🇲🇨 Cinemachi Xtra HD
 http://521156237784.cdn-eag.com:2082/d0:d0:03:48:72:00/fxahfqidzx/1165895
