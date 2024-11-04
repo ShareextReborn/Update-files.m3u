@@ -576,9 +576,9 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sports
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",Spotv_VISION+
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 1" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS", beINSports 1 (4k) 
+#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 1" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS", spotv 1 (4k) 
 http://teratv4k.com:8880/286223017941/158348647463/412100 
-#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 3" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS", beINSports 3 (4k) 
+#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 3" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS", spotv 2 (4k) 
 http://teratv4k.com:8880/286223017941/158348647463/412101
 #EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS", Indosiar (4k) 
 http://teratv4k.com:8880/286223017941/158348647463/412169 
@@ -691,6 +691,34 @@ http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/1721.m3u8
 http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/1720.m3u8
 #EXTINF:-1  group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports" tvg-logo="https://i.ibb.co.com/6Wdds5z/astro-football.png", ASTRO Football
 http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/1719.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇲🇾 Arena 1
+http://jmrk.xyz:3050/walterskelton2000@gmail.com/MYmvaECCQx/609330
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇲🇾 Arena 2
+http://jmrk.xyz:3050/walterskelton2000@gmail.com/MYmvaECCQx/609331
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇲🇾 beINSports 1
+http://jmrk.xyz:3050/walterskelton2000@gmail.com/MYmvaECCQx/609332
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇲🇾 beINSports 2
+http://jmrk.xyz:3050/walterskelton2000@gmail.com/MYmvaECCQx/609333
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇲🇾 beINSports 3
+http://jmrk.xyz:3050/walterskelton2000@gmail.com/MYmvaECCQx/609334
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇲🇾 Eurosport
+http://jmrk.xyz:3050/walterskelton2000@gmail.com/MYmvaECCQx/609335
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇲🇾 SPOTV
+http://jmrk.xyz:3050/walterskelton2000@gmail.com/MYmvaECCQx/609336
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇲🇾 SPOTV 2
+http://jmrk.xyz:3050/walterskelton2000@gmail.com/MYmvaECCQx/609337
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇲🇾 SuperSport 1
+http://jmrk.xyz:3050/walterskelton2000@gmail.com/MYmvaECCQx/609338
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇲🇾 SuperSport 2
+http://jmrk.xyz:3050/walterskelton2000@gmail.com/MYmvaECCQx/609339
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇲🇾 SuperSport 3
+http://jmrk.xyz:3050/walterskelton2000@gmail.com/MYmvaECCQx/609340
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇲🇾 SuperSport 4
+http://jmrk.xyz:3050/walterskelton2000@gmail.com/MYmvaECCQx/609341
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇲🇾 SuperSport 5
+http://jmrk.xyz:3050/walterskelton2000@gmail.com/MYmvaECCQx/609342
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", MY: Astro Arena
 http://jmrk.xyz:3050/scott_olson@hotmail.com/2p7Ks4SPxP/605251
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", MY: Astro Cricket
