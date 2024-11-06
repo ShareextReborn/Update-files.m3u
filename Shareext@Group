@@ -7329,6 +7329,19 @@ http://epg.112114.xyz/douyu/7489563
 
 
 
+
+
+#EXTINF:-1  tvg-name="Rasi Movies" group-title="SHAREEXT@India ➾ Movie" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1518425091386983341611136.png",Rasi Movies
+http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/playlist.m3u8
+#EXTINF:-1  tvg-name="Rasi Hollywood" group-title="SHAREEXT@India ➾ Movie" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240408_0942518224615220455317164.png",Rasi Hollywood 
+http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
+#EXTINF:-1  tvg-name="Rasi TV" group-title="SHAREEXT@India ➾ Movie" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1437564760907591116562534.png",Rasi TV
+http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/playlist.m3u8
+#EXTINF:-1  tvg-name="Rasi Tamil" group-title="SHAREEXT@India ➾ Movie" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1503465921584096719606043.png",Rasi Tamil
+http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/playlist.m3u8
+#EXTINF:-1  tvg-name="Rasi Comedy" group-title="SHAREEXT@India ➾ Movie" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240408_0942127817851833380019717.png",Rasi Comedy
+http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CKWBHZJ/67d902f2-c127-464a-94c4-2226a1feb655.png" group-title="SHAREEXT@India ➾ Movie", Shemaroo Bollywood 
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qv9Zkh5/Picsart-24-03-04-10-33-53-304.png" group-title="SHAREEXT@India ➾ Movie",Bollywood Prime
