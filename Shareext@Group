@@ -47,7 +47,7 @@ http://opplex.tv:8080/3116580700/0700/350972
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(opx2)
 http://opplex.tv:8080/live/global/global/350972.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-Digital(4k)
-http://teratv4k.com:8880/live/286223017941/158348647463/412169.ts
+http://teratv4k.com:8880/live/0019022188685/625993338007/412169.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(VIP)
 http://vipgsiv.top:8080/VIP01370172667773999/2eae085d4ba9/34327
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -684,23 +684,24 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sports
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 1" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS", spotv 1 (4k) 
-http://teratv4k.com:8880/286223017941/158348647463/412100 
+http://teratv4k.com:8880/live/0019022188685/625993338007/412100.ts 
 #EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 3" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS", spotv 2 (4k) 
-http://teratv4k.com:8880/286223017941/158348647463/412101
+http://teratv4k.com:8880/live/0019022188685/625993338007/412101.ts
 #EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS", Indosiar (4k) 
-http://teratv4k.com:8880/286223017941/158348647463/412169 
+http://teratv4k.com:8880/live/0019022188685/625993338007/412169.ts
 #EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS", SCTV (4k) 
-http://teratv4k.com:8880/286223017941/158348647463/412224
+http://teratv4k.com:8880/live/0019022188685/625993338007/412224.ts
 #EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS", RCTI (4k) 
-http://teratv4k.com:8880/286223017941/158348647463/412218
+http://teratv4k.com:8880/live/0019022188685/625993338007/412218.ts
 #EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS", MNCTV (4k) 
-http://teratv4k.com:8880/286223017941/158348647463/412192 
+http://teratv4k.com:8880/live/0019022188685/625993338007/412192.ts 
 #EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS", Moji (4k)
-http://teratv4k.com:8880/286223017941/158348647463/412193
+http://teratv4k.com:8880/live/0019022188685/625993338007/412193.ts
 #EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS", INews (4k)
-http://teratv4k.com:8880/286223017941/158348647463/412170
+http://teratv4k.com:8880/live/0019022188685/625993338007/412170.ts
 #EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS", GTV (4k)
-http://teratv4k.com:8880/286223017941/158348647463/412151
+http://teratv4k.com:8880/live/0019022188685/625993338007/412151.ts
+
 #EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png", RCTI (VIP)
 http://vipgsiv.top:8080/VIP01370172667773999/2eae085d4ba9/34322
 #EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS", SCTV (VIP)
@@ -6340,27 +6341,28 @@ https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/29899
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/35769
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨: HBO 
-http://teratv4k.com:8880/286223017941/158348647463/412152 
+http://teratv4k.com:8880/live/0019022188685/625993338007/412152.ts 
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨: HBO Family 
-http://teratv4k.com:8880/286223017941/158348647463/412153 
+http://teratv4k.com:8880/live/0019022188685/625993338007/412153.ts 
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨: HBO Hits 
-http://teratv4k.com:8880/286223017941/158348647463/412154 
+http://teratv4k.com:8880/live/0019022188685/625993338007/412154.ts 
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨: HBO Signature 
-http://teratv4k.com:8880/286223017941/158348647463/412155
+http://teratv4k.com:8880/live/0019022188685/625993338007/412155.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Cinemax" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨: Cinemax 
-http://teratv4k.com:8880/286223017941/158348647463/412120
+http://teratv4k.com:8880/live/0019022188685/625993338007/412120.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 03" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨: Etv Bioskop 03 
-http://teratv4k.com:8880/286223017941/158348647463/412141 
+http://teratv4k.com:8880/live/0019022188685/625993338007/412141.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 04" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨: Etv Bioskop 04 
-http://teratv4k.com:8880/286223017941/158348647463/412142
+http://teratv4k.com:8880/live/0019022188685/625993338007/412142.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Chinese Drama" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨: Chinese Drama 
-http://teratv4k.com:8880/286223017941/158348647463/412118 
+http://teratv4k.com:8880/live/0019022188685/625993338007/412118.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: CinemaWorld" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨: CinemaWorld 
-http://teratv4k.com:8880/286223017941/158348647463/412119
+http://teratv4k.com:8880/live/0019022188685/625993338007/412119.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Citra Drama" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨: Citra Drama 
-http://teratv4k.com:8880/286223017941/158348647463/412123 
+http://teratv4k.com:8880/live/0019022188685/625993338007/412123.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Citra Entertainment" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Shareext@MOVIES",🇲🇨: Citra Entertainment 
-http://teratv4k.com:8880/286223017941/158348647463/412124
+http://teratv4k.com:8880/live/0019022188685/625993338007/412124.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="Shareext@MOVIES",🇲🇾: PREMIER 1
 http://jmrk.xyz:3050/scott_olson@hotmail.com/2p7Ks4SPxP/605257
