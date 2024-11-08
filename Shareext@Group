@@ -5795,38 +5795,74 @@ http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/101317
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TV 8.5 HD" tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",∆~TV 8.5 HD
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",TV 8 HD.
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",HT SPOR.
+https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",BEİNSPORTS 1 HD(cdnoo2)
+https://cdn002.varsportscdn1.lol/601/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",BEİNSPORTS 2 HD(cdnoo2)
+https://cdn002.varsportscdn1.lol/602/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",BEİNSPORTS 3 HD(cdnoo2)
+https://cdn002.varsportscdn1.lol/603/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",BEİNSPORTS 4 HD(cdnoo2)
+https://cdn002.varsportscdn1.lol/604/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",BEİNSPORTS 5 HD(cdnoo2)
+https://cdn002.varsportscdn1.lol/605/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",S SPORT HD(cdnoo2)
+https://cdn002.varsportscdn1.lol/607/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",S SPORT 2 HD(cdnoo2)
+https://cdn002.varsportscdn1.lol/608/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",SPOR SMART HD(cdnoo2)
+https://cdn002.varsportscdn1.lol/609/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",SPOR SMART 2 HD(cdnoo2)
+https://cdn002.varsportscdn1.lol/610/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",TABİİ SPOR(zorstream)
+https://100.zortstream.shop/tabii/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",TABİİ SPOR 1(zorstream)
+https://100.zortstream.shop/tabii1/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",TABİİ SPOR 2(zorstream)
+https://100.zortstream.shop/tabii2/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",TABİİ SPOR 3(zorstream)
+https://100.zortstream.shop/tabii3/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",TABİİ SPOR 4(zorstream)
+https://100.zortstream.shop/tabii4/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",TABİİ SPOR 5(zorstream)
+https://100.zortstream.shop/tabii5/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",∆~TV 8.5 HD
 http://50.7.218.122:8080/tv85/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FB TV HD" tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",∆~FB TV HD
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",∆~FB TV HD
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b996000_sltur.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBC SPORT" tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",∆~CBC SPORT
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",∆~CBC SPORT
 https://yayin8.canlitv.day/livetv/cbcsport.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",∆~A SPOR
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",∆~A SPOR
 http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR HD" tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",∆~TİVİBU SPOR HD
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",∆~TİVİBU SPOR HD
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/100384.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPOR SMART HD" tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",∆~SPORSMART HD
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",∆~SPORSMART HD
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/6396.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER" tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",∆~BEİNSPORTS HABER
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",∆~BEİNSPORTS HABER
 https://koprulu.global.ssl.fastly.net/ythls?kanal_id=UCPe9vNjHF1kEExT5kHwc7aw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 HD" tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",∆~BEİNSPORTS 1 HD
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",∆~BEİNSPORTS 1 HD
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/5849.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 HD" tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",∆~BEİNSPORTS 2 HD
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",∆~BEİNSPORTS 2 HD
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/104794.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 HD" tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",∆~BEİNSPORTS 3 HD
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",∆~BEİNSPORTS 3 HD
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/5858.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 HD" tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",∆~BEİNSPORTS 4 HD
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@Turkey ➾ Sports",∆~BEİNSPORTS 4 HD
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/5861.ts
-#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TRTSpor.tr" tvg-logo="https://i.ibb.co/GFP51yN/trt-spor.png" group-title="SHAREEXT@Turkey ➾ Sports",TRT SPOR~
+#EXTINF:-1  tvg-logo="https://i.ibb.co/GFP51yN/trt-spor.png" group-title="SHAREEXT@Turkey ➾ Sports",TRT SPOR~
 https://bozztv.com/inim03/live1/trtspor/playlist.m3u8
-#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TRTSpor.tr" tvg-logo="https://i.ibb.co/GFP51yN/trt-2-spor.png" group-title="SHAREEXT@Turkey ➾ Sports",TRT 2 SPOR~
+#EXTINF:-1  tvg-logo="https://i.ibb.co/GFP51yN/trt-2-spor.png" group-title="SHAREEXT@Turkey ➾ Sports",TRT 2 SPOR~
 https://bozztv.com/inim03/live1/trtspor2/playlist.m3u8
-#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TRTSpor.tr" tvg-logo="https://i.ibb.co/GFP51yN/trt-3-spor.png" group-title="SHAREEXT@Turkey ➾ Sports",TRT 3 SPOR~
+#EXTINF:-1  tvg-logo="https://i.ibb.co/GFP51yN/trt-3-spor.png" group-title="SHAREEXT@Turkey ➾ Sports",TRT 3 SPOR~
 https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
-#EXTINF:-1 tvg-name="SPORTS TV" tvg-id="SportsTV.tr" tvg-logo="https://i.ibb.co/R3q43dk/sportstv.png" group-title="SHAREEXT@Turkey ➾ Sports",SPORTS TV~
+#EXTINF:-1  tvg-logo="https://i.ibb.co/R3q43dk/sportstv.png" group-title="SHAREEXT@Turkey ➾ Sports",SPORTS TV~
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://sportstv.blutv.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="GS TV HD" tvg-id="GSTV.tr" tvg-logo="https://i.ibb.co/6RqMpGT/gs-tv.png" group-title="SHAREEXT@Turkey ➾ Sports",GS TV HD~
+#EXTINF:-1  tvg-logo="https://i.ibb.co/6RqMpGT/gs-tv.png" group-title="SHAREEXT@Turkey ➾ Sports",GS TV HD~
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
 
 
