@@ -34,6 +34,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=125431&uid=7238&deviceMac=00:1A:79:22
 #EXTINF:-1  group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", ASTRO~FOOTBALL FHD 
 http://tv.cloudcdn.me:80/live.ts?channelId=125432&uid=7238&deviceMac=00:1A:79:22:59:72
 
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(3)
+http://iptvtree.net:8080/live/9a9c2e24/d3850543/162138.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(xplayer1)
 http://xtvplayer.top:8080/live/MAZHAR44/44MAZHAR/350972.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(xplayer2)
@@ -555,7 +557,12 @@ https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 
 
 
-
+#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/media/s-logo/630_e.png" group-title="SHAREEXT@NOW||HUB~SPORTS", NOW Sports Prime
+https://live.hkdvb.com/hls/live/630.m3u8?token=680446446367498
+#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SHAREEXT@NOW||HUB~SPORTS", NOW Sports Premier League
+https://live.hkdvb.com/hls/live/621.m3u8?token=680446446367498
+#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/media/logo/632-dbg-e.png" group-title="SHAREEXT@NOW||HUB~SPORTS", NOW Sports 632 (La Liga)
+https://live.hkdvb.com/hls/live/632.m3u8?token=680446446367498
 
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW||HUB~SPORTS", Now PremierSports 1
 http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425332.ts
@@ -964,8 +971,9 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/18620
 
 
 
-
-#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",LOTUS MACAU
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="SHAREEXT@Television/MY/ASTRO",🇲🇾 Lotus Macau(3)
+http://iptvtree.net:8080/live/9a9c2e24/d3850543/304362.ts
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",LOTUS MACAU(cloud)
 http://tv.cloudcdn.me/live.ts?channelId=129287&uid=14505&deviceMac=00:1A:79:A7:53:75
 #EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",BOO (xyz)
 http://jmrk.xyz:3050/walterskelton2000@gmail.com/MYmvaECCQx/605290
@@ -5960,8 +5968,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="Shareext@MOVIES",🇲🇾 Lotus Macau
-
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="Shareext@MOVIES",🇲🇾 Lotus Macau(3)
+http://iptvtree.net:8080/live/9a9c2e24/d3850543/304362.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES", 🇲🇾 BOO
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37457.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇲🇾 SHOWCASE MOVIE
