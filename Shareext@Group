@@ -116,6 +116,8 @@ http://xtv.ooo:8080/live/Raza335/3355141450/350972.ts
 http://xtv.ooo:8080/owais1/12345/350972
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR__(xtv5)
 http://xtv.ooo:8080/live/Irfan36368/Irfan64689/350972.ts
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR__(xtv6)
+http://xtv.ooo:8080/live/jk8010801099/jk8010801099/350972.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR__x
 http://xtv.ooo:8080/live/35588981/18988553/350972.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD_(xtv1)
