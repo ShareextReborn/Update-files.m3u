@@ -95,7 +95,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=125431&uid=7238&deviceMac=00:1A:79:22
 http://tv.cloudcdn.me:80/live.ts?channelId=125432&uid=7238&deviceMac=00:1A:79:22:59:72
 
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(3)
-http://iptvtree.net:8080/live/9a9c2e24/d3850543/162138.ts
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/162138
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(xplayer1)
 http://xtvplayer.top:8080/live/MAZHAR44/44MAZHAR/350972.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(xplayer2)
