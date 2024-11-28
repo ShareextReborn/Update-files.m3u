@@ -4273,6 +4273,30 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/60896d5647a23d1949
 https://director.streaming.telia.com/tvm-packager-prod/group2/60ae45e51522bd66f469461b/manifest.mpd
 
 
+
+
+
+#EXTINF:-1  group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", 🇺🇸 BEINSPORTS 1 HD
+http://shacktv.com:8080/803comb/4159355/104701
+#EXTINF:-1  group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", 🇺🇸 BEINSPORTS 2 HD
+http://shacktv.com:8080/803comb/4159355/104700
+#EXTINF:-1  group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", 🇺🇸 BEINSPORTS 3 HD
+http://shacktv.com:8080/803comb/4159355/104699
+#EXTINF:-1  group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", 🇺🇸 BEINSPORTS 4 HD
+http://shacktv.com:8080/803comb/4159355/104698
+#EXTINF:-1  group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", 🇺🇸 BEINSPORTS 5 HD
+http://shacktv.com:8080/803comb/4159355/104697
+#EXTINF:-1  group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", 🇺🇸 BEINSPORTS 6 HD
+http://shacktv.com:8080/803comb/4159355/104696
+#EXTINF:-1  group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", 🇺🇸 BEINSPORTS 7 HD
+http://shacktv.com:8080/803comb/4159355/104695
+#EXTINF:-1  group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", 🇺🇸 BEINSPORTS 8 HD
+http://shacktv.com:8080/803comb/4159355/104694
+#EXTINF:-1  group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", bh🇺🇸 BEINSPORTS 9 HD
+http://shacktv.com:8080/803comb/4159355/104693
+#EXTINF:-1  group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", 🇺🇸 BEINSPORTS 10 HD
+http://shacktv.com:8080/803comb/4159355/104692
+
 #EXTINF:-1  group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEINSPORTS NEWS
 http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/290371
 #EXTINF:-1  group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEINSPORTS HD
@@ -4627,6 +4651,36 @@ http://extraott.com:80/live/3969424152/3723991250/400193259.m3u8
 http://extraott.com:80/live/3969424152/3723991250/22.m3u8
 
 
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels", ∆| BEINSPORTS HD
+http://shacktv.com:8080/803comb/4159355/171
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels", ∆| CBS SPORTS NETWORK HD
+http://shacktv.com:8080/803comb/4159355/230
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels", ∆| NBC SPORTS BAY AREA HD
+http://shacktv.com:8080/803comb/4159355/61120
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels", ∆| NBC SPORTS BOSTON HD
+http://shacktv.com:8080/803comb/4159355/61119
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels", ∆| NBC SPORTS CALIFORNIA HD
+http://shacktv.com:8080/803comb/4159355/61118
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels", ∆| NBC SPORTS CHICAGO HD
+http://shacktv.com:8080/803comb/4159355/61117
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels", ∆| NBC SPORTS NETWORK HD
+http://shacktv.com:8080/803comb/4159355/61116
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels", ∆| NBC SPORTS NORTHWEST HD
+http://shacktv.com:8080/803comb/4159355/61115
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels", ∆| NBC SPORTS PHILADELPHIA HD
+http://shacktv.com:8080/803comb/4159355/61114
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels", ∆| NBCSN
+http://shacktv.com:8080/803comb/4159355/163
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels", ∆| NFL NETWORK HD
+http://shacktv.com:8080/803comb/4159355/204
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels", ∆| NFL NOW HD
+http://shacktv.com:8080/803comb/4159355/203
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels", ∆| NFL REDZONE HD
+http://shacktv.com:8080/803comb/4159355/135
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels", ∆| NHL NETWORK HD
+http://shacktv.com:8080/803comb/4159355/202
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels",USA |ESPN (stream)
 http://streamsy.online:2999/korrigan17/25AUFBdqOi/133
@@ -5505,7 +5559,7 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350752&exte
 #EXTINF:-1  group-title="SHAREEXT@SUPERSPORTS√√AFRICAN" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety1.png",SuperSports VARIETY 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350749&extension=ts
 #EXTINF:-1  group-title="SHAREEXT@SUPERSPORTS√√AFRICAN" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety2.png",SuperSports VARIETY 2
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350753&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350753&extension=ts.
 #EXTINF:-1  group-title="SHAREEXT@SUPERSPORTS√√AFRICAN" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety3.png",SuperSports VARIETY 3
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350754&extension=ts
 #EXTINF:-1  group-title="SHAREEXT@SUPERSPORTS√√AFRICAN" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety4.png",SuperSports VARIETY 4
@@ -5874,6 +5928,39 @@ http://supersonictv.live:8080/686554/799757/40451
 http://supersonictv.live:8080/686554/799757/40452
 #EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",[UK] BoxNation HD
 http://supersonictv.live:8080/686554/799757/40439
+
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH", 🇬🇧 | EUROSPORTS 1 HD
+http://shacktv.com:8080/803comb/4159355/21731
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH", 🇬🇧 | EUROSPORTS 2 HD
+http://shacktv.com:8080/803comb/4159355/21730
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH", 🇬🇧 | RACING TV HD
+http://shacktv.com:8080/803comb/4159355/21729
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH", 🇬🇧 | MUTV HD
+http://shacktv.com:8080/803comb/4159355/21777
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH", 🇬🇧 | TNT SPORTS 1 FHD
+http://shacktv.com:8080/803comb/4159355/21812
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH", 🇬🇧 | TNT SPORTS 2 FHD
+http://shacktv.com:8080/803comb/4159355/21811
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH", 🇬🇧 | TNT SPORTS 3 FHD
+http://shacktv.com:8080/803comb/4159355/21810
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH", 🇬🇧 | TNT SPORTS 4 HD
+http://shacktv.com:8080/803comb/4159355/21818
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH", 🇬🇧 | SKY SPORTS ACTION HD
+http://shacktv.com:8080/803comb/4159355/21795
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH", 🇬🇧 | SKY SPORTS+
+http://shacktv.com:8080/803comb/4159355/21716
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH", 🇬🇧 | SKY SPORTS CRICKET HD
+http://shacktv.com:8080/803comb/4159355/21796
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH", 🇬🇧 | SKY SPORTS F1 HD
+http://shacktv.com:8080/803comb/4159355/21792
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH", 🇬🇧 | SKY SPORTS FOOTBALL
+http://shacktv.com:8080/803comb/4159355/21717
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH", 🇬🇧 | SKY SPORTS GOLF
+http://shacktv.com:8080/803comb/4159355/21788
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH", 🇬🇧 | SKY SPORTS MIX HD
+http://shacktv.com:8080/803comb/4159355/21785
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH", 🇬🇧 | SKY SPORTS NEWS HD
+http://shacktv.com:8080/803comb/4159355/21784
 
 #EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",SkySPORTS MAINEVENT (xyz)
 http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/243192 
@@ -7147,13 +7234,45 @@ https://cdn09jtedge.indihometv.com/joss/133/galaxypremium/index.m3u8
 #EXTINF:-1 group-title="Shareext@MOVIES"  tvg-logo="https://images.indihometv.com/logo_galaxy_small.png",🇲🇨 GALAXY
 https://cdn09jtedge.indihometv.com/joss/133/galaxy/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES", 🇬🇧 | SKY CINEMA ACTION HD
+http://shacktv.com:8080/803comb/4159355/21809
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES", 🇬🇧 | SKY CINEMA ANIMATION FHD
+http://shacktv.com:8080/803comb/4159355/21711
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES", 🇬🇧 | SKY CINEMA COMEDY FHD
+http://shacktv.com:8080/803comb/4159355/21712
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES", 🇬🇧 | SKY CINEMA DISNEY HD
+http://shacktv.com:8080/803comb/4159355/21807
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES", 🇬🇧 | SKY CINEMA DRAMA HD
+http://shacktv.com:8080/803comb/4159355/21806
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES", 🇬🇧 | SKY CINEMA FAMILY HD
+http://shacktv.com:8080/803comb/4159355/21805
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES", 🇬🇧 | SKY CINEMA GREATS HD
+http://shacktv.com:8080/803comb/4159355/21799
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES", 🇬🇧 | SKY CINEMA HITS HD
+http://shacktv.com:8080/803comb/4159355/21803
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES", 🇬🇧 | SKY CINEMA PREMIERE HD
+http://shacktv.com:8080/803comb/4159355/21802
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES", 🇬🇧 | SKY CINEMA SCI-FI HORROR HD
+http://shacktv.com:8080/803comb/4159355/21801
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES", 🇬🇧 | SKY CINEMA SELECT FHD
+http://shacktv.com:8080/803comb/4159355/21704
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES", 🇬🇧 | SKY CINEMA THRILLER HD
+http://shacktv.com:8080/803comb/4159355/21798
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES", 🇺🇸 | CINEMAX ACTION MAX
+http://shacktv.com:8080/803comb/4159355/265
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES", 🇺🇸 | CINEMAX HD
+http://shacktv.com:8080/803comb/4159355/229
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES", 🇺🇸 | CINEMAX MORE MAX
+http://shacktv.com:8080/803comb/4159355/267
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES", 🇺🇸 | CINEMAX MOREMAX HD
+http://shacktv.com:8080/803comb/4159355/228
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇬🇧 My time Movies Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇬🇧 FilmRise Family
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇬🇧 Rakuten Action Movies
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 CUID="1528" tvg-chno="null" tvg-name="MOVIE BOX" group-title="Shareext@MOVIES",🇵🇭 MOVIE BOX
 https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
 #EXTINF:-1 CUID="1529" tvg-chno="null" tvg-name="MOVIE PLUS" group-title="Shareext@MOVIES",🇵🇭 MOVIE PLUS
