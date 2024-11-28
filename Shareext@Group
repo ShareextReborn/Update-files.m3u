@@ -4292,7 +4292,7 @@ http://shacktv.com:8080/803comb/4159355/104696
 http://shacktv.com:8080/803comb/4159355/104695
 #EXTINF:-1  group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", 🇺🇸 BEINSPORTS 8 HD
 http://shacktv.com:8080/803comb/4159355/104694
-#EXTINF:-1  group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", bh🇺🇸 BEINSPORTS 9 HD
+#EXTINF:-1  group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", 🇺🇸 BEINSPORTS 9 HD
 http://shacktv.com:8080/803comb/4159355/104693
 #EXTINF:-1  group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", 🇺🇸 BEINSPORTS 10 HD
 http://shacktv.com:8080/803comb/4159355/104692
@@ -4364,25 +4364,25 @@ http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/548148
 #EXTINF:-1  group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",SSC EXTRA 3 HD
 http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/548149
 
-#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beINSports1.qa" tvg-logo="https://media.tv4.live/beINSports1.qa.png" group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",beIN 1 (ktv)
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png " group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",beIN 1 (ktv)
 http://ktv.im:8080/kk56712/kk12345/49522
-#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beINSports2.qa" tvg-logo="https://media.tv4.live/beINSports2.qa.png" group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",beIN 2 (ktv)
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png " group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",beIN 2 (ktv)
 http://ktv.im:8080/kk56712/kk12345/49523
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beINSports3.qa" tvg-logo="https://media.tv4.live/beINSports3.qa.png" group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",beIN 3 (ktv)
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png " group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",beIN 3 (ktv)
 http://ktv.im:8080/kk56712/kk12345/49524
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beINSports4.qa" tvg-logo="https://media.tv4.live/beINSports4.qa.png" group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",beIN 4 (ktv)
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png " group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",beIN 4 (ktv)
 http://ktv.im:8080/kk56712/kk12345/49525
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beINSports5.qa" tvg-logo="https://media.tv4.live/beINSports5.qa.png" group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",beIN 5 (ktv)
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png " group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",beIN 5 (ktv)
 http://ktv.im:8080/kk56712/kk12345/49526
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beINSports6.qa" tvg-logo="https://media.tv4.live/beINSports6.qa.png" group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",beIN 6 (ktv)
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png " group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",beIN 6 (ktv)
 http://ktv.im:8080/kk56712/kk12345/49527
-#EXTINF:-1 group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 7 (ktv)
+#EXTINF:-1 group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 7 (ktv)
 http://ktv.im:8080/kk56712/kk12345/49528
-#EXTINF:-1 group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 8 (ktv)
+#EXTINF:-1 group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 8 (ktv)
 http://ktv.im:8080/kk56712/kk12345/49529
-#EXTINF:-1 group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 9 (ktv)
+#EXTINF:-1 group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 9 (ktv)
 http://ktv.im:8080/kk56712/kk12345/49530
-#EXTINF:-1 group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN afc (ktv)
+#EXTINF:-1 group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN afc (ktv)
 http://ktv.im:8080/kk56712/kk12345/49531
 
 
