@@ -6616,6 +6616,21 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/1560
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/thrill.png" group-title="Shareext@MOVIES", Thrill(pft)
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1587
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES",{BEIN} FOX MOVIES ACTION 
+http://ktv.im:8080/fullpack15months354/213907856/51177
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES",{beIN} DRAMA 
+http://ktv.im:8080/fullpack15months354/213907856/51172 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES",{BEIN} STAR MOVIES HD 
+http://ktv.im:8080/fullpack15months354/213907856/51173
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES",{BEIN} MOVIES HD1 
+http://ktv.im:8080/fullpack15months354/213907856/51166 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES",{BEIN} MOVIES HD2 
+http://ktv.im:8080/fullpack15months354/213907856/51167 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES",{BEIN} MOVIES HD3 
+http://ktv.im:8080/fullpack15months354/213907856/51168 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES",{BEIN} MOVIES HD4 
+http://ktv.im:8080/fullpack15months354/213907856/51169
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES",Movies TV ENGLISH
 https://linear-797.frequency.stream/mt/studio/797/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES",Movies channel English
@@ -7679,35 +7694,162 @@ https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
 https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="DaAi1.tw" tvg-name="大愛一臺" tvg-logo="http://www.daai.tv/images/logo.png" group-title="SHAREEXT@TAIWAN~大爱电视",大爱1_daaitv 2
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",HBO HD
+http://125.227.210.55:8153/VideoInput/play.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",緯來體育臺
+http://125.227.210.55:8155/VideoInput/play.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",三立臺灣臺
+http://125.227.210.55:8160/VideoInput/play.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",Bloomberg
+http://125.227.210.55:8161/VideoInput/play.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",三立新聞
+http://125.227.210.55:8162/VideoInput/play.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",BBC new
+http://125.227.210.55:8165/VideoInput/play.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",CNN new
+http://125.227.210.55:8166/VideoInput/play.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",CN卡通
+http://125.227.210.55:8167/VideoInput/play.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",JTV
+http://125.227.210.55:8169/VideoInput/play.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",TVBS新聞臺
+http://125.227.210.55:8186/VideoInput/play.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",TVBS歡樂臺
+http://125.227.210.55:8187/VideoInput/play.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",TVBS HD
+http://125.227.210.55:8188/VideoInput/play.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",TV5臺
+http://125.227.210.55:15533/VideoInput/play.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",YTN臺
+http://125.227.210.55:17478/VideoInput/play.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",NHK JAPAN臺
+http://125.227.210.55:35802/VideoInput/play.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",PBS臺
+http://125.227.210.55:36950/VideoInput/play.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",鳳凰HD臺
+http://125.227.210.55:39004/VideoInput/play.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",DW臺
+http://125.227.210.55:42534/VideoInput/play.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",BBC臺
+http://125.227.210.55:44350/VideoInput/play.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",NHK BSP
+http://125.227.210.55:60116/VideoInput/play.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",KOREA臺
+http://125.227.210.55:48553/VideoInput/play.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",(大街)民視
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",(大街)台視
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",(大街)台台
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",(大街)華視
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",TVBS新聞
+rtmp://f13h.mine.nu/sat/tv551
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",TVBS歡樂
+rtmp://f13h.mine.nu/sat/tv421
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",東森財經新聞
+rtmp://f13h.mine.nu/sat/tv571
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",東森超視
+rtmp://f13h.mine.nu/sat/tv521
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",緯來育樂
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",緯來體育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",ELEVEN 1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",ELEVEN 2
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",緯來日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",MOMO綜合
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",ELTA體育 2
+rtmp://f13h.mine.nu/sat/md011
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",ELEVEN.2
+rtmp://f13h.mine.nu/sat/md021
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",博斯網球
+rtmp://f13h.mine.nu/sat/md031
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",ELTA體育 3
+rtmp://f13h.mine.nu/sat/md041
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",ELTA體育 1
+rtmp://f13h.mine.nu/sat/md051
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",CINEMAX
+http://125.227.210.55:8151/VideoInput/play.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",CNBC
+http://125.227.210.55:8152/VideoInput/play.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",Discovery
+http://125.227.210.55:8154/VideoInput/play.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",(大街)中視
+rtmp://220.130.201.73/sat/tv091
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",(大街)華視
+rtmp://220.130.201.73/sat/tv111
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",(大街)臺視
+rtmp://220.130.201.73/sat/tv071
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",(大街)民視
+rtmp://220.130.201.73/sat/tv051
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",(大街)緯來體育
+rtmp://220.130.201.73/sat/tv721
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",(大街)緯來育樂
+rtmp://220.130.201.73/sat/tv701
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",(大街)緯來日本
+rtmp://220.130.201.73/sat/tv771
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",(大街)東森超視
+rtmp://220.130.201.73/sat/tv331
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",(大街)八大戲劇
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",(大街)三立戲劇
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",(大街)中華小當家
+http://61.221.215.25:8800/hls/40/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",(大街)AMC電影臺
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",(大街)鳳凰資訊
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",(大街)緯來精彩
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",(大街)49號
+http://61.221.215.25:8800/hls/49/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",(大街)探索亞洲
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",(大街)八大第一
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",(大街)動物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",(大街)八大綜合
+http://61.221.215.25:8800/hls/56/index.m3u8
+
+#EXTINF:-1 tvg-id="DaAi1.tw" tvg-name="大愛一臺" tvg-logo="http://www.daai.tv/images/logo.png" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",大爱1_daaitv 2
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-id="DaAi2.tw" tvg-name="大愛二臺" tvg-logo="https://www.cns.net.tw/web/upload/20141017171303RmzVY9Z.png" group-title="SHAREEXT@TAIWAN~大爱电视",大爱2_daaitv 2
+#EXTINF:-1 tvg-id="DaAi2.tw" tvg-name="大愛二臺" tvg-logo="https://www.cns.net.tw/web/upload/20141017171303RmzVY9Z.png" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",大爱2_daaitv 2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@TAIWAN~大爱电视",人間衛視 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",人間衛視 
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@TAIWAN~大爱电视",東森美洲 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",東森美洲 
 http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@TAIWAN~大爱电视",東森美洲 HD 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",東森美洲 HD 
 http://38.64.72.148:80/hls/modn/list/2026/chunklist1.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@TAIWAN~大爱电视",TVBS-Asia 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",TVBS-Asia 
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@TAIWAN~大爱电视",華語電視1 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",華語電視1 
 http://38.64.72.148:80/hls/modn/list/4001/chunklist1.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@TAIWAN~大爱电视",華語電視2 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",華語電視2 
 http://38.64.72.148:80/hls/modn/list/4002/chunklist1.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@TAIWAN~大爱电视",華語電視3 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",華語電視3 
 http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@TAIWAN~大爱电视",新唐人大?台 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",新唐人大?台 
 http://cnhls.ntdtv.com/cn/live800/playlist.m3u8  
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@TAIWAN~大爱电视",TVBS新聞 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",TVBS新聞 
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@TAIWAN~大爱电视",台視新聞 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",台視新聞 
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@TAIWAN~大爱电视",華語電視 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",華語電視 
 http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@TAIWAN~大爱电视",華語電視 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",華語電視 
 http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@TAIWAN~大爱电视",民視新聞 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",民視新聞 
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 
 
