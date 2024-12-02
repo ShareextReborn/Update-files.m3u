@@ -114,6 +114,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=125432&uid=7238&deviceMac=00:1A:79:22
 
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(pft)televizo
 http://perfecttv.net:8080/live/Perfecttv/Perfecttv/1604.ts
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(xtvplayer)
+http://xtvplayer.top:8080/live/sanushop/12345678/350972.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(xplayer1)
 http://xtvplayer.top:8080/live/MAZHAR44/44MAZHAR/350972.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(xplayer2)
@@ -6581,39 +6583,39 @@ https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/hbosingnature.png" group-title="Shareext@MOVIES", HBO Signature(pft)
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/hbosingnature.png" group-title="Shareext@MOVIES", HBO Signature(pft)televizo
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1558
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/qj.png" group-title="Shareext@MOVIES", QJ(pft)
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/qj.png" group-title="Shareext@MOVIES", QJ(pft)televizo
 http://perfecttv.net:8080/Perfecttv/Perfecttv/11
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/flixhd.png" group-title="Shareext@MOVIES", &flix(pft)
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/flixhd.png" group-title="Shareext@MOVIES", &flix(pft)televizo
 http://perfecttv.net:8080/Perfecttv/Perfecttv/12
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/privehd.png" group-title="Shareext@MOVIES", &Prive(pft)
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/privehd.png" group-title="Shareext@MOVIES", &Prive(pft)televizo
 http://perfecttv.net:8080/Perfecttv/Perfecttv/13
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/starmovies.png" group-title="Shareext@MOVIES", StarMovies(pft)
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/starmovies.png" group-title="Shareext@MOVIES", StarMovies(pft)televizo
 http://perfecttv.net:8080/Perfecttv/Perfecttv/14
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/sonypix.png" group-title="Shareext@MOVIES", SonyPix(pft)
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/sonypix.png" group-title="Shareext@MOVIES", SonyPix(pft)televizo
 http://perfecttv.net:8080/Perfecttv/Perfecttv/16
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/mycinemaasia.png" group-title="Shareext@MOVIES", MY CINEMA ASIA(pft)
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/mycinemaasia.png" group-title="Shareext@MOVIES", MY CINEMA ASIA(pft)televizo
 http://perfecttv.net:8080/Perfecttv/Perfecttv/17
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/cinemachi.png" group-title="Shareext@MOVIES", Chinemachi(pft)
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/cinemachi.png" group-title="Shareext@MOVIES", Chinemachi(pft)televizo
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1551
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/cinemachiaction.png" group-title="Shareext@MOVIES", Cinemachi Action(pft)
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/cinemachiaction.png" group-title="Shareext@MOVIES", Cinemachi Action(pft)televizo
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1552
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/cinemachimax.png" group-title="Shareext@MOVIES", Cinemachi Max(pft)
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/cinemachimax.png" group-title="Shareext@MOVIES", Cinemachi Max(pft)televizo
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1553
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/cinemachixtra.png" group-title="Shareext@MOVIES", Cinemachi Xtra(pft)
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/cinemachixtra.png" group-title="Shareext@MOVIES", Cinemachi Xtra(pft)televizo
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1554
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/kix.png" group-title="Shareext@MOVIES", KIX(pft)
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/kix.png" group-title="Shareext@MOVIES", KIX(pft)televizo
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1555
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/galaxy.png" group-title="Shareext@MOVIES", Galaxy(pft)
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/galaxy.png" group-title="Shareext@MOVIES", Galaxy(pft)televizo
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1556
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/galaxypremium.png" group-title="Shareext@MOVIES", Galaxy Premium(pft)
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/galaxypremium.png" group-title="Shareext@MOVIES", Galaxy Premium(pft)televizo
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1557
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/mycinema.png" group-title="Shareext@MOVIES", MY CINEMA(pft)
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/mycinema.png" group-title="Shareext@MOVIES", MY CINEMA(pft)televizo
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1559
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/myfamilycinema.png" group-title="Shareext@MOVIES", MY Family Cinema(pft)
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/myfamilycinema.png" group-title="Shareext@MOVIES", MY Family Cinema(pft)televizo
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1560
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/thrill.png" group-title="Shareext@MOVIES", Thrill(pft)
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/thrill.png" group-title="Shareext@MOVIES", Thrill(pft)televizo
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1587
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES",{BEIN} FOX MOVIES ACTION 
