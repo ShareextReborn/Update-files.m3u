@@ -1009,10 +1009,30 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
 
 
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@THAILAND ➾ Sports",TruePremier Football 1(xtv) 
+http://xtv.ooo:8080/sanushop/12345678/354582 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@THAILAND ➾ Sports",TruePremier Football 2 (xtv) 
+http://xtv.ooo:8080/sanushop/12345678/354583 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@THAILAND ➾ Sports",TrueSport 4 (xtv) 
+http://xtv.ooo:8080/sanushop/12345678/354584 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@THAILAND ➾ Sports",True Vision NBA (xtv) 
+http://xtv.ooo:8080/sanushop/12345678/354585
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@THAILAND ➾ Sports",PH:Premier Tennis (xtv) 
+http://xtv.ooo:8080/sanushop/12345678/384012 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@THAILAND ➾ Sports",PH:Premier Sports (xtv) 
+http://xtv.ooo:8080/sanushop/12345678/384011 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@THAILAND ➾ Sports",PH:PBA Rush (xtv) 
+http://xtv.ooo:8080/sanushop/12345678/384010 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@THAILAND ➾ Sports",PH:TAP Sports (xtv) 
+http://xtv.ooo:8080/sanushop/12345678/384017
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@THAILAND ➾ Sports",PH:One Sports (xtv) 
+http://xtv.ooo:8080/sanushop/12345678/384009
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@THAILAND ➾ Sports",PH:One Sports + (xtv) 
+http://xtv.ooo:8080/sanushop/12345678/352626
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@THAILAND ➾ Sports",PH:beIN Sports 1 (xtv) 
+http://xtv.ooo:8080/sanushop/12345678/352605
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PPTV HD TH" tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@THAILAND ➾ Sports",PPTV HD(A)
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@THAILAND ➾ Sports",PPTV HD(A)
 http://krooztv.live:80/live/solo/solo/663777.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="PPTV TH" tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@THAILAND ➾ Sports",PPTV TH(B) 
 http://krooztv.live:80/live/solo/solo/663776.m3u8 
