@@ -379,6 +379,17 @@ http://109.61.81.147:2080/cdn2/295/video.m3u8?token=4444
 #EXTINF:-1 group-title="ShareExt@PREMIUM✓SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", TNT Sports 4 - no Vpn
 http://109.61.81.147:2080/cdn2/5054/video.m3u8?token=4444
 
+#EXTINF:-1 tvg-id="TSN 1" tvg-name="TSN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="ShareExt@PREMIUM✓SPORTS", TSN 1
+http://212.102.60.231/TSN_1/index.m3u8
+#EXTINF:-1 tvg-id="TSN 2" tvg-name="TSN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="ShareExt@PREMIUM✓SPORTS", TSN 2
+http://212.102.60.231/TSN_2/index.m3u8
+#EXTINF:-1 tvg-id="TSN 3" tvg-name="TSN 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="ShareExt@PREMIUM✓SPORTS", TSN 3
+http://212.102.60.231/TSN_3/index.m3u8
+#EXTINF:-1 tvg-id="TSN 4" tvg-name="TSN 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="ShareExt@PREMIUM✓SPORTS", TSN 4
+http://212.102.60.231/TSN_4/index.m3u8
+#EXTINF:-1 tvg-id="TSN 5" tvg-name="TSN 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="ShareExt@PREMIUM✓SPORTS", TSN 5
+http://212.102.60.231/TSN_5/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", TEN SPORTS HD_@@
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@PREMIUM✓SPORTS", PTV SPORTS_@@ 
@@ -8012,6 +8023,45 @@ http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/96345
 http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/96347
 
 
+
+
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv1-高码
+http://iptv.887979.xyz/ysptp/cctv1.m3u8
+#EXTINF:-1 tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv2-高码
+http://iptv.887979.xyz/ysptp/cctv2.m3u8
+#EXTINF:-1 tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv3-高码
+http://iptv.887979.xyz/ysptp/cctv3.m3u8
+#EXTINF:-1 tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv4-高码
+http://iptv.887979.xyz/ysptp/cctv4.m3u8
+#EXTINF:-1 tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv5-高码
+http://iptv.887979.xyz/ysptp/cctv5.m3u8
+#EXTINF:-1 tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv5p-高码
+http://iptv.887979.xyz/ysptp/cctv5p.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV-6
+http://iptv.887979.xyz/ysptp/cctv6.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv7-高码
+http://iptv.887979.xyz/ysptp/cctv7.m3u8
+#EXTINF:-1 tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv8-高码
+http://iptv.887979.xyz/ysptp/cctv8.m3u8
+#EXTINF:-1 tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv9-高码
+http://iptv.887979.xyz/ysptp/cctv9.m3u8
+#EXTINF:-1 tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv10-高码
+http://iptv.887979.xyz/ysptp/cctv10.m3u8
+#EXTINF:-1 tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv11-高码
+http://iptv.887979.xyz/ysptp/cctv11.m3u8
+#EXTINF:-1 tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv12-高码
+http://iptv.887979.xyz/ysptp/cctv12.m3u8
+#EXTINF:-1 tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv13-高码
+http://iptv.887979.xyz/ysptp/cctv13.m3u8
+#EXTINF:-1 tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv14-高码
+http://iptv.887979.xyz/ysptp/cctv14.m3u8
+#EXTINF:-1 tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv15-高码
+http://iptv.887979.xyz/ysptp/cctv15.m3u8
+#EXTINF:-1 tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv16-高码
+http://iptv.887979.xyz/ysptp/cctv16.m3u8
+#EXTINF:-1 tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv17-高码
+http://iptv.887979.xyz/ysptp/cctv17.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",邯郸科教
 https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
