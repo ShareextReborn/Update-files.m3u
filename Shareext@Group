@@ -60,6 +60,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=125431&uid=7238&deviceMac=00:1A:79:22
 #EXTINF:-1  group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", ASTRO~FOOTBALL FHD 
 http://tv.cloudcdn.me:80/live.ts?channelId=125432&uid=7238&deviceMac=00:1A:79:22:59:72
 
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax", INDOSIAR HD(fixtv)
+http://fixtv.shop:888/Lyana/Lyana/47
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",ID ▎INDOSIAR HD
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505849
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(pft)televizo
@@ -1315,6 +1317,22 @@ https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://iili.io/JMp31cb.png" group-title="Shareext@LOKAL_ID", ANTV(fixtv)
+http://fixtv.shop:888/Lyana/Lyana/167
+#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="Shareext@LOKAL_ID", Indosiar
+http://fixtv.shop:888/Lyana/Lyana/47
+#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="Shareext@LOKAL_ID", SCTV(fixtv)
+http://fixtv.shop:888/Lyana/Lyana/168
+#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Shareext@LOKAL_ID", RCTI(fixtv)
+http://fixtv.shop:888/Lyana/Lyana/159
+#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="Shareext@LOKAL_ID", MNCTV(fixtv)
+http://fixtv.shop:888/Lyana/Lyana/163
+#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/transtv.png" group-title="Shareext@LOKAL_ID", Trans TV(fixtv)
+http://fixtv.shop:888/Lyana/Lyana/160
+#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/trans7.png" group-title="Shareext@LOKAL_ID", Trans7(fixtv)
+http://fixtv.shop:888/Lyana/Lyana/161
 
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="Shareext@LOKAL_ID",SCTV(pft)televizo
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1574
@@ -6917,6 +6935,17 @@ https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/HBO.png" group-title="Shareext@MOVIES", HBO(fixtv)
+http://fixtv.shop:888/Lyana/Lyana/11588
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/HBOHits.png" group-title="Shareext@MOVIES", HBO Hits(fixtv)
+http://fixtv.shop:888/Lyana/Lyana/11590
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/HBO_Family.png" group-title="Shareext@MOVIES", HBO Family(fixtv)
+http://fixtv.shop:888/Lyana/Lyana/11592
+#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/hbosingnature.png" group-title="Shareext@MOVIES", HBO Signature(fixtv)
+http://fixtv.shop:888/Lyana/Lyana/11593
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/cinemax.png" group-title="Shareext@MOVIES", CINEMAX(fixtv)
+http://fixtv.shop:888/Lyana/Lyana/11599
+
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/hbosingnature.png" group-title="Shareext@MOVIES", HBO Signature(pft)televizo
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1558
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/qj.png" group-title="Shareext@MOVIES", QJ(pft)televizo
@@ -7078,13 +7107,13 @@ https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/35769
 http://31.42.187.37:25461/watchpad13158/1234/335
 #EXTINF:-1 tvg-id="" tvg-name="Rock Actions" tvg-logo="http://kingtv.dynu.com/tvlogo/RockActions.png" group-title="Shareext@MOVIES",Rock Actions_
 http://31.42.187.37:25461/watchpad13158/1234/27
-#EXTINF:-1 tvg-id="143.astro" tvg-name="MY HBO HD" tvg-logo="http://kingtv.dynu.com/tvlogo/HBO.png" group-title="Shareext@MOVIES",MY: HBO HD_
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/HBO.png" group-title="Shareext@MOVIES",MY: HBO HD_
 http://31.42.187.37:25461/watchpad13158/1234/47
-#EXTINF:-1 tvg-id="450.astro" tvg-name="HBO Family" tvg-logo="http://kingtv.dynu.com/tvlogo/HBO_Family.png" group-title="Shareext@MOVIES",HBO Family_
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/HBO_Family.png" group-title="Shareext@MOVIES",HBO Family_
 http://31.42.187.37:25461/watchpad13158/1234/2442
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="http://kingtv.dynu.com/tvlogo/HBOHits.png" group-title="Shareext@MOVIES",HBO Hits_
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/HBOHits.png" group-title="Shareext@MOVIES",HBO Hits_
 http://31.42.187.37:25461/watchpad13158/1234/3042
-#EXTINF:-1 tvg-id="337.astro" tvg-name="MY CINEMAX HD" tvg-logo="http://kingtv.dynu.com/tvlogo/cinemax.png" group-title="Shareext@MOVIES",MY: CINEMAX HD_
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/cinemax.png" group-title="Shareext@MOVIES",MY: CINEMAX HD_
 http://31.42.187.37:25461/watchpad13158/1234/28
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Channel" tvg-logo="http://kingtv.dynu.com/tvlogo/Paramount.png" group-title="Shareext@MOVIES",Paramount Channel_
 http://31.42.187.37:25461/watchpad13158/1234/3041
