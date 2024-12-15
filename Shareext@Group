@@ -1102,7 +1102,7 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/18620
 
 #EXTINF:-1 tvg-id="251.astro" tvg-name="MY BOO HD" tvg-logo="http://kingtv.dynu.com/tvlogo/BOO.png" group-title="SHAREEXT@Television/MY/ASTRO",BOO HD_
 http://31.42.187.37:25461/watchpad13158/1234/1572
-#EXTINF:-1 tvg-id="182.astro" tvg-name="Astro AEC (backup)" tvg-logo="http://kingtv.dynu.com/tvlogo/AEC.png" group-title="SHAREEXT@Television/MY/ASTRO", AEC (backup)_
+#EXTINF:-1 tvg-id="182.astro" tvg-name="Astro AEC (backup)" tvg-logo="http://kingtv.dynu.com/tvlogo/AEC.png" groutitle="SHAREEXT@Television/MY/ASTRO", AEC (backup)_
 http://31.42.187.37:25461/watchpad13158/1234/359
 #EXTINF:-1 tvg-id="" tvg-name="8TV TV8 (backup)" tvg-logo="http://kingtv.dynu.com/tvlogo/8TV_my.png" group-title="SHAREEXT@Television/MY/ASTRO",8TV TV8 (backup)_
 http://31.42.187.37:25461/watchpad13158/1234/11484
@@ -1318,6 +1318,68 @@ https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="[ID] SCTV(a)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sctv_id.png" group-title="Shareext@LOKAL_ID",[ID] SCTV(a)
+http://iptv12k.com:35461/654321/123456/2184
+#EXTINF:-1 tvg-id="" tvg-name="SCTV(c)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sctv_id.png" group-title="Shareext@LOKAL_ID",SCTV(c)
+http://iptv12k.com:35461/654321/123456/9928
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR(a)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png" group-title="Shareext@LOKAL_ID",INDOSIAR(a)
+http://iptv12k.com:35461/654321/123456/4802
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR(c)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png" group-title="Shareext@LOKAL_ID",INDOSIAR(c)
+http://iptv12k.com:35461/654321/123456/2187
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR(b) TLLL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png" group-title="Shareext@LOKAL_ID",INDOSIAR(b) TLLL
+http://iptv12k.com:35461/654321/123456/1814
+#EXTINF:-1 tvg-id="" tvg-name="[ID] RCTI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title="Shareext@LOKAL_ID",[ID] RCTI
+http://iptv12k.com:35461/654321/123456/1812
+#EXTINF:-1 tvg-id="" tvg-name="[ID] SCTV(b)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sctv_id.png" group-title="Shareext@LOKAL_ID",[ID] SCTV(b)
+http://iptv12k.com:35461/654321/123456/1811
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Trans 7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_7_id.png" group-title="Shareext@LOKAL_ID",[ID] Trans 7
+http://iptv12k.com:35461/654321/123456/1810
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Trans TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Shareext@LOKAL_ID",[ID] Trans TV
+http://iptv12k.com:35461/654321/123456/1809
+#EXTINF:-1 tvg-id="KIX.id" tvg-name="[ID] KiX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="Shareext@LOKAL_ID",[ID] KiX
+http://iptv12k.com:35461/654321/123456/1807
+#EXTINF:-1 tvg-id="" tvg-name="[ID] ANTV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/id-antv-9615.jpg" group-title="Shareext@LOKAL_ID",[ID] ANTV
+http://iptv12k.com:35461/654321/123456/1806
+#EXTINF:-1 tvg-id="" tvg-name="[ID] TV One" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_one_id.png" group-title="Shareext@LOKAL_ID",[ID] TV One
+http://iptv12k.com:35461/654321/123456/1805
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Metro TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/metro_tv_id.png" group-title="Shareext@LOKAL_ID",[ID] Metro TV
+http://iptv12k.com:35461/654321/123456/1804
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Kompas TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kompas-tv-id.png" group-title="Shareext@LOKAL_ID",[ID] Kompas TV
+http://iptv12k.com:35461/654321/123456/1803
+#EXTINF:-1 tvg-id="" tvg-name="[ID] TVRI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title="Shareext@LOKAL_ID",[ID] TVRI
+http://iptv12k.com:35461/654321/123456/1802
+#EXTINF:-1 tvg-id="" tvg-name="[ID] iNews" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/inews-id.png" group-title="Shareext@LOKAL_ID",[ID] iNews
+http://iptv12k.com:35461/654321/123456/1799
+#EXTINF:-1 tvg-id="" tvg-name="[ID] MNC TV id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-title="Shareext@LOKAL_ID",[ID] MNC TV id 8k
+http://iptv12k.com:35461/654321/123456/2175
+#EXTINF:-1 tvg-id="" tvg-name="[ID] TVRI id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title="Shareext@LOKAL_ID",[ID] TVRI id 8k
+http://iptv12k.com:35461/654321/123456/2172
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Cinema World id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinema_world_asia.png" group-title="Shareext@LOKAL_ID",[ID] Cinema World id 8k
+http://iptv12k.com:35461/654321/123456/2124
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Bali TV" tvg-logo="https://itsmiyagi.site:443/images/c9f3eda90e1cdc0a29704e9322f29f97.png" group-title="Shareext@LOKAL_ID",[ID] Bali TV
+http://iptv12k.com:35461/654321/123456/1786
+#EXTINF:-1 tvg-id="" tvg-name="[ID] JakTV TLLL" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",[ID] JakTV TLLL
+http://iptv12k.com:35461/654321/123456/1784
+#EXTINF:-1 tvg-id="" tvg-name="[ID] JTV" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",[ID] JTV
+http://iptv12k.com:35461/654321/123456/1783
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Music TV" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",[ID] Music TV
+http://iptv12k.com:35461/654321/123456/1782
+#EXTINF:-1 tvg-id="" tvg-name="[ID] RTV" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",[ID] RTV
+http://iptv12k.com:35461/654321/123456/1770
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Vision Prime" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",[ID] Vision Prime
+http://iptv12k.com:35461/654321/123456/1769
+#EXTINF:-1 tvg-id="" tvg-name="[ID] HBO" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",[ID] HBO
+http://iptv12k.com:35461/654321/123456/1748
+#EXTINF:-1 tvg-id="TVNMovies.id" tvg-name="[ID] TvN Movies" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmobile.twitter.com%2Ftvn_movies&psig=AOvVaw24dfI3jPr_GouaVOYs26IQ&ust=1645680712356000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjE8MOMlfYCFQAAAAAdAAAAABAT" group-title="Shareext@LOKAL_ID",[ID] TvN Movies
+http://iptv12k.com:35461/654321/123456/1747
+#EXTINF:-1 tvg-id="" tvg-name="[ID] HBO Family" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",[ID] HBO Family
+http://iptv12k.com:35461/654321/123456/1746
+#EXTINF:-1 tvg-id="" tvg-name="[ID] HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Shareext@LOKAL_ID",[ID] HGTV
+http://iptv12k.com:35461/654321/123456/1744
+#EXTINF:-1 tvg-id="" tvg-name="[ID] TLC" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",[ID] TLC
+http://iptv12k.com:35461/654321/123456/1743
 
 #EXTINF:-1 tvg-logo="https://iili.io/JMp31cb.png" group-title="Shareext@LOKAL_ID", ANTV(fixtv)
 http://fixtv.shop:888/Lyana/Lyana/167
@@ -6178,6 +6240,52 @@ http://xtv.ooo:8080/sanushop/12345678/351345
 http://xtv.ooo:8080/sanushop/12345678/351346
 
 
+
+
+
+
+
+#EXTINF:-1  tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA_SPORT.png?raw=true" group-title="SHAREEXT@GREECE ➾  SPORTS",ALFA SPORTS ΚΥΠΡΟΥ
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
+#EXTINF:-1  tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ARGOLIDA_SPORT.png?raw=true" group-title="SHAREEXT@GREECE ➾  SPORTS",ARGOLIDA SPORT
+https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BOXING_TV.png?raw=true" group-title="SHAREEXT@GREECE ➾  SPORTS",BOXING TV
+https://43d8730367094c359169326b2541f48d.mediatailor.us-east-1.amazonaws.com/v1/manifest/cfccecf99f5f9bc53e6a1cf70495cfad66d82f53/dai/b0d773ed-6f74-4b2f-a6a1-8091c95e1951/4.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_SPORTS_1.png?raw=true" group-title="SHAREEXT@GREECE ➾  SPORTS",ERT SPORTS 1
+https://ertflix.s.llnwi.net/ertlive/ertsports1/clrdef24724a/index.mpd
+#EXTINF:-1  tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_SPORTS_2.png?raw=true" group-title="SHAREEXT@GREECE ➾  SPORTS",ERT SPORTS 2
+http://hbbtv.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
+#EXTINF:-1  tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_SPORTS_2.png?raw=true" group-title="SHAREEXT@GREECE ➾  SPORTS",ERT SPORTS 3
+https://ertflix.s.llnwi.net/ertlive/ertsports3/default/index.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTREME_SPORT.png?raw=true" group-title="SHAREEXT@GREECE ➾  SPORTS",EXTREME SPORT
+http://edge02.odtv.az/o4/extremesport/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FIFA.png?raw=true" group-title="SHAREEXT@GREECE ➾  SPORTS",FIFA
+https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FIGHT_NETWORK.png?raw=true" group-title="SHAREEXT@GREECE ➾  SPORTS",FIGHT NETWORK
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OPAP.png?raw=true" group-title="SHAREEXT@GREECE ➾  SPORTS",HORSE RACES
+https://odiehlsmslnew.akamaized.net/hls/live/2112246/odie3/odie_1000.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MOTOR_RACING.png?raw=true" group-title="SHAREEXT@GREECE ➾  SPORTS",MOTOR RACING
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/0742fa36-d224-4fe3-85f8-da4522a2054a/2.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MOTO&BIKE.png?raw=true" group-title="SHAREEXT@GREECE ➾  SPORTS",MOTORBIKES & ENGINES
+https://motors.playout.vju.tv/motors/main.m3u8?checkedby:iptvcat.com
+#EXTINF:-1  tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MOTOR_VISION.png?raw=true" group-title="SHAREEXT@GREECE ➾  SPORTS",MOTORVISION TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MOTOSPORT_TV.png?raw=true" group-title="SHAREEXT@GREECE ➾  SPORTS",MOTOSPORT
+https://7c8b579d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NETO_SPORTS.png?raw=true" group-title="SHAREEXT@GREECE ➾  SPORTS",NETO SPORTS
+https://netohls.wns.live/hls/stream.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OPAP.png?raw=true" group-title="SHAREEXT@GREECE ➾  SPORTS",OPAP TV
+https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RED_BUL_TV.png?raw=true" group-title="SHAREEXT@GREECE ➾  SPORTS",RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RED_BUL_TV.png?raw=true" group-title="SHAREEXT@GREECE ➾  SPORTS",RED BULL TV 2
+https://db38umy8gexon.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f561zwy85csh9/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TENNIS_CHANNEL.png?raw=true" group-title="SHAREEXT@GREECE ➾  SPORTS",TENNIS CHANNEL
+https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/WWE_TV.png?raw=true" group-title="SHAREEXT@GREECE ➾  SPORTS",WWE TV
+https://d2p372oxiwmcn1.cloudfront.net/hls/360p/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@GREECE ➾  SPORTS", COSMOTE SPORT 1 (MATCH TIME)
 http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/121948
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@GREECE ➾  SPORTS", COSMOTE SPORT 2
@@ -6934,6 +7042,20 @@ https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
 
 
 
+
+
+#EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_my.png" group-title="Shareext@MOVIES",[ID] HBO 8k
+http://iptv12k.com:35461/654321/123456/2121
+#EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_family_asia.png" group-title="Shareext@MOVIES",[ID] HBO Family 8k
+http://iptv12k.com:35461/654321/123456/2120
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Shareext@MOVIES",[ID] HBO Signature 8k
+http://iptv12k.com:35461/654321/123456/2118
+#EXTINF:-1  tvg-logo="https://i.loli.net/2021/10/07/w8Seb17JIRvBfrP.png" group-title="Shareext@MOVIES",HBO Hits MOVIE
+http://iptv12k.com:35461/654321/123456/1888
+#EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinemax_asia.png" group-title="Shareext@MOVIES",[ID] Cinemax 8k
+http://iptv12k.com:35461/654321/123456/2114
+#EXTINF:-1  tvg-logo="https://almondmagazine.com/wp-content/uploads/2017/10/BOO-Logo.jpg" group-title="Shareext@MOVIES",[MY]  BOO
+http://iptv12k.com:35461/654321/123456/722
 
 #EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/HBO.png" group-title="Shareext@MOVIES", HBO(fixtv)
 http://fixtv.shop:888/Lyana/Lyana/11588
