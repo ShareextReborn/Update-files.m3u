@@ -11,10 +11,8 @@ https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~Football•🇲🇨	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~Sport~1•🇲🇨	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~Sportstars~1•🇲🇨	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~Sport~2•🇲🇨	
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -109,21 +107,6 @@ http://extraott.com/live/6945574629/7169628753/191803.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",🇲🇨 MNCTV(ext)
 http://extraott.com/live/6945574629/7169628753/400200743.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",NOW.SPORTS-1_HK
-http://tv.cloudcdn.me:80/live.ts?channelId=129128&uid=7238&deviceMac=00:1A:79:22:59:72
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",NOW.SPORTS-2_HK
-http://tv.cloudcdn.me:80/live.ts?channelId=129129&uid=7238&deviceMac=00:1A:79:22:59:72
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",NOW.SPORTS-3_HK
-http://tv.cloudcdn.me:80/live.ts?channelId=129130&uid=7238&deviceMac=00:1A:79:22:59:72
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",NOW.SPORTS-4_HK
-http://tv.cloudcdn.me:80/live.ts?channelId=129131&uid=7238&deviceMac=00:1A:79:22:59:72
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",NOW.SPORTS-5_HK
-http://tv.cloudcdn.me:80/live.ts?channelId=129132&uid=7238&deviceMac=00:1A:79:22:59:72
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",NOW.SPORTS-6_HK
-http://tv.cloudcdn.me:80/live.ts?channelId=129133&uid=7238&deviceMac=00:1A:79:22:59:72
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",NOW.SPORTS-7_HK
-http://tv.cloudcdn.me:80/live.ts?channelId=129134&uid=7238&deviceMac=00:1A:79:22:59:72
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",BILLIARD TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="ShareExt@Relax",DSTV: SUPERSPORTS LALIGA HD
@@ -198,17 +181,6 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
 http://xtv.ooo:8080/MansoorWapda/258741/351034
 #EXTINF:-1 tvg-id="1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="ShareExt@Relax",Sony TEN 5 HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",OPTUS*tv_AU
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=333576_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",HUB*SPORTS*1_SG
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554968_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",HUB*SPORTS*2_SG
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554967_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",HUB*SPORTS*3_SG
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554966_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@Relax",HUB*SPORTS*4_SG
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554965_&extension=m3u8
 
 #EXTINF:1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",J°Sports 1		
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
