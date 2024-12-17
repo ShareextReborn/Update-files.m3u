@@ -17,9 +17,7 @@ http://iptv12k.com:35461/654321/123456/14440
 http://iptv12k.com:35461/654321/123456/14439
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/01/ESPN-Logo.jpg" group-title="ShareExt@Relax",[TW] ESPN 
 http://iptv12k.com:35461/654321/123456/14434
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax",UK: PREMIERSPORTS 1 HD
-http://iptv12k.com:35461/654321/123456/5436
-#EXTINF:-1 tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/36-JSPORT1-600x400.jpg" group-title="ShareExt@Relax",JP: J SPORTS 1
+#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-169-400x400.png" group-title="ShareExt@Relax",JP: J SPORTS 1
 http://iptv12k.com:35461/654321/123456/3134
 #EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-169-400x400.png" group-title="ShareExt@Relax",JP: J SPORTS 2
 http://iptv12k.com:35461/654321/123456/3135
@@ -75,12 +73,42 @@ http://iptv12k.com:35461/654321/123456/21722
 http://iptv12k.com:35461/654321/123456/21720
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/637-wbg-e.png" group-title="ShareExt@Relax",Now Sports 7
 http://iptv12k.com:35461/654321/123456/21718
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/01/ESPN-Logo.jpg" group-title="ShareExt@Relax",[TW] ESPN
-http://iptv12k.com:35461/654321/123456/1212
 #EXTINF:-1 tvg-logo="https://www.golfchannel.com/sites/default/files/new_golf_channel_logo_304.jpg" group-title="ShareExt@Relax",[TW] NBCgolf
 http://iptv12k.com:35461/654321/123456/1228
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="ShareExt@Relax",[TW] NBA
 http://iptv12k.com:35461/654321/123456/1227
+
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" group-title="ShareExt@Relax",SSC|SPORT 1 HD
+http://238373959152780839.ofd92622.xyz:80/live/UTV4PEDR5V/rJ@UEVVSKcmg/780839.ts
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" group-title="ShareExt@Relax",SSC|SPORT 2 HD
+http://238373959152780840.ofd92622.xyz:80/live/UTV4PEDR5V/rJ@UEVVSKcmg/780840.ts
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" group-title="ShareExt@Relax",SSC|SPORT 3 HD
+http://238373959152780841.ofd92622.xyz:80/live/UTV4PEDR5V/rJ@UEVVSKcmg/780841.ts
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" group-title="ShareExt@Relax",SSC|SPORT 4 HD
+http://238373959152780842.ofd92622.xyz:80/live/UTV4PEDR5V/rJ@UEVVSKcmg/780842.ts
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" group-title="ShareExt@Relax",SSC|SPORT 5 HD
+http://238373959152780843.ofd92622.xyz:80/live/UTV4PEDR5V/rJ@UEVVSKcmg/780843.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax",beINSports 1[astro]
+http://ua-iptv.com:8080/roncalvin2000@yahoo.com/GQGgfvaPND/857412
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax",beINSports 2[astro]
+http://ua-iptv.com:8080/roncalvin2000@yahoo.com/GQGgfvaPND/857413
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax",beINSports 3[astro]
+http://ua-iptv.com:8080/roncalvin2000@yahoo.com/GQGgfvaPND/857414
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax",Eurosport[astro]
+http://ua-iptv.com:8080/roncalvin2000@yahoo.com/GQGgfvaPND/857415
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax",SPOTV[astro]
+http://ua-iptv.com:8080/roncalvin2000@yahoo.com/GQGgfvaPND/857416
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax",SPOTV 2[astro]
+http://ua-iptv.com:8080/roncalvin2000@yahoo.com/GQGgfvaPND/857417
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax",SuperSport 1[astro]
+http://ua-iptv.com:8080/roncalvin2000@yahoo.com/GQGgfvaPND/857418
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax",SuperSport 2[astro]
+http://ua-iptv.com:8080/roncalvin2000@yahoo.com/GQGgfvaPND/857419
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax",SuperSport 3[astro]
+http://ua-iptv.com:8080/roncalvin2000@yahoo.com/GQGgfvaPND/857420
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax",SuperSport 4[astro]
+http://ua-iptv.com:8080/roncalvin2000@yahoo.com/GQGgfvaPND/857421
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",PSJ TV_🇲🇨
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
