@@ -99,6 +99,26 @@ http://ua-iptv.com:8080/roncalvin2000@yahoo.com/GQGgfvaPND/857420
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax",SuperSport 4[astro]
 http://ua-iptv.com:8080/roncalvin2000@yahoo.com/GQGgfvaPND/857421
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax", SSC 1 HD
+http://sansat.cc:88/2OfrscuYSETpwFT/kUHeXpHJLzTNBLy/139510
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax", SSC 2 HD
+http://sansat.cc:88/2OfrscuYSETpwFT/kUHeXpHJLzTNBLy/139511
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax", SSC 3 HD
+http://sansat.cc:88/2OfrscuYSETpwFT/kUHeXpHJLzTNBLy/139512
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax", SSC 4 HD
+http://sansat.cc:88/2OfrscuYSETpwFT/kUHeXpHJLzTNBLy/139513
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax", SSC 5 HD
+http://sansat.cc:88/2OfrscuYSETpwFT/kUHeXpHJLzTNBLy/139514
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax", SSC 7 HD
+http://sansat.cc:88/2OfrscuYSETpwFT/kUHeXpHJLzTNBLy/139516
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax", SSC EXTRA 1
+http://sansat.cc:88/2OfrscuYSETpwFT/kUHeXpHJLzTNBLy/200593
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax", SSC EXTRA 2
+http://sansat.cc:88/2OfrscuYSETpwFT/kUHeXpHJLzTNBLy/200594
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax", SSC EXTRA 3
+http://sansat.cc:88/2OfrscuYSETpwFT/kUHeXpHJLzTNBLy/200595
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",PSJ TV_🇲🇨
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~SPOTV•🇲🇨	
@@ -1100,6 +1120,15 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
 
 
 
+#EXTINF:-1  group-title="SHAREEXT@THAILAND ➾ Sports" tvg-logo="https://media-mvtv-app.imgix.net/channel/119_y_OhjxHr9fqS2i0NJvPUlcL85mn6e4FoIu.png",T SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb-mvtv-live.v2h-cdn.com/redirect/t_sport/t_sport.stream?type=m3u8
+#EXTINF:-1  group-title="SHAREEXT@THAILAND ➾ Sports" tvg-logo="https://media-mvtv-app.imgix.net/channel/131_y_iJmHlFadZ0G8EhIYMw2A3OfbN1Qpzgou.png",Thairath
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls-nginx.v2h-cdn.com/hls/thairathmyStream.m3u8
+#EXTINF:-1  group-title="SHAREEXT@THAILAND ➾ Sports" tvg-logo="https://media-mvtv-app.imgix.net/channel/135_y_7hl4KHdwBqS0VGNCskrDLyci538zY2Qx.png",PPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls-nginx.v2h-cdn.com/hls/pptvmyStream.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@THAILAND ➾ Sports",True Premier Football 1 FHD VIP SPORTS 
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/117331 
@@ -7515,88 +7544,6 @@ http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567178
 #http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567178
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",2020-2022 CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304897
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",ACTION CRIME CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304901
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",ACTION THRILLER CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304899
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",ADVENTURE CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304902
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",ANIMATION ADVENTURE CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304903
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",BIOGRAPHY CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304904
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",CINEMA 1
-http://iptvtree.net:8080/F33925/4034a109/304905
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",CINEMA 2
-http://iptvtree.net:8080/F33925/4034a109/304906
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",CLASSIC ACTION ADVENTURE CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304907
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",CLASSIC ACTION CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304908
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",CLASSIC ACTION CRIME CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304909
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",CLASSIC ACTION THRILLER CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304910
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",CLASSIC ADVENTURE CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304911
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",CLASSIC ANIMATED ADVENTURE CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304912
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",CLASSIC CINEMA 1
-http://iptvtree.net:8080/F33925/4034a109/304914
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",CLASSIC CINEMA 2
-http://iptvtree.net:8080/F33925/4034a109/304915
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",CLASSIC COMEDY CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304916
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",CLASSIC CRIME CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304917
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",CLASSIC DOCUMENTARY CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304918
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",CLASSIC DRAMA CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304919
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",CLASSIC FAMILY CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304920
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",CLASSIC FANTASY CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304921
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",CLASSIC HISTORY CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304922
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",CLASSIC HORROR CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304923
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",CLASSIC MYSTERY CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304924
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",CLASSIC ROMANCE CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304925
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",CLASSIC SCIFI CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304926
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",CLASSIC SPORT CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304927
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",CLASSIC THRILLER 24/7
-http://iptvtree.net:8080/F33925/4034a109/304928
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",COMEDY CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304929
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",CRIME CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304930
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",DOCUMENTARY CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304931
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",DRAMA CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304932
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",FANTASY CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304934
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",HISTORY CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304935
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",HORROR CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304936
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",MYSTERY CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304937
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",ROMANCE CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304938
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",SCIFI CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304939
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",SPORTS CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304940
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/PT9cHjC/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ HBO || MAX_CHANNALL",THRILLER CINEMA
-http://iptvtree.net:8080/F33925/4034a109/304941
 
 
 
@@ -8838,6 +8785,124 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=HD&ccode=JP&m=d0:20
 
 
 
+
+#EXTINF:-1 tvg-chno="1" ch-number="1" tvg-id="MVTV ท้องถิ่นไทย" tvg-name="MVTV ท้องถิ่นไทย" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/30_y_6j8hFgB9MRvUswTeCySxbJf3k74NQloE.png",MVTV ท้องถิ่นไทย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
+#EXTINF:-1 tvg-chno="5" ch-number="5" tvg-id="5HD" tvg-name="5HD" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/118_y_0kEyP9Yrw5jTWflXevIZ1Dqhoa2mi4QO.png",5HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb-mvtv-live.v2h-cdn.com/redirect/tv5hd/tv5hd.stream?type=m3u8
+#EXTINF:-1 tvg-chno="6" ch-number="6" tvg-id="Boomerang" tvg-name="Boomerang" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/153_y_Agyp2nEebLvC9tWa5xBcY1J038OuTzFD.png",Boomerang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb-mvtv-live.v2h-cdn.com/redirect/boomerang/boomerang.stream?type=m3u8
+#EXTINF:-1 tvg-chno="7" ch-number="7" tvg-id="T SPORT" tvg-name="T SPORT" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/119_y_OhjxHr9fqS2i0NJvPUlcL85mn6e4FoIu.png",T SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb-mvtv-live.v2h-cdn.com/redirect/t_sport/t_sport.stream?type=m3u8
+#EXTINF:-1 tvg-chno="8" ch-number="8" tvg-id="TVB Thai" tvg-name="TVB Thai" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/89_y_Or0xFlNeQnWJvIfc83PjDzaZHpqY2ACi.png",TVB Thai
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/playlist.m3u8
+#EXTINF:-1 tvg-chno="9" ch-number="9" tvg-id="MVMall Plus" tvg-name="MVMall Plus" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/32_y_B1QfWmDNsgnKI7xCzkrYeTt4LR8EGqy6.png",MVMall Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://n-edge-1-th.v2h-cdn.com/vtv_m/vtv/playlist.m3u8
+#EXTINF:-1 tvg-chno="10" ch-number="10" tvg-id="TPTV" tvg-name="TPTV" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/120_y_VSgE7P9GiDCxrhFWUALYpvzfM12cdqmH.png",TPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb-mvtv-live.v2h-cdn.com/redirect/tptv/tptv.stream?type=m3u8
+#EXTINF:-1 tvg-chno="11" ch-number="11" tvg-id="MVMall Healthy" tvg-name="MVMall Healthy" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/36_y_LzOCkoTG95mZhJ6IrADcMafyPQ1qVBE4.png",MVMall Healthy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://n-edge-1-th.v2h-cdn.com/mixmajor_m/mixmajor/playlist.m3u8
+#EXTINF:-1 tvg-chno="12" ch-number="12" tvg-id="MVMall DD" tvg-name="MVMall DD" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/40_y_V4AeGl0yJXpnzFfKDO7C1rMTYdcIP2kE.png",MVMall DD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://n-edge-1-th.v2h-cdn.com/rama_m/rama/playlist.m3u8
+#EXTINF:-1 tvg-chno="13" ch-numbel="13" tvg-id="MVMall Home" tvg-name="MVMall Home" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/112_y_2uKgIhyzBtmJCVlqGTaX16b9A3HenR0D.png",MVMall Home
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://n-edge-1-th.v2h-cdn.com/mvnews/mvnews/playlist.m3u8
+#EXTINF:-1 tvg-chno="14" ch-number="14" tvg-id="MVMall Trend" tvg-name="MVMall Trend" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/42_y_LtT0Jz4Qfr7asiVClxpGwgBv2qZDK3mo.png",MVMall Trend
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://n-edge-1-th.v2h-cdn.com/mvtvseries_m/mvtvseries/playlist.m3u8
+#EXTINF:-1 tvg-chno="15" ch-number="15" tvg-id="MVMall Living" tvg-name="MVMall Living" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/171_y_XOJ6qMirnDGuk01TLQjlWho5PtKSa9Ud.png",MVMall Living
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb-mvtv-live.v2h-cdn.com/redirect/ttd14/ttd14.stream?type=m3u8
+#EXTINF:-1 tvg-chno="16" ch-number="16" tvg-id="TNN" tvg-name="TNN" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/121_y_uQNBde5zrpo4TKm9kOZPx6iRbGaACfFE.png",TNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb-mvtv-live.v2h-cdn.com/redirect/tnn24/tnn24.stream?type=m3u8
+#EXTINF:-1 tvg-chno="17" ch-number="17" tvg-id="MVMall Family" tvg-name="MVMall Family" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/107_y_aNzHOm07eZL1nc5MkpIUTBfPGit2qE4y.png",MVMall Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb-mvtv-live.v2h-cdn.com/redirect/mvmall_ttd12/mvmall_ttd12.stream?type=m3u8
+#EXTINF:-1 tvg-chno="18" ch-number="18" tvg-id="JKN18" tvg-name="JKN18" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/122_y_bzfht4O5uRNHylcq1D6nV9TvxmdXWaQP.png",JKN18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb-mvtv-live.v2h-cdn.com/redirect/new/new.stream?type=m3u8
+#EXTINF:-1 tvg-chno="19" ch-number="19" tvg-id="MVMall Best" tvg-name="MVMall Best" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/113_y_MZJpu9AhykldsP1STHq08LYG47ebWwnB.png",MVMall Best
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb-mvtv-live.v2h-cdn.com/redirect/mvmall2/mvmall2.stream?type=m3u8
+#EXTINF:-1 tvg-chno="20" ch-number="20" tvg-id="MVMall Happy" tvg-name="MVMall Happy" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/69_y_C0aJp8NAlwvq9bm374XWDodShiTcuMIH.png",MVMall Happy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://n-edge-1-th.v2h-cdn.com/happy/happy/playlist.m3u8
+#EXTINF:-1 tvg-chno="21" ch-number="21" tvg-id="ไทบ้านทีวี" tvg-name="ไทบ้านทีวี" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/35_y_V2hcyg7xD4BpCIPSJT0un8zWYL6bAqfi.png",ไทบ้านทีวี
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://n-edge-1-th.v2h-cdn.com/thaiban/thaiban/playlist.m3u8
+#EXTINF:-1 tvg-chno="22" ch-number="22" tvg-id="Nation" tvg-name="Nation" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/123_y_3vyW276UFjIStew9DHJNs8AGKfdmZXpu.png",Nation
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb-mvtv-live.v2h-cdn.com/redirect/nation_1/nation_1.stream?type=m3u8
+#EXTINF:-1 tvg-chno="23" ch-number="23" tvg-id="Workpoint" tvg-name="Workpoint" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/124_y_1PI2djLbMJpXO0n5oywKiNDzsWfTuFg4.png",Workpoint
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls-nginx.v2h-cdn.com/hls/workpointmyStream.m3u8
+#EXTINF:-1 tvg-chno="24" ch-number="24" tvg-id="True24" tvg-name="True24" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/125_y_vQwogyPUC1FsRhK9TmzSWqb8YI6aktcM.png",True24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls-nginx.v2h-cdn.com/hls/true4umyStream.m3u8
+#EXTINF:-1 tvg-chno="25" ch-number="25" tvg-id="GMM25" tvg-name="GMM25" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/126_y_6PH49bDqlg1aSxGoNUdT83R5Jkeyf2mB.png",GMM25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls-nginx.v2h-cdn.com/hls/gmm25myStream.m3u8
+#EXTINF:-1 tvg-chno="26" ch-number="26" tvg-id="MVTV ท้องถิ่นไทย" tvg-name="MVTV ท้องถิ่นไทย" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/187_y_O07IcMfWXzK1n4qD6YSswUxrv5btZJmk.png",MVTV ท้องถิ่นไทย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
+#EXTINF:-1 tvg-chno="27" ch-number="27" tvg-id="ข่อง 8" tvg-name="ข่อง 8" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/127_y_uhsXzFBxYD6Wq2mpZeIUb4M7RK1ECkn8.png",ข่อง 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls-nginx.v2h-cdn.com/hls/ch8myStream.m3u8
+#EXTINF:-1 tvg-chno="28" ch-number="28" tvg-id="Boom Anime" tvg-name="Boom Anime" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/188_y_agUT0o6Vh3t87iAyQEf2nFbGKBk1JN9p.png",Boom Anime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb-mvtv-live.v2h-cdn.com/redirect/boom_anime/boom_anime.stream?type=m3u8
+#EXTINF:-1 tvg-chno="29" ch-number="29" tvg-id="MONO 29" tvg-name="MONO 29" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/128_y_KUvdGmb2hpV41ni5rCk9OlFoXePMA80Q.png",MONO 29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls-nginx.v2h-cdn.com/hls/MonomyStream.m3u8
+#EXTINF:-1 tvg-chno="30" ch-number="30" tvg-id="MCOT" tvg-name="MCOT" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/129_y_hG7Nj2qWnldBu0fkMDyvT8CwYXLI649F.png",MCOT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb-mvtv-live.v2h-cdn.com/redirect/mcothd/mcothd.stream?type=m3u8
+#EXTINF:-1 tvg-chno="31" ch-number="31" tvg-id="ONE" tvg-name="ONE" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/130_y_3Lx4j6ZzpIidKPqChaF2QRYeWorw79Jv.png",ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls-nginx.v2h-cdn.com/hls/onemyStream.m3u8
+#EXTINF:-1 tvg-chno="32" ch-number="32" tvg-id="Thairath" tvg-name="Thairath" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/131_y_iJmHlFadZ0G8EhIYMw2A3OfbN1Qpzgou.png",Thairath
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls-nginx.v2h-cdn.com/hls/thairathmyStream.m3u8
+#EXTINF:-1 tvg-chno="33" ch-number="33" tvg-id="3HD" tvg-name="3HD" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/132_y_TFYiXWvrUf4s8tbIwJ29S3zMNeqghGmB.png",3HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls-nginx.v2h-cdn.com/hls/ch3myStream.m3u8
+#EXTINF:-1 tvg-chno="34" ch-number="34" tvg-id="Amarin" tvg-name="Amarin" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/133_y_kLIyaJt3VoGD8sqrHnhKPjZUQ0RE6mu4.png",Amarin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls-nginx.v2h-cdn.com/hls/amarinmyStream.m3u8
+#EXTINF:-1 tvg-chno="35" ch-number="35" tvg-id="7HD" tvg-name="7HD" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/134_y_YTkIZJDsbmX26owPRpAFSfW0eyz95vn4.png",7HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls-nginx.v2h-cdn.com/hls/ch7myStream.m3u8
+#EXTINF:-1 tvg-chno="36" ch-number="36" tvg-id="PPTV" tvg-name="PPTV" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/135_y_7hl4KHdwBqS0VGNCskrDLyci538zY2Qx.png",PPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls-nginx.v2h-cdn.com/hls/pptvmyStream.m3u8
+#EXTINF:-1 tvg-chno="101" ch-number="101" tvg-id="MVLAO" tvg-name="MVLAO" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/33_y_H4Rw5iJ7py10NvGAPEhWbYD6SgfarXOc.png",MVLAO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8
+#EXTINF:-1 tvg-chno="102" ch-number="102" tvg-id="MVM" tvg-name="MVM" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/34_y_PNWygduIqYU4DxtCrMoRzp60JFbkAGHO.png",MVM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://n-edge-1-th.v2h-cdn.com/mvm/mvm/playlist.m3u8
+#EXTINF:-1 tvg-chno="104" ch-number="104" tvg-id="France 24" tvg-name="France 24" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/151_y_YrFS8xk32BmplLV4NcHgdXRsuU7TvWZ5.png",France 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb-mvtv-live.v2h-cdn.com/redirect/france24/france24.stream?type=m3u8
+#EXTINF:-1 tvg-chno="105" ch-number="105" tvg-id="CNA" tvg-name="CNA" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/152_y_zynZw6RpjUoxHbGMh28eCKk9BlqIXJAa.png",CNA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
+#EXTINF:-1 tvg-chno="106" ch-number="106" tvg-id="NHK WORLD" tvg-name="NHK WORLD" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/155_y_ERge294wz1fsLvyCjX3DStPGcMmYFIKo.jpg",NHK WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-chno="107" ch-number="107" tvg-id="CCTV4" tvg-name="CCTV4" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://media-mvtv-app.imgix.net/channel/154_y_lIpB1wRXh7vQUYcAkzxLd8EVbg9Gsa0u.png",CCTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb-mvtv-live.v2h-cdn.com/redirect/cctv4/cctv4.stream?type=m3u8
 
 #EXTINF:-1 tvg-id="TVB Thai.th" group-title="SHAREEXT@THAiLandTv" tvg-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png",TVB Thai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
