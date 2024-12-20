@@ -78,17 +78,6 @@ http://iptv12k.com:35461/654321/123456/1228
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="ShareExt@Relax",[TW] NBA
 http://iptv12k.com:35461/654321/123456/1227
 
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" group-title="ShareExt@Relax",SSC|SPORT 1 HD
-http://238373959152780839.ofd92622.xyz:80/live/UTV4PEDR5V/rJ@UEVVSKcmg/780839.ts
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" group-title="ShareExt@Relax",SSC|SPORT 2 HD
-http://238373959152780840.ofd92622.xyz:80/live/UTV4PEDR5V/rJ@UEVVSKcmg/780840.ts
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" group-title="ShareExt@Relax",SSC|SPORT 3 HD
-http://238373959152780841.ofd92622.xyz:80/live/UTV4PEDR5V/rJ@UEVVSKcmg/780841.ts
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" group-title="ShareExt@Relax",SSC|SPORT 4 HD
-http://238373959152780842.ofd92622.xyz:80/live/UTV4PEDR5V/rJ@UEVVSKcmg/780842.ts
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" group-title="ShareExt@Relax",SSC|SPORT 5 HD
-http://238373959152780843.ofd92622.xyz:80/live/UTV4PEDR5V/rJ@UEVVSKcmg/780843.ts
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax",beINSports 1[astro]
 http://ua-iptv.com:8080/roncalvin2000@yahoo.com/GQGgfvaPND/857412
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax",beINSports 2[astro]
@@ -163,8 +152,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=125431&uid=7238&deviceMac=00:1A:79:22
 #EXTINF:-1  group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", ASTRO~FOOTBALL FHD 
 http://tv.cloudcdn.me:80/live.ts?channelId=125432&uid=7238&deviceMac=00:1A:79:22:59:72
 
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax", INDOSIAR HD(fixtv)
-http://fixtv.shop:888/Lyana/Lyana/47
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",ID ▎INDOSIAR HD
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505849
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(pft)televizo
@@ -1440,21 +1427,6 @@ http://iptv12k.com:35461/654321/123456/1746
 http://iptv12k.com:35461/654321/123456/1744
 #EXTINF:-1 tvg-id="" tvg-name="[ID] TLC" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",[ID] TLC
 http://iptv12k.com:35461/654321/123456/1743
-
-#EXTINF:-1 tvg-logo="https://iili.io/JMp31cb.png" group-title="Shareext@LOKAL_ID", ANTV(fixtv)
-http://fixtv.shop:888/Lyana/Lyana/167
-#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="Shareext@LOKAL_ID", Indosiar
-http://fixtv.shop:888/Lyana/Lyana/47
-#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="Shareext@LOKAL_ID", SCTV(fixtv)
-http://fixtv.shop:888/Lyana/Lyana/168
-#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Shareext@LOKAL_ID", RCTI(fixtv)
-http://fixtv.shop:888/Lyana/Lyana/159
-#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="Shareext@LOKAL_ID", MNCTV(fixtv)
-http://fixtv.shop:888/Lyana/Lyana/163
-#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/transtv.png" group-title="Shareext@LOKAL_ID", Trans TV(fixtv)
-http://fixtv.shop:888/Lyana/Lyana/160
-#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/trans7.png" group-title="Shareext@LOKAL_ID", Trans7(fixtv)
-http://fixtv.shop:888/Lyana/Lyana/161
 
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="Shareext@LOKAL_ID",SCTV(pft)televizo
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1574
@@ -7130,17 +7102,6 @@ http://iptv12k.com:35461/654321/123456/1888
 http://iptv12k.com:35461/654321/123456/2114
 #EXTINF:-1  tvg-logo="https://almondmagazine.com/wp-content/uploads/2017/10/BOO-Logo.jpg" group-title="Shareext@MOVIES",[MY]  BOO
 http://iptv12k.com:35461/654321/123456/722
-
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/HBO.png" group-title="Shareext@MOVIES", HBO(fixtv)
-http://fixtv.shop:888/Lyana/Lyana/11588
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/HBOHits.png" group-title="Shareext@MOVIES", HBO Hits(fixtv)
-http://fixtv.shop:888/Lyana/Lyana/11590
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/HBO_Family.png" group-title="Shareext@MOVIES", HBO Family(fixtv)
-http://fixtv.shop:888/Lyana/Lyana/11592
-#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/hbosingnature.png" group-title="Shareext@MOVIES", HBO Signature(fixtv)
-http://fixtv.shop:888/Lyana/Lyana/11593
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/cinemax.png" group-title="Shareext@MOVIES", CINEMAX(fixtv)
-http://fixtv.shop:888/Lyana/Lyana/11599
 
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/hbosingnature.png" group-title="Shareext@MOVIES", HBO Signature(pft)televizo
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1558
