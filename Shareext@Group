@@ -6554,6 +6554,31 @@ http://supersonictv.live:8080/686554/799757/40452
 #EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",[UK] BoxNation HD
 http://supersonictv.live:8080/686554/799757/40439
 
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",SKYSPORTS 24
+http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/19127/index.m3u8
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",SKYSPORTS ARENA
+http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/19128/index.m3u8
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",SKYSPORTS CALCIO
+http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/19129/index.m3u8
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",SKYSPORTS MIX
+http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/19131/index.m3u8
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",SKYSPORTS GOLF
+http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/19132/index.m3u8
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",SKYSPORTS MOTO GP
+http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/19133/index.m3u8
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",SKYSPORTS NBA
+http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/19134/index.m3u8
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",SKYSPORTS UNO
+http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/19135/index.m3u8
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",SUPER TENNIS
+http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/19136/index.m3u8
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",FOX.SPORTS.RACING
+http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/19144/index.m3u8
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",FOXSPORTS..AYER
+http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/19138/index.m3u8
+#EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",FOXSPORTS.PREMIER
+http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/19139/index.m3u8
+
 #EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",SkySPORTS MAINEVENT (xyz)
 http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/243192 
 #EXTINF:-1  tvg-logo="http://163.172.39.182:80/logo/uk.png" group-title="SHAREEXT@SPORTS~ENGLISH",SKYSPORTS PREMIERLEAGUE (xyz)
