@@ -8779,48 +8779,6 @@ https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="SHAREEXT@CHINA_STATION/央视频道",浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",江蘇衛視
-http://146.103.53.116:8080/hls/gf/jiangsuweishi/live.m3u8?token=
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",浙江衛視
-http://146.103.53.116:8080/hls/gf/zhejiangweishi/live.m3u8?token=
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",湖南衛視
-http://146.103.53.116:8080/hls/gf/hunanweishi/live.m3u8?token=
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",my北京衛視
-http://146.103.53.116:8080/hls/gf/beijingweishi/live.m3u8?token=
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",東方衛視
-http://146.103.53.116:8080/hls/gf/dongfangweishi/live.m3u8?token=
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",山東衛視
-http://146.103.53.116:8080/hls/gf/shandongweishi/live.m3u8?token=
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",天津衛視
-http://146.103.53.116:8080/hls/gf/tianjinweishi/live.m3u8?token=
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",四川衛視
-http://146.103.53.116:8080/hls/gf/sichuanweishi/live.m3u8?token=
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",安徽衛視
-http://146.103.53.116:8080/hls/gf/anhuiweishi/live.m3u8?token=
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",江西衛視
-http://146.103.53.116:8080/hls/gf/jiangxiweishi/live.m3u8?token=
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",東南衛視
-http://146.103.53.116:8080/hls/gf/dongnanweishi/live.m3u8?token=
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",河北衛視
-http://146.103.53.116:8080/hls/gf/hebeiweishi/live.m3u8?token=
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",重慶衛視
-http://146.103.53.116:8080/hls/gf/chongqingweishi/live.m3u8?token=
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",深圳衛視
-http://146.103.53.116:8080/hls/gf/shenzhenweishi/live.m3u8?token=
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",湖北衛視
-http://146.103.53.116:8080/hls/gf/hubeiweishi/live.m3u8?token=
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",貴州衛視
-http://146.103.53.116:8080/hls/gf/guizhouweishi/live.m3u8?token=
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",雲南衛視
-http://146.103.53.116:8080/hls/gf/yunnanweishi/live.m3u8?token=
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",廣西衛視
-http://146.103.53.116:8080/hls/gf/guangxiweishi/live.m3u8?token=
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",廣東衛視
-http://146.103.53.116:8080/hls/gf/guangdongweishi/live.m3u8?token=
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",遼寧衛視
-http://146.103.53.116:8080/hls/gf/liaoningweishi/live.m3u8?token=
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",黑龍江衛視
-http://146.103.53.116:8080/hls/gf/heilongjiangweishi/live.m3u8?token=
 
 
 
