@@ -78,6 +78,15 @@ http://iptv12k.com:35461/654321/123456/1228
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="ShareExt@Relax",[TW] NBA
 http://iptv12k.com:35461/654321/123456/1227
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax",SPORTS Live Event
+https://mantul.biz.id:443/aruba/aruba/6493.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax",SPORTS Live Event 02
+https://mantul.biz.id:443/aruba/aruba/10831.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax",SPORTS Live EVENT 03
+https://mantul.biz.id:443/aruba/aruba/33.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax",SPORTS Live EVENT 04
+https://mantul.biz.id:443/aruba/aruba/5920.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax",beINSports 1[astro]
 http://ua-iptv.com:8080/roncalvin2000@yahoo.com/GQGgfvaPND/857412
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax",beINSports 2[astro]
@@ -172,6 +181,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=125431&uid=7238&deviceMac=00:1A:79:22
 #EXTINF:-1  group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", ASTRO~FOOTBALL FHD 
 http://tv.cloudcdn.me:80/live.ts?channelId=125432&uid=7238&deviceMac=00:1A:79:22:59:72
 
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yen6THsAilPp4S7F4Cx1nZ2GRcRhyzLCZ9H61bsrsOEeaQ.png" group-title="ShareExt@Relax",Indosiar [mt]
+https://mantul.biz.id:443/aruba/aruba/60.ts
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar HD" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yen6THsAilPp4S7F4Cx1nZ2GRcRhyzLCZ9H61bsrsOEeaQ.png" group-title="ShareExt@Relax",Indosiar HD[mt]
+https://mantul.biz.id:443/aruba/aruba/5286.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",ID ▎INDOSIAR HD
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505849
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(pft)televizo
@@ -1394,7 +1407,60 @@ https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yekYMmrXoUjKXN7tnGQPM44js-tusWwMsaHdKwvB-aaaRw.png" group-title="Shareext@LOKAL_ID",ANTV
+https://mantul.biz.id:443/aruba/aruba/206.ts
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV HD" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yekYMmrXoUjKXN7tnGQPM44js-tusWwMsaHdKwvB-aaaRw.png" group-title="Shareext@LOKAL_ID",ANTV HD
+https://mantul.biz.id:443/aruba/aruba/6550.ts
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yelAknz-uhYmfhez0L1ouMtyY5FUb78GsT0_uVrybEGPxQ.png" group-title="Shareext@LOKAL_ID",SCTV
+https://mantul.biz.id:443/aruba/aruba/32.ts
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV FHD" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yelAknz-uhYmfhez0L1ouMtyY5FUb78GsT0_uVrybEGPxQ.png" group-title="Shareext@LOKAL_ID",SCTV FHD
+https://mantul.biz.id:443/aruba/aruba/432.ts
+#EXTINF:-1 tvg-id="tvOne.id" tvg-name="TV One" tvg-logo="https://mantul.biz.id:443/images/lO4I6ENDRiY1iG64O8qqg05nuK2R4USmS8q11SWts7GfvEUf1OGoj9qU7QuCpUzV9oxJVE0JV-acxd2O-0n_XqMzrd6XHkoKdeiTI7EO7ea05gU6yu3wGH2NSw_g8EgETwVRQr6Psf9WzBSyma9QZJTzuelp4OJz5F1LfGGgwI8gsAdFNzWXaXegSHmQc-G0.png" group-title="Shareext@LOKAL_ID",TV One
+https://mantul.biz.id:443/aruba/aruba/219.ts
+#EXTINF:-1 tvg-id="DuniaLain.id" tvg-name="Dunia Lain" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yenxklEBP7HEKyxOfs0CiUfxKjyGo3S64AVCneVsqHn0dw.png" group-title="Shareext@LOKAL_ID",Dunia Lain
+https://mantul.biz.id:443/aruba/aruba/246.ts
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar HD" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yen6THsAilPp4S7F4Cx1nZ2GRcRhyzLCZ9H61bsrsOEeaQ.png" group-title="Shareext@LOKAL_ID",Indosiar HD
+https://mantul.biz.id:443/aruba/aruba/5286.ts
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_hQLLUH6FRA-f05CTt3fkCvV9pUaPkSG6-iCXgE7RLHg.png" group-title="Shareext@LOKAL_ID",RCTI
+https://mantul.biz.id:443/aruba/aruba/190.ts
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI HD" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_hQLLUH6FRA-f05CTt3fkCvV9pUaPkSG6-iCXgE7RLHg.png" group-title="Shareext@LOKAL_ID",RCTI HD
+https://mantul.biz.id:443/aruba/aruba/4906.ts
+#EXTINF:-1 tvg-id="" tvg-name="MNC TV HD" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_M9o_ig3lupuxbMkR8E6OTquhVYjUdqos4TEFj06nKKg.png" group-title="Shareext@LOKAL_ID",MNC TV HD
+https://mantul.biz.id:443/aruba/aruba/11257.ts
+#EXTINF:-1 tvg-id="ABCAustralia.au" tvg-name="Moji tv" tvg-logo="" group-title="Shareext@LOKAL_ID",Moji tv
+https://mantul.biz.id:443/aruba/aruba/8251.ts
+#EXTINF:-1 tvg-id="NET.id" tvg-name="NET TV FHD" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch8neanq0wH_u5dVBHwxwTVKQInQYGBEd9vWf1TFi4ez5Q.png" group-title="Shareext@LOKAL_ID",NET TV FHD
+https://mantul.biz.id:443/aruba/aruba/215.ts
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name="RTV" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemU43nKABVScoFAFRyhT-VEXeBu8etD9AFE51OCkNLUJg.png" group-title="Shareext@LOKAL_ID",RTV
+https://mantul.biz.id:443/aruba/aruba/217.ts
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="Shareext@LOKAL_ID",TVRI
+https://mantul.biz.id:443/aruba/aruba/39.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sport" tvg-logo="https://mantul.biz.id:443/images/mg9e4VnU5MiobcDarwnBseIbNEqMurmG4yfdhpZ4024.png" group-title="Shareext@LOKAL_ID",TVRI Sport
+https://mantul.biz.id:443/aruba/aruba/618.ts
+#EXTINF:-1 tvg-id="VisionPrime.id" tvg-name="Vision Prime" tvg-logo="https://mantul.biz.id:443/images/mg9e4VnU5MiobcDarwnBsThkRVaTEjGh_pgyHjwTzco.png" group-title="Shareext@LOKAL_ID",Vision Prime
+https://mantul.biz.id:443/aruba/aruba/4925.ts
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV HD" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_dfcS2rxlBR2YIaPB0xJUJgOZL3e6go3OpaMr0tEk9iQ.png" group-title="Shareext@LOKAL_ID",GTV HD
+https://mantul.biz.id:443/aruba/aruba/8932.ts
+#EXTINF:-1 tvg-id="INews.id" tvg-name="INews TV" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_LdxoAluRADLiODXO_nC06a5t5F3l_0_CnPFOoVOiZJg.png" group-title="Shareext@LOKAL_ID",INews TV
+https://mantul.biz.id:443/aruba/aruba/193.ts
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-logo="https://mantul.biz.id:443/images/pab2R7PWBHNTPmE5N3UhiLLHf2JmUPhCSjh3QT2-G7jSYCp4GDYk7GHFnYUcMYfPKlc7oz86uzkC52ltFhIL-qgje3X8JLQWmcEwzXgmi5A.png" group-title="Shareext@LOKAL_ID",Kompas TV
+https://mantul.biz.id:443/aruba/aruba/210.ts
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yel6hKZU3f1qhV-ZxH9taQD1xfGoftVTuxPdDK6hzvyFjg.png" group-title="Shareext@LOKAL_ID",Trans 7
+https://mantul.biz.id:443/aruba/aruba/218.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trans 7 FHD" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yel6hKZU3f1qhV-ZxH9taQD1xfGoftVTuxPdDK6hzvyFjg.png" group-title="Shareext@LOKAL_ID",Trans 7 FHD
+https://mantul.biz.id:443/aruba/aruba/239.ts
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://mantul.biz.id:443/images/lO4I6ENDRiY1iG64O8qqg0ZtrxiLbqvUTLwRTGgU7FkIQ-iTHznxre-gRihG7-7zqFX4kj3z8TL8Ct_A-1hQkPMbFuk3P8lq05Jpx9IxGiQwKzsMdaHB4tfmo1BeDFg4IQLFblQiyf62U1tzgVIkg_wSpQnJfwulH5VZUu9lKcs1TQfGJJW8JFJSu1pgUqsM.png" group-title="Shareext@LOKAL_ID",TransTV
+https://mantul.biz.id:443/aruba/aruba/31.ts
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV FHD" tvg-logo="https://mantul.biz.id:443/images/lO4I6ENDRiY1iG64O8qqg0ZtrxiLbqvUTLwRTGgU7FkIQ-iTHznxre-gRihG7-7zqFX4kj3z8TL8Ct_A-1hQkPMbFuk3P8lq05Jpx9IxGiQwKzsMdaHB4tfmo1BeDFg4IQLFblQiyf62U1tzgVIkg_wSpQnJfwulH5VZUu9lKcs1TQfGJJW8JFJSu1pgUqsM.png" group-title="Shareext@LOKAL_ID",TransTV FHD
+https://mantul.biz.id:443/aruba/aruba/240.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lokal-Trans Tv" tvg-logo="https://mantul.biz.id:443/images/lO4I6ENDRiY1iG64O8qqg0ZtrxiLbqvUTLwRTGgU7FkIQ-iTHznxre-gRihG7-7zqFX4kj3z8TL8Ct_A-1hQkPMbFuk3P8lq05Jpx9IxGiQwKzsMdaHB4tfmo1BeDFg4IQLFblQiyf62U1tzgVIkg_wSpQnJfwulH5VZUu9lKcs1TQfGJJW8JFJSu1pgUqsM.png" group-title="Shareext@LOKAL_ID",Lokal-Trans Tv
+https://mantul.biz.id:443/aruba/aruba/6543.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lokal-Trans7" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yel6hKZU3f1qhV-ZxH9taQD1xfGoftVTuxPdDK6hzvyFjg.png" group-title="Shareext@LOKAL_ID",Lokal-Trans7
+https://mantul.biz.id:443/aruba/aruba/6538.ts
+#EXTINF:-1 tvg-id="MentariTV.id" tvg-name="Mentari Tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Mentari_TV.png/revision/latest?cb=20210117102858" group-title="Shareext@LOKAL_ID",Mentari Tv
+https://mantul.biz.id:443/aruba/aruba/35.ts
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yelv4h9faQNgeZ4klibiqLT0W_IqQTBrPvTnXhqzuNFujg.png" group-title="Shareext@LOKAL_ID",Metro TV
+https://mantul.biz.id:443/aruba/aruba/214.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="[ID] SCTV(a)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sctv_id.png" group-title="Shareext@LOKAL_ID",[ID] SCTV(a)
 http://iptv12k.com:35461/654321/123456/2184
