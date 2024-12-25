@@ -483,24 +483,6 @@ https://www.livedoomovies.com:4432/02_2sporthd5_720p/chunklist.m3u8|user-agent=M
 #EXTINF:-1  tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="ShareExt@PREMIUM✓SPORTS",TH:TRUE SPORT 7
 https://www.livedoomovies.com:4432/02_2sporthd7_720p/chunklist.m3u8|user-agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-id="AstroSupersport" group-title="ShareExt@PREMIUM✓SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png",ASTRO SUPERSPORT(B)
-http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1722.ts
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2" group-title="ShareExt@PREMIUM✓SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png",ASTRO SUPERSPORT 2(B)
-http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1721.ts
-#EXTINF:-1 tvg-id="AstroSupersport3" group-title="ShareExt@PREMIUM✓SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png",ASTRO SUPERSPORT 3(B)
-http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1720.ts
-#EXTINF:-1 tvg-id="815" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="ShareExt@PREMIUM✓SPORTS",ASTRO SUPERSPORT 4(B)
-http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1719.ts
-
-#EXTINF:-1 group-title="ShareExt@PREMIUM✓SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", TNT Sports 1 - no Vpn
-http://109.61.81.147:2080/cdn2/559/video.m3u8?token=4444
-#EXTINF:-1 group-title="ShareExt@PREMIUM✓SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", TNT Sports 2 - no Vpn
-http://109.61.81.147:2080/cdn2/560/video.m3u8?token=4444
-#EXTINF:-1 group-title="ShareExt@PREMIUM✓SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", TNT Sports 3 - no Vpn
-http://109.61.81.147:2080/cdn2/295/video.m3u8?token=4444
-#EXTINF:-1 group-title="ShareExt@PREMIUM✓SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", TNT Sports 4 - no Vpn
-http://109.61.81.147:2080/cdn2/5054/video.m3u8?token=4444
-
 #EXTINF:-1 tvg-id="TSN 1" tvg-name="TSN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="ShareExt@PREMIUM✓SPORTS", TSN 1
 http://212.102.60.231/TSN_1/index.m3u8
 #EXTINF:-1 tvg-id="TSN 2" tvg-name="TSN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="ShareExt@PREMIUM✓SPORTS", TSN 2
@@ -5937,23 +5919,6 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/102396
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/102395 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",Sky Sport Select HD NZ VIP SPORTS 
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/102394
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",SkySports 1 NZ
-https://7pal.short.gy/skyspt1nz 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",SkySports 2 NZ
-https://7pal.short.gy/skyspt2nz 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",SkySports 3 NZ 
-https://7pal.short.gy/skyspt3nz 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",SkySports 4 NZ
-https://7pal.short.gy/skyspt4nz
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",SkySports 5 NZ
-https://7pal.short.gy/skyspt5nz
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",SkySports 6 NZ
-https://7pal.short.gy/skyspt6nz
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",SkySports 7 NZ
-https://7pal.short.gy/skyspt7nz
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS",SkySports PREMIER LIGA NZ
-https://7pal.short.gy/skyspt8nz
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/rbFkzvP/shareext-australian-Kanguru-Logo.jpg" group-title="SHAREEXT@NZ|AUSTRALIA~SPORTS", NZ| NEW-ZELAND SKYSPORT 1 
 http://extraott.com:80/live/3969424152/3723991250/2375.m3u8 
