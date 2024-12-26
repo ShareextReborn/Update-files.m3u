@@ -6439,7 +6439,32 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1631301541452718080/Zx60yrrT_400x400.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", ..Esportes Brasília HD!!
 https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8|user-agent=Shareext/2.2.1
-   
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", [BR] Band Sports FHD
+http://supersonictv.live:8080/820196/979455/84942
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", [BR] Combate FHD
+http://supersonictv.live:8080/820196/979455/84953
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", [BR] ESPORTE INTERATIVO *
+http://supersonictv.live:8080/820196/979455/84982
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", [BR] ESPN FHD
+http://supersonictv.live:8080/820196/979455/84981
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", [BR] ESPN 2 FHD
+http://supersonictv.live:8080/820196/979455/84978
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", [BR] ESPN Brasil FHD
+http://supersonictv.live:8080/820196/979455/84979
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", [BR] ESPN Extra FHD
+http://supersonictv.live:8080/820196/979455/84980
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", [BR] Fox Sports FHD
+http://supersonictv.live:8080/820196/979455/84993
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", [BR] Fox Sports 2 FHD
+http://supersonictv.live:8080/820196/979455/84992
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", [BR] SporTV FHD
+http://supersonictv.live:8080/820196/979455/85095
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", [BR] SporTV 2 FHD
+http://supersonictv.live:8080/820196/979455/85093
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", [BR] SporTV 3 FHD
+http://supersonictv.live:8080/820196/979455/85094c
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports",Ufc~
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/134
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports",Band~ sports 4kk
@@ -6757,6 +6782,43 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/2749
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@PORTUGAL ➾ Sports", Fuel TV 
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/2738
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS", [NL] ZIGGO SPORT Voetbal HD
+http://supersonictv.live:8080/820196/979455/84408
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS", [NL] Ziggo Sport Select HD
+http://supersonictv.live:8080/820196/979455/84409
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS", [NL] Ziggo Sport Racing HD
+http://supersonictv.live:8080/820196/979455/84410
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS", [NL] Ziggo Sport HD
+http://supersonictv.live:8080/820196/979455/84411
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS", [NL] ZIGGO SPORT Golf HD
+http://supersonictv.live:8080/820196/979455/84412
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS", [NL] Ziggo Sport Extra HD
+http://supersonictv.live:8080/820196/979455/84413
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS", [NL] Ziggo Sport Docu HD
+http://supersonictv.live:8080/820196/979455/84414
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS", [NL] FOX Sports 6 HD
+http://supersonictv.live:8080/820196/979455/84468
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS", [NL] FOX Sports 5 HD
+http://supersonictv.live:8080/820196/979455/84469
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS", [NL] FOX Sports 4 HD
+http://supersonictv.live:8080/820196/979455/84470
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS", [NL] FOX Sports 3 HD Eredivisie
+http://supersonictv.live:8080/820196/979455/84471
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS", [NL] FOX Sports 2 HD
+http://supersonictv.live:8080/820196/979455/84472
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS", [NL] FOX Sports 1 HD Eredivisie
+http://supersonictv.live:8080/820196/979455/84473
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS", [NL] Extreme Sports Channel
+http://supersonictv.live:8080/820196/979455/84480
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS", [NL] Eurosport 2 HD
+http://supersonictv.live:8080/820196/979455/84481
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS", [NL] Eurosport 1 HD
+http://supersonictv.live:8080/820196/979455/84482
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@NEDERLAND ➾  SPORTS", ESPN
 http://iptvtree.net:8080/F33925/4034a109/267209
@@ -7158,6 +7220,38 @@ http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122400
 http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122401
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", ESPN Extra
 http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122406
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@MEXICO ➾  SPORTS", MX (HD) TP PX Sports
+http://supersonictv.live:8080/820196/979455/61372
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@MEXICO ➾  SPORTS", MX FoxSports 1 Mexico
+http://supersonictv.live:8080/820196/979455/61297
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@MEXICO ➾  SPORTS", MX Fox Sports 2 HD
+http://supersonictv.live:8080/820196/979455/61295
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@MEXICO ➾  SPORTS", MX Fox Sports 3 HD
+http://supersonictv.live:8080/820196/979455/61296
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@MEXICO ➾  SPORTS", MX Formula Noticias
+http://supersonictv.live:8080/820196/979455/61284
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@MEXICO ➾  SPORTS", MX Espn HD
+http://supersonictv.live:8080/820196/979455/61277
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@MEXICO ➾  SPORTS", MX Espn 2 HD
+http://supersonictv.live:8080/820196/979455/61275
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@MEXICO ➾  SPORTS", MX Espn 3
+http://supersonictv.live:8080/820196/979455/61276
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@MEXICO ➾  SPORTS", MX Espn Plus HD
+http://supersonictv.live:8080/820196/979455/61278
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@MEXICO ➾  SPORTS", MX Espn U HD
+http://supersonictv.live:8080/820196/979455/61279
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@MEXICO ➾  SPORTS", MX Azteca Deportes HD
+http://supersonictv.live:8080/820196/979455/61236
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@MEXICO ➾  SPORTS", MX AYM Sports
+http://supersonictv.live:8080/820196/979455/61227
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@MEXICO ➾  SPORTS", MX NBC Golf HD
+http://supersonictv.live:8080/820196/979455/61323
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@MEXICO ➾  SPORTS", MX SEC Network HD
+http://supersonictv.live:8080/820196/979455/61332
+
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@COLOMBIA ➾  SPORTS", DIRECTV SPORTS +  [Live During Events Only]
