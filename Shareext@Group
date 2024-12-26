@@ -5234,41 +5234,6 @@ http://extraott.com:80/live/3969424152/3723991250/22.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels",USA |ESPN (stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/133
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels",US |ESPN 2(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/173
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels",USA |ESPN News(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/134
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels",US |ESPN U(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/172
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels",U Fight  Network(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/331
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels",USA |Fox Deportes(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/266
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels",USA |Fox Soccer Plus(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/265
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels",USA |Fox Sports 1(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/263
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels",USA |Fox Sports 2(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/264
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels",USA |Fox Sports Racing(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/8430
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels",USA |Marquee Sports Network(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/1045
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels",USA |MASN(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/1615
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels",U MASN 2(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/1616
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels",U MAV TV(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/965
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels",USA |Root Sports Northwest(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/1613
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels",USA |World Fishing Network(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/382
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@USA~Live Channels",USA |WWE(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/398
-
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="SHAREEXT@USA~Live Channels",.FS1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="FS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="SHAREEXT@USA~Live Channels",.FS2
@@ -6464,47 +6429,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing5.m3u8
 #EXTINF:-1 tvg-chno="316" tvg-logo="https://i.imgur.com/4xO7aRX.png" tvg-country="FR" group-title="SHAREEXT@FRANCE ➾  SPORT",RACING 6 [NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing6.m3u8
-
-
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MEXICO ➾ Sports", MX |U FighT Network(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/331
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MEXICO ➾ Sports", MX |AYM SPORTS(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/2873
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MEXICO ➾ Sports", MX |Claro Sports(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/1700
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MEXICO ➾ Sports", MX |ESPN(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/97
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MEXICO ➾ Sports", MX |ESPN 2(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/1456
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MEXICO ➾ Sports", MX |ESPN 3(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/91
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MEXICO ➾ Sports", MX |ESPN 4(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/90
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MEXICO ➾ Sports", MX | ESPN Deportes(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/528
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MEXICO ➾ Sports", MX |Fox Sports(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/92
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MEXICO ➾ Sports", MX |Fox Sports 2(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/93
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MEXICO ➾ Sports", MX |Fox Sports 3(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/100
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MEXICO ➾ Sports", MX |Fox Sports Premium(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/992
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MEXICO ➾ Sports", MX |TyC Sports(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/288
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MEXICO ➾ Sports", MX |Win Sports(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/297
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MEXICO ➾ Sports", MX |Win Sports +(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/1417
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MEXICO ➾ Sports", MX |beIN Sports La Liga(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/626
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MEXICO ➾ Sports", MX |DAZN F1(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/1650
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MEXICO ➾ Sports", MX |Golf Channel(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/89
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MEXICO ➾ Sports", MX |Movistar F1(stream)
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/1442
 
 
 
@@ -7899,21 +7823,6 @@ http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656965
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656918
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", MY ▎STAR VIJAY
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656928
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES",{BEIN} FOX MOVIES ACTION 
-http://ktv.im:8080/fullpack15months354/213907856/51177
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES",{beIN} DRAMA 
-http://ktv.im:8080/fullpack15months354/213907856/51172 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareexc t.jpg" group-title="Shareext@MOVIES",{BEIN} STAR MOVIES HD 
-http://ktv.im:8080/fullpack15months354/213907856/51173
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES",{BEIN} MOVIES HD1 
-http://ktv.im:8080/fullpack15months354/213907856/51166 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES",{BEIN} MOVIES HD2 
-http://ktv.im:8080/fullpack15months354/213907856/51167 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES",{BEIN} MOVIES HD3 
-http://ktv.im:8080/fullpack15months354/213907856/51168 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES",{BEIN} MOVIES HD4 
-http://ktv.im:8080/fullpack15months354/213907856/51169
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES",Movies TV ENGLISH
 https://linear-797.frequency.stream/mt/studio/797/hls/master/playlist.m3u8
