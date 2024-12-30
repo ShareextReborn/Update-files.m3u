@@ -668,16 +668,28 @@ http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/425324
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/425323
 #http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425323.ts
 
-#EXTINF:-1 group-title="SHAREEXT@NOW||HUB~SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", Hub Premier 1 - no Vpn
-http://109.61.81.147:2080/cdn2/1255/video.m3u8?token=4444
-#EXTINF:-1 group-title="SHAREEXT@NOW||HUB~SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", Hub Premier 2 - no Vpn
-http://109.61.81.147:2080/cdn2/47/video.m3u8?token=4444
-#EXTINF:-1 group-title="SHAREEXT@NOW||HUB~SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", Hub Premier 3 - no Vpn
-http://109.61.81.147:2080/cdn2/4851/video.m3u8?token=4444
-#EXTINF:-1 group-title="SHAREEXT@NOW||HUB~SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", Hub Premier 4 - no Vpn
-http://109.61.81.147:2080/cdn2/4886/video.m3u8?token=4444
-#EXTINF:-1 group-title="SHAREEXT@NOW||HUB~SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", Hub Premier 5 - no Vpn
-http://109.61.81.147:2080/cdn2/1053/video.m3u8?token=4444
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@NOW||HUB~SPORTS", Hub Premier 1 FHD
+https://starshare.live:443/live/7382837374/5003958588/148158.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@NOW||HUB~SPORTS", Hub Premier 2 FHD
+https://starshare.live:443/live/7382837374/5003958588/148159.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@NOW||HUB~SPORTS", Hub Premier 3 FHD
+https://starshare.live:443/live/7382837374/5003958588/148160.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@NOW||HUB~SPORTS", Hub Premier 4 FHD
+https://starshare.live:443/live/7382837374/5003958588/148161.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@NOW||HUB~SPORTS", Hub Premier 5 FHD
+https://starshare.live:443/live/7382837374/5003958588/148162.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@NOW||HUB~SPORTS", Hub Premier 6 FHD
+https://starshare.live:443/live/7382837374/5003958588/148163.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@NOW||HUB~SPORTS", Hub Premier 7 FHD
+https://starshare.live:443/live/7382837374/5003958588/148164.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@NOW||HUB~SPORTS", Hub Premier 8 FHD
+https://starshare.live:443/live/7382837374/5003958588/148165.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@NOW||HUB~SPORTS", Hub Premier 9 FHD
+https://starshare.live:443/live/7382837374/5003958588/148166.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@NOW||HUB~SPORTS", Hub Premier 10 FHD
+https://starshare.live:443/live/7382837374/5003958588/148167.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@NOW||HUB~SPORTS", Hub Premier 11 FHD
+https://starshare.live:443/live/7382837374/5003958588/148168.ts
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@NOW||HUB~SPORTS", PPV| HUB PREMIER 01 [EVENT ONLY] 
 http://extraott.com:80/live/3969424152/3723991250/9061.m3u8 
