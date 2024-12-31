@@ -172,29 +172,36 @@ http://tv.cloudcdn.me:80/live.ts?channelId=125431&uid=7238&deviceMac=00:1A:79:22
 #EXTINF:-1  group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", ASTRO~FOOTBALL FHD 
 http://tv.cloudcdn.me:80/live.ts?channelId=125432&uid=7238&deviceMac=00:1A:79:22:59:72
 
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",ID ▎INDOSIAR HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505849
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(pft)televizo
 http://perfecttv.net:8080/live/Perfecttv/Perfecttv/1604.ts
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(xplayer2)
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(xplayer)
 http://xtvplayer.top:8080/live/Atiffb694/2840914/350972.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(ts)
 http://shareext@15.235.181.35/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75&id=indosiar
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(cdn)
 http://tv.cloudcdn.me/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(opx2)
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(opx)
 http://opplex.tv:8080/live/starmpk/mpk1234/350972.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(VIP)
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR__(xtv3)
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD__(xtv_1)
 http://xtv.ooo:8080/live/Raza335/3355141450/350972.ts
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR__(xtv6)
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD__(xtv_2)
 http://xtv.ooo:8080/live/jk8010801099/jk8010801099/350972.ts
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD_(xtv2)
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD_(xtv_3)
 http://xtv.ooo:8080/live/827281020/827292929/350972.ts
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD_(xtv_4)
+http://xtv.ooo:8080/Behraam223/8237588/350972
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD_(xtv_5)
+http://xtv.ooo:8080/88654455/97543255/350972
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD_(xtv_6)
+http://xtv.ooo:8080/874246786/743567899/350972
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD_(xtv_7)
+http://xtv.ooo:8080/Jawad1994/03112371534/350972
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD_(xtv_8)
+http://xtv.ooo:8080/52882216/581881255/350972
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar.(indihome)
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SCTV(indihome)
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",TVONE(indihome)
@@ -588,49 +595,34 @@ https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW||HUB~SPORTS", Now PremierSports 1
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/425332
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425332.ts
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW||HUB~SPORTS", Now PremierSports 2
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/425333
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425333.ts
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW||HUB~SPORTS", Now PremierSports 3
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/425334
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425334.ts
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW||HUB~SPORTS", Now PremierSports 4
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/425335
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425335.ts
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW||HUB~SPORTS", Now PremierSports 5
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/425336
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425336.ts
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW||HUB~SPORTS", Now PremierSports 6
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/425337
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425337.ts
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW||HUB~SPORTS", Now PremierSports 7
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/425331
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425331.ts
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW||HUB~SPORTS", Now PremierSports 8
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/425330
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425330.ts
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW||HUB~SPORTS", NowSports 1
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/425329
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425329.ts
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW||HUB~SPORTS", NowSports 2
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/425328
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425328.ts
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW||HUB~SPORTS", NowSports 3
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/425327
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425327.ts
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW||HUB~SPORTS", NowSports 4
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/425326
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425326.ts
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW||HUB~SPORTS", NowSports 5
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/425325
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425325.ts
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW||HUB~SPORTS", NowSports 6
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/425324
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425324.ts
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW||HUB~SPORTS", NowSports 7
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/425323
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425323.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="SHAREEXT@NOW||HUB~SPORTS", Hub Premier 1 FHD
 https://starshare.live:443/live/7382837374/5003958588/148158.ts
@@ -712,45 +704,6 @@ http://balls.unbelievablejeff.online:8000/live/simoncook/jzpmcksjcU3r/206749.m3u
 
 
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS", ID ▎SPOTV 1
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505814
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS", ID  ▎SPOTV 2
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505815
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",Champions 1.mpd(ott.nav)
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=17938&type=drm
-https://luck.openwindows038.workers.dev/play.mpd?id=17938&type=dash
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",Champions 2.mpd(ott.nav)
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=6686&type=drm
-https://luck.openwindows038.workers.dev/play.mpd?id=6686&type=dash
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",Champions 3.mpd(ott.nav)
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=6786&type=drm
-https://luck.openwindows038.workers.dev/play.mpd?id=6786&type=dash
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",Champions 5.mpd(ott.nav)
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9182&type=drm
-https://luck.openwindows038.workers.dev/play.mpd?id=9182&type=dash
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",Champions 6.mpd(ott.nav)
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9183&type=drm
-https://luck.openwindows038.workers.dev/play.mpd?id=9183&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",PSJ TV
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
@@ -886,14 +839,6 @@ http://31.42.187.37:25461/watchpad13158/1234/114
 http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/71146.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/cctr7qN/astro-badminton.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", Astro Badminton
 http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/71105.m3u8
-#EXTINF:-1  group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_1_70X40.png", beINSports 1 (MY) 
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37432
-#EXTINF:-1  group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2_70X40.png", beINSports 2 (MY) 
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/48099
-#EXTINF:-1  group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_3_70X40.png", beIN Sports 3 (MY) 
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37433
-#EXTINF:-1  group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports" tvg-logo="https://i.ibb.co.com/tX64NXy/PREMIER-SPORT.png", PRemier Sports (MY) 
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/48106
 #EXTINF:-1 group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports" tvg-logo="https://i.ibb.co.com/VBW3p9S/astro-premier-league.png", Premier League 1
 http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/1722.m3u8
 #EXTINF:-1  group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports" tvg-logo="https://i.ibb.co.com/VBW3p9S/astro-premier-league.png", Premier League 2
@@ -903,98 +848,52 @@ http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/1720.m3u8
 #EXTINF:-1  group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports" tvg-logo="https://i.ibb.co.com/6Wdds5z/astro-football.png", ASTRO Football
 http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/1719.m3u8
 
-#EXTINF:-1  group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports" tvg-logo="https://i.ibb.co.com/6Wdds5z/astro-football.png", MY ▎ASTRO SUPERSPORT
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656970
-#EXTINF:-1  group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports" tvg-logo="https://i.ibb.co.com/6Wdds5z/astro-football.png", MY ▎ASTRO SUPERSPORT 2
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656971
-#EXTINF:-1  group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports" tvg-logo="https://i.ibb.co.com/6Wdds5z/astro-football.png", MY ▎ASTRO SUPERSPORT 3
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656972
-#EXTINF:-1  group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports" tvg-logo="https://i.ibb.co.com/6Wdds5z/astro-football.png", MY ▎ASTRO SUPERSPORT 4
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656973
-#EXTINF:-1  group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports" tvg-logo="https://i.ibb.co.com/6Wdds5z/astro-football.png", MY ▎EUROSPORT
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656964
-#EXTINF:-1  group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports" tvg-logo="https://i.ibb.co.com/6Wdds5z/astro-football.png", MY ▎BEIN SPORTS
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656967
-#EXTINF:-1  group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports" tvg-logo="https://i.ibb.co.com/6Wdds5z/astro-football.png", MY ▎WWE NETWORK
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656966
-#EXTINF:-1  group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports" tvg-logo="https://i.ibb.co.com/6Wdds5z/astro-football.png", MY ▎SPORTS SPO TV
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656867
-#EXTINF:-1  group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports" tvg-logo="https://i.ibb.co.com/6Wdds5z/astro-football.png",  MY ▎SPOTV2
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656927
-#EXTINF:-1  group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports" tvg-logo="https://i.ibb.co.com/6Wdds5z/astro-football.png",  MY ▎ASTRO CRICKET
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656962
-#EXTINF:-1  group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports" tvg-logo="https://i.ibb.co.com/6Wdds5z/astro-football.png",  MY ▎TV OKEY
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656952
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇲🇾 Arena 1
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/605251
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/605251
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇲🇾 Arena 2
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/609331
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/609331
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇲🇾 beINSports 1
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/609332
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/609332
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇲🇾 beINSports 2
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/609333
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/609333
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇲🇾 beINSports 3
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/609334
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/609334
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇲🇾 Eurosport
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/609335
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/609335
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇲🇾 SPOTV
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/609336
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/609336
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇲🇾 SPOTV 2
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/609337
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/609337
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇲🇾 SuperSport 1
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/609338
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/609338
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇲🇾 SuperSport 2
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/609339
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/609339
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇲🇾 SuperSport 3
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/609340
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/609340
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇲🇾 SuperSport 4
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/609341
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/609341
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇲🇾 SuperSport 5
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/609342
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/609342
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇲🇾 Astro Cricket
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/605277
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/605277
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇲🇾 Golf Channel
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/605312
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/605312
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇲🇾 Rugby Pass
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/605338
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/605338
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇲🇾 TV Okey
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/605348
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/605348
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇸🇬 beIN SPORTS (D)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/517924
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/517924
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇸🇬 beIN SPORTS 2 (D)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/517925
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/517925
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇸🇬 beIN Sports 3 (D)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/517923
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/517923
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇸🇬 Live 1 (D)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/518033
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/518033
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇸🇬 Live 2 (D)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/518032
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/518032
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇸🇬 Live+ (D)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/518030
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/518030
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", 🇸🇬: HUB SPORT 1
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34778
@@ -1227,41 +1126,29 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/1550
 
 #EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",BOO (xyz)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/605290
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/605290
 #EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",Celestial (xyz)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/605293
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/605293
 #EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",Celestial Classic Movies (xyz)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/605291
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/605291
 #EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",Cinemax (xyz)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/605295
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/605295
 #EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",Colors Tamil (xyz)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/605299
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/605299
 #http://jmrk.xyz:3050/walterskelton2000@gmail.com/MYmvaECCQx/605321
 #EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",HBO Family (xyz)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/605314
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/605314
 #EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",HBO Hits (xyz)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/605315
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/605315
 #EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",HBO Signature (xyz)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/605298
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/605298
 #EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",Hits (xyz)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/605317
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/605317
 #EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",Hits Movies (xyz)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/605318
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/605318
 #EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",iQIYI (xyz)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/605320
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/605320
 #EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",K+ (xyz)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/605321
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/605321
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Hypp_Inspirasi_HD.png" group-title="SHAREEXT@Television/MY/ASTRO",INSPIRASI-mpd(ott.nav)
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
@@ -1407,33 +1294,6 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/1602
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1603
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="Shareext@LOKAL_ID",Indosiar(pft)televizo
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", ID ▎RCTI
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505867
-#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", ID ▎MNC TV
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505855
-#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", ID ▎GTV
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505835
-#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",  ID ▎TV ONE
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505878
-#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", ID ▎INDOSIAR
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505849
-#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", ID ▎INEWS
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505850
-#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", ID ▎MOJI
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505856
-#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", ID ▎NET
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505860
-#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", ID ▎TRANS 7
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505875
-#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", ID ▎TRANS TV
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505876
-#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", ID ▎TV 9 NUSANTARA
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505877
-#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", ID ▎KOMPAS TV
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505851
-#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", ID ▎METRO TV
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505853
 
 #EXTINF:-1  tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/gtv.png" group-title="Shareext@LOKAL_ID", GTV+(2023)
 https://allcutv.rctiplus.id/gtv2023.m3u8
@@ -5303,30 +5163,6 @@ http://14.102.154.164:5021/live/409.ts
 
 
 
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg", PL ▎UFC Fight Pass
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1281218
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg", PL ▎FIGHTKLUB HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/105448
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg", PL ▎FIGHTBOX HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/105461
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg", PL ▎FAME MMA
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1281207
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg", PL ▎PRIME MMA
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1281209
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg", PL ▎Glory Kickboxing
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1281220
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg", PL ▎GROMDA.TV
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1281213
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg", PL ▎HIGH LEAGUE
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1281212
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg", PL ▎OKTAGON.TV
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1281215
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg", PL ▎MMA ATTACKE
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1281216
-#EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg", PL ▎CLOUT MMA
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1483828
-
-
 #EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",Live Events UFC 1 VIP Sports 
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/17086 
 #EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",Live Events UFC 2 VIP Sports 
@@ -5340,52 +5176,36 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/17082
 
 #EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",Triller/Fite 24/7
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/601452
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/601452
 #EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",Mike Tyson 24/7
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/601453
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/601453
 #EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",UFC FIGHT PASS 24/7
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/601454
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/601454
 #EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",WWE Network (Peacock)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/601455
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/601455
 #EXTINF:-1 group-title="ShareExt@FIGHT_Sports" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",WWE Network (PPV)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/601456
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/601456
 #EXTINF:-1  tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",24/7: IMPACT PRO WRESTLING
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/428570
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/428570
 #EXTINF:-1  tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",24/7: Lucha Libre AAA
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/404945
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/404945
 #EXTINF:-1  tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",24/7: WWE Legends House
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/649650
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/649650
 #EXTINF:-1  tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",24/7: WWE Money in the Bank
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/578892
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/578892
 #EXTINF:-1  tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",24/7: WWEs Most Wanted Treasures
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/649652
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/649652
 #EXTINF:-1  tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",24/7: WWE Rivals
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/649651
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/649651
 #EXTINF:-1  tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",24/7: WWE Royal Rumble
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/578893
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/578893
 #EXTINF:-1  tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",24/7: WWE SummerSlam
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/578894
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/578894
 #EXTINF:-1  tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",24/7: WWE This Is Awesome
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/649653
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/649653
 #EXTINF:-1  tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",24/7: WWE Untold
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/649654
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/649654
 #EXTINF:-1  tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports",24/7: WWE WRESTLEMANIA
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/438662
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/438662
 
 #EXTINF:-1  group-title="ShareExt@FIGHT_Sports" tvg-logo="https://pbs.twimg.com/profile_images/1305918437496164354/UbULc0Jx_400x400.jpg",XFC MMA
 https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
@@ -6167,62 +5987,6 @@ http://extraott.com:80/live/3969424152/3723991250/401172761.m3u8
 
 
 
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT",▎RMC SPORT 1 HD 4ᴋ
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/130933
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT",▎RMC SPORT 2 HD 4ᴋ
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/130934
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT",▎RMC SPORT LIVE 3 HD 4ᴋ
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/359754
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT",▎RMC SPORT LIVE 4 HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/359760
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT",▎RMC SPORT LIVE 5 HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/131390
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT",▎INFOSPORTS+ HD 4ᴋ
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/130942
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT",▎L-EQUIPE HD HD 4ᴋ
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/130943
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT",▎BEIN SPORTS 1 HD 4ᴋ
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/130937
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT",▎BEIN SPORTS 2 HD 4ᴋ
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/130939
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT",▎BEIN SPORTS 3 HD 4ᴋ
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/130940
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT",▎DAZN 1 HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1461026
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT",▎DAZN 2 HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1461027
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT",▎DAZN 3 HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1461028
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT",▎DAZN 4 HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1461029
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT",▎DAZN 5 HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1461030
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT",▎CANAL+ FOOT HD 4ᴋ
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/670133
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT",▎CANAL+ SPORT HD 4ᴋ
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/130835
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT",CANAL+ 360 HD 4ᴋ
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/670136
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT",▎CANAL+ PREMIER LEAGUE HD 4ᴋ
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/346581
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT",▎EUROSPORT 1 HD 4ᴋ
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/130944
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT",▎EUROSPORT 2 HD 4ᴋ
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/130945
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT", EQUIDIA HD 4ᴋ
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/130946
-#EXTINF:-1, ▎GOLF+ HD 4ᴋ
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/130950
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT",▎GOLF CHANNEL HD 4ᴋ
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/788683
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT",▎BEIN SPORTS MAX 4 HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/131424
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT",▎BEIN SPORTS MAX 5 HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/131425
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT@FRANCE ➾  SPORT",▎BEIN SPORTS MAX 6 HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/131426
-
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",BEIN SPORT 1 
 http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/127016
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",BEIN SPORT 2 
@@ -6243,7 +6007,6 @@ http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/127031
 http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/127032
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",GOLF+
 http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/127033
-
 #EXTINF:-1 tvg-chno="300" tvg-logo="https://i.imgur.com/tM9y14c.png" tvg-country="FR" group-title="SHAREEXT@FRANCE ➾  SPORT",LE GRAND DIRECT
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 #EXTINF:-1 tvg-chno="301" tvg-logo="https://i.imgur.com/97ZUGVj.png" tvg-country="FR" group-title="SHAREEXT@FRANCE ➾  SPORT",RACING GALOP
@@ -6968,32 +6731,6 @@ http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122254
 http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122303
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BULGARIA ➾  SPORTS", MAX SPORT 1 HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/88036
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BULGARIA ➾  SPORTS", MAX SPORT 2 HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/88035
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BULGARIA ➾  SPORTS", MAX SPORT 3 HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/88034
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BULGARIA ➾  SPORTS", MAX SPORT 4 HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/126308
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BULGARIA ➾  SPORTS", DIEMA SPORT 1 HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/312439
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BULGARIA ➾  SPORTS", DIEMA SPORT 2 HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/312440
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BULGARIA ➾  SPORTS", DIEMA SPORT 3 HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/461288
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BULGARIA ➾  SPORTS", NOVA SPORT HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/27732
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BULGARIA ➾  SPORTS", EUROSPORT 1 HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/27735
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BULGARIA ➾  SPORTS", EUROSPORT 2 HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/27719
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BULGARIA ➾  SPORTS", TRACE SPORTS STARS HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/312444
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@BULGARIA ➾  SPORTS", AUTOMOTOR SPORT HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/312441
-
-
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", DEPORTV
 http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122332
@@ -7180,415 +6917,268 @@ http://xtv.ooo:8080/live/827281020/827292929/347825.ts
 
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@KURDISTAN ➾  SPORTS", ASTERA SPORT
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/89680
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@KURDISTAN ➾  SPORTS", ASTERA SPORT 2 HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1443653
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@KURDISTAN ➾  SPORTS", DASINYA SPORT HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/122248
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@KURDISTAN ➾  SPORTS", DUHOK SPORTS 
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/549136
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@KURDISTAN ➾  SPORTS", WWE HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/482091
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@KURDISTAN ➾  SPORTS", NRT SPORT HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/741921
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@KURDISTAN ➾  SPORTS", NEWLINE SPORT HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/741934
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@KURDISTAN ➾  SPORTS", LD SPORT HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/741939
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@KURDISTAN ➾  SPORTS", MMN SPORT HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1443635
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@KURDISTAN ➾  SPORTS", ARO SPORT HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1443661
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@KURDISTAN ➾  SPORTS", ASO SPORT FHD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1443647
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@KURDISTAN ➾  SPORTS", GOOL SPORTS HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1443651
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@KURDISTAN ➾  SPORTS", MTV SPORTS HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1443657
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@KURDISTAN ➾  SPORTS", AVA SPORTS HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1443662
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@KURDISTAN ➾  SPORTS", KURDISTAN SPORTS FHD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1443664
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",INDOSIAR_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg" , 12. SCTV
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" ,6. MOJI
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg",MOJI
 http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/8.jpg" tvg-id="8", 7. ANTV
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/8.jpg",ANTV
 http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=antv|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/7.jpg" ,13.TV One
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/7.jpg",TV One
 https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png" ,9. VTV
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV
 https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/3.jpg" tvg-id="3" , Live Streaming 1
-http://op-group1-swiftservesd-1.dens.tv/s/s100/live.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Live_Streaming_1|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/107.jpg" tvg-id="107" , DensPlay
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/107.jpg",DensPlay
 http://op-group1-swiftservehd-1.dens.tv/h/h246/index1.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensPlay|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/42.jpg" tvg-id="42" , DensLife and Style
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/42.jpg",DensLife and Style
 http://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensLife_n_Style|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/117.jpg" tvg-id="117" , DensFood Channel
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/117.jpg",DensFood Channel
 http://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensFood_Channel|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/102.jpg" tvg-id="102" , DensShowBiz
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/102.jpg",DensShowBiz
 http://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensShowBiz|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/1.jpg" tvg-id="1" , DensKnowledge
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/1.jpg",DensKnowledge
 http://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensKnowledge|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/75.jpg" tvg-id="75" , NaDoo Commerce
-http://op-group1-swiftservehd-1.dens.tv/h/h126/live.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NaDoo_Commerce|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/126.jpg" tvg-id="126" , NaDooKorean
-http://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NaDooKorean|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/6.jpg" tvg-id="6" , 11.Metro TV
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/6.jpg",Metro TV
 http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/7.jpg" tvg-id="7" , 15.tvOne
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/7.jpg",tvOne
 http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/14.jpg" tvg-id="14" , 10.Kompas TV
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/14.jpg",Kompas TV
 http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Kompas_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/80.jpg" tvg-id="80" , BTV
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/80.jpg",BTV
 http://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=BTV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/131.jpg" tvg-id="131" , IDTV
-http://op-group1-swiftservehd-1.dens.tv/h/h200/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=IDTV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/8.jpg" tvg-id="8" , antv
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/8.jpg",antv
 http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=antv|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/13.jpg" tvg-id="13" , 8. NET.
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/13.jpg",NET.
 http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NET.|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/22.jpg" tvg-id="22" , RTV
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/22.jpg",RTV
 http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/94.jpg" tvg-id="94" , Elshinta TV
-http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Elshinta_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/122.jpg" tvg-id="122" , Magna Channel
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/122.jpg",Magna Channel
 http://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Magna_Channel|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/118.jpg" tvg-id="118" , 14.TVRI Sport
-http://op-group1-swiftservehd-1.dens.tv/h/h238/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TVRI_Sport|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/17.jpg" tvg-id="17" , TVRI
-http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TVRI|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/112.jpg" tvg-id="112" , Jak tv
-http://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Jak_tv|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/21.jpg" tvg-id="21" , RodjaTV
-http://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RodjaTV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/23.jpg" tvg-id="23" , DAAI TV
-http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DAAI_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/38.jpg" tvg-id="38" , ANIPLUS HD
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/38.jpg",ANIPLUS HD
 http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ANIPLUS_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/96.jpg" tvg-id="96" , My Kidz HD
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/96.jpg",My Kidz HD
 http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/39.jpg" tvg-id="39" , ROCK Entertainment HD
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/39.jpg",ROCK Entertainment HD
 http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Entertainment_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/44.jpg" tvg-id="44" , ROCK Action
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/44.jpg",ROCK Action
 http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Action|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/49.jpg" tvg-id="49" , KIX HD
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/49.jpg",KIX HD
 http://op-group1-swiftservehd-1.dens.tv/h/h07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KIX_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/133.jpg" tvg-id="133" , KBS Korea (Free Trial)
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/133.jpg",KBS Korea (Free Trial)
 http://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KBS_Korea_Free_Trial-|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/134.jpg" tvg-id="134" , KBS World (Free Trial)
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/134.jpg",KBS World (Free Trial)
 http://op-group1-swiftservehd-1.dens.tv/h/h243/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KBS_World_Free_Trial-|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/100.jpg" tvg-id="100" , K-PLUS HD
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/100.jpg",K-PLUS HD
 http://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=K-PLUS_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/59.jpg" tvg-id="59" , tvN HD
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/59.jpg",tvN HD
 http://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/58.jpg" tvg-id="58" , tvN Movies HD
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/58.jpg",tvN Movies HD
 http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_Movies_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/99.jpg" tvg-id="99" , Celestial Movies HD
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/99.jpg",Celestial Movies HD
 http://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Celestial_Movies_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/110.jpg" tvg-id="110" , CCM (Celestial Classic MV)
-http://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCM_Celestial_Classic_MV-|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/109.jpg" tvg-id="109" , My Cinema Asia
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/109.jpg",My Cinema Asia
 http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/55.jpg" tvg-id="55" , Thrill
-http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Thrill|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/95.jpg" tvg-id="95" , My Cinema HD
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/95.jpg",My Cinema HD
 http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/92.jpg" tvg-id="92" , My Cinema Europe HD
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/92.jpg",My Cinema Europe HD
 http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Europe_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/114.jpg" tvg-id="114" , My Family Channel
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/114.jpg",My Family Channel
 http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Family_Channel|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/37.jpg" tvg-id="37" , TV5MONDE Style HD
-http://op-group1-swiftservehd-1.dens.tv/h/h121/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TV5MONDE_Style_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/127.jpg" tvg-id="127" , crema.tv
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/127.jpg",crema.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h202/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=crema.tv|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/128.jpg" tvg-id="128" , Stingray Classica
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/128.jpg",Stingray Classica
 http://op-group1-swiftservehd-1.dens.tv/h/h229/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Stingray_Classica|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/129.jpg" tvg-id="129" , Deluxe Lounge
-http://op-group1-swiftservehd-1.dens.tv/h/h172/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Deluxe_Lounge|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/130.jpg" tvg-id="130" , Dance TV
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/130.jpg",Dance TV
 http://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Dance_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/60.jpg" tvg-id="60" , FIGHT SPORTS HD
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/60.jpg", FIGHT SPORTS HD
 http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FIGHT_SPORTS_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/98.jpg" tvg-id="98" , Motorvision+
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/98.jpg", Motorvision+
 http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Motorvision%2B|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/120.jpg" tvg-id="120" , MotoRRacing TV
-http://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=MotoRRacing_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/121.jpg" tvg-id="121" , HorizonSports
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/121.jpg", HorizonSports
 http://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=HorizonSports|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/123.jpg" tvg-id="123" , W-Sport
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/123.jpg", W-Sport
 http://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=W-Sport|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/61.jpg" tvg-id="61" , CNA
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/61.jpg", CNA
 http://op-group1-swiftservehd-1.dens.tv/h/h29/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CNA|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/77.jpg" tvg-id="77" , NHK WORLD-JAPAN
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/77.jpg", NHK WORLD-JAPAN
 http://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NHK_WORLD-JAPAN|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/56.jpg" tvg-id="56" , Al Jazeera English
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/56.jpg", Al Jazeera English
 http://op-group1-swiftservehd-1.dens.tv/h/h143/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Al_Jazeera_English|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/41.jpg" tvg-id="41" , TRT World
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/41.jpg", TRT World
 http://op-group1-swiftservehd-1.dens.tv/h/h156/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TRT_World|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/79.jpg" tvg-id="79" , WION
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/79.jpg", WION
 http://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=WION|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/104.jpg" tvg-id="104" , FREEDOM
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/104.jpg", FREEDOM
 http://op-group1-swiftservehd-1.dens.tv/h/h101/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FREEDOM|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/27.jpg" tvg-id="27" , Al Jazeera Arabic
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/27.jpg", Al Jazeera Arabic
 http://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Al_Jazeera_Arabic|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/85.jpg" tvg-id="85" , CCTV-4
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/85.jpg", CCTV-4
 http://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCTV-4|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/69.jpg" tvg-id="69" , France 24
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/69.jpg", France 24
 http://op-group1-swiftservesd-1.dens.tv/s/s22/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=France_24|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/90.jpg" tvg-id="90" , TV5MONDE ASIE
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/90.jpg", TV5MONDE ASIE
 http://op-group1-swiftservehd-1.dens.tv/h/h312/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TV5MONDE_ASIE|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/81.jpg" tvg-id="81" , DW-TV
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/81.jpg", DW-TV
 http://op-group2-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DW-TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/132.jpg" tvg-id="132" , DIM TV
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/132.jpg", DIM TV
 http://op-group1-swiftservehd-1.dens.tv/h/h232/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DIM_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/78.jpg" tvg-id="78" , TBN
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/78.jpg", TBN
 http://op-group1-swiftservehd-1.dens.tv/s/s39/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TBN|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/16.jpg" tvg-id="16" , CGTN Documentary
-http://op-group1-swiftservesd-1.dens.tv/s/s20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CGTN_Documentary|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/82.jpg" tvg-id="82" , Quran TV
-http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Quran_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/88.jpg" tvg-id="88" , Sunna TV
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/88.jpg", Sunna TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Sunna_TV
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@DENS_TV",CCTV-4 Asia
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",CCTV-4 Asia(rr)
 http://rr3.dens.tv/s/s19/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@DENS_TV",CelestialClassicMovies
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",CelestialClassicMovies(rr)
 http://rr3.dens.tv/s/s31/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@DENS_TV",DAAI TV
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",DAAI TV(rr)
 http://rr3.dens.tv/s/s182/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@DENS_TV",My Cinema Asia
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",My Cinema Asia(rr)
 http://rr3.dens.tv/h/h193/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@DENS_TV",My Family Channel
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",My Family Channel(rr)
 http://rr3.dens.tv/h/h194/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@DENS_TV",My Kidz
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",My Kidz(rr)
 http://rr3.dens.tv/h/h191/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@DENS_TV",NET
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",NET(rr)
 http://rr3.dens.tv/h/h06/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@DENS_TV",Rodja TV
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",Rodja TV(rr)
 http://rr3.dens.tv/s/s14/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@DENS_TV",Shanghai Dragon
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",Shanghai Dragon(rr)
 http://rr3.dens.tv/s/s29/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@DENS_TV",Thrill
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",Thrill(rr)
 http://rr3.dens.tv/s/s34/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@DENS_TV",TVRI Nasional
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",TVRI Nasional(rr)
 http://rr3.dens.tv/s/s11/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@DENS_TV",TVRI Sport
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",TVRI Sport(rr)
 http://rr3.dens.tv/s/s107/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",INDOSIAR_swift
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",INDOSIAR_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",SCTV_swift
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",SCTV_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",ANTV_swift
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",ANTV_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=antv|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",RTV_swift
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",RTV_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",RTV_sessi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://210.210.155.37/session/01ec4c78-827b-11ee-93b3-aa38b7050ceb/uq2663/h/h10/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",NET_swift
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",NET_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",TRANSTV_detik
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",TRANSTV_detik
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",TRANS7_detik
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",TRANS7_detik
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="SHAREEXT@DENS_TV" tvg-logo="https://www.dens.tv/images/channel-logo/118.jpg", .TVRI Sport
-http://op-group1-swiftservehd-1.dens.tv/h/h238/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TVRI_Sport|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@DENS_TV" tvg-logo="https://www.dens.tv/images/channel-logo/133.jpg", .KBS Korea (Free Trial)
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/133.jpg", .KBS Korea (Free Trial)
 http://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KBS_Korea_Free_Trial-|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@DENS_TV" tvg-logo="https://www.dens.tv/images/channel-logo/134.jpg", .KBS World (Free Trial)
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/134.jpg", .KBS World (Free Trial)
 http://op-group1-swiftservehd-1.dens.tv/h/h243/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KBS_World_Free_Trial-|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@DENS_TV" tvg-logo="https://www.dens.tv/images/channel-logo/130.jpg", .Dance TV
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/130.jpg", .Dance TV
 http://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Dance_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@DENS_TV" tvg-logo="https://www.dens.tv/images/channel-logo/98.jpg", .Motorvision+
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/98.jpg", .Motorvision+
 http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Motorvision%2B|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@DENS_TV" tvg-logo="https://www.dens.tv/images/channel-logo/120.jpg", .MotoRRacing TV
-http://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=MotoRRacing_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="SHAREEXT@DENS_TV" tvg-logo="https://www.dens.tv/images/channel-logo/104.jpg", .FREEDOM
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/104.jpg", .FREEDOM
 http://op-group1-swiftservehd-1.dens.tv/h/h101/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FREEDOM|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",JAKTV_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h200/S4/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",MAGNA CHANEL_swift
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",MAGNA CHANEL_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",ELSHINTA_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",NUSANTARA_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",Mekkah Tv_swift
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",Mekkah Tv_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",Madinah Tv_swift
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",Madinah Tv_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",Rodja Tv_swift
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",Rodja Tv_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",TV9 NUSANTARA 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",TV9 NUSANTARA 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",MADU TV NUSANTARA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",MADU TV NUSANTARA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://v6.siar.us:443/madutv/hd720/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",JAWA POS TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",JAWA POS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",SURABAYA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",SURABAYA TV
 https://e.siar.us/live/surabayatv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",LINGKARTV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",LINGKARTV 
 https://lingkartv.my.id/hls/lingkartv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",INSPIRA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",INSPIRA TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",TVKU
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",TVKU
 http://103.30.1.14:8080/hls/live.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",JITV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",JITV HD
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",UGTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",SANGAJI TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",SANGAJI TV
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",TV One_swift
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",TV One_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",Kompas Tv_swift
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",Kompas Tv_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",BTV_swift
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",BTV_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",IDTV_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservehd-1.dens.tv/h/h200/S4/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",TVRI_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",TVRI Sport_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h238/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",METRO TV_swift
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",METRO TV_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",Nadoo commerse_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservehd-1.dens.tv/h/h126/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",Nadoo Korean_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",DENS Life & Style_swift
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",DENS Life & Style_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",DENS Knowledge_swift
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",DENS Knowledge_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",DENS Showbiz_swift
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",DENS Showbiz_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",DENS Food Chanel_swift
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",DENS Food Chanel_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",Celestial Movies_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",CCM_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",Rock Entertainment_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",Rock Action_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",TVN Movies_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",TVN_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",K+_swift
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",K+_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",KIX_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h220/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",Kartoon SIS_swift
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",Kartoon SIS_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h227/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",Thrill_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",M+_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h242/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",My Cinema_swift
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",My Cinema_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",My Kidz_swift
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",My Kidz_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",My Cinema Asia_swift
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",My Cinema Asia_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",My Family Cinema_swift
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",My Family Cinema_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",HITS_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservehd-1.dens.tv/h/h205/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",HITS Movies_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",FIGHT_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h204/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",MCE_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",Cinema World_swift
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",Cinema World_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",CREMA TV_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservehd-1.dens.tv/h/h228/S4/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",TV5 Monde Style_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",Deluxe Lounge_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservehd-1.dens.tv/h/h172/S4/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",Stingray Classica_swift
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",Stingray Classica_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h229/S4/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",Horizon Sport_swift
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",Horizon Sport_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",Wsport_swift
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",Wsport_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",WION_swift
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",WION_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
 
@@ -7643,77 +7233,6 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/1560
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/thrill.png" group-title="Shareext@MOVIES", Thrill(pft)televizo
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1587
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", ID ▎HBO
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505836
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", ID ▎HBO FAMILY
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505837
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", ID ▎HBO HITS
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505838
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", ID ▎HBO SIGNATURE
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505839
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", ID ▎CINEMAX
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505822
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", ID ▎BIOSKOP INDONESIA
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505817
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", ID ▎CELESTIAL MOVIES
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505819
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", ID ▎CINEMAWORLD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505821
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", ID ▎FLIK
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505833
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", ID ▎GALAXY PREMIUM
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505834
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", ID ▎ROCK ENTERTAIMENT
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505868
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", ID ▎THRILL
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505873
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", ID ▎TVN MOVIES
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505881
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", ID ▎ZEE BIOSKOP
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505884
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", MY ▎HBO
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656836
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", MY ▎HBO SIGNATURE
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656865
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", MY ▎HBO FAMILY
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656900
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", MY ▎HBO HITS
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656901
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", MY ▎CINEMAX
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656879
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", MY ▎BOO
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656871
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", MY ▎CCM
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656874
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", MY ▎CELESTIAL MOVIES
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656876
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", MY ▎HITS MOVIES
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656905
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", MY ▎HITS
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656866
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", MY ▎HITS NOW HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656888
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", MY ▎CELESTIAL CLASSIC MOVIES
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656862
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", MY ▎AXN
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656863
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", MY ▎ASTRO RANIA
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656956
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", MY ▎ASTRO OASIS
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656849
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", MY ▎ASTRO CERIA 
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656953
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", MY ▎SHOWCASE MOVIES
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656923
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", MY ▎ASTRO PREMIER 1
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656850
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", MY ▎K+
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656965
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", MY ▎ONE
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656918
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Shareext@MOVIES", MY ▎STAR VIJAY
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656928
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES",Movies TV ENGLISH
 https://linear-797.frequency.stream/mt/studio/797/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES",Movies channel English
@@ -7723,10 +7242,6 @@ https://linear-798.frequency.stream/mt/studio/798/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="Shareext@MOVIES",Movies 1080p English
 https://linear-795.frequency.stream/mt/studio/795/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Rock Entertainment" tvg-logo="http://kingtv.dynu.com/tvlogo/RockEntertainment.png" group-title="Shareext@MOVIES",Rock Entertainment_
-http://31.42.187.37:25461/watchpad13158/1234/335
-#EXTINF:-1 tvg-id="" tvg-name="Rock Actions" tvg-logo="http://kingtv.dynu.com/tvlogo/RockActions.png" group-title="Shareext@MOVIES",Rock Actions_
-http://31.42.187.37:25461/watchpad13158/1234/27
 #EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/HBO.png" group-title="Shareext@MOVIES",MY: HBO HD_
 http://31.42.187.37:25461/watchpad13158/1234/47
 #EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/HBO_Family.png" group-title="Shareext@MOVIES",HBO Family_
@@ -7748,34 +7263,24 @@ http://31.42.187.37:25461/watchpad13158/1234/106
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="Shareext@MOVIES",🇲🇾: PREMIER 1
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/605257
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/605257.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="Shareext@MOVIES",🇲🇾: PREMIER 2
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/605325
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/605325.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="Shareext@MOVIES",🇲🇾: BOO
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/605290
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/605290.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="Shareext@MOVIES",🇲🇾: CCTV4
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/605292
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/605292.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="Shareext@MOVIES",🇲🇾: Celestial
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/605293
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/605293.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="Shareext@MOVIES",🇲🇾: Celestial Classic Movies
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/605291
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/605291.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="Shareext@MOVIES",🇲🇾: HBO Family
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/605314
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/605314.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="Shareext@MOVIES",🇲🇾: HBO Hits
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/605315
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/605315.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="Shareext@MOVIES",🇲🇾: HBO Signature
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/605298
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/605298.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="Shareext@MOVIES",🇲🇾: Showcase Movies
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/605340
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/605340.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="Shareext@MOVIES",🇮🇳 STAR GOLD HD
 http://tv.cloudcdn.me/live.ts?channelId=196&uid=13433&deviceMac=00:1A:79:A8:9C:32
@@ -7784,21 +7289,8 @@ http://tv.cloudcdn.me/live.ts?channelId=185&uid=2496&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="Shareext@MOVIES",🇮🇳 THE MOVIE CLUB
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇲🇨Celestial Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇮🇩CelestialClassicMovies
 http://rr3.dens.tv/s/s31/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇮🇩Cinema Europe
-http://rr.dens.tv/h/h18/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2qKwCDP/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",🇮🇩Kplus
-http://rr.dens.tv/h/h08/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇲🇨Rock Entertainment
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇲🇨Rock Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇲🇨My Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
@@ -7867,115 +7359,78 @@ http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 http://ky-iptv.com:80/HSrkzmekGs/NECJHrN6ZK/1356032.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay Premiere ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567142
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567142
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay Extra ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567143
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567143
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay BestOff ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567144
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567144
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay Action ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567145
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567145
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay Action+1 ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567146
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567146
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay Comedy ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567147
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567147
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay Thriller ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567148
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567148
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay Horror ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567149
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567149
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay Warzone ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567150
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567150
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay Family ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567151
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567151
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay Romance ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567152
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567152
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay Fantasy ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567153
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567153
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay Western ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567154
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567154
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay 90s ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567155
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567155
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay Classics ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567156
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567156
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay Disney+ ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567157
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567157
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay Marvel 1 ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567158
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567158
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay Marvel 2 ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567159
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567159
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay - 007 ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567160
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567160
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay - 007classic ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567161
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567161
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay - Avengers ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567162
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567162
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay - Fast&Furious ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567163
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567163
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay - FinalDestination ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567164
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567164
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay - HarryPotter ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567165
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567165
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay - MissionImpossible ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567166
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567166
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay - PiratesCaribbean ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567167
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567167
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay - Saw ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567168
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567168
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay - Transformers ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567169
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567169
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay - Planet of Apes ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567170
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567170
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay - Scream ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567171
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567171
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay - Star Wars ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567172
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567172
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay - The Twilight ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567173
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567173
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay - Ocean's ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567174
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567174
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay - The Expendables ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567175
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567175
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay - SpiderMan ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567176
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567176
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay - Rambo ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567177
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567177
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/2qKwCDP/Superhero-DC-shareext.jpg" group-title="SHAREEXT@OnePlay~24/7 MOVIES",OnePlay - The Dark Knight ᴴᴰ
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/567178
-#http://jmrk.xyz:8880/acastillo304@gmail.com/zHsdw46ZEN/567178
 
 
 
@@ -8649,52 +8104,34 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 
 
-
-
-
-
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@SINGSPORE_Brunei_Station",beINSPORTS (D)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/517924
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/517924.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@SINGSPORE_Brunei_Station",beINSPORTS 2 (D)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/517925
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/517925.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@SINGSPORE_Brunei_Station",beINSports 3 (D)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/517923
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/517923.ts
 #EXTINF:-1  group-title="SHAREEXT@SINGSPORE_Brunei_Station" tvg-logo="https://i.ibb.co.com/pj0SBWf/m5.png",Channel 5 (D)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/518039
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/518039.ts
 #EXTINF:-1  group-title="SHAREEXT@SINGSPORE_Brunei_Station" tvg-logo="https://i.ibb.co.com/VQ1vCzC/m8.png",Channel 8 (D)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/518038
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/518038.ts
 #EXTINF:-1  group-title="SHAREEXT@SINGSPORE_Brunei_Station"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/MU_2023.svg/revision/latest/scale-to-width-down/250?cb=20230207235427",Channel U (D)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/518037
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/518037.ts
 #EXTINF:-1  group-title="SHAREEXT@SINGSPORE_Brunei_Station" tvg-logo="https://i.ibb.co.com/RCS6JWF/cna.png",CNA (D)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/518034
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/518034.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@SINGSPORE_Brunei_Station",Hub VVDrama (D)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/517975
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/517975.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@SINGSPORE_Brunei_Station",KBS World (D)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/517974
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/517974.ts
 #EXTINF:-1  group-title="SHAREEXT@SINGSPORE_Brunei_Station" tvg-logo="https://i.ibb.co.com/dbRJFB3/mlive1.png",Live 1 (D)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/518033
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/518033.ts
 #EXTINF:-1  group-title="SHAREEXT@SINGSPORE_Brunei_Station" tvg-logo="https://i.ibb.co.com/9GmV2fF/mlive2.png",Live 2 (D)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/518032
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/518032.ts
 #EXTINF:-1  group-title="SHAREEXT@SINGSPORE_Brunei_Station" tvg-logo="https://i.ibb.co.com/58c6bft/mliveplus1.png",Live+ (D)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/518030
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/518030.ts
 #EXTINF:-1  group-title="SHAREEXT@SINGSPORE_Brunei_Station" tvg-logo="https://i.ibb.co.com/KLfmfq7/msuria.png",Suria (D)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/518036
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/518036.ts
 #EXTINF:-1  group-title="SHAREEXT@SINGSPORE_Brunei_Station" tvg-logo="https://i.ibb.co.com/YR4kxxX/mvasantham.png",Vasantham (D)
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/518035
-#http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/518035.ts
 
 #EXTINF:-1  group-title="SHAREEXT@SINGSPORE_Brunei_Station" tvg-logo="https://i.ibb.co.com/RCS6JWF/cna.png",CNA.mpd(ott nav)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
