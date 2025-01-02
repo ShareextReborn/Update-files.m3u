@@ -182,6 +182,8 @@ http://shareext@15.235.181.35/live.ts?channelId=129279&uid=14505&deviceMac=00:1A
 http://tv.cloudcdn.me/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(opx)
 http://opplex.tv:8080/live/starmpk/mpk1234/350972.ts
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(cyou)
+http://opplextv.cyou:8080/live/258036/258036/350972.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(VIP)
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD__(xtv_1)
@@ -5699,51 +5701,52 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/19442
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/19441
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S LaLiga FHD
-http://supersonictv.live:8080/686554/799757/86861
+http://supersonictv.live:8080/820196/979455/86861
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S PSL FHD
-http://supersonictv.live:8080/686554/799757/86862
+http://supersonictv.live:8080/820196/979455/86862
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Premier League FHD
-http://supersonictv.live:8080/686554/799757/86863
+http://supersonictv.live:8080/820196/979455/86863
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Grandstand FHD
-http://supersonictv.live:8080/686554/799757/86864
+http://supersonictv.live:8080/820196/979455/86864
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Variety 1 FHD
-http://supersonictv.live:8080/686554/799757/86865
+http://supersonictv.live:8080/820196/979455/86865
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Variety 2 FHD
-http://supersonictv.live:8080/686554/799757/86866
+http://supersonictv.live:8080/820196/979455/86866
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Variety 3 FHD
-http://supersonictv.live:8080/686554/799757/86867
+http://supersonictv.live:8080/820196/979455/86867
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Variety 4 FHD
-http://supersonictv.live:8080/686554/799757/86868
+http://supersonictv.live:8080/820196/979455/86868
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Football FHD
-http://supersonictv.live:8080/686554/799757/86869
+http://supersonictv.live:8080/820196/979455/86869
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Action FHD
-http://supersonictv.live:8080/686554/799757/86870
+http://supersonictv.live:8080/820196/979455/86870
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Rugby FHD
-http://supersonictv.live:8080/686554/799757/86871
+http://supersonictv.live:8080/820196/979455/86871
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Cricket FHD
-http://supersonictv.live:8080/686554/799757/86872
+http://supersonictv.live:8080/820196/979455/86872
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Blitz FHD
-http://supersonictv.live:8080/686554/799757/86873
+http://supersonictv.live:8080/820196/979455/86873
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Máximo 1 FHD
-http://supersonictv.live:8080/686554/799757/86874
+http://supersonictv.live:8080/820196/979455/86874
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Golf FHD
-http://supersonictv.live:8080/686554/799757/86875
+http://supersonictv.live:8080/820196/979455/86875
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Tennis FHD
-http://supersonictv.live:8080/686554/799757/86876
+http://supersonictv.live:8080/820196/979455/86876
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Play FHD
-http://supersonictv.live:8080/686554/799757/86877
+http://supersonictv.live:8080/820196/979455/86877
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S WWE FHD
-http://supersonictv.live:8080/686554/799757/86878
+http://supersonictv.live:8080/820196/979455/86878
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Motorsport
-http://supersonictv.live:8080/686554/799757/86879
+http://supersonictv.live:8080/820196/979455/86879
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Premier League backup
-http://supersonictv.live:8080/686554/799757/86880
+http://supersonictv.live:8080/820196/979455/86880
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Premier League backup 02
-http://supersonictv.live:8080/686554/799757/86881
+http://supersonictv.live:8080/820196/979455/86881
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Premier League backup 03
-http://supersonictv.live:8080/686554/799757/86882
+http://supersonictv.live:8080/820196/979455/86882
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL",[AF] S Premier League backup 04
-http://supersonictv.live:8080/686554/799757/86883
+http://supersonictv.live:8080/820196/979455/86883
+
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@SUPERSPORTS || CHANNEL", MY| ASTRO SUPERSPORT 1 HD 
 http://extraott.com:80/live/3969424152/3723991250/153953.m3u8 
@@ -8049,41 +8052,41 @@ http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/96347
 
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv1-高码
-http://146.103.53.116:8080/hls/gf/cctv1/live.m3u8?token=
+
 #EXTINF:-1 tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv2-高码
-http://146.103.53.116:8080/hls/gf/cctv2/live.m3u8?token=
+
 #EXTINF:-1 tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv3-高码
-http://146.103.53.116:8080/hls/gf/cctv3/live.m3u8?token=
+
 #EXTINF:-1 tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv4-高码
-http://146.103.53.116:8080/hls/gf/cctv4/live.m3u8?token=
+
 #EXTINF:-1 tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv5-高码
-http://146.103.53.116:8080/hls/gf/cctv5/live.m3u8?token=
+
 #EXTINF:-1 tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv5p-高码
-http://146.103.53.116:8080/hls/gf/cctv5plus/live.m3u8?token=
+
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV-6
-http://146.103.53.116:8080/hls/gf/cctv6/live.m3u8?token=
+
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv7-高码
-http://146.103.53.116:8080/hls/gf/cctv7/live.m3u8?token=
+
 #EXTINF:-1 tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv8-高码
-http://146.103.53.116:8080/hls/gf/cctv8/live.m3u8?token=
+
 #EXTINF:-1 tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv9-高码
-http://146.103.53.116:8080/hls/gf/cctv9/live.m3u8?token=
+
 #EXTINF:-1 tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv10-高码
-http://146.103.53.116:8080/hls/gf/cctv10/live.m3u8?token=
+
 #EXTINF:-1 tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv11-高码
-http://146.103.53.116:8080/hls/gf/cctv11/live.m3u8?token=
+
 #EXTINF:-1 tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv12-高码
-http://146.103.53.116:8080/hls/gf/cctv12/live.m3u8?token=
+
 #EXTINF:-1 tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv13-高码
-http://146.103.53.116:8080/hls/gf/cctv13/live.m3u8?token=
+
 #EXTINF:-1 tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv14-高码
-http://146.103.53.116:8080/hls/gf/cctv14/live.m3u8?token=
+
 #EXTINF:-1 tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv15-高码
-http://146.103.53.116:8080/hls/gf/cctv15/live.m3u8?token=
+
 #EXTINF:-1 tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv16-高码
-http://146.103.53.116:8080/hls/gf/cctv16/live.m3u8?token=
+
 #EXTINF:-1 tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv17-高码
-http://146.103.53.116:8080/hls/gf/cctv17/live.m3u8?token=
+
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="SHAREEXT@CHINA_STATION/央视频道",浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
@@ -8101,6 +8104,20 @@ https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="SHAREEXT@CHINA_STATION/央视频道",浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CGTN英语
+https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CGTN记录
+https://0472.org/hls/cgtnd.m3u8
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CGTN俄语
+https://0472.org/hls/cgtne.m3u8
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CGTN法语
+https://0472.org/hls/cgtnf.m3u8
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CGTN西语
+https://0472.org/hls/cgtnx.m3u8
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CGTN阿语
+https://0472.org/hls/cgtna.m3u8
+
 
 
 
